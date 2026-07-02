@@ -1,8 +1,14 @@
 import type { Metadata } from 'next'
-import { PageStub } from '@/components/layout/page-stub'
+import { ServicePage } from '@/components/services/service-page'
+import { servicesBySlug } from '@/lib/content/it/services'
 
-export const metadata: Metadata = { title: 'VoIP & Fonia' }
+const content = servicesBySlug['voip']
+
+export const metadata: Metadata = {
+  title: content.seo.title,
+  description: content.seo.description,
+}
 
 export default function Page() {
-  return <PageStub eyebrow="Servizi" title="VoIP & Fonia" />
+  return <ServicePage content={content} />
 }
