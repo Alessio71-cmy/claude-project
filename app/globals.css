@@ -580,3 +580,9 @@ html.lenis body {
 .lenis.lenis-smooth iframe {
   pointer-events: none;
 }
+
+/* Deroga per gli iframe interattivi (es. Calendly) */
+.lenis.lenis-smooth iframe.iframe-interactive,
+iframe.iframe-interactive {
+  pointer-events: auto;
+}

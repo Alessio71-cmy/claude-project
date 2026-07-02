@@ -15,7 +15,7 @@ export const site = {
   legalName: 'KonnectAlps S.R.L.',
   linkedin: 'https://linkedin.com/company/konnectalps',
   customerArea: 'https://ispbilling.it/customer-area/NDE2NzEwMQ==/login',
-  calendlyUrl: 'https://calendly.com/konnectalps',
+  calendlyUrl: 'https://calendly.com/ezio-innocenti-konnectalps/30min',
 } as const
 
 /** Mapping colore → servizio (sezione 2.2 del brief, fisso). */
