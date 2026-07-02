@@ -13,7 +13,7 @@ export function Stats() {
       <RevealGroup className="mt-14 grid grid-cols-2 gap-x-6 gap-y-12 xl:grid-cols-4">
         {stats.boxes.map((box) => (
           <RevealItem key={box.label}>
-            <p className="text-stat-display text-primary">
+            <p className="text-stat-display" style={{ color: 'var(--stat-color)' }}>
               <AnimatedCounter value={box.value} />
               {box.suffix && <span className="text-[0.45em] font-medium">{box.suffix}</span>}
             </p>

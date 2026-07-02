@@ -8,11 +8,39 @@ import type { ServiceKey } from '@/lib/site'
 export const hero = {
   eyebrow: 'Telecomunicazioni in Trentino-Alto Adige',
   // Headline forte in Clash Display; il posizionamento emerge, non si dichiara.
-  title: ['La rete che fa correre', 'il tuo business.'],
+  title: 'La rete che fa correre il tuo business.',
   subtitle:
     'Infrastrutture digitali su misura per aziende e pubbliche amministrazioni: connettività, fonia, IoT e reti progettate sul territorio, con standard da grande operatore.',
   primaryCta: { label: 'Richiedi una consulenza', href: '/contatti' },
   secondaryCta: { label: 'Esplora i servizi', href: '/servizi' },
+  /** Colonna destra: card chiara con badge live e mini-CTA (layout ashen). */
+  card: {
+    badge: 'Rete monitorata 24/7',
+    title: 'La soluzione giusta in trenta minuti',
+    text: 'Prenota una call con un tecnico — non un commerciale. Analizziamo la tua esigenza e usciamo dalla chiamata con una proposta concreta.',
+    cta: { label: 'Prenota una call', href: '/contatti#calendly' },
+  },
+}
+
+export const partners = {
+  label: 'Tecnologie e partner che fanno la differenza',
+  items: [
+    { name: 'Cambium Networks', logo: '/partners/cambium-networks.png' },
+    { name: 'Eolo', logo: '/partners/eolo.png' },
+    { name: 'Fastweb', logo: '/partners/fastweb.png' },
+    { name: 'Fiber Telecom', logo: '/partners/fiber-telecom.png' },
+    { name: 'FiberCop', logo: '/partners/fibercop.png' },
+    { name: 'Fiber Connect', logo: '/partners/fiber-connect.png' },
+    { name: 'GL.iNet', logo: '/partners/gl-inet.png' },
+    { name: 'Infranet', logo: '/partners/infranet.png' },
+    { name: 'MikroTik', logo: '/partners/mikrotik.png' },
+    { name: 'Nextmedia', logo: '/partners/nextmedia.png' },
+    { name: 'Open Fiber', logo: '/partners/open-fiber.png' },
+    { name: 'Opnet', logo: '/partners/opnet.png' },
+    { name: 'Proxima Cloud', logo: '/partners/proxima-cloud.png' },
+    { name: 'Sicetelecom', logo: '/partners/sicetelecom.png' },
+    { name: 'Teltonika', logo: '/partners/teltonika.png' },
+  ],
 }
 
 export const services = {

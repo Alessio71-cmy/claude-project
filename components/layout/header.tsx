@@ -22,15 +22,29 @@ export function Header() {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null)
   const [mobileOpen, setMobileOpen] = useState(false)
   const [mobileSection, setMobileSection] = useState<string | null>(null)
+  const [scrollTheme, setScrollTheme] = useState<'dark' | 'light'>('dark')
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  const lightTheme = pathname?.startsWith('/cyberalps')
+  // Tema chiaro: per rotta (CyberAlps) o quando lo sfondo vira al chiaro
+  // durante lo scroll (data-scroll-theme impostato da ScrollThemeZone).
+  const lightTheme = pathname?.startsWith('/cyberalps') || scrollTheme === 'light'
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 24)
     onScroll()
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  // Osserva data-scroll-theme su <html> (transizione di tema allo scroll)
+  useEffect(() => {
+    const html = document.documentElement
+    const update = () =>
+      setScrollTheme(html.getAttribute('data-scroll-theme') === 'light' ? 'light' : 'dark')
+    update()
+    const observer = new MutationObserver(update)
+    observer.observe(html, { attributes: true, attributeFilter: ['data-scroll-theme'] })
+    return () => observer.disconnect()
   }, [])
 
   // Chiudi menu a ogni navigazione
@@ -67,7 +81,10 @@ export function Header() {
             : 'bg-bg-dark/85 backdrop-blur-md'
           : 'bg-transparent'
       )}
-      style={{ color: lightTheme ? 'var(--bg-dark)' : 'var(--bg-light)' }}
+      style={{
+        color: lightTheme ? 'var(--bg-dark)' : 'var(--bg-light)',
+        transition: 'color 0.6s ease, background-color 0.5s ease',
+      }}
     >
       {/* Skip link */}
       <a
@@ -79,13 +96,24 @@ export function Header() {
 
       <div className="mx-auto flex h-20 w-full max-w-screen-2xl items-center justify-between gap-6 px-5 md:px-10">
         <Link href="/" aria-label="KonnectAlps — Home" className="relative block h-9 w-40 shrink-0">
+          {/* Doppio logo in crossfade: segue la transizione di tema */}
           <Image
-            src={lightTheme ? '/brand/logo-on-light.png' : '/brand/logo-on-dark.png'}
+            src="/brand/logo-on-dark.png"
             alt="KonnectAlps"
             fill
             sizes="160px"
             priority
-            className="object-contain object-left"
+            className="object-contain object-left transition-opacity duration-500"
+            style={{ opacity: lightTheme ? 0 : 1 }}
+          />
+          <Image
+            src="/brand/logo-on-light.png"
+            alt=""
+            aria-hidden="true"
+            fill
+            sizes="160px"
+            className="object-contain object-left transition-opacity duration-500"
+            style={{ opacity: lightTheme ? 1 : 0 }}
           />
         </Link>
 

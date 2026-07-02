@@ -126,6 +126,48 @@
   opacity: 0.9;
 }
 
+/* =====================================================
+   SCROLL THEME — DARK ↔ LIGHT (firma visiva ashen)
+   Il gestore di zona imposta data-scroll-theme="light" su <html>
+   quando lo scroll entra nella zona servizi della home; sfondo di
+   body/zona e colori del testo transiscono in ~1s.
+   ===================================================== */
+body {
+  transition: background-color 1s ease;
+}
+
+/* Elementi testuali dentro la zona tematizzabile: colore fluido */
+[data-themable] :is(h1, h2, h3, h4, p, span, li, a, legend, dt, dd) {
+  transition: color 0.8s ease;
+}
+
+/* Quando la zona è chiara, i token flippano e tutto il testo segue */
+html[data-scroll-theme='light'] [data-themable] {
+  --heading-color: var(--bg-dark);
+  --body-color: var(--text-dark);
+  --stat-color: var(--bg-dark);
+  color: var(--text-dark);
+}
+
+/* Numeri in evidenza: verdi sul tema scuro, scuri sul chiaro */
+:root {
+  --stat-color: var(--primary);
+}
+
+/* Come su tema chiaro statico: opacità testuali alzate per il contrasto */
+html[data-scroll-theme='light'] [data-themable] .opacity-65 {
+  opacity: 0.85;
+}
+
+html[data-scroll-theme='light'] [data-themable] :is(.opacity-70, .opacity-75) {
+  opacity: 0.9;
+}
+
+/* Il verde brand non regge su fondo chiaro: shade scura equivalente */
+html[data-scroll-theme='light'] [data-themable] .text-primary {
+  color: #2e7d3a;
+}
+
 /* Tinte per pagina/sezione servizio */
 [data-service='connettivita'] {
   --service-color: var(--support-yellow);
@@ -506,6 +548,83 @@
   article:hover .service-card-arrow {
     transform: rotate(12deg);
   }
+}
+
+/* Cerchi animati nella card hero (da ashen): convergono al centro e tornano */
+@keyframes hero-circle-1 {
+  0%,
+  15%,
+  85%,
+  100% {
+    cx: 61;
+  }
+  50% {
+    cx: 170;
+  }
+}
+@keyframes hero-circle-2 {
+  0%,
+  15%,
+  85%,
+  100% {
+    cx: 130;
+  }
+  50% {
+    cx: 170;
+  }
+}
+@keyframes hero-circle-3 {
+  0%,
+  15%,
+  85%,
+  100% {
+    cx: 210;
+  }
+  50% {
+    cx: 170;
+  }
+}
+@keyframes hero-circle-4 {
+  0%,
+  15%,
+  85%,
+  100% {
+    cx: 279;
+  }
+  50% {
+    cx: 170;
+  }
+}
+
+.animate-hero-circle-1 {
+  animation: hero-circle-1 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
+}
+.animate-hero-circle-2 {
+  animation: hero-circle-2 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
+}
+.animate-hero-circle-3 {
+  animation: hero-circle-3 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
+}
+.animate-hero-circle-4 {
+  animation: hero-circle-4 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
+}
+
+/* Slider partner: scorrimento infinito fluido (da ashen) */
+@keyframes partners-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-partners-scroll {
+  animation: partners-scroll 60s linear infinite;
+}
+
+.animate-partners-scroll:hover {
+  animation-play-state: paused;
 }
 
 /* Waveform demo Agent AI: le barre "respirano" durante la riproduzione */
