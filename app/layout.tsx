@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import { Roboto } from 'next/font/google'
 import { site } from '@/lib/site'
 import { SmoothScrollProvider } from '@/components/motion/smooth-scroll'
+import { Header } from '@/components/layout/header'
+import { Footer } from '@/components/layout/footer'
 import './globals.css'
 
 const roboto = Roboto({
@@ -30,7 +32,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="it" className={roboto.variable}>
       <body>
-        <SmoothScrollProvider>{children}</SmoothScrollProvider>
+        <SmoothScrollProvider>
+          <Header />
+          <main id="contenuto">{children}</main>
+          <Footer />
+        </SmoothScrollProvider>
       </body>
     </html>
   )

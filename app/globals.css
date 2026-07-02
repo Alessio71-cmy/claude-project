@@ -100,6 +100,19 @@
   /* Colore corrente del servizio (ridefinito per pagina via data-service) */
   --service-color: var(--primary);
   --service-color-soft: var(--menu-accent);
+
+  /* Colori tema (ridefiniti nei contesti chiari, es. CyberAlps) */
+  --heading-color: var(--bg-light);
+  --body-color: var(--text-light);
+}
+
+/* Contesto a tema chiaro (sezione 2.2: CyberAlps “clean/lab”) */
+[data-theme='light'] {
+  color-scheme: light;
+  --heading-color: var(--bg-dark);
+  --body-color: var(--text-dark);
+  background-color: var(--bg-light);
+  color: var(--body-color);
 }
 
 /* Tinte per pagina/sezione servizio */
@@ -219,7 +232,7 @@
     font-family: var(--font-display);
     font-weight: 600;
     line-height: 1.1;
-    color: var(--bg-light);
+    color: var(--heading-color);
   }
 
   ::selection {
