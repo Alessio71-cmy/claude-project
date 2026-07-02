@@ -1,7 +1,7 @@
 'use client'
 
 import { useRef, useState, useEffect } from 'react'
-import { AnimatePresence, motion, useReducedMotion, useScroll, useMotionValueEvent } from 'framer-motion'
+import { AnimatePresence, motion, useReducedMotion } from 'framer-motion'
 import { cn } from '@/lib/utils'
 
 export interface PinnedStep {
@@ -40,15 +40,34 @@ export function PinnedSteps({ steps, className, perStepVh = 0.9 }: PinnedStepsPr
     return () => mq.removeEventListener('change', update)
   }, [])
 
-  const { scrollYProgress } = useScroll({
-    target: containerRef,
-    offset: ['start start', 'end end'],
-  })
-
-  useMotionValueEvent(scrollYProgress, 'change', (v) => {
-    const idx = Math.min(steps.length - 1, Math.floor(v * steps.length))
-    setActive(idx)
-  })
+  // Tracking manuale con getBoundingClientRect: sempre accurato anche con
+  // smooth scroll (Lenis) e sezioni con content-visibility che spostano gli offset.
+  useEffect(() => {
+    // Nota: il ref si attacca solo nel layout desktop, quindi l'effect deve
+    // ri-eseguirsi quando isDesktop cambia dopo il primo render.
+    const el = containerRef.current
+    if (!el) return
+    let raf = 0
+    const update = () => {
+      raf = 0
+      const rect = el.getBoundingClientRect()
+      const total = rect.height - window.innerHeight
+      if (total <= 0) return
+      const progress = Math.min(Math.max(-rect.top / total, 0), 0.999)
+      setActive(Math.min(steps.length - 1, Math.floor(progress * steps.length)))
+    }
+    const onScroll = () => {
+      if (!raf) raf = requestAnimationFrame(update)
+    }
+    update()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    window.addEventListener('resize', onScroll)
+    return () => {
+      window.removeEventListener('scroll', onScroll)
+      window.removeEventListener('resize', onScroll)
+      if (raf) cancelAnimationFrame(raf)
+    }
+  }, [steps.length, isDesktop, reduce])
 
   // Fallback semplice: mobile e reduced motion
   if (!isDesktop || reduce) {
