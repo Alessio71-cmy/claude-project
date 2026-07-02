@@ -50,6 +50,8 @@ export function AudioPlayer({ src, label, sublabel, className, onPlay }: AudioPl
     audio.addEventListener('timeupdate', onTime)
     audio.addEventListener('loadedmetadata', onMeta)
     audio.addEventListener('ended', onEnd)
+    // i metadata possono essere già disponibili prima dell'attach dei listener
+    if (audio.readyState >= 1) onMeta()
     return () => {
       audio.removeEventListener('timeupdate', onTime)
       audio.removeEventListener('loadedmetadata', onMeta)

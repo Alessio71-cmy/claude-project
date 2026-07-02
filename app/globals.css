@@ -497,6 +497,17 @@
   }
 }
 
+/* Waveform demo Agent AI: le barre "respirano" durante la riproduzione */
+@keyframes agent-wave {
+  0%,
+  100% {
+    transform: scaleY(0.55);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
 /* Indicatore di scroll nella hero */
 @keyframes scroll-hint {
   0% {
