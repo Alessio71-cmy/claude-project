@@ -32,7 +32,7 @@ function VerdictChip({ verdict }: { verdict: Verdict }) {
         'inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-semibold',
         verdict === 'migliore' && 'text-bg-dark',
         verdict === 'uguale' && 'border border-current text-current opacity-80',
-        verdict === 'peggiore' && 'border border-current text-current opacity-50'
+        verdict === 'peggiore' && 'border border-current text-current opacity-80'
       )}
       style={verdict === 'migliore' ? { backgroundColor: 'var(--service-color)' } : undefined}
     >
@@ -63,14 +63,14 @@ export function ComparisonTable({
     <div className={cn('w-full', className)}>
       {/* Intestazione */}
       <div className="mb-2 hidden grid-cols-12 gap-x-6 border-b border-current/20 pb-4 md:grid">
-        <p className="text-small col-span-4 font-medium uppercase tracking-[0.15em] opacity-60">
+        <p className="text-small col-span-4 font-medium uppercase tracking-[0.15em] opacity-80">
           Criterio
         </p>
-        <p className="text-small col-span-5 font-medium uppercase tracking-[0.15em] opacity-60">
+        <p className="text-small col-span-5 font-medium uppercase tracking-[0.15em] opacity-80">
           Nel concreto
         </p>
-        <p className="text-small col-span-3 font-medium uppercase tracking-[0.15em] opacity-60">
-          KonnectAlps {compareLabel && <span className="normal-case tracking-normal opacity-80">— {compareLabel}</span>}
+        <p className="text-small col-span-3 font-medium uppercase tracking-[0.15em] opacity-80">
+          KonnectAlps {compareLabel && <span className="normal-case tracking-normal">— {compareLabel}</span>}
         </p>
       </div>
 
@@ -86,7 +86,7 @@ export function ComparisonTable({
                 <VerdictChip verdict={row.verdict} />
               </div>
             </div>
-            <p className="text-small leading-relaxed opacity-70 md:col-span-5">{row.note}</p>
+            <p className="text-small leading-relaxed opacity-75 md:col-span-5">{row.note}</p>
             <div className="hidden md:col-span-3 md:block">
               <VerdictChip verdict={row.verdict} />
             </div>
@@ -94,7 +94,7 @@ export function ComparisonTable({
         ))}
       </ul>
 
-      {caption && <p className="text-small mt-6 max-w-prose opacity-50">{caption}</p>}
+      {caption && <p className="text-small mt-6 max-w-prose opacity-75">{caption}</p>}
     </div>
   )
 }

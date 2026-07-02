@@ -24,7 +24,7 @@ export default function CyberAlpsPage() {
         <div className="grid items-center gap-10 xl:grid-cols-12">
           <div className="xl:col-span-7">
             <Reveal>
-              <p className="text-small font-medium uppercase tracking-[0.25em] text-bg-dark/60">
+              <p className="text-small font-medium uppercase tracking-[0.25em] text-bg-dark/75">
                 {cyberalps.eyebrow}
               </p>
             </Reveal>
@@ -84,9 +84,9 @@ export default function CyberAlpsPage() {
           {cyberalps.path.steps.map((step) => (
             <RevealItem key={step.label} y={24}>
               <div className="grid gap-x-8 gap-y-2 py-8 md:grid-cols-12 md:items-baseline">
-                <p className="h3-main !text-bg-dark/25 md:col-span-2">{step.label}</p>
+                <p className="h3-main !text-bg-dark/55 md:col-span-2">{step.label}</p>
                 <h3 className="h4-main md:col-span-4">{step.title}</h3>
-                <p className="text-small leading-relaxed opacity-70 md:col-span-6">{step.text}</p>
+                <p className="text-small leading-relaxed opacity-75 md:col-span-6">{step.text}</p>
               </div>
             </RevealItem>
           ))}

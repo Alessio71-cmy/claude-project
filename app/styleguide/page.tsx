@@ -43,7 +43,7 @@ export default function StyleguidePage() {
             Testo base — Roboto 400, 20px, interlinea 1.7. Progettiamo infrastrutture di rete per
             aziende e pubbliche amministrazioni del Trentino-Alto Adige.
           </p>
-          <p className="text-small opacity-70">Testo small — note, didascalie, metadati.</p>
+          <p className="text-small opacity-75">Testo small — note, didascalie, metadati.</p>
           <p className="text-stat-display text-primary">98,7%</p>
         </div>
       </Section>
@@ -201,7 +201,7 @@ export default function StyleguidePage() {
               <p className="text-stat-display text-primary">
                 <AnimatedCounter value={value} />
               </p>
-              <p className="text-small mt-2 uppercase tracking-[0.15em] opacity-60">{label}</p>
+              <p className="text-small mt-2 uppercase tracking-[0.15em] opacity-70">{label}</p>
             </RevealItem>
           ))}
         </RevealGroup>
@@ -223,7 +223,7 @@ export default function StyleguidePage() {
             ]}
           >
             <div className="flex h-72 items-center justify-center rounded-3xl bg-bg-surface">
-              <p className="text-small opacity-50">[schema di rete — placeholder]</p>
+              <p className="text-small opacity-65">[schema di rete — placeholder]</p>
             </div>
           </HotspotFrame>
         </div>
@@ -240,9 +240,9 @@ export default function StyleguidePage() {
       <div data-service="connettivita" className="mx-auto w-full max-w-screen-2xl px-5 md:px-10">
         <PinnedSteps
           steps={[
-            { label: '01 — Analisi', title: 'Ascoltiamo prima di progettare', text: 'Sopralluogo e analisi del contesto: ogni infrastruttura parte dai vincoli reali del territorio.', visual: <div className="flex h-64 items-center justify-center rounded-3xl bg-bg-surface"><p className="text-small opacity-50">[visual 1]</p></div> },
-            { label: '02 — Progetto', title: 'Architettura su misura', text: 'Dimensioniamo banda, ridondanza e copertura sul flusso di lavoro effettivo, non su un listino.', visual: <div className="flex h-64 items-center justify-center rounded-3xl bg-bg-surface"><p className="text-small opacity-50">[visual 2]</p></div> },
-            { label: '03 — Attivazione', title: 'Operativi senza interruzioni', text: 'Migrazione pianificata e verificata: la continuità operativa resta il vincolo di progetto.', visual: <div className="flex h-64 items-center justify-center rounded-3xl bg-bg-surface"><p className="text-small opacity-50">[visual 3]</p></div> },
+            { label: '01 — Analisi', title: 'Ascoltiamo prima di progettare', text: 'Sopralluogo e analisi del contesto: ogni infrastruttura parte dai vincoli reali del territorio.', visual: <div className="flex h-64 items-center justify-center rounded-3xl bg-bg-surface"><p className="text-small opacity-65">[visual 1]</p></div> },
+            { label: '02 — Progetto', title: 'Architettura su misura', text: 'Dimensioniamo banda, ridondanza e copertura sul flusso di lavoro effettivo, non su un listino.', visual: <div className="flex h-64 items-center justify-center rounded-3xl bg-bg-surface"><p className="text-small opacity-65">[visual 2]</p></div> },
+            { label: '03 — Attivazione', title: 'Operativi senza interruzioni', text: 'Migrazione pianificata e verificata: la continuità operativa resta il vincolo di progetto.', visual: <div className="flex h-64 items-center justify-center rounded-3xl bg-bg-surface"><p className="text-small opacity-65">[visual 3]</p></div> },
           ]}
         />
       </div>

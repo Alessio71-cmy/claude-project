@@ -345,7 +345,7 @@ export function ContactForm() {
 
             {/* Riepilogo */}
             <div className="rounded-2xl border border-current/15 p-5">
-              <p className="text-small mb-2 font-semibold uppercase tracking-[0.15em] opacity-50">
+              <p className="text-small mb-2 font-semibold uppercase tracking-[0.15em] opacity-65">
                 Riepilogo
               </p>
               <p className="text-small opacity-75">

@@ -92,7 +92,7 @@ export function AudioPlayer({ src, label, sublabel, className, onPlay }: AudioPl
     <div
       className={cn(
         'flex items-center gap-4 rounded-2xl border border-current/15 p-4 transition-colors',
-        disabled && 'opacity-50',
+        disabled && 'opacity-65',
         className
       )}
       data-audio-player
@@ -114,11 +114,11 @@ export function AudioPlayer({ src, label, sublabel, className, onPlay }: AudioPl
       <div className="min-w-0 flex-1">
         <div className="flex items-baseline justify-between gap-3">
           <p className="truncate font-medium">{label}</p>
-          <p className="text-small shrink-0 tabular-nums opacity-60">
+          <p className="text-small shrink-0 tabular-nums opacity-70">
             {disabled ? 'In arrivo' : `${formatTime(current)} / ${formatTime(duration)}`}
           </p>
         </div>
-        {sublabel && <p className="text-small mt-0.5 opacity-60">{sublabel}</p>}
+        {sublabel && <p className="text-small mt-0.5 opacity-70">{sublabel}</p>}
         <div
           className="group/track mt-2 cursor-pointer py-1.5"
           onClick={disabled ? undefined : seek}

@@ -68,7 +68,7 @@ export function HotspotFrame({ children, points, className }: HotspotFrameProps)
               {/* alone pulsante */}
               <span
                 aria-hidden="true"
-                className="absolute inset-0 animate-ping rounded-full opacity-30 [animation-duration:2.2s] group-hover:opacity-50"
+                className="absolute inset-0 animate-ping rounded-full opacity-30 [animation-duration:2.2s] group-hover:opacity-65"
                 style={{ backgroundColor: 'var(--service-color)' }}
               />
               <span

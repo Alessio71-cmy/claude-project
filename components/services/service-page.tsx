@@ -93,7 +93,7 @@ export function ServicePage({ content }: { content: ServiceContent }) {
                   >
                     {spec.value}
                   </p>
-                  <p className="text-small leading-relaxed opacity-70 md:col-span-6">{spec.text}</p>
+                  <p className="text-small leading-relaxed opacity-75 md:col-span-6">{spec.text}</p>
                 </div>
               </RevealItem>
             ))}
@@ -126,7 +126,7 @@ export function ServicePage({ content }: { content: ServiceContent }) {
           {content.potential.points.map((point) => (
             <RevealItem key={point.title} className="border-t border-current/20 pt-6">
               <h3 className="h4-main">{point.title}</h3>
-              <p className="text-small mt-3 leading-relaxed opacity-70">{point.text}</p>
+              <p className="text-small mt-3 leading-relaxed opacity-75">{point.text}</p>
             </RevealItem>
           ))}
         </RevealGroup>

@@ -17,14 +17,14 @@ export function AgentAiBox() {
         >
           <div className="flex flex-col justify-between p-8 md:p-12">
             <div>
-              <p className="text-small flex items-center gap-3 font-medium uppercase tracking-[0.25em] text-bg-dark/70">
+              <p className="text-small flex items-center gap-3 font-medium uppercase tracking-[0.25em] text-bg-dark/90">
                 {agentAiBox.eyebrow}
                 <span className="rounded-full bg-bg-dark px-2.5 py-1 text-[10px] font-bold uppercase leading-none text-support-viola">
                   {agentAiBox.badge}
                 </span>
               </p>
               <h2 className="h2-main mt-6 max-w-xl !text-bg-dark">{agentAiBox.title}</h2>
-              <p className="text-base mt-6 max-w-lg text-bg-dark/80">{agentAiBox.description}</p>
+              <p className="text-base mt-6 max-w-lg text-bg-dark/90">{agentAiBox.description}</p>
             </div>
             <span className="button button--solid-dark mt-10 self-start">
               {agentAiBox.cta.label}

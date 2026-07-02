@@ -11,7 +11,7 @@ export function Sustainability() {
         <div className="rounded-3xl p-8 md:p-14" style={{ backgroundColor: '#d7f5dc' }}>
           <div className="grid gap-10 xl:grid-cols-12">
             <div className="xl:col-span-7">
-              <p className="text-small font-medium uppercase tracking-[0.25em] text-bg-dark/60">
+              <p className="text-small font-medium uppercase tracking-[0.25em] text-bg-dark/75">
                 {sustainability.eyebrow}
               </p>
               <h2 className="h2-main mt-5 !text-bg-dark">{sustainability.title}</h2>
@@ -33,7 +33,7 @@ export function Sustainability() {
               {sustainability.stats.map((stat) => (
                 <RevealItem key={stat.label} className="border-t border-bg-dark/15 pt-5">
                   <p className="h3-main !text-bg-dark">{stat.value}</p>
-                  <p className="text-small mt-1 text-bg-dark/70">{stat.label}</p>
+                  <p className="text-small mt-1 text-bg-dark/80">{stat.label}</p>
                 </RevealItem>
               ))}
             </RevealGroup>

@@ -110,9 +110,20 @@
 [data-theme='light'] {
   color-scheme: light;
   --heading-color: var(--bg-dark);
-  --body-color: var(--text-dark);
+  --body-color: rgba(32, 35, 33, 0.9);
   background-color: var(--bg-light);
   color: var(--body-color);
+}
+
+/* Su fondo chiaro il testo scuro perde contrasto più in fretta:
+   le utility di opacità testuali vengono alzate per rispettare WCAG AA. */
+[data-theme='light'] .opacity-65 {
+  opacity: 0.85;
+}
+
+[data-theme='light'] .opacity-70,
+[data-theme='light'] .opacity-75 {
+  opacity: 0.9;
 }
 
 /* Tinte per pagina/sezione servizio */

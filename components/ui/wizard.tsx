@@ -34,7 +34,7 @@ export function WizardProgress({ steps, current, className }: WizardProgressProp
             <span
               className={cn(
                 'text-small transition-opacity duration-300',
-                state === 'active' ? 'font-semibold opacity-100' : 'opacity-50'
+                state === 'active' ? 'font-semibold opacity-100' : 'opacity-65'
               )}
             >
               {label}

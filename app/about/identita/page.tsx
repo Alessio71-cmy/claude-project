@@ -60,7 +60,7 @@ export default function IdentitaPage() {
           {identity.pillars.items.map((item, i) => (
             <RevealItem key={item.title}>
               <div className="flex h-full flex-col rounded-3xl bg-bg-surface p-8">
-                <p className="text-stat-display text-primary/40">{String(i + 1).padStart(2, '0')}</p>
+                <p className="text-stat-display text-primary/60">{String(i + 1).padStart(2, '0')}</p>
                 <h3 className="h4-main mt-8">{item.title}</h3>
                 <p className="text-small mt-3 leading-relaxed opacity-75">{item.text}</p>
               </div>
@@ -73,7 +73,7 @@ export default function IdentitaPage() {
       <Section>
         <Reveal>
           <div className="rounded-3xl p-10 md:p-16" style={{ backgroundColor: 'var(--menu-accent)' }}>
-            <p className="text-small font-medium uppercase tracking-[0.25em] text-bg-dark/60">
+            <p className="text-small font-medium uppercase tracking-[0.25em] text-bg-dark/75">
               {identity.vision.eyebrow}
             </p>
             <h2 className="h2-main mt-6 max-w-4xl !text-bg-dark">{identity.vision.title}</h2>
@@ -108,7 +108,7 @@ export default function IdentitaPage() {
           {identity.mountain.items.map((item) => (
             <RevealItem key={item.title} className="border-t border-current/20 pt-6">
               <h3 className="h4-main">{item.title}</h3>
-              <p className="text-small mt-3 leading-relaxed opacity-70">{item.text}</p>
+              <p className="text-small mt-3 leading-relaxed opacity-75">{item.text}</p>
             </RevealItem>
           ))}
         </RevealGroup>

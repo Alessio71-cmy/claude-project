@@ -18,7 +18,7 @@ export function Stats() {
               {box.suffix && <span className="text-[0.45em] font-medium">{box.suffix}</span>}
             </p>
             <p className="text-small mt-3 font-semibold uppercase tracking-[0.15em]">{box.label}</p>
-            <p className="text-small mt-2 max-w-[16rem] opacity-60">{box.text}</p>
+            <p className="text-small mt-2 max-w-[16rem] opacity-70">{box.text}</p>
           </RevealItem>
         ))}
       </RevealGroup>

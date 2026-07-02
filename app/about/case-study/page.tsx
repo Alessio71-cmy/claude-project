@@ -42,7 +42,7 @@ export default function CaseStudyPage() {
           {caseStudies.items.map((cs) => (
             <RevealItem key={cs.title}>
               <article className="flex h-full flex-col rounded-3xl bg-bg-surface p-8 transition-transform duration-300 lg:hover:scale-[1.01] md:p-10">
-                <p className="text-small font-medium uppercase tracking-[0.2em] opacity-50">
+                <p className="text-small font-medium uppercase tracking-[0.2em] opacity-65">
                   {cs.sector}
                 </p>
                 <h2 className="h3-main mt-4">{cs.title}</h2>
@@ -63,7 +63,7 @@ export default function CaseStudyPage() {
           ))}
         </RevealGroup>
         <Reveal>
-          <p className="text-small mt-10 max-w-2xl opacity-50">{caseStudies.note}</p>
+          <p className="text-small mt-10 max-w-2xl opacity-65">{caseStudies.note}</p>
         </Reveal>
       </Section>
 

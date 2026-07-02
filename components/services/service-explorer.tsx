@@ -45,7 +45,7 @@ export function ServiceExplorer({ services }: { services: ServiceContent[] }) {
                 'rounded-full border px-5 py-2.5 font-medium transition-all duration-300',
                 isActive
                   ? 'border-transparent text-bg-dark'
-                  : 'border-current/25 opacity-70 hover:opacity-100 lg:hover:scale-105'
+                  : 'border-current/25 opacity-85 hover:opacity-100 lg:hover:scale-105'
               )}
               style={isActive ? { backgroundColor: m.color } : undefined}
             >
@@ -78,7 +78,7 @@ export function ServiceExplorer({ services }: { services: ServiceContent[] }) {
               <dl className="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2">
                 {facts.map((fact) => (
                   <div key={fact.label} className="border-t border-current/15 pt-4">
-                    <dt className="text-small uppercase tracking-[0.15em] opacity-50">{fact.label}</dt>
+                    <dt className="text-small uppercase tracking-[0.15em] opacity-65">{fact.label}</dt>
                     <dd className="mt-1.5 font-medium">{fact.value}</dd>
                   </div>
                 ))}

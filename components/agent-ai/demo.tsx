@@ -117,12 +117,12 @@ export function AgentAiDemo({ languages }: { languages: DemoLanguage[] }) {
               'flex items-center gap-2 rounded-full border px-4 py-2 font-medium transition-all duration-300',
               i === langIndex
                 ? 'border-transparent bg-support-viola text-bg-dark'
-                : 'border-current/25 opacity-70 hover:opacity-100'
+                : 'border-current/25 opacity-85 hover:opacity-100'
             )}
           >
             <span aria-hidden="true">{l.flag}</span>
             {l.label}
-            {!l.src && <span className="text-xs opacity-60">(in arrivo)</span>}
+            {!l.src && <span className="text-xs opacity-90">(in arrivo)</span>}
           </button>
         ))}
       </div>
@@ -178,7 +178,7 @@ export function AgentAiDemo({ languages }: { languages: DemoLanguage[] }) {
               )
             })}
           </div>
-          <div className="text-small mt-2 flex justify-between tabular-nums opacity-60">
+          <div className="text-small mt-2 flex justify-between tabular-nums opacity-70">
             <span>{disabled ? 'Campione in preparazione' : formatTime(current)}</span>
             <span>{disabled ? '—' : formatTime(duration)}</span>
           </div>

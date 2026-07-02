@@ -1,12 +1,16 @@
 import { Section } from '@/components/ui/container'
 import { Button } from '@/components/ui/button'
 import { Reveal } from '@/components/motion/reveal'
+import { SolutionFinder } from '@/components/contact/solution-finder'
 import { finalCta } from '@/lib/content/it/home'
 
-/** CTA finale verso contatti (5.1.7). */
+/** CTA finale verso contatti (5.1.7) + orientamento rapido (sezione 7). */
 export function FinalCta() {
   return (
     <Section id="cta-finale" className="py-28 md:py-40">
+      <Reveal className="mb-20">
+        <SolutionFinder />
+      </Reveal>
       <div className="mx-auto max-w-4xl text-center">
         <Reveal>
           <h2 className="h2-main">{finalCta.title}</h2>

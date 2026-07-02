@@ -21,7 +21,7 @@ export function WizardDemo() {
       <WizardStep current={current} direction={direction} className="mt-8">
         <div className="rounded-2xl border border-current/15 p-8">
           <h4 className="h4-main">{steps[current]}</h4>
-          <p className="text-base mt-2 opacity-70">
+          <p className="text-base mt-2 opacity-75">
             Contenuto di esempio dello step {current + 1}. Le transizioni seguono la direzione di
             navigazione.
           </p>

@@ -5,6 +5,7 @@ import { TitleRow } from '@/components/ui/title-row'
 import { ServiceCard } from '@/components/ui/card'
 import { Reveal, RevealGroup, RevealItem } from '@/components/motion/reveal'
 import { ServiceExplorer } from '@/components/services/service-explorer'
+import { SolutionFinder } from '@/components/contact/solution-finder'
 import { serviceIcons } from '@/components/icons'
 import { serviceMeta } from '@/lib/site'
 import { allServices, overview } from '@/lib/content/it/services'
@@ -66,6 +67,9 @@ export default function ServiziOverviewPage() {
 
       {/* CTA */}
       <Section className="py-24 md:py-32">
+        <Reveal className="mb-20">
+          <SolutionFinder />
+        </Reveal>
         <div className="mx-auto max-w-3xl text-center">
           <Reveal>
             <h2 className="h2-main">{overview.cta.title}</h2>

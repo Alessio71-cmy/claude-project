@@ -29,7 +29,7 @@ export function AgentAiUseCases({ tabs }: { tabs: UseCaseTab[] }) {
               'rounded-full border px-5 py-2.5 font-medium transition-all duration-300',
               i === active
                 ? 'border-transparent bg-support-viola text-bg-dark'
-                : 'border-current/25 opacity-70 hover:opacity-100 lg:hover:scale-105'
+                : 'border-current/25 opacity-85 hover:opacity-100 lg:hover:scale-105'
             )}
           >
             {t.title}
@@ -52,7 +52,7 @@ export function AgentAiUseCases({ tabs }: { tabs: UseCaseTab[] }) {
               {tab.items.map((item) => (
                 <div key={item.title} className="border-t border-current/15 pt-4">
                   <h3 className="h3-support text-support-viola">{item.title}</h3>
-                  <p className="text-small mt-2 leading-relaxed opacity-70">{item.text}</p>
+                  <p className="text-small mt-2 leading-relaxed opacity-75">{item.text}</p>
                 </div>
               ))}
             </div>

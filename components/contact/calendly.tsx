@@ -40,7 +40,7 @@ export function CalendlyEmbed() {
         />
       ) : (
         <div className="flex h-[680px] items-center justify-center">
-          <p className="text-small opacity-50">Caricamento del calendario…</p>
+          <p className="text-small opacity-65">Caricamento del calendario…</p>
         </div>
       )}
     </div>

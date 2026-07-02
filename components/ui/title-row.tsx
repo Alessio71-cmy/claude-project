@@ -32,13 +32,13 @@ export function TitleRow({
     <div className={cn('w-full', className)}>
       {lineAbove && (
         <div className="mb-10 grid grid-cols-3 gap-x-6 md:grid-cols-6 xl:grid-cols-12">
-          <div className="col-span-1 border-t border-current opacity-60 xl:col-span-2" aria-hidden="true" />
+          <div className="col-span-1 border-t border-current opacity-70 xl:col-span-2" aria-hidden="true" />
         </div>
       )}
       <div className="grid grid-cols-1 items-end gap-x-6 gap-y-6 xl:grid-cols-12">
         <div className={cn('xl:col-span-7', !text && 'xl:col-span-9')}>
           {eyebrow && (
-            <p className="text-small mb-3 font-medium uppercase tracking-[0.2em] opacity-70">{eyebrow}</p>
+            <p className="text-small mb-3 font-medium uppercase tracking-[0.2em] opacity-75">{eyebrow}</p>
           )}
           <Tag id={id} className={cn(Tag === 'h1' ? 'h1-main' : 'h2-main', titleClassName)}>
             {title}

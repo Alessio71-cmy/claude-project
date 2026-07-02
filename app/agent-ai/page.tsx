@@ -65,7 +65,7 @@ export default function AgentAiPage() {
         />
         <Reveal className="mt-12">
           <AgentAiDemo languages={agentAi.demo.languages} />
-          <p className="text-small mt-4 opacity-50">{agentAi.demo.privacyNote}</p>
+          <p className="text-small mt-4 opacity-65">{agentAi.demo.privacyNote}</p>
         </Reveal>
       </Section>
 
@@ -76,7 +76,7 @@ export default function AgentAiPage() {
           {agentAi.capabilities.items.map((item) => (
             <RevealItem key={item.title} className="border-t border-current/20 pt-5">
               <h3 className="h4-main">{item.title}</h3>
-              <p className="text-small mt-2.5 leading-relaxed opacity-70">{item.text}</p>
+              <p className="text-small mt-2.5 leading-relaxed opacity-75">{item.text}</p>
             </RevealItem>
           ))}
         </RevealGroup>
@@ -108,7 +108,7 @@ export default function AgentAiPage() {
             <div className="grid items-center gap-8 xl:grid-cols-12">
               <div className="xl:col-span-8">
                 <h2 className="h2-main !text-bg-dark">{agentAi.cta.title}</h2>
-                <p className="text-base mt-5 max-w-2xl text-bg-dark/80">{agentAi.cta.description}</p>
+                <p className="text-base mt-5 max-w-2xl text-bg-dark/90">{agentAi.cta.description}</p>
               </div>
               <div className="flex flex-wrap gap-4 xl:col-span-4 xl:justify-end">
                 <Button href="/contatti?servizio=agent-ai" variant="solid-dark">

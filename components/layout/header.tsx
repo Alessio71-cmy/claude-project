@@ -145,7 +145,7 @@ export function Header() {
                             >
                               <span className="block font-medium">{child.label}</span>
                               {child.description && (
-                                <span className="text-small block opacity-60">{child.description}</span>
+                                <span className="text-small block opacity-70">{child.description}</span>
                               )}
                             </Link>
                           </li>
