@@ -1,679 +1,239 @@
 @import 'tailwindcss';
 
-/* =====================================================
-   KONNECTALPS DESIGN SYSTEM
-   Sezione 2 del brief — vincolante, non modificare i valori.
-   ===================================================== */
+/* ───────────────────────────────────────────────────────────────────────────
+   Lettura quotidiana — sistema visivo "quaderno di studio"
 
-/* ── Clash Display (Fontshare) ─────────────────────────
-   File scaricati al build da scripts/fetch-fonts.mjs.
-   Fallback calibrato per ridurre il layout shift. */
-@font-face {
-  font-family: 'Clash Display';
-  src: url('/fonts/clash-display/ClashDisplay-400.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
+   L'app è un periodico, non un feed. Da qui derivano tre regole che valgono
+   in tutta l'interfaccia:
+     1. la separazione è un filetto, mai un'ombra: niente card che galleggiano
+     2. la gerarchia è tipografica, non cromatica: un solo accento, usato poco
+     3. il ritmo verticale è generoso — il contenuto è prosa lunga, non schede
+   ─────────────────────────────────────────────────────────────────────────── */
 
-@font-face {
-  font-family: 'Clash Display';
-  src: url('/fonts/clash-display/ClashDisplay-500.woff2') format('woff2');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Clash Display';
-  src: url('/fonts/clash-display/ClashDisplay-600.woff2') format('woff2');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Clash Display';
-  src: url('/fonts/clash-display/ClashDisplay-700.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Clash Display Fallback';
-  src: local('Arial'), local('Helvetica Neue');
-  size-adjust: 97%;
-  ascent-override: 94%;
-  descent-override: 22%;
-  line-gap-override: 0%;
-}
-
-/* ── Design tokens ────────────────────────────────────── */
 :root {
-  color-scheme: dark;
+  /* Carta: grigio caldo molto desaturato. Non panna, non bianco clinico. */
+  --paper: #f4f2ec;
+  --paper-raised: #faf8f3;
+  --ink: #17150f;
+  --ink-soft: #46423a;
+  --ink-muted: #757060;
+  --rule: #ddd8cb;
+  --rule-strong: #c4beaf;
 
-  /* Primary */
-  --primary: #90fd94;
-  --primary-hover: #7fe885;
-  --menu-accent: #c9f1d1;
+  /* Un solo accento: oxblood da inchiostro tipografico. */
+  --accent: #8c2f26;
+  --accent-soft: #b8564a;
 
-  /* Background */
-  --bg-dark: #202321;
-  --bg-light: #fffffa;
+  /* I tre gradi di rilevanza. Non tre pillole colorate: tre marcatori. */
+  --mark-subito: var(--accent);
+  --mark-fondamentale: var(--ink);
+  --mark-contesto: var(--ink-muted);
 
-  /* Surface */
-  --bg-surface: #2e3530;
-  --bg-surface-dark: #2e3530;
-  --bg-surface-light: #fffffa;
-  --bg-on-surface-dark: rgba(46, 53, 48, 0.3);
-  --bg-on-surface-light: rgba(255, 255, 250, 0.3);
+  --radius: 2px;
+  --measure: 34em;
 
-  /* Testo con opacità ridotta */
-  --text-dark: rgba(32, 35, 33, 0.8);
-  --text-light: rgba(255, 255, 250, 0.8);
-
-  /* Support colors — vibrant */
-  --support-yellow: #f3ff14;
-  --support-cyano: #14fff7;
-  --support-green: #51ff91;
-  --support-lilla: #f838ff;
-  --support-orange: #ff8336;
-  --support-viola: #a997ed;
-  --support-blue: #c9d7ff;
-
-  /* Support colors — soft */
-  --support-yellow-soft: #faffa1;
-  --support-cyano-soft: #a1fffc;
-  --support-green-soft: #b9ffd3;
-  --support-lilla-soft: #fcafff;
-  --support-orange-soft: #ffcdaf;
-  --support-viola-soft: #c9bef6;
-  --support-blue-soft: #c9d7ff;
-
-  /* Mapping colore → servizio (sezione 2.2, fisso)
-     connettivita: yellow | iot: orange | core-network: green
-     wireless: lilla | voip: cyano | agent-ai: viola | cyberalps: blue */
-
-  --radius: 0.625rem;
-
-  /* Colore corrente del servizio (ridefinito per pagina via data-service) */
-  --service-color: var(--primary);
-  --service-color-soft: var(--menu-accent);
-
-  /* Colori tema (ridefiniti nei contesti chiari, es. CyberAlps) */
-  --heading-color: var(--bg-light);
-  --body-color: var(--text-light);
-}
-
-/* Contesto a tema chiaro (sezione 2.2: CyberAlps “clean/lab”) */
-[data-theme='light'] {
   color-scheme: light;
-  --heading-color: var(--bg-dark);
-  --body-color: rgba(32, 35, 33, 0.9);
-  background-color: var(--bg-light);
-  color: var(--body-color);
 }
 
-/* Su fondo chiaro il testo scuro perde contrasto più in fretta:
-   le utility di opacità testuali vengono alzate per rispettare WCAG AA. */
-[data-theme='light'] .opacity-65 {
-  opacity: 0.85;
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #111110;
+    --paper-raised: #191916;
+    --ink: #e8e4d9;
+    --ink-soft: #b5afa1;
+    --ink-muted: #8b8578;
+    --rule: #2a2924;
+    --rule-strong: #3d3b34;
+    --accent: #d9756a;
+    --accent-soft: #b8564a;
+    --mark-fondamentale: var(--ink);
+    color-scheme: dark;
+  }
 }
 
-[data-theme='light'] .opacity-70,
-[data-theme='light'] .opacity-75 {
-  opacity: 0.9;
+:root[data-theme='dark'] {
+  --paper: #111110;
+  --paper-raised: #191916;
+  --ink: #e8e4d9;
+  --ink-soft: #b5afa1;
+  --ink-muted: #8b8578;
+  --rule: #2a2924;
+  --rule-strong: #3d3b34;
+  --accent: #d9756a;
+  --accent-soft: #b8564a;
+  --mark-fondamentale: var(--ink);
+  color-scheme: dark;
 }
 
-/* =====================================================
-   SCROLL THEME — DARK ↔ LIGHT (firma visiva ashen)
-   Il gestore di zona imposta data-scroll-theme="light" su <html>
-   quando lo scroll entra nella zona servizi della home; sfondo di
-   body/zona e colori del testo transiscono in ~1s.
-   ===================================================== */
-body {
-  transition: background-color 1s ease;
-}
-
-/* Elementi testuali dentro la zona tematizzabile: colore fluido */
-[data-themable] :is(h1, h2, h3, h4, p, span, li, a, legend, dt, dd) {
-  transition: color 0.8s ease;
-}
-
-/* Quando la zona è chiara, i token flippano e tutto il testo segue */
-html[data-scroll-theme='light'] [data-themable] {
-  --heading-color: var(--bg-dark);
-  --body-color: var(--text-dark);
-  --stat-color: var(--bg-dark);
-  color: var(--text-dark);
-}
-
-/* Numeri in evidenza: verdi sul tema scuro, scuri sul chiaro */
-:root {
-  --stat-color: var(--primary);
-}
-
-/* Come su tema chiaro statico: opacità testuali alzate per il contrasto */
-html[data-scroll-theme='light'] [data-themable] .opacity-65 {
-  opacity: 0.85;
-}
-
-html[data-scroll-theme='light'] [data-themable] :is(.opacity-70, .opacity-75) {
-  opacity: 0.9;
-}
-
-/* Il verde brand non regge su fondo chiaro: shade scura equivalente */
-html[data-scroll-theme='light'] [data-themable] .text-primary {
-  color: #2e7d3a;
-}
-
-/* Tinte per pagina/sezione servizio */
-[data-service='connettivita'] {
-  --service-color: var(--support-yellow);
-  --service-color-soft: var(--support-yellow-soft);
-}
-[data-service='iot'] {
-  --service-color: var(--support-orange);
-  --service-color-soft: var(--support-orange-soft);
-}
-[data-service='core-network'] {
-  --service-color: var(--support-green);
-  --service-color-soft: var(--support-green-soft);
-}
-[data-service='wireless'] {
-  --service-color: var(--support-lilla);
-  --service-color-soft: var(--support-lilla-soft);
-}
-[data-service='voip'] {
-  --service-color: var(--support-cyano);
-  --service-color-soft: var(--support-cyano-soft);
-}
-[data-service='agent-ai'] {
-  --service-color: var(--support-viola);
-  --service-color-soft: var(--support-viola-soft);
-}
-[data-service='cyberalps'] {
-  --service-color: var(--support-blue);
-  --service-color-soft: var(--support-blue-soft);
-}
-
-/* ── Tailwind theme mapping ───────────────────────────── */
 @theme inline {
-  --breakpoint-sm: 640px;
-  --breakpoint-md: 768px;
-  --breakpoint-lg: 1024px;
-  --breakpoint-xl: 1300px;
-  --breakpoint-2xl: 1536px;
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-muted: var(--ink-muted);
+  --color-rule: var(--rule);
+  --color-rule-strong: var(--rule-strong);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
 
-  --font-sans: var(--font-roboto), 'Roboto', system-ui, sans-serif;
-  --font-display: 'Clash Display', 'Clash Display Fallback', system-ui, sans-serif;
+  --font-display: var(--font-instrument-serif), Georgia, serif;
+  --font-body: var(--font-newsreader), Georgia, serif;
 
-  --color-primary: var(--primary);
-  --color-primary-hover: var(--primary-hover);
-  --color-menu-accent: var(--menu-accent);
-  --color-bg-dark: var(--bg-dark);
-  --color-bg-light: var(--bg-light);
-  --color-bg-surface: var(--bg-surface);
-  --color-bg-surface-dark: var(--bg-surface-dark);
-  --color-bg-surface-light: var(--bg-surface-light);
-  --color-bg-on-surface-dark: var(--bg-on-surface-dark);
-  --color-bg-on-surface-light: var(--bg-on-surface-light);
-  --color-text-dark: var(--text-dark);
-  --color-text-light: var(--text-light);
+  --radius-sm: 2px;
+  --radius-md: 4px;
 
-  --color-support-yellow: var(--support-yellow);
-  --color-support-yellow-soft: var(--support-yellow-soft);
-  --color-support-cyano: var(--support-cyano);
-  --color-support-cyano-soft: var(--support-cyano-soft);
-  --color-support-green: var(--support-green);
-  --color-support-green-soft: var(--support-green-soft);
-  --color-support-lilla: var(--support-lilla);
-  --color-support-lilla-soft: var(--support-lilla-soft);
-  --color-support-orange: var(--support-orange);
-  --color-support-orange-soft: var(--support-orange-soft);
-  --color-support-viola: var(--support-viola);
-  --color-support-viola-soft: var(--support-viola-soft);
-  --color-support-blue: var(--support-blue);
-  --color-support-blue-soft: var(--support-blue-soft);
-
-  --color-service: var(--service-color);
-  --color-service-soft: var(--service-color-soft);
-
-  --radius-sm: calc(var(--radius) - 4px);
-  --radius-md: calc(var(--radius) - 2px);
-  --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) + 4px);
-  --radius-2xl: 1rem;
-  --radius-3xl: 1.5rem;
-
-  /* Scala tipografica (da ashen, validata) */
-  --font-size-h1-main: clamp(2.75rem, 9vw, 5.5rem);
-  --font-size-h2-main: clamp(2rem, 7vw, 4rem);
-  --font-size-h3-main: clamp(1.6rem, 4.5vw, 2.5rem);
-  --font-size-h4-main: clamp(1.25rem, 3.5vw, 1.75rem);
-  --font-size-h2-support: clamp(1.5rem, 4vw, 2.25rem);
-  --font-size-h3-support: 1.25rem;
-  --font-size-base: 1.25rem;
-  --font-size-small: 0.875rem;
-  --font-size-extrasmall: 0.75rem;
+  /* Scala tipografica pensata per 390px di larghezza, non scalata da desktop. */
+  --text-micro: 0.6875rem; /* 11px — etichette, meta */
+  --text-small: 0.8125rem; /* 13px */
+  --text-base: 1.0625rem; /* 17px — corpo del reader */
+  --text-lead: 1.1875rem; /* 19px — apertura articolo */
+  --text-h3: 1.375rem;
+  --text-h2: 1.75rem;
+  --text-h1: 2.125rem;
+  --text-masthead: 2.625rem;
 }
 
-/* ── Base ─────────────────────────────────────────────── */
-@layer base {
-  body {
-    background-color: var(--bg-dark);
-    color: var(--text-light);
-    font-family: var(--font-sans);
-    font-size: var(--font-size-base);
-    line-height: 1.7;
-    -webkit-font-smoothing: antialiased;
-  }
+/* ── Base ─────────────────────────────────────────────────────────────── */
 
-  @media (max-width: 1369px) {
-    body {
-      font-size: 18px;
-    }
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: var(--font-display);
-    font-weight: 600;
-    line-height: 1.1;
-    color: var(--heading-color);
-  }
-
-  ::selection {
-    background-color: var(--primary);
-    color: var(--bg-dark);
-  }
-
-  /* Focus states — accessibilità */
-  :focus-visible {
-    outline: 2px solid var(--primary);
-    outline-offset: 2px;
-    border-radius: 4px;
-  }
-
-  :focus:not(:focus-visible) {
-    outline: none;
-  }
-
-  button:focus-visible,
-  a:focus-visible {
-    outline: 3px solid var(--primary);
-    outline-offset: 3px;
-  }
+html {
+  background-color: var(--paper);
+  -webkit-text-size-adjust: 100%;
 }
 
-/* ── Tipografia display (Clash Display) ───────────────── */
-.h1-main {
-  font-family: var(--font-display);
-  font-size: var(--font-size-h1-main);
-  line-height: 1.05;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-}
-
-.h2-main {
-  font-family: var(--font-display);
-  font-size: var(--font-size-h2-main);
-  line-height: 1.08;
-  font-weight: 600;
-  letter-spacing: -0.015em;
-}
-
-.h3-main {
-  font-family: var(--font-display);
-  font-size: var(--font-size-h3-main);
-  line-height: 1.15;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-}
-
-.h4-main {
-  font-family: var(--font-display);
-  font-size: var(--font-size-h4-main);
-  line-height: 1.2;
-  font-weight: 500;
-  letter-spacing: -0.005em;
-}
-
-/* Tipografia di supporto (Roboto) */
-.h2-support {
-  font-family: var(--font-sans);
-  font-size: var(--font-size-h2-support);
-  line-height: 1.3;
-  font-weight: 600;
-}
-
-.h3-support {
-  font-family: var(--font-sans);
-  font-size: var(--font-size-h3-support);
-  line-height: 1.4;
-  font-weight: 600;
-}
-
-.text-base {
-  font-family: var(--font-sans);
-  font-size: var(--font-size-base);
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body), Georgia, serif;
+  font-size: var(--text-base);
   line-height: 1.7;
-  font-weight: 400;
+  font-synthesis-weight: none;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* Il pull-to-refresh di Safari confonde in una PWA standalone. */
+  overscroll-behavior-y: none;
 }
 
-.text-small {
-  font-family: var(--font-sans);
-  font-size: var(--font-size-small);
-  line-height: 1.5;
-  font-weight: 400;
-}
-
-/* Numeri in evidenza (contatori) — Clash Display come da brief */
-.text-stat-display {
-  font-family: var(--font-display);
-  font-size: clamp(3rem, 10vw, 5.5rem);
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-  font-variant-numeric: tabular-nums;
-}
-
-/* =====================================================
-   BUTTON — base + varianti (sistema validato da ashen)
-   ===================================================== */
-.button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  padding: 8px 20px;
-  border-radius: 9999px;
-  font-family: var(--font-sans);
-  font-size: var(--font-size-base);
-  font-weight: 600;
-  line-height: 1.5;
-  cursor: pointer;
-  text-decoration: none;
-  white-space: nowrap;
-  transition:
-    opacity 0.3s ease-in-out,
-    transform 0.3s ease-in-out,
-    background-color 0.3s ease-in-out;
-  border: 1px solid transparent;
-}
-
-.button:has(.button__icon) {
-  padding: 8px 10px 8px 20px;
-}
-
-.button:disabled {
-  opacity: 0.5;
+/* Grana di carta: dà profondità senza rumore. Statica, non animata. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
   pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23g)'/%3E%3C/svg%3E");
 }
 
-@media (min-width: 1024px) {
-  .button:hover {
-    transform: scale(1.05);
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) body::before {
+    opacity: 0.05;
   }
 }
 
-.button__icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  width: 32px;
-  height: 32px;
-  border-radius: 9999px;
+:root[data-theme='dark'] body::before {
+  opacity: 0.05;
 }
 
-.button__icon svg {
-  transition: transform 0.3s ease-in-out;
+/* ── Tipografia ───────────────────────────────────────────────────────── */
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display), Georgia, serif;
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: -0.011em;
+  text-wrap: balance;
 }
 
-@media (min-width: 1024px) {
-  .button:hover .button__icon svg {
-    transform: rotate(12deg);
+/* L'etichetta del periodico: maiuscoletto spaziato. Ricorre in tutta l'app. */
+.label {
+  font-size: var(--text-micro);
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-muted);
+}
+
+/* Il numero d'ordine di una voce nell'indice del giorno. */
+.ordinal {
+  font-family: var(--font-display), Georgia, serif;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-muted);
+  font-size: var(--text-small);
+}
+
+/* Prosa del reader: il ritmo verticale è la cosa che rende leggibile 15 min. */
+.prose p {
+  margin-block: 0 1.05em;
+  hyphens: auto;
+}
+.prose p:last-child {
+  margin-bottom: 0;
+}
+.prose > section + section {
+  margin-top: 2.5rem;
+}
+.prose a {
+  color: var(--accent);
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+.prose em {
+  font-style: italic;
+}
+.prose strong {
+  font-weight: 600;
+}
+
+/* Apertura dell'articolo, leggermente più grande: invita a entrare. */
+.prose .lead {
+  font-size: var(--text-lead);
+  line-height: 1.62;
+  color: var(--ink-soft);
+}
+
+/* ── Filetti: l'unico strumento di separazione ────────────────────────── */
+
+.rule {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 0;
+}
+.rule-strong {
+  border-top-color: var(--rule-strong);
+}
+
+/* ── Interazione ──────────────────────────────────────────────────────── */
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* ── Entrata dell'indice: un'unica orchestrazione, non micro-animazioni ── */
+
+@keyframes entry-rise {
+  from {
+    opacity: 0;
+    transform: translateY(0.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
   }
 }
 
-.button--primary {
-  background-color: var(--primary);
-  color: var(--bg-dark);
-}
-
-@media (min-width: 1024px) {
-  .button--primary:hover {
-    opacity: 0.9;
-  }
-}
-
-.button--primary .button__icon {
-  background-color: var(--bg-dark);
-}
-
-.button--primary .button__icon svg {
-  color: var(--primary);
-}
-
-.button--ghost-light {
-  background-color: transparent;
-  color: var(--bg-light);
-  border-color: var(--bg-light);
-}
-
-@media (min-width: 1024px) {
-  .button--ghost-light:hover {
-    background-color: color-mix(in srgb, var(--bg-light) 10%, transparent);
-  }
-}
-
-.button--ghost-light .button__icon {
-  background-color: var(--bg-light);
-}
-
-.button--ghost-light .button__icon svg {
-  color: var(--bg-dark);
-}
-
-.button--ghost-dark {
-  background-color: transparent;
-  color: var(--bg-dark);
-  border-color: var(--bg-dark);
-}
-
-@media (min-width: 1024px) {
-  .button--ghost-dark:hover {
-    background-color: color-mix(in srgb, var(--bg-dark) 10%, transparent);
-  }
-}
-
-.button--ghost-dark .button__icon {
-  background-color: var(--bg-dark);
-}
-
-.button--ghost-dark .button__icon svg {
-  color: var(--bg-light);
-}
-
-.button--solid-dark {
-  background-color: var(--bg-dark);
-  color: var(--bg-light);
-}
-
-@media (min-width: 1024px) {
-  .button--solid-dark:hover {
-    opacity: 0.9;
-  }
-}
-
-.button--solid-dark .button__icon {
-  background-color: var(--primary);
-}
-
-.button--solid-dark .button__icon svg {
-  color: var(--bg-dark);
-}
-
-.button--sm {
-  font-size: var(--font-size-small);
-  gap: 8px;
-}
-
-.button--sm .button__icon {
-  width: 26px;
-  height: 26px;
-}
-
-.button--lg .button__icon {
-  width: 36px;
-  height: 36px;
-}
-
-/* Freccia nelle card servizio: ruota all'hover della card */
-.service-card-arrow {
-  transition: transform 0.3s ease-in-out;
-  transform-origin: center;
-  display: flex;
-}
-
-@media (min-width: 1024px) {
-  .group:hover .service-card-arrow,
-  a:hover .service-card-arrow,
-  article:hover .service-card-arrow {
-    transform: rotate(12deg);
-  }
-}
-
-/* Cerchi animati nella card hero (da ashen): convergono al centro e tornano */
-@keyframes hero-circle-1 {
-  0%,
-  15%,
-  85%,
-  100% {
-    cx: 61;
-  }
-  50% {
-    cx: 170;
-  }
-}
-@keyframes hero-circle-2 {
-  0%,
-  15%,
-  85%,
-  100% {
-    cx: 130;
-  }
-  50% {
-    cx: 170;
-  }
-}
-@keyframes hero-circle-3 {
-  0%,
-  15%,
-  85%,
-  100% {
-    cx: 210;
-  }
-  50% {
-    cx: 170;
-  }
-}
-@keyframes hero-circle-4 {
-  0%,
-  15%,
-  85%,
-  100% {
-    cx: 279;
-  }
-  50% {
-    cx: 170;
-  }
-}
-
-.animate-hero-circle-1 {
-  animation: hero-circle-1 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
-}
-.animate-hero-circle-2 {
-  animation: hero-circle-2 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
-}
-.animate-hero-circle-3 {
-  animation: hero-circle-3 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
-}
-.animate-hero-circle-4 {
-  animation: hero-circle-4 6s cubic-bezier(0.4, 0, 0.4, 1) infinite;
-}
-
-/* Slider partner: scorrimento infinito fluido (da ashen) */
-@keyframes partners-scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-
-.animate-partners-scroll {
-  animation: partners-scroll 60s linear infinite;
-}
-
-.animate-partners-scroll:hover {
-  animation-play-state: paused;
-}
-
-/* Waveform demo Agent AI: le barre "respirano" durante la riproduzione */
-@keyframes agent-wave {
-  0%,
-  100% {
-    transform: scaleY(0.55);
-  }
-  50% {
-    transform: scaleY(1);
-  }
-}
-
-/* Indicatore di scroll nella hero */
-@keyframes scroll-hint {
-  0% {
-    transform: translateY(-100%);
-  }
-  60% {
-    transform: translateY(200%);
-  }
-  100% {
-    transform: translateY(200%);
-  }
-}
-
-.animate-scroll-hint {
-  animation: scroll-hint 2.2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-}
-
-/* =====================================================
-   ACCESSIBILITÀ & PERFORMANCE
-   ===================================================== */
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border-width: 0;
-}
-
-/* Rendering off-screen posticipato per le sezioni sotto la fold */
-section:not(:first-of-type) {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 600px;
+.entry-rise {
+  animation: entry-rise 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -687,32 +247,14 @@ section:not(:first-of-type) {
   }
 }
 
-/* =====================================================
-   LENIS SMOOTH SCROLL — stili base
-   ===================================================== */
-html.lenis,
-html.lenis body {
-  height: auto;
-}
+/* ── Safe area iPhone: obbligatorio in standalone ─────────────────────── */
 
-.lenis.lenis-smooth {
-  scroll-behavior: auto !important;
+.pad-top-safe {
+  padding-top: max(1.25rem, env(safe-area-inset-top));
 }
-
-.lenis.lenis-smooth [data-lenis-prevent] {
-  overscroll-behavior: contain;
+.pad-bottom-safe {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
 }
-
-.lenis.lenis-stopped {
-  overflow: hidden;
-}
-
-.lenis.lenis-smooth iframe {
-  pointer-events: none;
-}
-
-/* Deroga per gli iframe interattivi (es. Calendly) */
-.lenis.lenis-smooth iframe.iframe-interactive,
-iframe.iframe-interactive {
-  pointer-events: auto;
+.inset-bottom-safe {
+  padding-bottom: calc(0.5rem + env(safe-area-inset-bottom));
 }

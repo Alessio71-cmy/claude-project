@@ -1,23 +1,24 @@
 {
-  "name": "konnectalps",
-  "version": "2.0.0",
+  "name": "lettura-quotidiana",
+  "version": "1.0.0",
   "private": true,
-  "description": "KonnectAlps — Connettività, VoIP, IoT, Core Network e Soluzioni Wireless in Trentino-Alto Adige",
-  "author": "KonnectAlps",
+  "description": "Lettura quotidiana di psicologia comportamentale applicata al design digitale",
   "scripts": {
-    "prebuild": "node scripts/fetch-fonts.mjs",
-    "predev": "node scripts/fetch-fonts.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
     "type-check": "tsc --noEmit",
-    "fonts": "node scripts/fetch-fonts.mjs"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "icons": "node scripts/make-icons.mjs",
+    "harvest": "node scripts/harvest-catalog.mjs",
+    "validate:catalog": "node scripts/validate-catalog.mjs",
+    "validate:articles": "node scripts/validate-articles.mjs",
+    "validate": "npm run validate:catalog && npm run validate:articles",
+    "notify": "node scripts/notify.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",
-    "framer-motion": "^12.38.0",
-    "lenis": "^1.3.21",
     "next": "^16.1.6",
     "react": "19.2.0",
     "react-dom": "19.2.0",
@@ -29,7 +30,10 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "postcss": "^8.5",
+    "sharp": "^0.34.2",
     "tailwindcss": "^4.1.9",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^3.2.4",
+    "web-push": "^3.6.7"
   }
 }

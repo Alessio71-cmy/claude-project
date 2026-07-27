@@ -28,5 +28,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# fonts scaricati al build (vedi scripts/fetch-fonts.mjs)
-/public/fonts/clash-display/*.woff2
+# test
+/coverage

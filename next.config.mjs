@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  images: {
-    formats: ['image/avif', 'image/webp'],
-  },
+  // Export statico: l'app non ha backend, database né route handler.
+  // Il contenuto arriva da JSON committati, quindi tutto è prerenderizzabile.
+  output: 'export',
+  images: { unoptimized: true },
 }
 
 export default nextConfig
