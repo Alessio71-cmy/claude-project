@@ -1,0 +1,83 @@
+name: Raccolto fonti
+
+# Pesca fonti nuove da Crossref, OpenAlex e arXiv e le deposita in
+# content/catalog/_pending.json. Nessun modello coinvolto: è codice puro, gira
+# nel free tier e non consuma token.
+#
+# Gira qui e non nella Routine perché i runner GitHub hanno egress libero verso
+# le API bibliografiche, mentre l'ambiente della Routine le ha bloccate.
+#
+# NOTA: i trigger `schedule` di GitHub funzionano solo dal branch di default.
+# Finché questo branch non è quello di default, il raccolto settimanale va
+# lanciato a mano (workflow_dispatch) oppure si attiva da sé al merge.
+
+on:
+  schedule:
+    # Lunedì 02:00 Europe/Rome (01:00 UTC d'inverno, 00:00 d'estate: il cron
+    # è in UTC, quindi l'ora locale si sposta di un'ora fra le stagioni).
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Non scrivere niente, solo mostrare cosa arriverebbe'
+        type: boolean
+        default: false
+      limit:
+        description: 'Numero massimo di query da eseguire (vuoto = tutte)'
+        type: string
+        default: ''
+  # Mentre si lavora allo script: ogni modifica lo mette alla prova sul serio,
+  # perché è l'unico posto dove le API sono raggiungibili.
+  push:
+    paths:
+      - 'scripts/harvest-catalog.mjs'
+      - 'scripts/harvest-lib.mjs'
+      - 'scripts/queries.json'
+      - '.github/workflows/harvest-catalog.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  raccolto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Raccolto
+        env:
+          HARVEST_CONTACT: ${{ vars.HARVEST_CONTACT || 'alessioruggera2@gmail.com' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          node scripts/harvest-catalog.mjs $ARGS
+
+      - name: Committa le candidate
+        if: inputs.dry_run != true
+        run: |
+          if git diff --quiet -- content/catalog/; then
+            echo "Nessuna candidata nuova: niente da committare."
+            exit 0
+          fi
+          COUNT=$(node -e "const p=require('./content/catalog/_pending.json');console.log(Array.isArray(p)?p.length:0)")
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add content/catalog/
+          git commit -m "Raccolto: ${COUNT} candidate in attesa di promozione"
+          # Il raccolto e la Routine possono scrivere a distanza di poche ore:
+          # un rebase evita che il push fallisca per un commit intermedio.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
