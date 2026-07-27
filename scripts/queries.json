@@ -1,0 +1,285 @@
+{
+  "_nota": "Le query che alimentano il raccolto. minCitations è il filtro 'influente': alto sui classici, basso o nullo sui lavori recenti dove le citazioni non hanno ancora avuto tempo di accumularsi. `since` limita agli ultimi anni quando serve novità invece di canone.",
+  "queries": [
+    {
+      "cluster": "persuasione-compliance",
+      "query": "compliance gaining technique request persuasion",
+      "minCitations": 120,
+      "sources": ["openalex", "crossref"]
+    },
+    {
+      "cluster": "persuasione-compliance",
+      "query": "foot in the door door in the face compliance",
+      "minCitations": 80,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "persuasione-compliance",
+      "query": "social proof descriptive norms behavior change message",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "persuasione-compliance",
+      "query": "scarcity effect perceived value consumer",
+      "minCitations": 90,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "bias-euristiche",
+      "query": "heuristics and biases judgment under uncertainty",
+      "minCitations": 400,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "bias-euristiche",
+      "query": "anchoring adjustment numerical estimate bias",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "bias-euristiche",
+      "query": "loss aversion endowment effect prospect theory",
+      "minCitations": 300,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "bias-euristiche",
+      "query": "framing effect decision making preference reversal",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "attenzione-economia-attenzione",
+      "query": "attention economy digital media distraction",
+      "minCitations": 40,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "attenzione-economia-attenzione",
+      "query": "smartphone notification interruption task performance",
+      "minCitations": 50,
+      "sources": ["openalex", "crossref"]
+    },
+    {
+      "cluster": "attenzione-economia-attenzione",
+      "query": "media multitasking cognitive control attention",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "attenzione-economia-attenzione",
+      "query": "attention capture damaging patterns interface",
+      "minCitations": 0,
+      "since": 2022,
+      "sources": ["openalex", "arxiv"]
+    },
+    {
+      "cluster": "abitudini-retention",
+      "query": "habit formation automaticity repeated behaviour context cue",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "abitudini-retention",
+      "query": "variable ratio reinforcement schedule persistence behaviour",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "abitudini-retention",
+      "query": "goal gradient effect reward program progress motivation",
+      "minCitations": 80,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "abitudini-retention",
+      "query": "gamification engagement empirical study effect",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "abitudini-retention",
+      "query": "streak loss aversion mobile app retention experiment",
+      "minCitations": 0,
+      "since": 2019,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "onboarding-attivazione",
+      "query": "IKEA effect labor leads to love valuation",
+      "minCitations": 80,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "onboarding-attivazione",
+      "query": "goal setting commitment implementation intentions behaviour",
+      "minCitations": 200,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "onboarding-attivazione",
+      "query": "endowed progress effect artificial advancement persistence",
+      "minCitations": 40,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "pricing-paywall",
+      "query": "price anchoring decoy effect choice consumer experiment",
+      "minCitations": 80,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "pricing-paywall",
+      "query": "pay what you want pricing free zero price effect",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "pricing-paywall",
+      "query": "subscription cancellation friction consumer welfare",
+      "minCitations": 0,
+      "since": 2018,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "dark-pattern-etica",
+      "query": "dark patterns user interface deceptive design",
+      "minCitations": 20,
+      "sources": ["openalex", "arxiv"]
+    },
+    {
+      "cluster": "dark-pattern-etica",
+      "query": "consent banner cookie interface manipulation GDPR",
+      "minCitations": 20,
+      "sources": ["openalex", "arxiv"]
+    },
+    {
+      "cluster": "dark-pattern-etica",
+      "query": "persuasive technology ethics manipulation autonomy",
+      "minCitations": 50,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "dark-pattern-etica",
+      "query": "sludge administrative burden friction cost",
+      "minCitations": 30,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "choice-architecture-nudge",
+      "query": "default option opt out enrolment participation rate",
+      "minCitations": 200,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "choice-architecture-nudge",
+      "query": "nudge choice architecture field experiment effect size",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "choice-architecture-nudge",
+      "query": "choice overload assortment size decision satisfaction",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "choice-architecture-nudge",
+      "query": "nudge effectiveness meta analysis publication bias",
+      "minCitations": 30,
+      "since": 2020,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "emozione-fiducia",
+      "query": "peak end rule remembered utility duration neglect",
+      "minCitations": 150,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "emozione-fiducia",
+      "query": "trust online interface credibility perceived",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "emozione-fiducia",
+      "query": "aesthetic usability effect visual appeal perceived quality",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "metodo-ricerca",
+      "query": "replication crisis psychology reproducibility effect size",
+      "minCitations": 300,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "metodo-ricerca",
+      "query": "sample size usability testing problem discovery",
+      "minCitations": 100,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "metodo-ricerca",
+      "query": "A/B testing online controlled experiments pitfalls",
+      "minCitations": 50,
+      "sources": ["openalex", "arxiv"]
+    },
+    {
+      "cluster": "case-study-prodotto",
+      "query": "field experiment mobile application user behaviour large scale",
+      "minCitations": 60,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "case-study-prodotto",
+      "query": "recommender system user engagement filter bubble study",
+      "minCitations": 50,
+      "sources": ["openalex", "arxiv"]
+    },
+    {
+      "cluster": "accessibilita-cognitiva",
+      "query": "cognitive load theory instructional design working memory",
+      "minCitations": 250,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "accessibilita-cognitiva",
+      "query": "readability plain language comprehension document",
+      "minCitations": 80,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "accessibilita-cognitiva",
+      "query": "accessibility cognitive impairment interface design guidelines",
+      "minCitations": 30,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "classici-fondativi",
+      "query": "Zeigarnik unfinished task memory interruption",
+      "minCitations": 50,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "classici-fondativi",
+      "query": "cognitive dissonance self perception attitude change",
+      "minCitations": 400,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "classici-fondativi",
+      "query": "self determination theory intrinsic motivation autonomy",
+      "minCitations": 500,
+      "sources": ["openalex"]
+    },
+    {
+      "cluster": "classici-fondativi",
+      "query": "fresh start effect temporal landmarks goal initiation",
+      "minCitations": 60,
+      "sources": ["openalex"]
+    }
+  ]
+}
