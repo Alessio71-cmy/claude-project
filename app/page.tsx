@@ -1,12 +1,17 @@
+import Link from 'next/link'
+import { DailyIndex } from '@/components/daily-index'
+import { getQueue, getSummaries } from '@/lib/content'
+
 export default function Oggi() {
   return (
-    <div className="px-5 pad-top-safe">
-      <p className="label">Numero di oggi</p>
-      <h1 className="mt-2 text-h1">Lettura quotidiana</h1>
-      <hr className="rule mt-6" />
-      <p className="mt-6 text-ink-soft">
-        Fondamenta in posa. L&apos;indice del giorno arriva con lo schema dei contenuti.
-      </p>
-    </div>
+    <>
+      <DailyIndex summaries={getSummaries()} queue={getQueue().items} />
+      <div className="mt-10 px-5">
+        <hr className="rule" />
+        <Link href="/impostazioni" className="label mt-4 inline-block">
+          Impostazioni
+        </Link>
+      </div>
+    </>
   )
 }

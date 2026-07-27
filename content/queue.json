@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-07-27T13:43:12.799Z",
+  "items": [
+    {
+      "id": "gueguen-2000-but-you-are-free",
+      "readingMinutes": 7,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "persuasione-compliance"
+      ]
+    },
+    {
+      "id": "johnson-2003-do-defaults-save-lives",
+      "readingMinutes": 8,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "choice-architecture-nudge",
+        "classici-fondativi"
+      ]
+    }
+  ]
+}

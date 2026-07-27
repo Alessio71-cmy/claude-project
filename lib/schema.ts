@@ -50,7 +50,7 @@ export type Depth = (typeof DEPTHS)[number]
  */
 export const DEPTH_WORDS: Record<Depth, { min: number; max: number }> = {
   breve: { min: 700, max: 950 },
-  standard: { min: 1400, max: 1700 },
+  standard: { min: 1100, max: 1700 },
   approfondito: { min: 2300, max: 2800 },
   dossier: { min: 3400, max: 4200 },
 }

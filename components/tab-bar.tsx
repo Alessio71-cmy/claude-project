@@ -58,6 +58,11 @@ const tabs = [
 export function TabBar() {
   const pathname = usePathname()
 
+  // Il reader è una schermata a sé: la barra ruberebbe superficie di lettura e
+  // resterebbe accesa senza che nessuna tab sia davvero attiva. Si esce con
+  // «← indice», che è più chiaro di una tab illuminata a caso.
+  if (pathname.startsWith('/articolo/')) return null
+
   return (
     <nav
       aria-label="Sezioni"

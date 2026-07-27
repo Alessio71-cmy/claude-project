@@ -1,0 +1,113 @@
+{
+  "id": "johnson-2003-do-defaults-save-lives",
+  "catalogId": "johnson-2003-do-defaults-save-lives",
+  "titleIt": "Chi non sceglie ha già scelto",
+  "titleOriginal": "Do Defaults Save Lives?",
+  "authors": [
+    "Johnson, Eric J.",
+    "Goldstein, Daniel G."
+  ],
+  "year": 2003,
+  "type": "studio",
+  "venue": "Science",
+  "sourceUrl": "https://doi.org/10.1126/science.1091721",
+  "doi": "10.1126/science.1091721",
+  "topics": [
+    "choice-architecture-nudge",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Due paesi europei confinanti, culture quasi identiche, e un divario di ottanta punti percentuali nella donazione di organi. La differenza non è nelle persone: è in quale casella era già spuntata."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "In Austria quasi tutti risultano donatori di organi, in Germania quasi nessuno. Non è una questione di sensibilità civica: in Austria bisogna dichiarare che *non* si vuole donare, in Germania bisogna dichiarare che si vuole. Cambiare quale opzione è già attiva sposta il comportamento di decine di punti percentuali, e lo fa senza togliere a nessuno la libertà di scegliere."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ogni interfaccia che progetti contiene default, e non puoi non prendere posizione. La casella preselezionata sul rinnovo automatico, il piano evidenziato come «consigliato», il livello di condivisione dati con cui parte un account nuovo, l'ordinamento iniziale di una lista: sono tutte scelte che hai fatto tu al posto di qualcun altro, e la maggior parte delle persone le lascerà così come le trova. Non esiste una posizione neutrale — anche non decidere è una decisione, che scarica sull'utente il costo di capire cosa gli conviene. Sapere quanto pesano i default serve a due cose opposte e ugualmente utili: usarli per portare le persone dove è nel loro interesse arrivare, e riconoscerli quando un cliente ti chiede di usarli contro l'utente."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "All'inizio degli anni Duemila i sistemi sanitari europei avevano un problema aritmetico: i pazienti in lista d'attesa per un trapianto crescevano più in fretta degli organi disponibili. La spiegazione corrente era culturale. Si dava per scontato che alcuni popoli fossero più generosi di altri, o più a proprio agio con l'idea della morte, e che la strada per aumentare le donazioni passasse dalle campagne di sensibilizzazione.",
+        "Eric Johnson e Daniel Goldstein, che studiavano decisioni economiche e non politiche sanitarie, notarono qualcosa che stonava con quella spiegazione. I tassi di consenso non si distribuivano come si distribuiscono i tratti culturali, cioè in modo graduale fra paesi vicini. Formavano invece due gruppi netti, separati da un salto enorme, e il confine fra i due gruppi non seguiva la geografia né la religione: seguiva la legge. Da una parte i paesi dove la donazione richiede un'iscrizione attiva, dall'altra quelli dove si è donatori per legge a meno di un rifiuto esplicito."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il lavoro pubblicato su *Science* combina due pezzi molto diversi, e vale la pena distinguerli perché hanno solidità differente.",
+        "Il primo è un confronto fra dati reali di paesi europei, raggruppati in base al regime legale: consenso esplicito da dare (*opt-in*) contro consenso presunto da revocare (*opt-out*). È un dato osservativo — nessuno ha assegnato i paesi a una condizione, quindi le differenze potrebbero in principio dipendere da altro.",
+        "Il secondo è un esperimento online, ed è quello che chiude il ragionamento. Ai partecipanti veniva chiesto di immaginare di essersi appena trasferiti in un nuovo stato e di decidere sulla donazione. A un gruppo veniva detto che nel nuovo stato, per default, si è donatori e si può cambiare; a un altro che per default non lo si è e si può cambiare; a un terzo si chiedeva di scegliere da zero, senza nessun default. Il compito era identico, lo sforzo per cambiare era identico — un clic — e i partecipanti erano assegnati a caso. Qui l'unica cosa che varia è quale opzione era già attiva."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Nei paesi a consenso presunto la quota di donatori registrati sfiora la totalità; in quelli a consenso esplicito resta bassissima, intorno a una persona su otto. Il divario, riportato dalla maggior parte delle fonti come un confronto fra circa il 99% e circa il 12-15%, è troppo grande per essere spiegato da differenze di sensibilità fra popoli che condividono lingua, confini e storia recente.",
+        "L'esperimento online mostra la stessa forma su un campione assegnato a caso: la condizione con default a favore produce molti più consensi della condizione con default contrario, e il gruppo senza default si colloca in mezzo. È il dettaglio decisivo. Se il divario fra Austria e Germania dipendesse dalla cultura, non dovrebbe ricomparire fra persone identiche a cui si cambia solo la casella preimpostata. Ricompare."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "La spiegazione pigra è che le persone siano indolenti, e che il default vinca perché cambiarlo costa fatica. È una parte della storia, ma da sola non basta: nell'esperimento il costo del cambio era un clic, e il default ha vinto comunque.",
+        "Le altre due componenti pesano di più. La prima è che un'opzione preimpostata viene letta come un consiglio: se il sistema è configurato così, qualcuno che ne sa più di me avrà pensato che sia la scelta sensata. La seconda riguarda il tipo di decisione. Su una domanda come la donazione di organi non esiste una preferenza già formata da consultare — bisogna costruirla al momento, ragionando su qualcosa di spiacevole. Quando una preferenza va costruita da zero e il tema è emotivamente costoso, l'opzione già presente diventa il modo di uscire dalla stanza senza aver deciso niente.",
+        "Da qui segue una previsione controintuitiva ma verificata: i default pesano *meno* dove le persone sanno già cosa vogliono. Su una scelta familiare e con preferenze chiare — che taglia di scarpe, quale pizza — la casella preselezionata conta poco. Su una scelta nuova, complicata o sgradevole, conta enormemente. Se vuoi sapere quanto sarà potente un default nel tuo prodotto, non chiederti quanto è facile cambiarlo: chiediti quanto è probabile che l'utente abbia già un'opinione."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più diretto è la configurazione della privacy in un account nuovo. Un servizio che parte con la condivisione dati attiva e un servizio che parte con la condivisione disattivata avranno popolazioni di utenti profondamente diverse, pur avendo lo stesso pannello di impostazioni e la stessa informativa. La differenza non è nell'interfaccia: è in quale stato ha l'account il primo giorno. Questo è anche il motivo per cui il GDPR insiste sul consenso come atto positivo — è la legge che prende posizione su un default, avendo capito quanto pesa.",
+        "Il secondo caso è il pricing. Quando in una tabella a tre piani uno è marcato «consigliato», quel piano non sta soltanto attirando l'occhio: sta funzionando come default sociale, un suggerimento su cosa scelgono le persone come te. Vale la pena verificare se il piano evidenziato è quello che serve davvero alla maggioranza degli utenti, o quello che conviene all'azienda. Nel primo caso hai progettato bene; nel secondo hai costruito una trappola con un'estetica gradevole.",
+        "Il terzo, meno ovvio, è l'onboarding dei prodotti B2B, dove chi configura non è chi userà. Un amministratore che imposta uno strumento per quaranta colleghi lascerà quasi tutto come lo trova, perché non ha le preferenze di quaranta persone da consultare. È esattamente la condizione — preferenze non formate, decisione faticosa — in cui i default sono più potenti. Le scelte che fai nella configurazione iniziale di un prodotto aziendale diventano di fatto le impostazioni permanenti di tutti."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il fraintendimento più diffuso, e quello che ti conviene evitare in una presentazione, è confondere il consenso registrato con il trapianto avvenuto. Il primo dato è quello dello studio; il secondo dipende dall'organizzazione ospedaliera, dal numero di rianimazioni attrezzate, dal coordinamento fra centri e dal ruolo che la legge assegna alla famiglia. Alcuni paesi con consenso presunto hanno tassi di trapianto reali inferiori a paesi con consenso esplicito ma un sistema logistico migliore. Chi cita questo studio per promettere «passiamo all'opt-out e i trapianti si moltiplicano» sta dicendo qualcosa che i dati non sostengono.",
+        "Poi c'è il confronto fra paesi, che resta osservativo: le nazioni non sono state assegnate a caso a un regime legale, e la legge stessa nasce dentro una cultura. È l'esperimento randomizzato a portare il peso della dimostrazione, e quell'esperimento è ipotetico — persone che rispondono a un questionario, non che compilano un modulo vero. Le due parti si sostengono a vicenda proprio perché hanno debolezze diverse.",
+        "Va detto infine che «i default funzionano» è una delle affermazioni più solide di questa letteratura, ma la *dimensione* dell'effetto cambia molto col contesto: nell'adesione automatica ai fondi pensione è enorme e replicato, in altri ambiti è modesto. Il numero da portarti dietro non è ottanta punti percentuali: è che l'ordine di grandezza dipende da quanto la decisione è nuova e costosa per chi la prende."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Non esiste un'interfaccia senza default: se non scegli tu, hai scelto di far pagare all'utente il costo di decidere.",
+        "Il default pesa in proporzione a quanto la decisione è nuova, complessa o sgradevole — non a quanto è difficile cambiarla.",
+        "Prima di difendere un default in una riunione, chiediti se è quello che l'utente sceglierebbe informato. Se la risposta è no, non stai progettando: stai raccogliendo."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Eric J. Johnson e Daniel G. Goldstein, «Do Defaults Save Lives?», *Science*, vol. 302, n. 5649, 2003, pp. 1338-1339. Il testo è breve — due pagine — e vale leggerlo in originale proprio per vedere quanto poco serve per sostenere un'affermazione forte. Accanto, il capitolo sui default in *Nudge* di Thaler e Sunstein estende il ragionamento all'architettura delle scelte in generale; e lo studio di Iyengar e Lepper sul numero di opzioni mostra il rovescio della stessa medaglia, cioè cosa accade quando invece di un default preimpostato si mette davanti alle persone un ventaglio troppo ampio."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "consenso registrato nei paesi opt-out contro opt-in",
+      "value": "circa 99% contro circa 12-15%"
+    }
+  ],
+  "wordCount": 1493,
+  "readingMinutes": 8,
+  "related": [
+    "iyengar-2000-when-choice-is-demotivating",
+    "thaler-2008-nudge"
+  ],
+  "generatedAt": "2026-07-27",
+  "model": "claude-opus-5"
+}

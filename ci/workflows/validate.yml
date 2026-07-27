@@ -1,0 +1,50 @@
+name: Validazione
+
+# Gira su ogni push: test, tipi, build e — soprattutto — il test
+# anti-allucinazione, che verifica che ogni cifra pubblicata negli articoli
+# esista nella voce di catalogo da cui nascono.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      check_links:
+        description: 'Verifica anche che gli URL del catalogo rispondano'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  verifica:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Test
+        # In fuso italiano, così i test sull'ora legale sono reali e non
+        # passano banalmente come farebbero in UTC.
+        run: TZ=Europe/Rome npm test
+
+      - name: Tipi
+        run: npm run type-check
+
+      - name: Catalogo e articoli
+        run: npm run validate
+
+      - name: URL del catalogo
+        if: inputs.check_links == true
+        run: node scripts/validate-catalog.mjs --check-links
+
+      - name: Build
+        run: npm run build

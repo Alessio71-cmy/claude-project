@@ -2,7 +2,10 @@
   {
     "id": "gueguen-2000-but-you-are-free",
     "titleOriginal": "Evocation of freedom and compliance: The 'but you are free of…' technique",
-    "authors": ["Guéguen, Nicolas", "Pascual, Alexandre"],
+    "authors": [
+      "Guéguen, Nicolas",
+      "Pascual, Alexandre"
+    ],
     "year": 2000,
     "type": "studio",
     "venue": "Current Research in Social Psychology",
@@ -10,7 +13,9 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=%22Evocation+of+freedom+and+compliance%22+Gueguen+Pascual",
     "linkVerified": false,
     "openAccess": true,
-    "topics": ["persuasione-compliance"],
+    "topics": [
+      "persuasione-compliance"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -27,7 +32,10 @@
   {
     "id": "freedman-1966-foot-in-the-door",
     "titleOriginal": "Compliance without pressure: The foot-in-the-door technique",
-    "authors": ["Freedman, Jonathan L.", "Fraser, Scott C."],
+    "authors": [
+      "Freedman, Jonathan L.",
+      "Fraser, Scott C."
+    ],
     "year": 1966,
     "type": "studio",
     "venue": "Journal of Personality and Social Psychology",
@@ -36,7 +44,10 @@
     "linkVerified": false,
     "doi": "10.1037/h0023552",
     "openAccess": false,
-    "topics": ["persuasione-compliance", "onboarding-attivazione"],
+    "topics": [
+      "persuasione-compliance",
+      "onboarding-attivazione"
+    ],
     "relevance": "fondamentale",
     "depth": "standard",
     "keyFindings": [
@@ -53,7 +64,14 @@
   {
     "id": "cialdini-1975-door-in-the-face",
     "titleOriginal": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
-    "authors": ["Cialdini, Robert B.", "Vincent, Joyce E.", "Lewis, Stephen K.", "Catalan, José", "Wheeler, Diane", "Darby, Betty Lee"],
+    "authors": [
+      "Cialdini, Robert B.",
+      "Vincent, Joyce E.",
+      "Lewis, Stephen K.",
+      "Catalan, José",
+      "Wheeler, Diane",
+      "Darby, Betty Lee"
+    ],
     "year": 1975,
     "type": "studio",
     "venue": "Journal of Personality and Social Psychology",
@@ -62,7 +80,10 @@
     "linkVerified": false,
     "doi": "10.1037/h0076284",
     "openAccess": false,
-    "topics": ["persuasione-compliance", "pricing-paywall"],
+    "topics": [
+      "persuasione-compliance",
+      "pricing-paywall"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -79,7 +100,10 @@
   {
     "id": "johnson-2003-do-defaults-save-lives",
     "titleOriginal": "Do Defaults Save Lives?",
-    "authors": ["Johnson, Eric J.", "Goldstein, Daniel G."],
+    "authors": [
+      "Johnson, Eric J.",
+      "Goldstein, Daniel G."
+    ],
     "year": 2003,
     "type": "studio",
     "venue": "Science",
@@ -88,9 +112,12 @@
     "linkVerified": false,
     "doi": "10.1126/science.1091721",
     "openAccess": false,
-    "topics": ["choice-architecture-nudge", "classici-fondativi"],
+    "topics": [
+      "choice-architecture-nudge",
+      "classici-fondativi"
+    ],
     "relevance": "fondamentale",
-    "depth": "approfondito",
+    "depth": "standard",
     "keyFindings": [
       {
         "claim": "nei paesi con adesione automatica (opt-out) alla donazione di organi il consenso effettivo è quasi totale, in quelli opt-in molto basso",
@@ -105,7 +132,10 @@
   {
     "id": "iyengar-2000-when-choice-is-demotivating",
     "titleOriginal": "When Choice is Demotivating: Can One Desire Too Much of a Good Thing?",
-    "authors": ["Iyengar, Sheena S.", "Lepper, Mark R."],
+    "authors": [
+      "Iyengar, Sheena S.",
+      "Lepper, Mark R."
+    ],
     "year": 2000,
     "type": "studio",
     "venue": "Journal of Personality and Social Psychology",
@@ -114,7 +144,10 @@
     "linkVerified": false,
     "doi": "10.1037/0022-3514.79.6.995",
     "openAccess": false,
-    "topics": ["choice-architecture-nudge", "onboarding-attivazione"],
+    "topics": [
+      "choice-architecture-nudge",
+      "onboarding-attivazione"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -131,7 +164,9 @@
   {
     "id": "zeigarnik-1927-compiti-incompiuti",
     "titleOriginal": "Das Behalten erledigter und unerledigter Handlungen",
-    "authors": ["Zeigarnik, Bluma"],
+    "authors": [
+      "Zeigarnik, Bluma"
+    ],
     "year": 1927,
     "type": "studio",
     "venue": "Psychologische Forschung",
@@ -139,7 +174,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=Zeigarnik+effect+unfinished+tasks+memory",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["classici-fondativi", "abitudini-retention"],
+    "topics": [
+      "classici-fondativi",
+      "abitudini-retention"
+    ],
     "relevance": "fondamentale",
     "depth": "standard",
     "keyFindings": [
@@ -156,7 +194,11 @@
   {
     "id": "kivetz-2006-goal-gradient",
     "titleOriginal": "The Goal-Gradient Hypothesis Resurrected: Purchase Acceleration, Illusionary Goal Progress, and Customer Retention",
-    "authors": ["Kivetz, Ran", "Urminsky, Oleg", "Zheng, Yuhuang"],
+    "authors": [
+      "Kivetz, Ran",
+      "Urminsky, Oleg",
+      "Zheng, Yuhuang"
+    ],
     "year": 2006,
     "type": "studio",
     "venue": "Journal of Marketing Research",
@@ -165,7 +207,10 @@
     "linkVerified": false,
     "doi": "10.1509/jmkr.43.1.39",
     "openAccess": false,
-    "topics": ["abitudini-retention", "onboarding-attivazione"],
+    "topics": [
+      "abitudini-retention",
+      "onboarding-attivazione"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -182,7 +227,11 @@
   {
     "id": "norton-2012-ikea-effect",
     "titleOriginal": "The IKEA effect: When labor leads to love",
-    "authors": ["Norton, Michael I.", "Mochon, Daniel", "Ariely, Dan"],
+    "authors": [
+      "Norton, Michael I.",
+      "Mochon, Daniel",
+      "Ariely, Dan"
+    ],
     "year": 2012,
     "type": "studio",
     "venue": "Journal of Consumer Psychology",
@@ -191,7 +240,10 @@
     "linkVerified": false,
     "doi": "10.1016/j.jcps.2011.08.002",
     "openAccess": false,
-    "topics": ["onboarding-attivazione", "emozione-fiducia"],
+    "topics": [
+      "onboarding-attivazione",
+      "emozione-fiducia"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -208,7 +260,12 @@
   {
     "id": "kahneman-1993-peak-end",
     "titleOriginal": "When More Pain Is Preferred to Less: Adding a Better End",
-    "authors": ["Kahneman, Daniel", "Fredrickson, Barbara L.", "Schreiber, Charles A.", "Redelmeier, Donald A."],
+    "authors": [
+      "Kahneman, Daniel",
+      "Fredrickson, Barbara L.",
+      "Schreiber, Charles A.",
+      "Redelmeier, Donald A."
+    ],
     "year": 1993,
     "type": "studio",
     "venue": "Psychological Science",
@@ -217,7 +274,10 @@
     "linkVerified": false,
     "doi": "10.1111/j.1467-9280.1993.tb00589.x",
     "openAccess": false,
-    "topics": ["emozione-fiducia", "classici-fondativi"],
+    "topics": [
+      "emozione-fiducia",
+      "classici-fondativi"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -234,7 +294,11 @@
   {
     "id": "goldstein-2008-asciugamani-hotel",
     "titleOriginal": "A Room with a Viewpoint: Using Social Norms to Motivate Environmental Conservation in Hotels",
-    "authors": ["Goldstein, Noah J.", "Cialdini, Robert B.", "Griskevicius, Vladas"],
+    "authors": [
+      "Goldstein, Noah J.",
+      "Cialdini, Robert B.",
+      "Griskevicius, Vladas"
+    ],
     "year": 2008,
     "type": "studio",
     "venue": "Journal of Consumer Research",
@@ -243,7 +307,10 @@
     "linkVerified": false,
     "doi": "10.1086/586910",
     "openAccess": false,
-    "topics": ["persuasione-compliance", "choice-architecture-nudge"],
+    "topics": [
+      "persuasione-compliance",
+      "choice-architecture-nudge"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -260,7 +327,11 @@
   {
     "id": "worchel-1975-scarsita-biscotti",
     "titleOriginal": "Effects of supply and demand on ratings of object value",
-    "authors": ["Worchel, Stephen", "Lee, Jerry", "Adewole, Akanbi"],
+    "authors": [
+      "Worchel, Stephen",
+      "Lee, Jerry",
+      "Adewole, Akanbi"
+    ],
     "year": 1975,
     "type": "studio",
     "venue": "Journal of Personality and Social Psychology",
@@ -269,7 +340,10 @@
     "linkVerified": false,
     "doi": "10.1037/0022-3514.32.5.906",
     "openAccess": false,
-    "topics": ["persuasione-compliance", "pricing-paywall"],
+    "topics": [
+      "persuasione-compliance",
+      "pricing-paywall"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -286,7 +360,11 @@
   {
     "id": "dai-2014-fresh-start-effect",
     "titleOriginal": "The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior",
-    "authors": ["Dai, Hengchen", "Milkman, Katherine L.", "Riis, Jason"],
+    "authors": [
+      "Dai, Hengchen",
+      "Milkman, Katherine L.",
+      "Riis, Jason"
+    ],
     "year": 2014,
     "type": "studio",
     "venue": "Management Science",
@@ -295,7 +373,10 @@
     "linkVerified": false,
     "doi": "10.1287/mnsc.2014.1901",
     "openAccess": false,
-    "topics": ["abitudini-retention", "onboarding-attivazione"],
+    "topics": [
+      "abitudini-retention",
+      "onboarding-attivazione"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -312,7 +393,9 @@
   {
     "id": "schull-2012-addiction-by-design",
     "titleOriginal": "Addiction by Design: Machine Gambling in Las Vegas",
-    "authors": ["Schüll, Natasha Dow"],
+    "authors": [
+      "Schüll, Natasha Dow"
+    ],
     "year": 2012,
     "type": "libro",
     "venue": "Princeton University Press",
@@ -320,7 +403,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=%22Addiction+by+Design%22+Schull+machine+gambling",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["abitudini-retention", "dark-pattern-etica"],
+    "topics": [
+      "abitudini-retention",
+      "dark-pattern-etica"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -337,7 +423,9 @@
   {
     "id": "fogg-2003-persuasive-technology",
     "titleOriginal": "Persuasive Technology: Using Computers to Change What We Think and Do",
-    "authors": ["Fogg, B. J."],
+    "authors": [
+      "Fogg, B. J."
+    ],
     "year": 2003,
     "type": "libro",
     "venue": "Morgan Kaufmann",
@@ -345,7 +433,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=%22Persuasive+Technology%22+Fogg+2003",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["persuasione-compliance", "classici-fondativi"],
+    "topics": [
+      "persuasione-compliance",
+      "classici-fondativi"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -362,7 +453,9 @@
   {
     "id": "cialdini-2021-influence",
     "titleOriginal": "Influence: The Psychology of Persuasion (New and Expanded)",
-    "authors": ["Cialdini, Robert B."],
+    "authors": [
+      "Cialdini, Robert B."
+    ],
     "year": 2021,
     "type": "libro",
     "venue": "Harper Business",
@@ -370,7 +463,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=Cialdini+Influence+psychology+of+persuasion",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["persuasione-compliance", "classici-fondativi"],
+    "topics": [
+      "persuasione-compliance",
+      "classici-fondativi"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -387,7 +483,9 @@
   {
     "id": "kahneman-2011-thinking-fast-slow",
     "titleOriginal": "Thinking, Fast and Slow",
-    "authors": ["Kahneman, Daniel"],
+    "authors": [
+      "Kahneman, Daniel"
+    ],
     "year": 2011,
     "type": "libro",
     "venue": "Farrar, Straus and Giroux",
@@ -395,7 +493,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=Kahneman+Thinking+Fast+and+Slow",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["bias-euristiche", "classici-fondativi"],
+    "topics": [
+      "bias-euristiche",
+      "classici-fondativi"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -412,7 +513,10 @@
   {
     "id": "thaler-2008-nudge",
     "titleOriginal": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
-    "authors": ["Thaler, Richard H.", "Sunstein, Cass R."],
+    "authors": [
+      "Thaler, Richard H.",
+      "Sunstein, Cass R."
+    ],
     "year": 2008,
     "type": "libro",
     "venue": "Yale University Press",
@@ -420,7 +524,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=Thaler+Sunstein+Nudge+improving+decisions",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["choice-architecture-nudge", "classici-fondativi"],
+    "topics": [
+      "choice-architecture-nudge",
+      "classici-fondativi"
+    ],
     "relevance": "fondamentale",
     "depth": "approfondito",
     "keyFindings": [
@@ -437,7 +544,9 @@
   {
     "id": "eyal-2014-hooked",
     "titleOriginal": "Hooked: How to Build Habit-Forming Products",
-    "authors": ["Eyal, Nir"],
+    "authors": [
+      "Eyal, Nir"
+    ],
     "year": 2014,
     "type": "libro",
     "venue": "Portfolio",
@@ -445,7 +554,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=Nir+Eyal+Hooked+habit+forming+products",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["abitudini-retention", "onboarding-attivazione"],
+    "topics": [
+      "abitudini-retention",
+      "onboarding-attivazione"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -462,7 +574,9 @@
   {
     "id": "yablonski-2020-laws-of-ux",
     "titleOriginal": "Laws of UX: Using Psychology to Design Better Products & Services",
-    "authors": ["Yablonski, Jon"],
+    "authors": [
+      "Yablonski, Jon"
+    ],
     "year": 2020,
     "type": "libro",
     "venue": "O'Reilly Media",
@@ -470,7 +584,10 @@
     "fallbackUrl": "https://www.oreilly.com/library/view/laws-of-ux/9781492055303/",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["accessibilita-cognitiva", "metodo-ricerca"],
+    "topics": [
+      "accessibilita-cognitiva",
+      "metodo-ricerca"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -487,7 +604,9 @@
   {
     "id": "nodder-2013-evil-by-design",
     "titleOriginal": "Evil by Design: Interaction Design to Lead Us into Temptation",
-    "authors": ["Nodder, Chris"],
+    "authors": [
+      "Nodder, Chris"
+    ],
     "year": 2013,
     "type": "libro",
     "venue": "Wiley",
@@ -495,7 +614,10 @@
     "fallbackUrl": "https://scholar.google.com/scholar?q=%22Evil+by+Design%22+Nodder+interaction+design+temptation",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["dark-pattern-etica", "persuasione-compliance"],
+    "topics": [
+      "dark-pattern-etica",
+      "persuasione-compliance"
+    ],
     "relevance": "applicabile-subito",
     "depth": "standard",
     "keyFindings": [
@@ -512,7 +634,10 @@
   {
     "id": "growth-design-case-studies",
     "titleOriginal": "Growth.Design — Product Psychology Case Studies",
-    "authors": ["Chevalier, Dan", "Lemay, Louis-Xavier"],
+    "authors": [
+      "Chevalier, Dan",
+      "Lemay, Louis-Xavier"
+    ],
     "year": 2024,
     "type": "case-study",
     "venue": "growth.design",
@@ -520,7 +645,10 @@
     "fallbackUrl": "https://growth.design/",
     "linkVerified": false,
     "openAccess": true,
-    "topics": ["case-study-prodotto", "abitudini-retention"],
+    "topics": [
+      "case-study-prodotto",
+      "abitudini-retention"
+    ],
     "relevance": "applicabile-subito",
     "depth": "breve",
     "keyFindings": [
@@ -537,7 +665,9 @@
   {
     "id": "nngroup-psychology-for-ux",
     "titleOriginal": "Nielsen Norman Group — Psychology and Human Behavior for UX",
-    "authors": ["Nielsen Norman Group"],
+    "authors": [
+      "Nielsen Norman Group"
+    ],
     "year": 2024,
     "type": "articolo",
     "venue": "nngroup.com",
@@ -545,7 +675,10 @@
     "fallbackUrl": "https://www.nngroup.com/articles/",
     "linkVerified": false,
     "openAccess": true,
-    "topics": ["metodo-ricerca", "accessibilita-cognitiva"],
+    "topics": [
+      "metodo-ricerca",
+      "accessibilita-cognitiva"
+    ],
     "relevance": "applicabile-subito",
     "depth": "breve",
     "keyFindings": [
@@ -562,7 +695,9 @@
   {
     "id": "the-decision-lab-biases",
     "titleOriginal": "The Decision Lab — Biases index e Insights",
-    "authors": ["The Decision Lab"],
+    "authors": [
+      "The Decision Lab"
+    ],
     "year": 2024,
     "type": "articolo",
     "venue": "thedecisionlab.com",
@@ -570,7 +705,10 @@
     "fallbackUrl": "https://thedecisionlab.com/insights",
     "linkVerified": false,
     "openAccess": true,
-    "topics": ["bias-euristiche", "metodo-ricerca"],
+    "topics": [
+      "bias-euristiche",
+      "metodo-ricerca"
+    ],
     "relevance": "contesto",
     "depth": "breve",
     "keyFindings": [
@@ -587,7 +725,9 @@
   {
     "id": "acm-chi-proceedings",
     "titleOriginal": "ACM CHI Conference on Human Factors in Computing Systems — Proceedings",
-    "authors": ["ACM SIGCHI"],
+    "authors": [
+      "ACM SIGCHI"
+    ],
     "year": 2025,
     "type": "paper",
     "venue": "ACM Digital Library",
@@ -595,7 +735,11 @@
     "fallbackUrl": "https://chi2025.acm.org/",
     "linkVerified": false,
     "openAccess": false,
-    "topics": ["dark-pattern-etica", "metodo-ricerca", "attenzione-economia-attenzione"],
+    "topics": [
+      "dark-pattern-etica",
+      "metodo-ricerca",
+      "attenzione-economia-attenzione"
+    ],
     "relevance": "contesto",
     "depth": "breve",
     "keyFindings": [
@@ -612,7 +756,9 @@
   {
     "id": "arxiv-cs-hc-dark-patterns",
     "titleOriginal": "arXiv cs.HC — Human-Computer Interaction",
-    "authors": ["arXiv"],
+    "authors": [
+      "arXiv"
+    ],
     "year": 2025,
     "type": "paper",
     "venue": "arxiv.org",
@@ -620,7 +766,10 @@
     "fallbackUrl": "https://arxiv.org/list/cs.HC/recent",
     "linkVerified": false,
     "openAccess": true,
-    "topics": ["dark-pattern-etica", "attenzione-economia-attenzione"],
+    "topics": [
+      "dark-pattern-etica",
+      "attenzione-economia-attenzione"
+    ],
     "relevance": "contesto",
     "depth": "breve",
     "keyFindings": [

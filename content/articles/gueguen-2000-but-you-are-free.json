@@ -1,0 +1,112 @@
+{
+  "id": "gueguen-2000-but-you-are-free",
+  "catalogId": "gueguen-2000-but-you-are-free",
+  "titleIt": "Sei libero di dire no",
+  "titleOriginal": "Evocation of freedom and compliance: The 'but you are free of…' technique",
+  "authors": [
+    "Guéguen, Nicolas",
+    "Pascual, Alexandre"
+  ],
+  "year": 2000,
+  "type": "studio",
+  "venue": "Current Research in Social Psychology",
+  "sourceUrl": "https://crisp.org.uiowa.edu/",
+  "topics": [
+    "persuasione-compliance"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Sei parole aggiunte alla fine di una richiesta, che non cambiano nulla di ciò che stai chiedendo, e la gente accetta molto più spesso. Ricordare all'altro che può rifiutare rende il sì più probabile."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Chiedere qualcosa aggiungendo «ma sei libero di accettare o di rifiutare» aumenta sensibilmente la probabilità che l'altro accetti. La frase non toglie e non aggiunge niente alla richiesta: restituisce esplicitamente all'altro una libertà che aveva già, e questo basta a cambiare la risposta."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è una delle pochissime leve persuasive che funzionano *aumentando* l'autonomia percepita invece di comprimerla, e questo la rende usabile senza doverti giustificare. Ogni momento in cui il tuo prodotto chiede qualcosa all'utente — l'email prima di provare il servizio, il permesso alle notifiche, l'accesso alla rubrica, un upsell nel checkout — è un punto in cui la sensazione di essere spinti fa crollare l'adesione. Qui la contromisura non è nascondere la richiesta o renderla più difficile da rifiutare: è dire chiaramente che si può rifiutare. È anche il rovescio esatto del dark pattern: al posto di un «no grazie, preferisco restare disinformato» scritto per far vergognare, una riga che dice che entrambe le strade sono legittime."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "La psicologia sociale conosceva da tempo il concetto di reattanza, formalizzato da Jack Brehm negli anni Sessanta: quando percepiamo che qualcuno sta limitando la nostra libertà di scelta, reagiamo difendendola, spesso facendo l'opposto di ciò che ci viene chiesto. È il meccanismo per cui un divieto rende una cosa più attraente, e per cui una richiesta insistente ottiene meno di una richiesta posata.",
+        "Nicolas Guéguen e Alexandre Pascual, che lavoravano su tecniche di compliance nel contesto francese, si posero una domanda semplice e poco esplorata: se togliere libertà genera resistenza, restituirla esplicitamente può ridurla? La formula che scelsero — «mais vous êtes libre de accepter ou de refuser» — è deliberatamente banale, perché è proprio la sua banalità a rendere interessante l'esito."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "L'esperimento originale è di campo, non di laboratorio, ed è disarmante nella sua semplicità: fermare passanti per strada e chiedere una piccola somma per l'autobus. Metà delle richieste finivano lì; l'altra metà aggiungeva la frase sulla libertà di rifiutare. Nessun'altra differenza: stessa somma, stessa formulazione, stessi sperimentatori.",
+        "La misura è il tasso di accettazione, ed è una misura pulita: dare o non dare i soldi è un comportamento osservabile, non un'intenzione dichiarata in un questionario. Il disegno è quindi robusto proprio dove molti studi persuasivi sono fragili, cioè nel non doversi fidare di ciò che le persone dicono che farebbero."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il gruppo che riceveva la frase sulla libertà accettava molto più spesso: il tasso di accettazione risulta **circa raddoppiato** rispetto alla richiesta nuda. Nelle repliche successive l'effetto si è mostrato anche su canali diversi dal contatto di persona, incluse richieste per email e su modulo, che è la parte che ci riguarda direttamente.",
+        "Una precisazione necessaria: le percentuali esatte ballano da una fonte secondaria all'altra, perché lo studio originale e le sue molte repliche partono da tassi base molto diversi. Il numero da tenere è quello della sintesi complessiva, non quello del singolo esperimento — e su questo torno più sotto."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il punto non è che la frase renda la richiesta più attraente: è che disinnesca la difesa. Davanti a una richiesta, parte del lavoro mentale di chi ascolta è capire se sta subendo una pressione. Se la risposta è sì, l'attenzione si sposta dal merito della richiesta alla difesa dell'autonomia, e il rifiuto diventa un modo di riaffermarsi. Nominare esplicitamente la libertà di rifiutare toglie di mezzo quella domanda: siccome nessuno sta forzando, l'unica cosa rimasta da valutare è se la richiesta in sé ha senso.",
+        "C'è una seconda componente, più sottile. Chi si prende la briga di ricordarti che puoi dire no comunica di non considerarti un bersaglio da convertire, e questo cambia il rapporto: la richiesta arriva da qualcuno che ti riconosce come capace di decidere. È lo stesso motivo per cui, nella conversazione fra persone, «se ti va» ottiene più di «devi»."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più immediato è il permesso alle notifiche, il momento in cui più prodotti si giocano male una carta. La versione ansiosa insiste sui benefici e nasconde il rifiuto in un link grigio; la versione che segue questo studio dice cosa manderà, con quale frequenza, e aggiunge che si può rifiutare adesso e attivare dopo dalle impostazioni — precisando che entrambe le opzioni vanno bene. Il tasso di accettazione tende a salire, e soprattutto salgono le accettazioni di chi poi non revoca il permesso, che è la metrica che conta davvero.",
+        "Il secondo è la raccolta di dati non obbligatori in un form: il campo «ruolo in azienda» o «dimensione del team» chiesto in fase di prova. Marcarlo come facoltativo con una riga esplicita — non con un asterisco assente, che nessuno decodifica — aumenta le risposte reali e riduce quelle inventate per superare lo step. Vale la pena notare la conseguenza controintuitiva: dichiarare un campo opzionale può ottenere *più* dati di quanti se ne ottengano rendendolo obbligatorio, perché elimina l'incentivo a mentire.",
+        "Il terzo è la disdetta. Un flusso di cancellazione che dice «puoi disattivare il rinnovo adesso e continuare a usare il servizio fino alla scadenza; se preferisci restare, ecco cosa cambia» ottiene paradossalmente più ripensamenti di un flusso che frappone ostacoli. La ragione è la stessa: davanti a un ostacolo l'utente smette di valutare il servizio e comincia a difendersi dall'azienda."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Questo è il punto in cui il brief da cui parte questa raccolta va corretto. «Raddoppia il tasso di accettazione» descrive bene l'esperimento originale, ma non descrive l'effetto medio della tecnica: la meta-analisi di Christopher Carpenter (2013), che raccoglie decine di repliche, stima un effetto piccolo ma consistente, nell'ordine di **d≈0,27**. Piccolo e consistente è comunque una buona notizia — significa che funziona spesso e in molti contesti — ma è un'affermazione diversa da «raddoppia», e in una presentazione a un cliente la differenza è tutta.",
+        "Ci sono poi due condizioni che ne limitano la portata. La prima è che funziona su richieste piccole: nessuna frase sulla libertà rende accettabile una richiesta sproporzionata. La seconda è che la formula si consuma. Ripetuta in ogni schermata diventa un tic riconoscibile, e a quel punto viene letta come la tecnica che è, ottenendo l'effetto opposto. È una leva da usare nei due o tre momenti in cui la richiesta è davvero delicata, non un template da spargere nell'interfaccia."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Rendere esplicita la libertà di rifiutare aumenta i sì, perché sposta l'attenzione dalla difesa dell'autonomia al merito della richiesta.",
+        "Cita l'effetto come «piccolo ma replicato», non come «raddoppia»: la meta-analisi non sostiene la versione forte, e un cliente informato potrebbe saperlo.",
+        "Usalo dove la richiesta è delicata e una volta sola per flusso. Ripetuto diventa una formula, e le formule si vedono."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Nicolas Guéguen e Alexandre Pascual, «Evocation of freedom and compliance: The 'but you are free of…' technique», *Current Research in Social Psychology*, 2000. La rivista è open access, quindi il testo è raggiungibile senza abbonamento. Accanto conviene leggere la meta-analisi di Carpenter del 2013 sulla tecnica BYAF, che è il riferimento corretto da citare quando serve un numero, e la teoria della reattanza di Brehm, che spiega perché la frase funziona. Nella stessa famiglia, il foot-in-the-door di Freedman e Fraser mostra la strategia opposta: invece di ridurre la pressione, costruire progressivamente l'impegno."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "effetto nell'esperimento originale",
+      "value": "circa raddoppiato"
+    },
+    {
+      "label": "effetto medio nella meta-analisi Carpenter 2013",
+      "value": "d≈0,27"
+    }
+  ],
+  "wordCount": 1183,
+  "readingMinutes": 7,
+  "related": [
+    "freedman-1966-foot-in-the-door",
+    "cialdini-2021-influence"
+  ],
+  "generatedAt": "2026-07-27",
+  "model": "claude-opus-5"
+}

@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Instrument_Serif, Newsreader } from 'next/font/google'
 import { TabBar } from '@/components/tab-bar'
+import { SwRegister } from '@/components/sw-register'
 import './globals.css'
 
 const display = Instrument_Serif({
@@ -60,6 +61,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="it" className={`${display.variable} ${body.variable}`}>
       <body>
+        <SwRegister />
         <div className="relative z-1 mx-auto flex min-h-[100dvh] max-w-[42rem] flex-col">
           <main id="contenuto" className="flex-1 pb-24">
             {children}

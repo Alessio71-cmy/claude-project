@@ -1,0 +1,51 @@
+name: Promemoria delle 10
+
+# Manda la notifica push all'iPhone. Nessun modello coinvolto: codice puro.
+#
+# L'orario è in UTC, quindi il cron va cambiato due volte l'anno se vuoi le
+# 10:00 esatte tutto l'anno. Le 08:00 UTC sono le 10:00 italiane da fine marzo
+# a fine ottobre; d'inverno diventano le 09:00. Il cron di GitHub slitta
+# comunque di qualche minuto, quindi l'approssimazione è dello stesso ordine
+# dell'imprecisione dello scheduler.
+#
+# NOTA: `schedule` funziona solo dal branch di default (vedi ci/README.md).
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Componi il messaggio senza spedirlo'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  promemoria:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Spedisci
+        env:
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          PUSH_SUBSCRIPTION: ${{ secrets.PUSH_SUBSCRIPTION }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/notify.mjs --dry-run
+          else
+            node scripts/notify.mjs
+          fi
