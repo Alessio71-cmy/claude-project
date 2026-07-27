@@ -1,0 +1,637 @@
+[
+  {
+    "id": "gueguen-2000-but-you-are-free",
+    "titleOriginal": "Evocation of freedom and compliance: The 'but you are free of…' technique",
+    "authors": ["Guéguen, Nicolas", "Pascual, Alexandre"],
+    "year": 2000,
+    "type": "studio",
+    "venue": "Current Research in Social Psychology",
+    "sourceUrl": "https://crisp.org.uiowa.edu/",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Evocation+of+freedom+and+compliance%22+Gueguen+Pascual",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": ["persuasione-compliance"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "aggiungere «sei libero di accettare o rifiutare» a una richiesta di elemosina aumenta molto il tasso di accettazione",
+        "value": "circa raddoppiato",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Le cifre esatte variano fra le fonti secondarie. La meta-analisi di Carpenter (2013) stima un effetto medio piccolo ma consistente (d≈0,27) su decine di repliche: da citare con quella cautela, non come «raddoppia sempre».",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "freedman-1966-foot-in-the-door",
+    "titleOriginal": "Compliance without pressure: The foot-in-the-door technique",
+    "authors": ["Freedman, Jonathan L.", "Fraser, Scott C."],
+    "year": 1966,
+    "type": "studio",
+    "venue": "Journal of Personality and Social Psychology",
+    "sourceUrl": "https://doi.org/10.1037/h0023552",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Compliance+without+pressure%22+Freedman+Fraser+1966",
+    "linkVerified": false,
+    "doi": "10.1037/h0023552",
+    "openAccess": false,
+    "topics": ["persuasione-compliance", "onboarding-attivazione"],
+    "relevance": "fondamentale",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "accettare prima una piccola richiesta aumenta l'adesione a una richiesta grande successiva",
+        "value": "52,8% contro 22,2% nel gruppo senza richiesta iniziale",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "È il ceppo da cui nascono gli onboarding a piccoli passi. Attenzione: l'effetto si attenua quando la seconda richiesta arriva da un soggetto percepito come diverso dal primo.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "cialdini-1975-door-in-the-face",
+    "titleOriginal": "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique",
+    "authors": ["Cialdini, Robert B.", "Vincent, Joyce E.", "Lewis, Stephen K.", "Catalan, José", "Wheeler, Diane", "Darby, Betty Lee"],
+    "year": 1975,
+    "type": "studio",
+    "venue": "Journal of Personality and Social Psychology",
+    "sourceUrl": "https://doi.org/10.1037/h0076284",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22door-in-the-face%22+Cialdini+1975+reciprocal+concessions",
+    "linkVerified": false,
+    "doi": "10.1037/h0076284",
+    "openAccess": false,
+    "topics": ["persuasione-compliance", "pricing-paywall"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "una richiesta grande rifiutata rende molto più accettabile una richiesta piccola successiva",
+        "value": "circa 50% contro 17% del gruppo di controllo",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "È lo schema dei paywall «a scalare»: piano premium mostrato prima del base. Funziona solo se le due richieste arrivano dalla stessa fonte e a breve distanza.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "johnson-2003-do-defaults-save-lives",
+    "titleOriginal": "Do Defaults Save Lives?",
+    "authors": ["Johnson, Eric J.", "Goldstein, Daniel G."],
+    "year": 2003,
+    "type": "studio",
+    "venue": "Science",
+    "sourceUrl": "https://doi.org/10.1126/science.1091721",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Do+Defaults+Save+Lives%22+Johnson+Goldstein",
+    "linkVerified": false,
+    "doi": "10.1126/science.1091721",
+    "openAccess": false,
+    "topics": ["choice-architecture-nudge", "classici-fondativi"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "nei paesi con adesione automatica (opt-out) alla donazione di organi il consenso effettivo è quasi totale, in quelli opt-in molto basso",
+        "value": "circa 99% contro circa 12-15%",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il fraintendimento più comune: il consenso registrato non equivale ai trapianti effettivi, che dipendono anche dall'organizzazione sanitaria. Da usare per argomentare la forza dei default, non per promettere risultati proporzionali.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "iyengar-2000-when-choice-is-demotivating",
+    "titleOriginal": "When Choice is Demotivating: Can One Desire Too Much of a Good Thing?",
+    "authors": ["Iyengar, Sheena S.", "Lepper, Mark R."],
+    "year": 2000,
+    "type": "studio",
+    "venue": "Journal of Personality and Social Psychology",
+    "sourceUrl": "https://doi.org/10.1037/0022-3514.79.6.995",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22When+Choice+is+Demotivating%22+Iyengar+Lepper",
+    "linkVerified": false,
+    "doi": "10.1037/0022-3514.79.6.995",
+    "openAccess": false,
+    "topics": ["choice-architecture-nudge", "onboarding-attivazione"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "il banco con 24 marmellate attira più curiosità ma vende molto meno di quello con 6",
+        "value": "3% di acquisti contro 30%",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Studio molto citato e molto contestato: la meta-analisi di Scheibehenne, Greifeneder & Todd (2010) trova un effetto medio prossimo allo zero, con moderatori forti (competenza del soggetto, chiarezza delle preferenze). Da portare in un deck solo insieme a questa cautela.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "zeigarnik-1927-compiti-incompiuti",
+    "titleOriginal": "Das Behalten erledigter und unerledigter Handlungen",
+    "authors": ["Zeigarnik, Bluma"],
+    "year": 1927,
+    "type": "studio",
+    "venue": "Psychologische Forschung",
+    "sourceUrl": "https://scholar.google.com/scholar?q=Zeigarnik+1927+Das+Behalten+erledigter+und+unerledigter+Handlungen",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Zeigarnik+effect+unfinished+tasks+memory",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["classici-fondativi", "abitudini-retention"],
+    "relevance": "fondamentale",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "i compiti interrotti vengono ricordati meglio di quelli portati a termine",
+        "value": "ricordo superiore per gli incompiuti",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Le repliche moderne sono contrastanti e l'effetto originale è più fragile di come viene raccontato. Resta la cornice concettuale dietro progress bar, «profilo completo all'80%» e streak, ma il numero preciso non esiste: non citarne uno.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "kivetz-2006-goal-gradient",
+    "titleOriginal": "The Goal-Gradient Hypothesis Resurrected: Purchase Acceleration, Illusionary Goal Progress, and Customer Retention",
+    "authors": ["Kivetz, Ran", "Urminsky, Oleg", "Zheng, Yuhuang"],
+    "year": 2006,
+    "type": "studio",
+    "venue": "Journal of Marketing Research",
+    "sourceUrl": "https://doi.org/10.1509/jmkr.43.1.39",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Goal-Gradient+Hypothesis+Resurrected%22+Kivetz",
+    "linkVerified": false,
+    "doi": "10.1509/jmkr.43.1.39",
+    "openAccess": false,
+    "topics": ["abitudini-retention", "onboarding-attivazione"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "una carta fedeltà che parte con timbri regalati viene completata più in fretta di una identica ma vuota",
+        "value": "completamento più rapido con progresso «illusorio»",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "È la giustificazione delle progress bar non lineari: partire «già avanti» motiva più che partire da zero. Il meccanismo è lo stesso dell'endowed progress effect di Nunes & Drèze.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "norton-2012-ikea-effect",
+    "titleOriginal": "The IKEA effect: When labor leads to love",
+    "authors": ["Norton, Michael I.", "Mochon, Daniel", "Ariely, Dan"],
+    "year": 2012,
+    "type": "studio",
+    "venue": "Journal of Consumer Psychology",
+    "sourceUrl": "https://doi.org/10.1016/j.jcps.2011.08.002",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22The+IKEA+effect%22+Norton+Mochon+Ariely",
+    "linkVerified": false,
+    "doi": "10.1016/j.jcps.2011.08.002",
+    "openAccess": false,
+    "topics": ["onboarding-attivazione", "emozione-fiducia"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "le persone attribuiscono più valore agli oggetti che hanno contribuito a costruire",
+        "value": "disponibilità a pagare più alta per il proprio manufatto",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il brief di partenza lo datava 2011: quello è l'anno del working paper, la pubblicazione su JCP è 2012. L'effetto svanisce se il compito non viene portato a termine — dettaglio che conta per gli onboarding: un setup guidato abbandonato a metà non genera attaccamento, lo riduce.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "kahneman-1993-peak-end",
+    "titleOriginal": "When More Pain Is Preferred to Less: Adding a Better End",
+    "authors": ["Kahneman, Daniel", "Fredrickson, Barbara L.", "Schreiber, Charles A.", "Redelmeier, Donald A."],
+    "year": 1993,
+    "type": "studio",
+    "venue": "Psychological Science",
+    "sourceUrl": "https://doi.org/10.1111/j.1467-9280.1993.tb00589.x",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22When+More+Pain+Is+Preferred+to+Less%22+Kahneman+1993",
+    "linkVerified": false,
+    "doi": "10.1111/j.1467-9280.1993.tb00589.x",
+    "openAccess": false,
+    "topics": ["emozione-fiducia", "classici-fondativi"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "un'esperienza più lunga con un finale migliore viene ricordata come meno spiacevole di una più breve ma con finale peggiore",
+        "value": "preferenza per la versione più lunga, nonostante il dolore totale maggiore",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Correzione a una confusione frequente, presente anche nel brief di partenza: lo studio del 1993 è quello della mano nell'acqua fredda. Lo studio sulla colonscopia è Redelmeier & Kahneman (1996), un lavoro diverso. Chi cita «Kahneman 1993, colonscopia» sta sovrapponendo due ricerche.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "goldstein-2008-asciugamani-hotel",
+    "titleOriginal": "A Room with a Viewpoint: Using Social Norms to Motivate Environmental Conservation in Hotels",
+    "authors": ["Goldstein, Noah J.", "Cialdini, Robert B.", "Griskevicius, Vladas"],
+    "year": 2008,
+    "type": "studio",
+    "venue": "Journal of Consumer Research",
+    "sourceUrl": "https://doi.org/10.1086/586910",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22A+Room+with+a+Viewpoint%22+Goldstein+Cialdini+Griskevicius",
+    "linkVerified": false,
+    "doi": "10.1086/586910",
+    "openAccess": false,
+    "topics": ["persuasione-compliance", "choice-architecture-nudge"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "il messaggio che cita il comportamento degli ospiti della stessa stanza batte l'appello ambientalista generico",
+        "value": "riutilizzo degli asciugamani più alto con la norma descrittiva locale",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Nel brief di partenza l'ordine degli autori era «Cialdini, Goldstein & Griskevicius»: il primo autore su JCR è Goldstein. Il punto operativo è la specificità del gruppo di riferimento — «gli ospiti di questa stanza» funziona più di «i nostri ospiti».",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "worchel-1975-scarsita-biscotti",
+    "titleOriginal": "Effects of supply and demand on ratings of object value",
+    "authors": ["Worchel, Stephen", "Lee, Jerry", "Adewole, Akanbi"],
+    "year": 1975,
+    "type": "studio",
+    "venue": "Journal of Personality and Social Psychology",
+    "sourceUrl": "https://doi.org/10.1037/0022-3514.32.5.906",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Worchel+Lee+Adewole+1975+supply+demand+object+value+cookies",
+    "linkVerified": false,
+    "doi": "10.1037/0022-3514.32.5.906",
+    "openAccess": false,
+    "topics": ["persuasione-compliance", "pricing-paywall"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "gli stessi biscotti in un barattolo quasi vuoto vengono giudicati più desiderabili che in uno pieno",
+        "value": "valutazione più alta in condizione di scarsità",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "È il ceppo dei countdown e dei «solo 2 posti rimasti». La variante importante dello studio: la scarsità creata da alta domanda pesa più della scarsità dovuta a poca disponibilità — cioè «lo stanno prendendo tutti» batte «ne restano pochi».",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "dai-2014-fresh-start-effect",
+    "titleOriginal": "The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior",
+    "authors": ["Dai, Hengchen", "Milkman, Katherine L.", "Riis, Jason"],
+    "year": 2014,
+    "type": "studio",
+    "venue": "Management Science",
+    "sourceUrl": "https://doi.org/10.1287/mnsc.2014.1901",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22The+Fresh+Start+Effect%22+Dai+Milkman+Riis",
+    "linkVerified": false,
+    "doi": "10.1287/mnsc.2014.1901",
+    "openAccess": false,
+    "topics": ["abitudini-retention", "onboarding-attivazione"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "le ricerche di diete e le iscrizioni in palestra aumentano vicino a date simboliche: inizio settimana, inizio mese, compleanno",
+        "value": "picchi misurabili intorno ai «temporal landmark»",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Direttamente utile per i prompt di riattivazione: «nuovo mese, nuovo obiettivo» ha una base empirica. Il rovescio è il fenomeno «what the hell»: dopo aver mancato un obiettivo, la stessa cornice temporale può far abbandonare del tutto.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "schull-2012-addiction-by-design",
+    "titleOriginal": "Addiction by Design: Machine Gambling in Las Vegas",
+    "authors": ["Schüll, Natasha Dow"],
+    "year": 2012,
+    "type": "libro",
+    "venue": "Princeton University Press",
+    "sourceUrl": "https://press.princeton.edu/books/paperback/9780691160887/addiction-by-design",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Addiction+by+Design%22+Schull+machine+gambling",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["abitudini-retention", "dark-pattern-etica"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "le ricompense a intervallo variabile producono comportamenti più persistenti e più difficili da estinguere di quelle prevedibili",
+        "value": "meccanismo etnografico documentato, non un singolo numero",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "L'anello che collega Skinner al digitale: la «machine zone» descritta qui è il vocabolario con cui oggi si legge il pull-to-refresh e il feed infinito. Etnografia, non esperimento: forte sui meccanismi, non fornisce effect size.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "fogg-2003-persuasive-technology",
+    "titleOriginal": "Persuasive Technology: Using Computers to Change What We Think and Do",
+    "authors": ["Fogg, B. J."],
+    "year": 2003,
+    "type": "libro",
+    "venue": "Morgan Kaufmann",
+    "sourceUrl": "https://www.sciencedirect.com/book/9781558606432/persuasive-technology",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Persuasive+Technology%22+Fogg+2003",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["persuasione-compliance", "classici-fondativi"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "un comportamento accade quando motivazione, capacità e innesco convergono nello stesso momento",
+        "value": "modello B=MAT (poi B=MAP)",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Il testo fondativo del filone. Serve soprattutto per capire che il modello di Fogg è diagnostico: quando un comportamento non accade, uno dei tre fattori manca, e conviene sapere quale prima di intervenire.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "cialdini-2021-influence",
+    "titleOriginal": "Influence: The Psychology of Persuasion (New and Expanded)",
+    "authors": ["Cialdini, Robert B."],
+    "year": 2021,
+    "type": "libro",
+    "venue": "Harper Business",
+    "sourceUrl": "https://www.influenceatwork.com/",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Cialdini+Influence+psychology+of+persuasion",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["persuasione-compliance", "classici-fondativi"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "le tecniche di compliance si riducono a sette principi: reciprocità, coerenza, riprova sociale, autorità, simpatia, scarsità, unità",
+        "value": "sette principi (l'unità è aggiunta nell'edizione ampliata)",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "È la fonte a monte di quasi tutte le tecniche di compliance del brief. L'edizione 2021 aggiunge «unità» ai sei principi storici: chi cita «i sei principi di Cialdini» sta usando l'edizione vecchia.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "kahneman-2011-thinking-fast-slow",
+    "titleOriginal": "Thinking, Fast and Slow",
+    "authors": ["Kahneman, Daniel"],
+    "year": 2011,
+    "type": "libro",
+    "venue": "Farrar, Straus and Giroux",
+    "sourceUrl": "https://us.macmillan.com/books/9780374533557/thinkingfastandslow",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Kahneman+Thinking+Fast+and+Slow",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["bias-euristiche", "classici-fondativi"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "il giudizio si regge su due modi di pensare: uno rapido e automatico, uno lento e deliberato",
+        "value": "Sistema 1 e Sistema 2",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Base di peak-end rule, avversione alla perdita e ancoraggio. Da leggere sapendo che alcuni capitoli — in particolare quelli su priming e ego depletion — poggiano su letteratura che la crisi della replicabilità ha indebolito; Kahneman stesso lo ha riconosciuto pubblicamente.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "thaler-2008-nudge",
+    "titleOriginal": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+    "authors": ["Thaler, Richard H.", "Sunstein, Cass R."],
+    "year": 2008,
+    "type": "libro",
+    "venue": "Yale University Press",
+    "sourceUrl": "https://yalebooks.yale.edu/book/9780300122237/nudge/",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Thaler+Sunstein+Nudge+improving+decisions",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["choice-architecture-nudge", "classici-fondativi"],
+    "relevance": "fondamentale",
+    "depth": "approfondito",
+    "keyFindings": [
+      {
+        "claim": "l'architettura delle scelte influenza le decisioni senza vietare alcuna opzione",
+        "value": "«paternalismo libertario»",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Utile leggerlo insieme alla letteratura critica successiva: le meta-analisi recenti (Mertens et al. 2022 e la replica di Maier et al. 2022) discutono quanto dell'effetto medio dei nudge sopravviva alla correzione per publication bias.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "eyal-2014-hooked",
+    "titleOriginal": "Hooked: How to Build Habit-Forming Products",
+    "authors": ["Eyal, Nir"],
+    "year": 2014,
+    "type": "libro",
+    "venue": "Portfolio",
+    "sourceUrl": "https://www.nirandfar.com/hooked/",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Nir+Eyal+Hooked+habit+forming+products",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["abitudini-retention", "onboarding-attivazione"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "i prodotti che creano abitudine girano su un ciclo di quattro fasi",
+        "value": "innesco, azione, ricompensa variabile, investimento",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Il prequel di Indistractable, e vale leggerli in coppia: lo stesso autore prima descrive come costruire l'aggancio e poi come difendersi da esso. La tensione fra i due libri è il materiale più interessante per chi progetta.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "yablonski-2020-laws-of-ux",
+    "titleOriginal": "Laws of UX: Using Psychology to Design Better Products & Services",
+    "authors": ["Yablonski, Jon"],
+    "year": 2020,
+    "type": "libro",
+    "venue": "O'Reilly Media",
+    "sourceUrl": "https://lawsofux.com/",
+    "fallbackUrl": "https://www.oreilly.com/library/view/laws-of-ux/9781492055303/",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["accessibilita-cognitiva", "metodo-ricerca"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "un insieme di principi psicologici tradotti direttamente in decisioni d'interfaccia",
+        "value": "Hick, Fitts, Miller, Jakob, Tesler e altri",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Il sito lawsofux.com è la versione viva e aggiornata del libro. Utile come indice di partenza, meno come fonte: molte «leggi» sono divulgazioni di studi che meritano di essere lette in originale prima di essere citate a un cliente.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "nodder-2013-evil-by-design",
+    "titleOriginal": "Evil by Design: Interaction Design to Lead Us into Temptation",
+    "authors": ["Nodder, Chris"],
+    "year": 2013,
+    "type": "libro",
+    "venue": "Wiley",
+    "sourceUrl": "https://www.wiley.com/en-us/Evil+by+Design%3A+Interaction+Design+to+Lead+Us+into+Temptation-p-9781118422144",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=%22Evil+by+Design%22+Nodder+interaction+design+temptation",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["dark-pattern-etica", "persuasione-compliance"],
+    "relevance": "applicabile-subito",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "i pattern persuasivi organizzati per peccato capitale e per bias, con esempi reali di prodotti",
+        "value": "catalogo di pattern, non studio empirico",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Precede di anni la letteratura accademica sui dark pattern e serve come vocabolario. Va letto con la consapevolezza che il tono è descrittivo-ammirato: l'inquadramento etico è arrivato dopo, con Gray et al. e la ricerca su ACDP.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "growth-design-case-studies",
+    "titleOriginal": "Growth.Design — Product Psychology Case Studies",
+    "authors": ["Chevalier, Dan", "Lemay, Louis-Xavier"],
+    "year": 2024,
+    "type": "case-study",
+    "venue": "growth.design",
+    "sourceUrl": "https://growth.design/case-studies",
+    "fallbackUrl": "https://growth.design/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": ["case-study-prodotto", "abitudini-retention"],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "case study a fumetti che collegano un principio psicologico a una schermata reale di un prodotto noto",
+        "value": "Duolingo, Airbnb, Strava, Audible e altri",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "È la fonte più vicina a quello che cercavi: micro-studio più applicazione diretta a un prodotto reale. Da usare come modello di comunicazione, non come evidenza: i case study sono ricostruzioni esterne, non esperimenti condotti sui prodotti.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "nngroup-psychology-for-ux",
+    "titleOriginal": "Nielsen Norman Group — Psychology and Human Behavior for UX",
+    "authors": ["Nielsen Norman Group"],
+    "year": 2024,
+    "type": "articolo",
+    "venue": "nngroup.com",
+    "sourceUrl": "https://www.nngroup.com/topic/psychology-and-human-behavior/",
+    "fallbackUrl": "https://www.nngroup.com/articles/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": ["metodo-ricerca", "accessibilita-cognitiva"],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "articoli brevi su psicologia applicata all'interfaccia, ancorati a ricerca propria",
+        "value": "aggiornamento continuo",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Il valore di NN/g per il tuo lavoro è la difendibilità: quando serve un riferimento da mettere in un documento per un cliente, un articolo NN/g regge la discussione meglio di un post di LinkedIn.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "the-decision-lab-biases",
+    "titleOriginal": "The Decision Lab — Biases index e Insights",
+    "authors": ["The Decision Lab"],
+    "year": 2024,
+    "type": "articolo",
+    "venue": "thedecisionlab.com",
+    "sourceUrl": "https://thedecisionlab.com/biases",
+    "fallbackUrl": "https://thedecisionlab.com/insights",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": ["bias-euristiche", "metodo-ricerca"],
+    "relevance": "contesto",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "enciclopedia di bias cognitivi, ciascuno con un caso applicato",
+        "value": "voce per bias con riferimenti",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Buon punto di ingresso quando serve orientarsi su un bias sconosciuto. Come per ogni enciclopedia divulgativa, il passo successivo è risalire al paper citato: le sintesi tendono a presentare come stabili effetti che in letteratura sono discussi.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "acm-chi-proceedings",
+    "titleOriginal": "ACM CHI Conference on Human Factors in Computing Systems — Proceedings",
+    "authors": ["ACM SIGCHI"],
+    "year": 2025,
+    "type": "paper",
+    "venue": "ACM Digital Library",
+    "sourceUrl": "https://dl.acm.org/conference/chi",
+    "fallbackUrl": "https://chi2025.acm.org/",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": ["dark-pattern-etica", "metodo-ricerca", "attenzione-economia-attenzione"],
+    "relevance": "contesto",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "la conferenza di riferimento per l'interazione uomo-computer, con decine di paper annuali su dark pattern, attenzione e persuasione",
+        "value": "atti annuali",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "È anche una delle sorgenti da cui il raccolto automatico pesca via OpenAlex. Molti paper CHI sono ora open access nella ACM DL: vale controllare prima di cercare il PDF altrove.",
+    "harvestedFrom": "curato"
+  },
+  {
+    "id": "arxiv-cs-hc-dark-patterns",
+    "titleOriginal": "arXiv cs.HC — Human-Computer Interaction",
+    "authors": ["arXiv"],
+    "year": 2025,
+    "type": "paper",
+    "venue": "arxiv.org",
+    "sourceUrl": "https://arxiv.org/list/cs.HC/recent",
+    "fallbackUrl": "https://arxiv.org/list/cs.HC/recent",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": ["dark-pattern-etica", "attenzione-economia-attenzione"],
+    "relevance": "contesto",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "preprint open access dove compaiono per primi i lavori su dark pattern e Attention-Capture Damaging Patterns",
+        "value": "flusso quotidiano",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "ACDP è il termine che ha aggiornato «dark pattern» nella letteratura più recente, spostando il criterio dall'inganno al danno all'attenzione. Attenzione: sono preprint, quindi non hanno passato peer review.",
+    "harvestedFrom": "curato"
+  }
+]

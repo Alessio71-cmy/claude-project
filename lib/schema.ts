@@ -108,6 +108,14 @@ export interface CatalogEntry {
   type: SourceType
   venue?: string
   sourceUrl: string
+  /**
+   * Dove mandare il lettore se `sourceUrl` è morto. Ogni voce curata a mano ne
+   * ha uno: un DOI ricordato male è un link rotto, e un link rotto su una
+   * fonte è peggio che nessun link.
+   */
+  fallbackUrl?: string
+  /** Lo mette a true `validate-catalog.mjs` quando l'URL risponde davvero. */
+  linkVerified?: boolean
   doi?: string
   openAccess: boolean
   /** Conteggio citazioni al momento del raccolto: è il filtro "influente". */
