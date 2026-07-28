@@ -1,0 +1,110 @@
+{
+  "id": "freedman-1966-foot-in-the-door",
+  "catalogId": "freedman-1966-foot-in-the-door",
+  "titleIt": "Un piccolo sì apre la porta al sì più grande",
+  "titleOriginal": "Compliance without pressure: The foot-in-the-door technique",
+  "authors": [
+    "Freedman, Jonathan L.",
+    "Fraser, Scott C."
+  ],
+  "year": 1966,
+  "type": "studio",
+  "venue": "Journal of Personality and Social Psychology",
+  "sourceUrl": "https://doi.org/10.1037/h0023552",
+  "doi": "10.1037/h0023552",
+  "topics": [
+    "persuasione-compliance",
+    "onboarding-attivazione"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Chiedere una firma su una petizione innocua, due settimane prima, raddoppia la disponibilità a farsi installare un cartello ingombrante in giardino. Il primo sì non convince: allena."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Far accettare a qualcuno una piccola richiesta rende molto più probabile che accetti, in seguito, una richiesta grande e scomoda — anche se le due richieste non hanno niente in comune. Non è che la prima richiesta convinca della seconda: è che il primo sì cambia come la persona pensa di sé stessa."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è la logica dietro ogni onboarding che comincia con un'azione minuscola invece di chiedere subito l'impegno vero. Se il tuo prodotto ha un'iscrizione, un pagamento o un'abitudine da costruire, la domanda utile non è «come convinco la persona a fare la cosa grande» ma «qual è la versione più piccola e innocua di quella richiesta che posso far accettare per prima». Capire questo meccanismo aiuta anche a riconoscerlo quando è usato contro l'utente: una serie di piccoli sì che portano, passo dopo passo, a un impegno che nessuno avrebbe accettato se gli fosse stato chiesto subito."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Negli anni Sessanta la ricerca sulla persuasione si concentrava soprattutto su singoli messaggi: un annuncio, un discorso, un argomento più o meno convincente. Jonathan Freedman e Scott Fraser si chiesero cosa succede invece quando una persona viene avvicinata due volte, a distanza di tempo, con due richieste diverse legate solo dal fatto di venire dalla stessa causa.",
+        "L'ipotesi che li guidava non era ovvia. Ci si aspetterebbe che accettare una prima richiesta piccola non c'entri nulla con l'accettarne una seconda, più grande e più fastidiosa. Freedman e Fraser sospettavano il contrario: che il primo sì lasci una traccia, non nella memoria della richiesta in sé, ma nell'idea che la persona si fa di che tipo di persona è."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "L'esperimento, condotto porta a porta in un quartiere residenziale della California, aveva una struttura in due tempi. Alcune casalinghe ricevevano prima una richiesta piccola e innocua — firmare una petizione, o esporre un piccolo adesivo legato alla sicurezza stradale o all'ambiente. Due settimane dopo, un diverso intervistatore, che si presentava come parte di un'organizzazione diversa, chiedeva alle stesse persone qualcosa di molto più grande e invasivo: permettere che venisse installato nel loro giardino un grande cartello di legno, poco elegante, con la scritta «Guida con prudenza».",
+        "Un gruppo di controllo riceveva solo la richiesta grande, senza nessun contatto precedente. Il punto cruciale del disegno è che la prima e la seconda richiesta non avevano quasi nulla in comune tranne il tema generico — cosa che permette di escludere che le persone stessero solo continuando a essere coerenti con lo stesso argomento specifico."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Chi aveva accettato la piccola richiesta iniziale accettava poi il cartello enorme in giardino molto più spesso di chi veniva contattato per la prima volta: **52,8% contro 22,2% nel gruppo senza richiesta iniziale**. Più che raddoppiato, a fronte di un collegamento fra le due richieste che era debole quanto quello fra una firma su un foglio e un cartellone di legno nel prato.",
+        "L'effetto reggeva anche quando la prima richiesta riguardava un tema diverso da quello della seconda, il che è il dato che rende lo studio interessante oltre il singolo esperimento: non stava funzionando la coerenza tematica, stava funzionando qualcos'altro."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "La spiegazione più solida, e quella che regge meglio alle repliche successive, riguarda l'immagine di sé. Accettare una richiesta, anche piccola, ti costringe implicitamente a pensare «sono il tipo di persona che fa favori a chi glieli chiede» oppure «sono il tipo di persona sensibile a questa causa». Quella micro-etichetta non sparisce quando arriva la richiesta successiva: la persona, di fronte al cartello enorme, non parte da zero — parte da un'idea di sé già leggermente spostata verso il sì.",
+        "È una spiegazione diversa, e più interessante, di una lettura puramente meccanica del tipo «una volta che dici sì è più difficile dire no». Non è la richiesta a esercitare pressione: è l'identità che la persona si è appena costruita a rendere il no successivo più costoso, psicologicamente, di quanto sarebbe stato altrimenti."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più diretto è l'onboarding a piccoli passi: invece di chiedere subito carta di credito e impostazioni complete, un prodotto chiede prima un'azione minuscola e a costo quasi zero — scegliere un nome utente, rispondere a una domanda, salvare un primo elemento. Ogni piccolo sì non serve solo a raccogliere informazioni: costruisce nell'utente l'idea di essere il tipo di persona che sta effettivamente usando quel prodotto, il che rende più probabile il passo successivo, quello vero.",
+        "Il secondo caso è la richiesta di feedback o recensione. Un'app che chiede prima «ti sta piacendo l'esperienza finora?» con un semplice pollice in su, e solo dopo un sì manda alla richiesta di recensione pubblica sullo store, sta usando esattamente questo schema: il primo sì minuscolo rende il secondo, più impegnativo, più probabile.",
+        "Il terzo, ed è il lato che vale la pena riconoscere anche quando non lo stai progettando tu, è la serie di permessi progressivi — prima la posizione approssimativa, poi quella precisa, poi il microfono, poi i contatti — dove ogni consenso piccolo prepara il terreno al successivo. La stessa meccanica che rende buono un onboarding graduale rende efficace, e più difficile da notare, un consenso costruito un pezzo alla volta."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Le repliche successive hanno trovato l'effetto meno affidabile quando la seconda richiesta arriva da una fonte percepita come chiaramente diversa dalla prima — per esempio un'organizzazione diversa, con un'immagine diversa, invece di un semplice secondo contatto dello stesso tipo di causa. Il meccanismo dell'immagine di sé regge finché la persona percepisce una continuità sufficiente fra le due richieste; se la discontinuità è troppo marcata, l'effetto si indebolisce.",
+        "Vale anche la pena notare cosa lo studio non dice: non dice che qualunque piccola richiesta funzioni da apripista per qualunque richiesta grande, né quanto tempo debba passare fra le due, né quanto grande possa essere il salto prima che l'effetto scompaia del tutto. Sono parametri che la letteratura successiva ha esplorato in modo frammentario, senza arrivare a una regola precisa."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un primo sì piccolo non convince del secondo: cambia come la persona pensa di sé, e questo rende il secondo sì più probabile.",
+        "L'effetto regge meglio quando le due richieste sembrano venire dalla stessa continuità di rapporto, non da un tema condiviso ma astratto.",
+        "Riconoscilo anche al contrario: una sequenza di piccoli consensi che porta a un impegno grande è la stessa tecnica, usata contro l'utente invece che a suo favore."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Jonathan L. Freedman e Scott C. Fraser, «Compliance without pressure: The foot-in-the-door technique», Journal of Personality and Social Psychology, vol. 4, n. 2, 1966, pp. 195-202. Accanto a questo studio vale leggere il suo esatto opposto strategico, il door-in-the-face di Cialdini e colleghi (1975), che ottiene un risultato simile partendo da una richiesta grande invece che da una piccola — i due meccanismi non si escludono, spiegano semplicemente due strade diverse verso lo stesso sì."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "adesione con richiesta iniziale piccola contro nessuna richiesta",
+      "value": "52,8% contro 22,2% nel gruppo senza richiesta iniziale"
+    }
+  ],
+  "wordCount": 1120,
+  "readingMinutes": 6,
+  "related": [
+    "cialdini-1975-door-in-the-face",
+    "gueguen-2000-but-you-are-free"
+  ],
+  "generatedAt": "2026-07-28",
+  "model": "claude-sonnet-5"
+}

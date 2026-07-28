@@ -1,0 +1,109 @@
+{
+  "id": "kahneman-1993-peak-end",
+  "catalogId": "kahneman-1993-peak-end",
+  "titleIt": "Non conta quanto è durato, conta come è finito",
+  "titleOriginal": "When More Pain Is Preferred to Less: Adding a Better End",
+  "authors": [
+    "Kahneman, Daniel",
+    "Fredrickson, Barbara L.",
+    "Schreiber, Charles A.",
+    "Redelmeier, Donald A."
+  ],
+  "year": 1993,
+  "type": "studio",
+  "venue": "Psychological Science",
+  "sourceUrl": "https://doi.org/10.1111/j.1467-9280.1993.tb00589.x",
+  "doi": "10.1111/j.1467-9280.1993.tb00589.x",
+  "topics": [
+    "emozione-fiducia",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Fai durare un'esperienza spiacevole più a lungo, ma finiscila un po' meglio, e le persone la ricorderanno come meno brutta — e sceglieranno di ripeterla. Il totale conta meno di quanto pensi."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Quando ricordiamo un'esperienza, non facciamo la media di ogni istante che l'ha composta: pesiamo soprattutto il suo momento più intenso e come si è conclusa. Il risultato è un'anomalia netta: un'esperienza più lunga, con più sofferenza in totale, può essere ricordata come migliore di una più breve, solo perché finisce un po' meno peggio."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché tu non stai progettando esperienze che durano un istante: stai progettando flussi che hanno una durata, un andamento e — soprattutto — un finale. Un checkout, un onboarding, una richiesta di assistenza, persino la cancellazione di un account sono tutte sequenze temporali, e questo studio dice qualcosa di preciso su quale parte di quella sequenza deciderà il ricordo che la persona si porterà via: non la media dell'esperienza, ma il suo picco e la sua chiusura. È probabilmente lo studio con l'applicazione più diretta e meno costosa da implementare di tutta questa raccolta: spesso basta risistemare l'ordine di ciò che già esiste."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Fino agli anni Ottanta, la psicologia della memoria per le esperienze partiva da un'assunzione implicita quasi mai messa in discussione: che ricordare un'esperienza significasse in qualche modo sommare o mediare i suoi momenti. Un'ora spiacevole doveva essere ricordata come peggiore di trenta minuti spiacevoli, semplicemente perché conteneva più sofferenza in totale.",
+        "Daniel Kahneman, insieme a Barbara Fredrickson, Charles Schreiber e Donald Redelmeier, voleva verificare se questa assunzione — la cosiddetta «regola della somma temporale» — reggesse davvero a un test diretto. Il modo più pulito per farlo era costruire due esperienze quasi identiche, che differissero in un solo punto controllato: come finivano."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ai partecipanti veniva chiesto di immergere una mano in acqua fredda, a una temperatura sgradevole ma tollerabile, in due prove separate. La prima prova era breve e finiva bruscamente, mentre l'acqua era ancora fredda. La seconda prova conteneva per intero la stessa fase spiacevole della prima, ma proseguiva per un tratto aggiuntivo durante il quale l'acqua veniva resa gradualmente un poco meno fredda — sempre sgradevole, ma percepibilmente meno intensa nell'ultimo tratto.",
+        "In termini di sofferenza complessiva, la seconda prova conteneva quindi tutto il disagio della prima, più un pezzo aggiuntivo, per quanto più lieve. Nessun modo, sommando i momenti, di considerarla preferibile alla prima. Ai partecipanti, dopo aver vissuto entrambe le prove, veniva chiesto quale delle due avrebbero voluto ripetere per una terza prova."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "La maggioranza dei partecipanti sceglieva di ripetere la prova più lunga — quella con più sofferenza complessiva — invece di quella più breve. **La preferenza andava alla versione più lunga, nonostante il dolore totale fosse maggiore**: l'unica differenza a favore della prova lunga era che il suo tratto finale faceva un po' meno male del tratto finale della prova corta.",
+        "Il dato rompe direttamente l'assunzione della somma temporale. Se la memoria dell'esperienza fosse davvero una somma o una media di ogni istante, la prova più lunga avrebbe dovuto essere ricordata come peggiore, non come preferibile. Non lo era."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Kahneman ha poi formalizzato questo risultato distinguendo due modi diversi di valutare un'esperienza: il *self* che la vive momento per momento, e il *self* che, dopo, se ne ricorda e decide se ripeterla. Sono due valutazioni diverse, e quello che guida le decisioni future — se tornare in quel ristorante, se ripetere quella procedura medica, se consigliare quel prodotto — è quasi sempre la seconda: il ricordo, non l'esperienza vissuta istante per istante.",
+        "Il ricordo, a sua volta, non è una media: è dominato da due punti — il momento di massima intensità (il *peak*) e il momento finale (l'*end*). Tutto il resto della durata pesa sorprendentemente poco, un fenomeno che nella letteratura successiva viene chiamato *duration neglect*, trascuratezza della durata. Ecco perché allungare un'esperienza spiacevole con un finale un po' meno negativo può migliorarne il ricordo complessivo, anche se peggiora il totale vissuto: la memoria non sta facendo quel calcolo."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più diretto è l'ultimo passo di un checkout complicato o di una procedura di reso. Se i passaggi precedenti sono stati macchinosi, il modo di recuperare non è tornare indietro a semplificarli tutti — spesso non è possibile — ma investire nell'ultimo istante: una conferma chiara, un messaggio che riconosce lo sforzo fatto, un piccolo gesto inatteso. È l'ultima cosa che la persona vive prima di archiviare il ricordo dell'intera esperienza, e pesa più di ogni singolo passaggio precedente messo insieme.",
+        "Il secondo caso è la gestione degli errori. Un messaggio di errore che arriva a metà di un flusso fa male, ma un flusso che si conclude con un errore irrisolto fa molto più male al ricordo complessivo di quanto farebbe lo stesso errore comparso e poi risolto a metà strada. Vale la pena, quando è possibile scegliere dove far comparire un problema o dove risolverlo, spostare la risoluzione il più vicino possibile alla fine dell'interazione.",
+        "Il terzo caso, meno intuitivo, è l'offboarding — la cancellazione di un account o la fine di un abbonamento. È tipicamente il momento più trascurato nella progettazione di un prodotto, perché nessuno lo considera un'occasione: eppure è letteralmente l'ultimo istante di un'intera relazione con quel servizio, quello che ne determinerà il ricordo residuo e la disponibilità a tornare in futuro. Un offboarding curato — chiaro, rispettoso, senza ostacoli dell'ultimo minuto — pesa sul ricordo complessivo molto più della sua brevità apparente."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Va corretta qui una confusione molto diffusa, che è presente anche nella cultura popolare intorno a questo filone di ricerca: lo studio descritto in questo articolo è quello dell'immersione della mano nell'acqua fredda, pubblicato nel 1993. Un secondo studio, spesso citato insieme e a volte confuso con questo, riguarda invece l'esperienza di pazienti sottoposti a colonoscopia, ed è un lavoro successivo — Redelmeier e Kahneman, 1996 — condotto dagli stessi ricercatori ma su un campione, un contesto e un protocollo diversi. Chi cita «lo studio di Kahneman del 1993 sulla colonscopia» sta sovrapponendo due ricerche distinte: utile sapere che esistono entrambe, ma vanno citate separatamente.",
+        "Un secondo limite riguarda la generalizzabilità. L'esperimento manipola una variabile molto specifica e circoscritta — l'intensità dell'ultimo tratto di un'esperienza fisica breve — e non dice nulla su quanto l'effetto regga su esperienze molto più lunghe, articolate su più giorni, o che coinvolgono più persone con ruoli diversi (un cliente e un operatore di assistenza, per esempio). L'applicazione al digitale, per quanto ben supportata dal meccanismo generale del peak-end confermato in decine di studi successivi in contesti diversi, resta un'estensione ragionata, non una replica diretta di questo esperimento specifico."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il ricordo di un'esperienza non è la somma dei suoi istanti: è dominato dal momento più intenso e da come finisce.",
+        "Un finale un po' migliore può rendere il ricordo complessivo migliore anche se allunga l'esperienza o ne aumenta il disagio totale.",
+        "L'offboarding e l'ultimo passo di un flusso complicato meritano più cura di quanta gliene diamo di solito: sono l'ultima cosa che resta nel ricordo."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Daniel Kahneman, Barbara L. Fredrickson, Charles A. Schreiber e Donald A. Redelmeier, «When More Pain Is Preferred to Less: Adding a Better End», Psychological Science, vol. 4, n. 6, 1993, pp. 401-405. Per il seguito diretto di questa linea di ricerca, applicato a un contesto medico reale, si veda Redelmeier e Kahneman (1996) — uno studio distinto, non lo stesso di questo articolo. Per la cornice teorica più ampia, che distingue il *self* che vive l'esperienza dal *self* che se ne ricorda, il capitolo dedicato in *Thinking, Fast and Slow* di Kahneman resta il punto d'accesso più chiaro."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "preferenza per la prova più lunga con finale migliore",
+      "value": "preferenza per la versione più lunga, nonostante il dolore totale maggiore"
+    }
+  ],
+  "wordCount": 1231,
+  "readingMinutes": 7,
+  "related": [],
+  "generatedAt": "2026-07-28",
+  "model": "claude-sonnet-5"
+}

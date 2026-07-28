@@ -1,0 +1,108 @@
+{
+  "id": "worchel-1975-scarsita-biscotti",
+  "catalogId": "worchel-1975-scarsita-biscotti",
+  "titleIt": "Meno ce n'è, più lo vuoi",
+  "titleOriginal": "Effects of supply and demand on ratings of object value",
+  "authors": [
+    "Worchel, Stephen",
+    "Lee, Jerry",
+    "Adewole, Akanbi"
+  ],
+  "year": 1975,
+  "type": "studio",
+  "venue": "Journal of Personality and Social Psychology",
+  "sourceUrl": "https://doi.org/10.1037/0022-3514.32.5.906",
+  "doi": "10.1037/0022-3514.32.5.906",
+  "topics": [
+    "persuasione-compliance",
+    "pricing-paywall"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Stessi biscotti, stesso barattolo, stesso sapore. L'unica differenza è quanti ce ne sono dentro — e basta a cambiare quanto le persone li trovano buoni."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un oggetto identico viene giudicato più desiderabile quando sembra scarso rispetto a quando è abbondante — anche se nessuna proprietà reale dell'oggetto è cambiata. Non è la scarsità a rendere le cose migliori: è la scarsità a farci sospettare che siano migliori."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ogni countdown, ogni «solo 3 posti rimasti», ogni badge «quasi esaurito» che stai valutando di mettere in un'interfaccia si appoggia su questo meccanismo, e sapere come funziona per davvero ti permette di usarlo in modo difendibile invece che a caso. Lo studio dice anche qualcosa di più preciso e meno intuitivo di «la scarsità funziona»: dice *quale tipo* di scarsità funziona meglio, ed è un dettaglio che cambia come scriveresti quel badge."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Negli anni Settanta l'economia aveva da tempo formalizzato la relazione fra scarsità e valore percepito a livello di mercato: quando l'offerta di un bene scende, il prezzo che le persone sono disposte a pagare sale. Stephen Worchel, Jerry Lee e Akanbi Adewole si chiedevano se questa relazione valesse anche a un livello molto più elementare e psicologico: il giudizio soggettivo e immediato che una persona dà su un singolo oggetto, tenuto in mano, senza nessun mercato reale di mezzo.",
+        "Per isolare l'effetto dalla realtà economica — prezzo, qualità reale, marchio — serviva un oggetto banale e identico in ogni condizione. Scelsero dei biscotti, sempre gli stessi, presentati in barattoli che differivano solo per quanti ne contenevano."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ai partecipanti veniva mostrato un barattolo di biscotti e chiesto di valutarne la qualità e la desiderabilità. In una condizione il barattolo era quasi pieno; in un'altra, quasi vuoto, con solo pochi biscotti identici agli stessi rimasti sul fondo. Nessuna informazione diversa veniva data sui biscotti stessi: stesso tipo, stessa marca, stesso aspetto.",
+        "Una parte dello studio aggiungeva una variabile ulteriore, ed è quella che rende il lavoro più interessante di un semplice «meno ce n'è, meglio è»: la scarsità veniva presentata come dovuta a due cause diverse — in un caso perché altre persone avevano già preso la maggior parte dei biscotti dal barattolo, in un altro caso perché il barattolo era stato riempito con pochi biscotti fin dall'inizio, senza che nessuno li avesse consumati."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "I biscotti nel barattolo quasi vuoto **venivano giudicati più desiderabili di quelli nel barattolo pieno**, a parità di ogni altra caratteristica reale. Il risultato di base confermava l'ipotesi: la scarsità percepita, da sola, alza il valore soggettivo di un oggetto identico.",
+        "Il dettaglio più prezioso, però, riguarda la causa della scarsità: quando i partecipanti credevano che i biscotti fossero pochi perché altre persone li avevano già presi — cioè per alta domanda — la valutazione saliva ancora di più rispetto a quando la scarsità era dovuta semplicemente a una scorta iniziale ridotta, senza nessuna domanda di mezzo."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'interpretazione più solida è che la scarsità funzioni come un segnale indiretto di qualità o di valore, in assenza di altre informazioni dirette. Quando non abbiamo modo di valutare direttamente se un oggetto è buono, usiamo scorciatoie: se altre persone lo vogliono al punto da farlo scarseggiare, probabilmente vale qualcosa che io non ho ancora avuto modo di verificare da solo.",
+        "Questo spiega perché la scarsità dovuta alla domanda altrui pesi più di quella dovuta a una scorta iniziale ridotta: nel primo caso il segnale include anche l'informazione sul comportamento di altre persone — una forma di riprova sociale intrecciata alla scarsità — mentre nel secondo caso la scarsità è solo un fatto sulla disponibilità, senza nessuna informazione su cosa altri pensino di quell'oggetto."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più immediato è la scelta della formulazione in un badge di scarsità o in un countdown. «Solo 3 posti rimasti» comunica scarsità pura, dovuta alla disponibilità; «12 persone hanno prenotato questo posto nell'ultima ora» comunica scarsità dovuta alla domanda altrui, e secondo questo meccanismo dovrebbe pesare di più, perché aggiunge il segnale della riprova sociale a quello della scarsità. La differenza non è di stile: è la variabile che lo studio ha isolato come quella che fa davvero la differenza.",
+        "Il secondo caso è il countdown puro, sganciato da qualunque riferimento alla domanda di altri utenti — il classico timer che scende verso zero su un'offerta. È la versione più debole del meccanismo secondo questo studio, perché comunica solo scarsità di tempo, senza il rinforzo della domanda sociale; e se il countdown si azzera e riparte identico il giorno dopo, il segnale smette pure di essere credibile, il che è anche il terreno su cui questo pattern scivola più facilmente in un dark pattern piuttosto che in una comunicazione onesta.",
+        "Il terzo caso è la disponibilità limitata di un contenuto o di una funzionalità — un accesso beta con posti contati, un drop limitato di un prodotto digitale. Qui la scarsità è spesso reale, non simulata, il che la rende anche eticamente più solida: comunicare che i posti si stanno esaurendo perché altri utenti li stanno effettivamente prendendo sfrutta lo stesso meccanismo di questo studio senza bisogno di inventare nulla."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio misura un giudizio di desiderabilità dichiarato subito dopo aver visto il barattolo, non una scelta d'acquisto reale con denaro in gioco, né un effetto a lungo termine. Il salto dal giudizio soggettivo su un biscotto in laboratorio alla decisione di acquisto reale su un prodotto digitale, per quanto ragionevole, resta un'estensione e non una replica diretta.",
+        "Vale anche la cautela opposta a quella di molti altri studi di questa raccolta: qui il rischio non è tanto l'effetto stesso, che è robusto e ha una lunga tradizione di repliche nella letteratura sulla scarsità, quanto l'uso disonesto della sua applicazione — countdown che si resettano, contatori di disponibilità falsi. Il meccanismo descritto funziona; usarlo su una scarsità inventata è una scelta diversa da usarlo su una scarsità reale, e le due cose non sono equivalenti solo perché sfruttano lo stesso principio psicologico."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "La scarsità aumenta il valore percepito di un oggetto identico, semplicemente perché funge da segnale di qualità in assenza di altre informazioni.",
+        "La scarsità dovuta alla domanda altrui pesa più di quella dovuta a una semplice disponibilità ridotta: «lo stanno prendendo tutti» batte «ne restano pochi».",
+        "Il meccanismo è potente e reale: usalo su una scarsità vera. Su una scarsità inventata funziona lo stesso, finché non viene scoperta — e a quel punto il danno alla fiducia supera il guadagno ottenuto."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Stephen Worchel, Jerry Lee e Akanbi Adewole, «Effects of supply and demand on ratings of object value», Journal of Personality and Social Psychology, vol. 32, n. 5, 1975, pp. 906-914. Da leggere insieme al capitolo sulla scarsità in *Influence* di Robert Cialdini, che colloca questo studio dentro la cornice più ampia dei sei — poi sette — principi della persuasione, e allo studio sugli asciugamani d'albergo di Goldstein, Cialdini e Griskevicius (2008), che mostra lo stesso ruolo della specificità del segnale sociale applicato alla riprova sociale invece che alla scarsità."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "valutazione dei biscotti in condizione di scarsità",
+      "value": "valutazione più alta in condizione di scarsità"
+    }
+  ],
+  "wordCount": 1133,
+  "readingMinutes": 6,
+  "related": [],
+  "generatedAt": "2026-07-28",
+  "model": "claude-sonnet-5"
+}

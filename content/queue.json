@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T13:43:12.799Z",
+  "generatedAt": "2026-07-28T07:41:19.869Z",
   "items": [
     {
       "id": "gueguen-2000-but-you-are-free",
@@ -17,6 +17,46 @@
       "relevance": "fondamentale",
       "topics": [
         "choice-architecture-nudge",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "freedman-1966-foot-in-the-door",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "persuasione-compliance",
+        "onboarding-attivazione"
+      ]
+    },
+    {
+      "id": "worchel-1975-scarsita-biscotti",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "persuasione-compliance",
+        "pricing-paywall"
+      ]
+    },
+    {
+      "id": "cialdini-1975-door-in-the-face",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "persuasione-compliance",
+        "pricing-paywall"
+      ]
+    },
+    {
+      "id": "kahneman-1993-peak-end",
+      "readingMinutes": 7,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "emozione-fiducia",
         "classici-fondativi"
       ]
     }
