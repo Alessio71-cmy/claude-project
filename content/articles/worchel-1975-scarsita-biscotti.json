@@ -102,7 +102,9 @@
   ],
   "wordCount": 1133,
   "readingMinutes": 6,
-  "related": [],
+  "related": [
+    "goldstein-2008-asciugamani-hotel"
+  ],
   "generatedAt": "2026-07-28",
   "model": "claude-sonnet-5"
 }

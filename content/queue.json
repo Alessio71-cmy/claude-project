@@ -59,6 +59,46 @@
         "emozione-fiducia",
         "classici-fondativi"
       ]
+    },
+    {
+      "id": "goldstein-2008-asciugamani-hotel",
+      "readingMinutes": 7,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "persuasione-compliance",
+        "choice-architecture-nudge"
+      ]
+    },
+    {
+      "id": "zeigarnik-1927-compiti-incompiuti",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "classici-fondativi",
+        "abitudini-retention"
+      ]
+    },
+    {
+      "id": "norton-2012-ikea-effect",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "onboarding-attivazione",
+        "emozione-fiducia"
+      ]
+    },
+    {
+      "id": "kivetz-2006-goal-gradient",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "abitudini-retention",
+        "onboarding-attivazione"
+      ]
     }
   ]
 }

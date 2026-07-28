@@ -1,0 +1,103 @@
+{
+  "id": "zeigarnik-1927-compiti-incompiuti",
+  "catalogId": "zeigarnik-1927-compiti-incompiuti",
+  "titleIt": "Quello che lasci a metà resta in testa più di quello che finisci",
+  "titleOriginal": "Das Behalten erledigter und unerledigter Handlungen",
+  "authors": [
+    "Zeigarnik, Bluma"
+  ],
+  "year": 1927,
+  "type": "studio",
+  "venue": "Psychologische Forschung",
+  "sourceUrl": "https://scholar.google.com/scholar?q=Zeigarnik+1927+Das+Behalten+erledigter+und+unerledigter+Handlungen",
+  "topics": [
+    "classici-fondativi",
+    "abitudini-retention"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Un cameriere si ricorda perfettamente un ordine finché non lo consegna — poi lo dimentica in pochi secondi. Da questa osservazione da bar viennese nasce l'idea dietro ogni progress bar, ogni «profilo completo all'80%», ogni streak da non interrompere."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "I compiti interrotti restano più a lungo e più vividamente nella memoria di quelli portati a termine: finire qualcosa, in un certo senso, lo chiude e lo lascia andare. È l'osservazione da cui nasce buona parte del linguaggio visivo con cui i prodotti digitali cercano di farti tornare — barre di avanzamento, percentuali di completamento, serie da non spezzare."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché praticamente ogni pattern di retention che conosci — la progress bar del profilo, lo stato «quasi fatto», la serie di giorni consecutivi da non interrompere — poggia, almeno concettualmente, su questa idea di quasi cent'anni fa. Sapere da dove viene, e soprattutto quanto sia più fragile di come viene raccontata, ti permette di usarla con più criterio invece che come una formula magica presa per buona senza discussione."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Bluma Zeigarnik lavorava nel laboratorio di Kurt Lewin a Berlino negli anni Venti, in un momento in cui la psicologia della memoria si occupava soprattutto di quanto bene ricordiamo, non del perché ricordiamo certe cose meglio di altre. L'aneddoto all'origine dello studio, riportato dalla stessa Zeigarnik, riguarda un cameriere osservato al ristorante: capace di tenere a mente ordini complessi finché il conto non veniva saldato, e incapace di ricordarli pochi istanti dopo la consegna.",
+        "Da lì la domanda sperimentale: è vero che un compito lasciato in sospeso occupa la memoria in modo diverso — e più persistente — rispetto a un compito che è stato chiuso?"
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ai partecipanti venivano assegnati una serie di piccoli compiti — puzzle, calcoli, lavori manuali semplici — da svolgere uno dopo l'altro. Per metà dei compiti, ai partecipanti veniva permesso di portarli a termine senza interruzioni. Per l'altra metà, lo sperimentatore interrompeva il compito prima del completamento, spostando l'attenzione del partecipante su qualcos'altro prima che potesse finirlo.",
+        "In seguito, senza preavviso, veniva chiesto ai partecipanti di ricordare quanti più compiti possibile fra quelli svolti in precedenza, completati e interrotti insieme, mescolati."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "I compiti interrotti **venivano ricordati meglio** di quelli portati a termine. Il dato reggeva attraverso diverse varianti dell'esperimento, ed è diventato uno dei risultati più citati — e più ripetuti in forma semplificata — dell'intera psicologia della memoria del Novecento.",
+        "È importante essere precisi su cosa dice esattamente questo risultato: parla di ricordo, non di motivazione a completare il compito interrotto. Il fenomeno è mnemonico prima che motivazionale, per quanto le due cose siano collegate nell'uso che se ne fa oggi."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'interpretazione originale di Zeigarnik, dentro la cornice teorica di Lewin, è che un compito non completato crei una tensione psicologica — una sorta di «carica» associata all'obiettivo mancato — che mantiene attiva la sua rappresentazione mentale finché non viene risolta. Un compito completato, al contrario, scarica quella tensione e libera la mente dal doverlo tenere presente.",
+        "È un meccanismo intuitivo — chiunque abbia lasciato una frase a metà o un'email non spedita riconosce la sensazione — ma, come spesso succede con le scoperte più citate, la solidità sperimentale dietro l'idea originale è meno granitica di quanto la sua fama suggerisca, un punto su cui vale la pena tornare nella prossima sezione.",
+        "Una collega dello stesso laboratorio di Lewin, Maria Ovsiankina, ha esteso l'osservazione originale con un dato complementare: quando a un compito interrotto viene lasciata la possibilità di essere ripreso, le persone tendono spontaneamente a tornarci sopra, anche senza nessuna ricompensa o richiesta esplicita di farlo. Il compito lasciato a metà non resta solo più impresso nella memoria: tende anche a chiedere, per così dire, di essere finito. È questo secondo pezzo — la tendenza spontanea a voler chiudere ciò che è aperto — a spiegare perché il linguaggio di prodotto abbia trovato in questa idea una miniera di pattern, più della semplice osservazione sulla memoria."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più diretto è la barra di completamento del profilo, con l'indicazione esplicita di quanto manca — «il tuo profilo è completo all'80%». Il meccanismo teorizzato da Zeigarnik suggerisce che quel 20% mancante resti più presente nella mente dell'utente di quanto resterebbe un profilo semplicemente «da migliorare» senza un indicatore visivo dello stato incompleto.",
+        "Il secondo caso è la serie di giorni consecutivi, la streak, che molte app di abitudini e alcuni social network mostrano in modo prominente: interrompere la serie significa, nella logica di questo meccanismo, chiudere qualcosa che la mente stava tenendo aperto — ed è per questo che la minaccia di perdere una streak lunga pesa più di quanto peserebbe un semplice invito a tornare a usare l'app.",
+        "Il terzo caso è il salvataggio automatico di bozze visibili e non completate — un articolo iniziato, un carrello con articoli non ancora acquistati, un modulo compilato a metà — mostrati esplicitamente come «da riprendere» invece che nascosti: la visibilità dell'incompleto è parte del meccanismo, non solo il fatto che esista."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Qui il limite più importante non riguarda l'applicazione al digitale, ma lo studio stesso: le repliche moderne dell'effetto Zeigarnik danno risultati contrastanti, e diversi tentativi di replicarlo con il rigore metodologico odierno non hanno trovato un effetto forte o consistente quanto quello originale. Non significa che il fenomeno non esista — l'intuizione di base resta plausibile e coerente con altri filoni della psicologia cognitiva sulla memoria di lavoro — ma significa che va trattato come una cornice concettuale utile, non come una legge sperimentale solida su cui costruire previsioni precise.",
+        "Non esiste, in altre parole, un numero affidabile su quanto meglio venga ricordato un compito interrotto rispetto a uno completato: chi lo cita andrebbe diffidente verso qualunque percentuale specifica attribuita a questo studio, perché lo studio originale non la fornisce in una forma comparabile ai criteri sperimentali di oggi, e le repliche non hanno prodotto un consenso su un valore comune."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "I compiti lasciati in sospeso, secondo l'ipotesi originale, restano più presenti nella memoria di quelli portati a termine.",
+        "È la cornice concettuale dietro progress bar, streak e stati «quasi completo» — ma la sua base sperimentale moderna è più fragile di come viene raccontata nella cultura del prodotto.",
+        "Usa questo meccanismo per la sua logica, non per un numero preciso: nessuna percentuale di miglioramento della memoria attribuita a questo studio è affidabile."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Bluma Zeigarnik, «Das Behalten erledigter und unerledigter Handlungen», Psychologische Forschung, vol. 9, 1927, pp. 1-85. Da leggere insieme allo studio sul goal-gradient di Kivetz, Urminsky e Zheng (2006), che riguarda un aspetto diverso ma imparentato — cosa spinge a completare un percorso già iniziato, piuttosto che cosa resta impresso di un percorso interrotto."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 1060,
+  "readingMinutes": 6,
+  "related": [
+    "kivetz-2006-goal-gradient"
+  ],
+  "generatedAt": "2026-07-28",
+  "model": "claude-sonnet-5"
+}
