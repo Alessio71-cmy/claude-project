@@ -1,0 +1,104 @@
+{
+  "id": "growth-design-case-studies",
+  "catalogId": "growth-design-case-studies",
+  "titleIt": "Un fumetto per ogni schermata che ti ha convinto senza che te ne accorgessi",
+  "titleOriginal": "Growth.Design — Product Psychology Case Studies",
+  "authors": [
+    "Chevalier, Dan",
+    "Lemay, Louis-Xavier"
+  ],
+  "year": 2024,
+  "type": "case-study",
+  "venue": "growth.design",
+  "sourceUrl": "https://growth.design/case-studies",
+  "topics": [
+    "case-study-prodotto",
+    "abitudini-retention"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "Perché la barra di avanzamento di Duolingo non è mai lineare, perché Airbnb ti mostra «altre persone stanno guardando questo alloggio»: un caso alla volta, spiegato a fumetti."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Growth.Design pubblica case study a fumetti che collegano un principio psicologico preciso a una schermata reale di un prodotto noto — Duolingo, Airbnb, Strava, Audible. È la fonte più vicina, fra quelle di questa raccolta, a un ponte diretto fra teoria e schermata."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è un modello di comunicazione prima ancora che una fonte di evidenza: mostra come raccontare a un team o a un cliente il «perché» dietro una scelta di design in un formato breve, visivo e memorabile, invece che con un paragrafo denso di terminologia accademica. Vale la pena studiarne il formato tanto quanto il contenuto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Dan Chevalier e Louis-Xavier Lemay hanno costruito growth.design come raccolta continua di casi in cui un dettaglio di interfaccia — spesso piccolo, facilmente ignorato — nasconde una decisione psicologica precisa. Il progetto nasce dall'osservazione che i principi di psicologia comportamentale, per quanto ben documentati nella letteratura accademica, restano spesso astratti finché non vengono ancorati a uno screenshot riconoscibile di un prodotto che chiunque ha usato."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ogni case study segue lo stesso schema: uno screenshot o una sequenza di schermate di un prodotto reale, una domanda guida («perché la barra di progresso di Duolingo accelera vicino alla fine invece di restare lineare?»), e una spiegazione a fumetti che collega quella scelta specifica a un principio psicologico riconosciuto — spesso proprio uno degli studi già trattati in questa raccolta, come il goal-gradient o la riprova sociale."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **una serie di case study a fumetti che collegano un principio psicologico a una schermata reale di un prodotto noto**: non un esperimento originale, ma una ricostruzione esterna e ragionata di scelte di design osservabili, applicata a prodotti come Duolingo, Airbnb, Strava e Audible fra gli altri."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Non c'è un meccanismo psicologico unico da isolare, perché ogni case study ne tratta uno diverso — questo è per certi versi il punto stesso della fonte: un indice di applicazioni, non un singolo studio. Il valore aggiunto sta nel formato: collegare visivamente un principio a una schermata specifica rende immediato un passaggio che, letto solo in forma testuale, richiederebbe più immaginazione da parte del lettore."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda questi case study come punto di partenza quando devi spiegare a un collega non specializzato perché una certa scelta di design «funziona»: un esempio riconoscibile di Duolingo o Airbnb comunica in pochi secondi quello che una citazione accademica comunicherebbe in modo più lento e meno memorabile.",
+        "Vale anche come palestra per allenare l'occhio a notare pattern psicologici nei prodotti che usi ogni giorno — una volta riconosciuto un pattern in un case study, diventa più facile individuarlo altrove, anche in prodotti mai analizzati dalla fonte stessa.",
+        "C'è infine un uso più diretto nella pratica quotidiana: quando devi proporre una modifica a una schermata esistente, un case study che mostra come un prodotto affermato ha risolto un problema simile funziona da precedente — meno rischioso da presentare in una riunione di una proposta partita da zero, perché qualcuno, altrove, l'ha già validata con utenti reali."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite più importante, dichiarato nella natura stessa della fonte, è che questi case study sono ricostruzioni esterne, non esperimenti condotti sui prodotti analizzati: nessuno degli autori ha accesso ai dati interni di Duolingo o Airbnb, quindi l'interpretazione del «perché» una schermata è fatta in un certo modo resta un'inferenza ragionata, non una conferma diretta da parte dell'azienda che l'ha progettata.",
+        "Vale come strumento di comunicazione e come palestra per riconoscere pattern, non come prova che quella specifica scelta di design abbia davvero l'effetto ipotizzato su quello specifico prodotto."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Growth.design collega principi psicologici a schermate reali di prodotti noti, in un formato visivo pensato per essere condiviso e ricordato.",
+        "Il suo valore maggiore è come modello di comunicazione: mostra come rendere un principio astratto immediato con un esempio riconoscibile.",
+        "Sono ricostruzioni esterne, non dati interni dei prodotti analizzati: utili per ispirarsi e comunicare, non come prova diretta di efficacia."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Dan Chevalier e Louis-Xavier Lemay, Growth.Design — Product Psychology Case Studies, growth.design/case-studies, aggiornamento continuo. Utile leggerlo in parallelo agli studi originali citati in questa raccolta, quando un case study fa riferimento diretto a un meccanismo già trattato altrove."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "prodotti analizzati nei case study",
+      "value": "Duolingo, Airbnb, Strava, Audible e altri"
+    }
+  ],
+  "wordCount": 681,
+  "readingMinutes": 4,
+  "related": [
+    "kivetz-2006-goal-gradient"
+  ],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}

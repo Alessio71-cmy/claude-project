@@ -149,7 +149,7 @@
       "onboarding-attivazione"
     ],
     "relevance": "fondamentale",
-    "depth": "approfondito",
+    "depth": "standard",
     "keyFindings": [
       {
         "claim": "il banco con 24 marmellate attira più curiosità ma vende molto meno di quello con 6",
@@ -378,7 +378,7 @@
       "onboarding-attivazione"
     ],
     "relevance": "applicabile-subito",
-    "depth": "standard",
+    "depth": "breve",
     "keyFindings": [
       {
         "claim": "le ricerche di diete e le iscrizioni in palestra aumentano vicino a date simboliche: inizio settimana, inizio mese, compleanno",
@@ -619,7 +619,7 @@
       "persuasione-compliance"
     ],
     "relevance": "applicabile-subito",
-    "depth": "standard",
+    "depth": "breve",
     "keyFindings": [
       {
         "claim": "i pattern persuasivi organizzati per peccato capitale e per bias, con esempi reali di prodotti",

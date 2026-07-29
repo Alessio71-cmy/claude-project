@@ -1,0 +1,100 @@
+{
+  "id": "nngroup-psychology-for-ux",
+  "catalogId": "nngroup-psychology-for-ux",
+  "titleIt": "La fonte a cui appoggiarti quando serve un riferimento che regge in una riunione",
+  "titleOriginal": "Nielsen Norman Group — Psychology and Human Behavior for UX",
+  "authors": [
+    "Nielsen Norman Group"
+  ],
+  "year": 2024,
+  "type": "articolo",
+  "venue": "nngroup.com",
+  "sourceUrl": "https://www.nngroup.com/topic/psychology-and-human-behavior/",
+  "topics": [
+    "metodo-ricerca",
+    "accessibilita-cognitiva"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "Non un blog qualunque: un centro di ricerca UX che pubblica da decenni, con la propria metodologia dichiarata in ogni articolo — la differenza si sente quando serve difendere una scelta davanti a un cliente."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Il Nielsen Norman Group pubblica da decenni articoli brevi su psicologia applicata all'interfaccia, ancorati alla propria ricerca condotta con metodologia dichiarata. Per il tuo lavoro il valore non è la novità del contenuto: è la difendibilità della fonte quando serve citarla davanti a un cliente."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché in molte situazioni professionali la domanda non è solo «questo principio è vero» ma «posso citarlo in un documento senza che qualcuno lo smonti». Un articolo NN/g, con la sua storia e la sua metodologia esplicita, regge quella prova in un modo che un post generico di LinkedIn o un thread non firmato non reggono altrettanto bene — è una differenza di credibilità istituzionale, non solo di contenuto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Il Nielsen Norman Group, fondato da Jakob Nielsen e Don Norman — due nomi che compaiono ricorrentemente nella storia della disciplina, il primo legato proprio a una delle «leggi» più citate nel campo — pubblica ricerca e articoli divulgativi su usabilità e UX dagli anni Novanta. La sezione dedicata a psicologia e comportamento umano raccoglie articoli che applicano principi cognitivi e comportamentali specificamente al design di interfaccia, con un aggiornamento continuo nel tempo."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Gli articoli combinano tipicamente una spiegazione del principio psicologico di base, spesso con riferimento alla letteratura accademica originale, con linee guida pratiche di applicazione all'interfaccia e — a differenza di molte fonti divulgative — indicazioni su quando quel principio non si applica o richiede cautela."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **una raccolta di articoli brevi su psicologia applicata all'interfaccia, ancorati a ricerca propria**, con aggiornamento continuo nel tempo: non un singolo studio con un risultato definito, ma un corpus che cresce e si aggiorna, coprendo temi che vanno dal carico cognitivo alla memoria di lavoro, dai bias decisionali all'accessibilità cognitiva."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Non c'è un meccanismo psicologico singolo da isolare, perché la fonte copre molti principi diversi. Il tratto distintivo, più che il contenuto specifico di ogni articolo, è il metodo: NN/g dichiara sempre la propria fonte — uno studio citato, un test di usabilità condotto internamente, una sintesi di più fonti — invece di presentare affermazioni senza tracciabilità, una pratica meno comune di quanto dovrebbe essere nel settore."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più diretto è la ricerca rapida di un riferimento quando prepari un documento o una presentazione: prima di citare un principio psicologico a memoria, un controllo veloce sul sito NN/g spesso restituisce un articolo dedicato con la fonte primaria collegata, pronto da citare con più sicurezza.",
+        "Vale anche come termine di paragone per validare affermazioni che circolano senza fonte in altri contesti — social media, articoli di blog non specializzati: se un principio citato altrove trova conferma in un articolo NN/g con la sua metodologia dichiarata, la fiducia che puoi riporci sale in modo significativo."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite principale è che si tratta di una fonte divulgativa, non di ricerca accademica peer-reviewed: gli articoli sintetizzano bene la letteratura esistente e talvolta la ricerca interna del gruppo, ma non sostituiscono lo studio originale quando la precisione del dato citato è cruciale per una decisione importante.",
+        "Vale anche una nota di trasparenza commerciale: NN/g è anche un'organizzazione che vende corsi e consulenza, il che non invalida la qualità dei contenuti gratuiti ma è bene tenere presente come contesto quando si valuta il taglio di alcuni articoli più orientati alla promozione dei propri servizi formativi."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il Nielsen Norman Group è una fonte divulgativa con metodologia dichiarata, utile soprattutto per la sua difendibilità in contesti professionali.",
+        "Il valore non è la novità del contenuto ma la tracciabilità: sapere sempre da dove viene un'affermazione prima di ripeterla a un cliente.",
+        "Resta una fonte secondaria rispetto alla ricerca accademica originale: ottima come punto di accesso rapido, non come sostituto quando la precisione conta davvero."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Nielsen Norman Group, «Psychology and Human Behavior for UX», nngroup.com/topic/psychology-and-human-behavior/, aggiornamento continuo. Utile anche il catalogo generale degli articoli su nngroup.com/articles/ per temi correlati non specificamente etichettati come psicologia."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "natura e cadenza della fonte",
+      "value": "aggiornamento continuo"
+    }
+  ],
+  "wordCount": 640,
+  "readingMinutes": 4,
+  "related": [],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}

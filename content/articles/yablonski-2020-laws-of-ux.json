@@ -1,0 +1,105 @@
+{
+  "id": "yablonski-2020-laws-of-ux",
+  "catalogId": "yablonski-2020-laws-of-ux",
+  "titleIt": "Le leggi che un'interfaccia rispetta anche quando nessuno le ha lette",
+  "titleOriginal": "Laws of UX: Using Psychology to Design Better Products & Services",
+  "authors": [
+    "Yablonski, Jon"
+  ],
+  "year": 2020,
+  "type": "libro",
+  "venue": "O'Reilly Media",
+  "sourceUrl": "https://lawsofux.com/",
+  "topics": [
+    "accessibilita-cognitiva",
+    "metodo-ricerca"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "standard",
+  "citable": true,
+  "preview": {
+    "hook": "Hick, Fitts, Miller, Jakob, Tesler: nomi diversi per una sola idea — la mente ha regole prevedibili, e un'interfaccia le rispetta o le paga."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "«Laws of UX» raccoglie in un unico vocabolario una ventina di principi psicologici già noti singolarmente — legge di Hick, legge di Fitts, legge di Jakob, e altri — e li traduce in decisioni concrete di interfaccia. Non è una scoperta nuova: è un indice, e il suo valore sta proprio in questo."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché nel lavoro quotidiano capita di intuire che una schermata «non funziona» senza avere subito il vocabolario per spiegare perché — e senza un vocabolario condiviso, la discussione con un team o un cliente scivola facilmente sul gusto personale invece che su un principio verificabile. Avere a portata di mano i nomi giusti — «questo è un problema di legge di Hick, non di estetica» — sposta la conversazione su un terreno più difendibile, e questo libro è probabilmente il punto di accesso più rapido a quel vocabolario."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Jon Yablonski lavorava come designer quando ha iniziato a raccogliere, prima come sito web e poi come libro, i principi psicologici che tornavano più spesso nelle discussioni di design con cui aveva a che fare: non risultati di una sua ricerca originale, ma una selezione e una sistematizzazione di studi già esistenti, alcuni vecchi di decenni, sparsi fra psicologia cognitiva, ergonomia e interaction design.",
+        "L'esigenza che ha guidato il progetto era pratica più che accademica: rendere questi principi consultabili in pochi secondi, con un nome, una definizione breve e un esempio visivo, invece di doverli recuperare uno per uno dalla letteratura originale ogni volta che servono."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il libro — e il sito lawsofux.com che ne è la versione viva, aggiornata più spesso dell'edizione stampata — organizza una ventina di principi in schede autonome, ciascuna con il nome del principio, chi lo ha formulato originariamente, una spiegazione in linguaggio piano e un esempio applicato a un'interfaccia reale.",
+        "Non è uno studio empirico originale: è un lavoro di curatela e divulgazione, il che ne cambia il modo corretto di citarlo. Ogni «legge» rimanda a una fonte originale — spesso uno studio di psicologia sperimentale degli anni Cinquanta, Sessanta o Settanta — che il libro riassume ma non sostituisce."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **un insieme di principi psicologici tradotti direttamente in decisioni d'interfaccia**: la legge di Hick (più opzioni, più tempo per decidere), la legge di Fitts (più un bersaglio è vicino e grande, più veloce è raggiungerlo), la legge di Miller (la memoria di lavoro gestisce bene solo un numero limitato di elementi alla volta), la legge di Jakob (gli utenti si aspettano che il tuo prodotto funzioni come gli altri che già conoscono), la legge di Tesler (la complessità non si elimina, si sposta — da qualche parte deve essere gestita, dall'utente o dal sistema).",
+        "Preso nell'insieme, il valore del libro non sta in un singolo principio ma nella loro coerenza reciproca: letti insieme, disegnano un quadro comune — la mente umana ha limiti prevedibili di attenzione, memoria e velocità di decisione, e un buon design è in gran parte il lavoro di rispettare quei limiti invece di combatterli."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Non c'è un singolo meccanismo psicologico da spiegare qui, perché il libro ne raccoglie molti — ognuna delle leggi ha la propria base sperimentale, spesso indipendente dalle altre. Il filo comune è metodologico, non psicologico: ogni principio nasce da un esperimento controllato che isola una singola variabile (il numero di opzioni, la distanza di un bersaglio, il numero di elementi da ricordare) e misura il suo effetto su tempo, accuratezza o soddisfazione.",
+        "Il valore aggiunto del libro sta nell'aver tradotto quelle variabili di laboratorio — spesso testate su compiti astratti, non su interfacce vere — in equivalenti visibili in un prodotto software: un menu, un pulsante, un elenco. La traduzione è un atto interpretativo, non una replica sperimentale, ed è bene ricordarlo quando si cita una «legge» come se fosse una prova diretta sul proprio prodotto specifico."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso d'uso più immediato è la revisione critica di un'interfaccia esistente: passare uno screenshot al filtro di due o tre leggi — c'è un problema di legge di Hick in questo menu con trenta voci non raggruppate? C'è un problema di legge di Fitts in questo pulsante troppo piccolo su mobile? — dà una struttura a un feedback che altrimenti resterebbe intuitivo e difficile da argomentare.",
+        "Il secondo uso, forse il più prezioso nel lavoro quotidiano, è comunicativo: quando un cliente o uno stakeholder chiede «perché hai fatto così» invece di «perché non hai fatto come il concorrente», poter rispondere con un nome riconoscibile — legge di Jakob, principio di familiarità — invece di un generico «mi sembrava meglio» rende la decisione difendibile in una riunione, non solo corretta sulla carta.",
+        "C'è infine l'uso come lista di controllo in fase di progettazione, non solo di revisione: prima di consegnare un flusso complesso, verificare se rispetta le leggi più rilevanti per quel contesto — Miller per un form lungo, Tesler per una funzione che sposta complessità dall'utente al sistema o viceversa — individua problemi prima che arrivino a un utente reale."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite più importante, dichiarato dallo stesso autore nell'introduzione, è che queste sono «leggi» nel senso colloquiale del termine, non leggi fisiche: sono tendenze medie osservate in condizioni sperimentali specifiche, non regole che si applicano allo stesso modo in ogni contesto e per ogni utente. Trattarle come vincoli assoluti — «questo viola la legge di Hick quindi è sbagliato» — è un uso più rigido di quanto la letteratura originale giustifichi.",
+        "Vale anche la cautela metodologica di fondo: molte delle «leggi» sono la sintesi divulgativa di studi che meritano di essere letti in originale prima di essere citati in un contesto professionale in cui l'accuratezza conta — un deck cliente, una decisione di prodotto con budget rilevante. Il libro è un ottimo punto di partenza e un ottimo indice; non è il sostituto della fonte primaria quando la posta in gioco lo richiede."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "«Laws of UX» non è ricerca originale: è un indice ben fatto di principi psicologici già esistenti, tradotti in linguaggio da interfaccia.",
+        "Il suo valore più grande è dare un vocabolario condiviso per discutere design in modo difendibile, non solo intuitivo.",
+        "Usalo come punto di partenza e come lista di controllo, non come sostituto della fonte primaria quando la decisione è importante abbastanza da richiederla."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Jon Yablonski, «Laws of UX: Using Psychology to Design Better Products & Services», O'Reilly Media, 2020. Il sito lawsofux.com è la versione aggiornata e gratuita del contenuto del libro, e vale la pena tenerlo come riferimento vivo più che come lettura una tantum."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "principi raccolti nel volume",
+      "value": "Hick, Fitts, Miller, Jakob, Tesler e altri"
+    }
+  ],
+  "wordCount": 1077,
+  "readingMinutes": 6,
+  "related": [],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}

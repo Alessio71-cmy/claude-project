@@ -1,0 +1,104 @@
+{
+  "id": "nodder-2013-evil-by-design",
+  "catalogId": "nodder-2013-evil-by-design",
+  "titleIt": "Il vocabolario dei sette peccati del design, scritto prima che avesse un nome",
+  "titleOriginal": "Evil by Design: Interaction Design to Lead Us into Temptation",
+  "authors": [
+    "Nodder, Chris"
+  ],
+  "year": 2013,
+  "type": "libro",
+  "venue": "Wiley",
+  "sourceUrl": "https://www.wiley.com/en-us/Evil+by+Design%3A+Interaction+Design+to+Lead+Us+into+Temptation-p-9781118422144",
+  "topics": [
+    "dark-pattern-etica",
+    "persuasione-compliance"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "Prima ancora che qualcuno li chiamasse «dark pattern», qualcuno li aveva già catalogati uno per uno, organizzati come i sette peccati capitali del design persuasivo."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "«Evil by Design» organizza le tecniche persuasive dell'interaction design intorno ai sette peccati capitali — orgoglio, avidità, ira, invidia, lussuria, gola, accidia — mostrando per ciascuno esempi reali di prodotti che li sfruttano. È un vocabolario, scritto prima che la ricerca accademica sui dark pattern esistesse come campo a sé."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché riconoscere una tecnica persuasiva richiede prima di tutto saperla nominare, e questo libro offre un vocabolario visivo e organizzato meglio di quasi ogni altra fonte del periodo — utile sia per progettare in modo consapevole quando quelle leve sono legittime, sia per riconoscerle quando qualcun altro le sta usando in modo scorretto contro l'utente finale del tuo lavoro."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Chris Nodder scriveva in un momento in cui il termine «dark pattern» — coniato da Harry Brignull pochi anni prima — cominciava a circolare ma non esisteva ancora una letteratura accademica sistematica sul tema. Il libro nasce dall'osservazione diretta di pattern ricorrenti in prodotti commerciali reali, più che da una ricerca sperimentale originale: un lavoro di catalogazione e nomenclatura, non uno studio con partecipanti e misure controllate."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il libro raccoglie decine di tecniche di persuasione digitale osservate in prodotti reali dell'epoca — e-commerce, social network, servizi in abbonamento — organizzandole intorno alla metafora dei sette peccati capitali: l'orgoglio che sfrutta lo status sociale, l'avidità che sfrutta le offerte limitate, l'accidia che sfrutta i default preselezionati, e così via per ciascuno dei sette.",
+        "Per ogni pattern, il testo offre uno screenshot o una descrizione dettagliata dell'esempio reale, il principio psicologico sottostante, e — punto distintivo rispetto a gran parte della letteratura successiva — riflessioni sul confine fra uso legittimo e uso manipolativo della stessa tecnica."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **un catalogo di pattern organizzato per principio psicologico, non uno studio empirico** che misura l'efficacia di ciascuna tecnica su un campione di utenti. Il valore del libro sta nella sistematizzazione e nella chiarezza degli esempi, non in dati statistici sulla loro efficacia relativa.",
+        "Preso nell'insieme, il libro anticipa quasi tutte le categorie che la ricerca accademica successiva — in particolare il lavoro di Colin Gray e colleghi sulle tassonomie di Asymmetric, Covert, Deceptive e Restrictive design (ACDP) — formalizzerà anni dopo con metodo scientifico più rigoroso."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Ogni pattern descritto nel libro sfrutta un meccanismo psicologico diverso — riprova sociale per l'orgoglio, scarsità per l'avidità, inerzia decisionale per l'accidia — quindi non esiste un unico meccanismo comune da spiegare, ma una raccolta di leve già note singolarmente nella letteratura di persuasione, qui riorganizzate secondo una cornice narrativa memorabile.",
+        "Il contributo originale del libro non è scientifico ma didattico: la metafora dei sette peccati rende i pattern facili da ricordare e da riconoscere, un vantaggio pratico non da poco quando l'obiettivo è allenare l'occhio di chi progetta a notare queste tecniche, nei propri prodotti come in quelli altrui."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il caso più immediato è l'audit di un flusso di cancellazione o di un checkout: confrontarlo con i pattern descritti nel libro — ostacoli nascosti, opzioni preselezionate, linguaggio confuso apposta — aiuta a distinguere in modo sistematico cosa nel proprio prodotto è persuasione legittima e cosa scivola verso la manipolazione, invece di affidarsi a un giudizio impressionistico caso per caso.",
+        "Il secondo uso è come strumento di formazione interna: presentare a un team di prodotto la cornice dei sette peccati, con esempi reali riconoscibili, è un modo efficace per costruire un vocabolario condiviso su cosa l'azienda considera accettabile e cosa no, prima che una decisione discutibile arrivi in produzione.",
+        "C'è infine il valore storico, non solo pratico: confrontare i pattern del 2013 con quelli documentati oggi dalla ricerca accademica su ACDP mostra quanto poco, in fondo, sia cambiato nel repertorio di tecniche persuasive del settore — cambiano i prodotti, non i principi psicologici sfruttati."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite principale, dichiarato nella natura stessa del libro, è che si tratta di osservazione qualitativa di casi reali, non di ricerca empirica con misure controllate: non ci sono numeri sull'efficacia relativa dei pattern descritti, e alcuni degli esempi specifici, essendo prodotti commerciali di oltre un decennio fa, potrebbero non esistere più nella forma descritta.",
+        "Vale anche una cautela sul tono: il titolo e l'impostazione del libro sono volutamente descrittivo-ammirati verso l'abilità tecnica di queste manipolazioni, un approccio che precede la cornice più esplicitamente critica ed etica che la ricerca accademica successiva — a partire dal lavoro di Gray e colleghi — ha portato al tema. Leggerlo oggi richiede di aggiungere da sé quella lente critica, che il testo originale non enfatizza allo stesso modo."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "«Evil by Design» è un catalogo di tecniche persuasive osservate in prodotti reali, organizzato per principio psicologico, non uno studio con dati sperimentali.",
+        "Il suo valore è il vocabolario: nominare un pattern è il primo passo per riconoscerlo, sia nei propri prodotti sia in quelli altrui.",
+        "Il tono originale è più ammirato che critico verso queste tecniche: la lente etica va aggiunta da chi legge, appoggiandosi alla ricerca più recente sui dark pattern."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Chris Nodder, «Evil by Design: Interaction Design to Lead Us into Temptation», Wiley, 2013. Da leggere insieme al lavoro di Colin M. Gray, Yubo Kou, Bryan Battles, Joseph Hoggatt e Austin L. Toombs, «The Dark (Patterns) Side of UX Design», CHI 2018, che formalizza con metodo accademico molte delle categorie qui descritte in modo aneddotico."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "natura del contenuto del volume",
+      "value": "catalogo di pattern, non studio empirico"
+    }
+  ],
+  "wordCount": 869,
+  "readingMinutes": 5,
+  "related": [],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}

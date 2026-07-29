@@ -1,0 +1,108 @@
+{
+  "id": "iyengar-2000-when-choice-is-demotivating",
+  "catalogId": "iyengar-2000-when-choice-is-demotivating",
+  "titleIt": "Troppa scelta non ti libera: ti paralizza",
+  "titleOriginal": "When Choice is Demotivating: Can One Desire Too Much of a Good Thing?",
+  "authors": [
+    "Iyengar, Sheena S.",
+    "Lepper, Mark R."
+  ],
+  "year": 2000,
+  "type": "studio",
+  "venue": "Journal of Personality and Social Psychology",
+  "sourceUrl": "https://doi.org/10.1037/0022-3514.79.6.995",
+  "doi": "10.1037/0022-3514.79.6.995",
+  "topics": [
+    "choice-architecture-nudge",
+    "onboarding-attivazione"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Un banco di marmellate con 24 gusti attira più curiosi di uno con 6 — ma vende molto meno. La scelta abbondante intriga da lontano e frena da vicino."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Più opzioni non significa sempre più libertà di scelta: oltre una certa soglia, la scelta abbondante attira l'attenzione ma riduce la probabilità di comprare, iscriversi o comunque agire. È uno degli studi più citati — e più discussi — sul rapporto fra quantità di opzioni e comportamento reale."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché quasi ogni decisione di prodotto che riguarda un catalogo, un listino, un menu di impostazioni o una pagina di onboarding nasconde la stessa domanda: quante opzioni mostro? L'istinto di molte organizzazioni è aggiungere scelte — più piani, più varianti, più configurazioni — pensando che coprire ogni caso d'uso sia sempre un vantaggio. Questo studio, con tutte le cautele che leggerai più avanti, è il punto di partenza obbligato per chiunque debba difendere, con argomenti solidi, la scelta opposta: meno opzioni, scelte più chiare, tassi di completamento più alti."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Alla fine degli anni Novanta, la psicologia economica trattava la scelta come un bene quasi sempre positivo: più opzioni disponibili significava, quasi per definizione, più probabilità di trovare quella giusta per sé. Sheena Iyengar e Mark Lepper si chiedevano se questa assunzione reggesse in un contesto reale di consumo, fuori dal laboratorio, dove la scelta ha anche un costo cognitivo — valutare, confrontare, decidere — che la teoria economica classica tendeva a ignorare.",
+        "La loro intuizione era che esistesse un punto oltre il quale l'abbondanza di opzioni smette di essere un vantaggio e comincia a pesare: non perché le persone non vogliano scegliere, ma perché il compito di scegliere fra troppe alternative diventa esso stesso un ostacolo."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Lo studio più noto del lavoro — quello diventato proverbiale nel settore — è stato condotto in un negozio di alimentari reale, non in laboratorio. In giorni alterni, un banco d'assaggio esponeva o un assortimento ampio di marmellate (24 gusti diversi) o un assortimento ridotto (6 gusti), lasciando i clienti liberi di assaggiare quanti gusti volessero prima di decidere se acquistare.",
+        "I ricercatori misuravano due cose distinte, ed è qui che lo studio diventa interessante oltre l'aneddoto: quante persone si fermavano al banco, attratte dall'assortimento, e quante di quelle che si fermavano completavano poi un acquisto. Un secondo esperimento, condotto in laboratorio con del cioccolato invece delle marmellate, replicava la stessa struttura con un controllo più stretto sulle variabili."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il banco con l'assortimento ampio attirava più persone incuriosite — l'abbondanza, da lontano, funziona come richiamo. Ma al momento di decidere, il tasso di acquisto si rovesciava: **il 3% di chi si era fermato al banco con 24 gusti comprava un vasetto, contro il 30% di chi si era fermato al banco con 6 gusti**. Dieci volte meno probabile comprare, a fronte di un banco che aveva attirato più curiosi in partenza.",
+        "Il secondo esperimento, con il cioccolato, confermava la stessa direzione: chi sceglieva fra un numero ridotto di opzioni si dichiarava più soddisfatto della propria scelta finale rispetto a chi aveva scelto fra un numero ampio, nonostante entrambi i gruppi avessero accesso a opzioni oggettivamente valide."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'interpretazione proposta da Iyengar e Lepper riguarda il costo cognitivo della scelta stessa. Valutare e confrontare molte opzioni richiede uno sforzo mentale che cresce più che proporzionalmente al numero di alternative: non è solo più lungo, è più faticoso in un modo che scoraggia la decisione finale, spingendo verso il rimandare o l'abbandonare del tutto.",
+        "C'è anche una componente legata al rimpianto anticipato: più opzioni ci sono, più cresce la possibilità — reale o percepita — che ne esista una migliore di quella scelta, e questo pensiero, anche solo latente, riduce la soddisfazione per qualunque decisione si prenda. Con poche opzioni, la scelta si sente più definitiva e meno esposta al dubbio successivo."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Pensa a un menu di piani tariffari: tre opzioni ben differenziate guidano la decisione molto meglio di sette varianti che si sovrappongono per funzionalità, anche quando quelle sette coprono in teoria più casi d'uso. Il costo di quella copertura extra, secondo questo meccanismo, è pagato in tassi di conversione più bassi da parte di chi si blocca di fronte al confronto.",
+        "Vale lo stesso per un catalogo prodotti o un elenco di template in un tool di produttività: un primo livello con poche opzioni curate, e un accesso secondario — «vedi tutti», «altre opzioni» — per chi cerca qualcosa di specifico, offre il meglio di entrambi i mondi: l'ampiezza resta disponibile per chi la cerca, senza gravare sulla decisione di chi vuole solo iniziare in fretta.",
+        "C'è infine l'onboarding tecnico: un prodotto con quaranta impostazioni configurabili al primo avvio, tutte presentate insieme, produce lo stesso effetto paralizzante del banco con 24 marmellate. Mostrare cinque scelte davvero rilevanti al primo accesso, con il resto raggiungibile in un secondo momento dalle impostazioni avanzate, è l'applicazione più diretta di questo studio a un prodotto software."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Questo è uno degli studi più citati e — è importante dirlo con la stessa chiarezza con cui viene citato — più contestati di tutta la letteratura sulla scelta. Una meta-analisi successiva di Scheibehenne, Greifeneder e Todd (2010), che raccoglie decine di repliche del paradigma originale, trova un effetto medio complessivo vicino allo zero: in molti contesti l'abbondanza di scelta non riduce affatto la soddisfazione o l'acquisto.",
+        "La stessa meta-analisi identifica però dei moderatori forti, che rendono la questione più interessante di un semplice «l'effetto non esiste»: l'effetto compare più chiaramente quando chi sceglie ha poca competenza specifica sul dominio, quando le opzioni sono difficili da confrontare fra loro, e quando le preferenze della persona non sono già chiare in partenza. In altre parole, il paradosso della scelta non è una legge universale: è un effetto condizionato, che si manifesta soprattutto quando la scelta è genuinamente complessa e chi sceglie non ha strumenti per semplificarla da sé.",
+        "Per il tuo lavoro questo significa una cosa precisa: prima di ridurre le opzioni in nome di questo studio, vale la pena chiedersi se il tuo utente rientra nelle condizioni in cui l'effetto è più forte — poca esperienza nel dominio, opzioni difficili da confrontare — oppure se sta scegliendo fra alternative che conosce già bene, dove più scelta potrebbe non pesare affatto."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "L'abbondanza di opzioni attira l'attenzione ma può ridurre, in certe condizioni, la probabilità di decidere e la soddisfazione per la scelta fatta.",
+        "L'effetto non è universale: pesa di più quando chi sceglie ha poca competenza sul dominio, le opzioni sono difficili da confrontare, e le preferenze non sono già chiare.",
+        "Prima di tagliare opzioni in nome di questo studio, verifica se il tuo caso rientra davvero nelle condizioni in cui l'effetto è documentato, non solo nel titolo che lo ha reso famoso."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Sheena S. Iyengar e Mark R. Lepper, «When Choice is Demotivating: Can One Desire Too Much of a Good Thing?», Journal of Personality and Social Psychology, vol. 79, n. 6, 2000, pp. 995-1006. Da leggere insieme alla meta-analisi di Benjamin Scheibehenne, Rainer Greifeneder e Peter M. Todd, «Can There Ever Be Too Many Options? A Meta-Analytic Review of Choice Overload», Journal of Consumer Research, 2010, che va citata ogni volta che si porta questo studio in un contesto professionale."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "tasso di acquisto con 24 gusti disponibili contro 6",
+      "value": "3% di acquisti contro 30%"
+    }
+  ],
+  "wordCount": 1166,
+  "readingMinutes": 7,
+  "related": [],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}
