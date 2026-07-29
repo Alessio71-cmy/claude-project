@@ -70,9 +70,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è l'ordine delle tabelle di pricing. Un piano enterprise mostrato per primo, con tutte le funzionalità e un prezzo alto, prima del piano standard che il prodotto vuole davvero vendere alla maggior parte degli utenti, sfrutta lo stesso contrasto: il piano standard, visto subito dopo, sembra più ragionevole di quanto sembrerebbe da solo, a prescindere dal fatto che il suo prezzo assoluto non sia cambiato di una virgola.",
-        "Il secondo caso è la richiesta di dati o permessi in un form lungo. Chiedere prima, in una schermata, un livello di dettaglio molto alto — tutti i campi possibili — e poi offrire una versione «rapida» con solo tre campi essenziali, fa percepire quella versione rapida come una concessione, aumentando la disponibilità a completarla rispetto a mostrarla come unica opzione fin dall'inizio.",
-        "Il terzo è l'upsell nel checkout: proporre prima l'abbonamento annuale con tutte le funzionalità premium, farsi dire di no, e offrire subito dopo il piano mensile base, fa leva sulla stessa concessione reciproca che ha funzionato con la gita allo zoo — a patto che le due proposte arrivino ravvicinate e dalla stessa fonte, condizione che nel digitale è quasi sempre soddisfatta di default."
+        "Guarda l'ordine delle tabelle di pricing. Un piano enterprise mostrato per primo, con tutte le funzionalità e un prezzo alto, prima del piano standard che il prodotto vuole davvero vendere alla maggior parte degli utenti, sfrutta lo stesso contrasto: il piano standard, visto subito dopo, sembra più ragionevole di quanto sembrerebbe da solo, a prescindere dal fatto che il suo prezzo assoluto non sia cambiato di una virgola.",
+        "La stessa leva regge la richiesta di dati o permessi in un form lungo. Chiedere prima, in una schermata, un livello di dettaglio molto alto — tutti i campi possibili — e poi offrire una versione «rapida» con solo tre campi essenziali, fa percepire quella versione rapida come una concessione, aumentando la disponibilità a completarla rispetto a mostrarla come unica opzione fin dall'inizio.",
+        "E funziona anche per l'upsell nel checkout: proporre prima l'abbonamento annuale con tutte le funzionalità premium, farsi dire di no, e offrire subito dopo il piano mensile base, fa leva sulla stessa concessione reciproca che ha funzionato con la gita allo zoo — a patto che le due proposte arrivino ravvicinate e dalla stessa fonte, condizione che nel digitale è quasi sempre soddisfatta di default."
       ]
     },
     {
@@ -103,7 +103,7 @@
       "value": "circa 50% contro 17% del gruppo di controllo"
     }
   ],
-  "wordCount": 1025,
+  "wordCount": 1022,
   "readingMinutes": 6,
   "related": [
     "freedman-1966-foot-in-the-door",

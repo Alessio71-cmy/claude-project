@@ -67,9 +67,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto, e probabilmente il pattern più diffuso in tutto il design di prodotto contemporaneo, è la progress bar di onboarding che parte già a una percentuale diversa da zero — un profilo che nasce «già completo al 20%» semplicemente perché l'email di registrazione conta come primo passo. Non è un trucco fine a sé stesso: secondo questo meccanismo, cambia realmente quanto velocemente le persone completano i passaggi restanti.",
-        "Il secondo caso sono i programmi fedeltà digitali, l'equivalente diretto dell'esperimento originale: un programma a punti o a livelli che accoglie un nuovo utente con un piccolo bonus di ingresso, invece che a quota zero, dovrebbe secondo questa ricerca produrre un ritmo di ritorno più rapido rispetto a un programma identico che parte da zero.",
-        "Il terzo caso è la scelta di come segmentare visivamente una checklist di attivazione lunga: raggruppare i primi due o tre passaggi già completati automaticamente dal sistema — per esempio la sola creazione dell'account — in una prima sezione già «spuntata», invece di mostrare tutti i passaggi come un'unica lista che parte da zero, sfrutta lo stesso principio del gradiente percepito."
+        "È probabilmente il pattern più diffuso in tutto il design di prodotto contemporaneo: la progress bar di onboarding che parte già a una percentuale diversa da zero — un profilo che nasce «già completo al 20%» semplicemente perché l'email di registrazione conta come primo passo. Non è un trucco fine a sé stesso: secondo questo meccanismo, cambia realmente quanto velocemente le persone completano i passaggi restanti.",
+        "Lo stesso vale per i programmi fedeltà digitali, l'equivalente diretto dell'esperimento originale: un programma a punti o a livelli che accoglie un nuovo utente con un piccolo bonus di ingresso, invece che a quota zero, dovrebbe secondo questa ricerca produrre un ritmo di ritorno più rapido rispetto a un programma identico che parte da zero.",
+        "C'è anche la scelta di come segmentare visivamente una checklist di attivazione lunga: raggruppare i primi due o tre passaggi già completati automaticamente dal sistema — per esempio la sola creazione dell'account — in una prima sezione già «spuntata», invece di mostrare tutti i passaggi come un'unica lista che parte da zero, sfrutta lo stesso principio del gradiente percepito."
       ]
     },
     {
@@ -100,7 +100,7 @@
       "value": "completamento più rapido con progresso «illusorio»"
     }
   ],
-  "wordCount": 1059,
+  "wordCount": 1052,
   "readingMinutes": 6,
   "related": [
     "zeigarnik-1927-compiti-incompiuti",

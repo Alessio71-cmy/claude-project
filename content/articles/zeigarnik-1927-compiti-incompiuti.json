@@ -65,9 +65,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è la barra di completamento del profilo, con l'indicazione esplicita di quanto manca — «il tuo profilo è completo all'80%». Il meccanismo teorizzato da Zeigarnik suggerisce che quel 20% mancante resti più presente nella mente dell'utente di quanto resterebbe un profilo semplicemente «da migliorare» senza un indicatore visivo dello stato incompleto.",
-        "Il secondo caso è la serie di giorni consecutivi, la streak, che molte app di abitudini e alcuni social network mostrano in modo prominente: interrompere la serie significa, nella logica di questo meccanismo, chiudere qualcosa che la mente stava tenendo aperto — ed è per questo che la minaccia di perdere una streak lunga pesa più di quanto peserebbe un semplice invito a tornare a usare l'app.",
-        "Il terzo caso è il salvataggio automatico di bozze visibili e non completate — un articolo iniziato, un carrello con articoli non ancora acquistati, un modulo compilato a metà — mostrati esplicitamente come «da riprendere» invece che nascosti: la visibilità dell'incompleto è parte del meccanismo, non solo il fatto che esista."
+        "Prendi la barra di completamento del profilo, con l'indicazione esplicita di quanto manca — «il tuo profilo è completo all'80%». Il meccanismo teorizzato da Zeigarnik suggerisce che quel 20% mancante resti più presente nella mente dell'utente di quanto resterebbe un profilo semplicemente «da migliorare» senza un indicatore visivo dello stato incompleto.",
+        "Vale anche per la serie di giorni consecutivi, la streak, che molte app di abitudini e alcuni social network mostrano in modo prominente: interrompere la serie significa, nella logica di questo meccanismo, chiudere qualcosa che la mente stava tenendo aperto — ed è per questo che la minaccia di perdere una streak lunga pesa più di quanto peserebbe un semplice invito a tornare a usare l'app.",
+        "C'è infine il salvataggio automatico di bozze visibili e non completate — un articolo iniziato, un carrello con articoli non ancora acquistati, un modulo compilato a metà — mostrati esplicitamente come «da riprendere» invece che nascosti: la visibilità dell'incompleto è parte del meccanismo, non solo il fatto che esista."
       ]
     },
     {
@@ -93,7 +93,7 @@
     }
   ],
   "keyNumbers": [],
-  "wordCount": 1060,
+  "wordCount": 1053,
   "readingMinutes": 6,
   "related": [
     "kivetz-2006-goal-gradient"

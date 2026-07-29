@@ -67,9 +67,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è l'onboarding che chiede all'utente di costruire attivamente il proprio spazio di lavoro — scegliere un layout, importare i primi dati, personalizzare una dashboard — invece di consegnare un ambiente già completamente configurato. Il lavoro percepito, anche minimo, aumenta la probabilità che l'utente senta quel prodotto come «suo» in un modo che un ambiente preimpostato non produce.",
-        "Il secondo caso, ed è il punto più operativo di tutto lo studio, è la progettazione del setup guidato in funzione del completamento, non della ricchezza delle opzioni. Un onboarding con troppi passaggi che una parte consistente degli utenti abbandona a metà, secondo questo meccanismo, non è neutro: rischia di produrre l'effetto opposto a quello desiderato, un rapporto con il prodotto associato a un compito lasciato a metà invece che a un piccolo successo.",
-        "Il terzo caso è la personalizzazione visibile e reversibile — temi, nomi di progetto, icone scelte dall'utente — che richiede pochissimo sforzo reale ma dà comunque la sensazione di aver costruito qualcosa di proprio, e che a differenza di un setup tecnico complesso è quasi impossibile abbandonare a metà: è la versione a basso rischio dello stesso meccanismo."
+        "Pensa all'onboarding che chiede all'utente di costruire attivamente il proprio spazio di lavoro — scegliere un layout, importare i primi dati, personalizzare una dashboard — invece di consegnare un ambiente già completamente configurato. Il lavoro percepito, anche minimo, aumenta la probabilità che l'utente senta quel prodotto come «suo» in un modo che un ambiente preimpostato non produce.",
+        "Il punto più operativo di tutto lo studio riguarda però la progettazione del setup guidato in funzione del completamento, non della ricchezza delle opzioni. Un onboarding con troppi passaggi che una parte consistente degli utenti abbandona a metà, secondo questo meccanismo, non è neutro: rischia di produrre l'effetto opposto a quello desiderato, un rapporto con il prodotto associato a un compito lasciato a metà invece che a un piccolo successo.",
+        "C'è infine la personalizzazione visibile e reversibile — temi, nomi di progetto, icone scelte dall'utente — che richiede pochissimo sforzo reale ma dà comunque la sensazione di aver costruito qualcosa di proprio, e che a differenza di un setup tecnico complesso è quasi impossibile abbandonare a metà: è la versione a basso rischio dello stesso meccanismo."
       ]
     },
     {
@@ -100,7 +100,7 @@
       "value": "disponibilità a pagare più alta per il proprio manufatto"
     }
   ],
-  "wordCount": 1074,
+  "wordCount": 1064,
   "readingMinutes": 6,
   "related": [
     "kivetz-2006-goal-gradient"

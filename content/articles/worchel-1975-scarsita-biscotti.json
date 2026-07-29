@@ -67,9 +67,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più immediato è la scelta della formulazione in un badge di scarsità o in un countdown. «Solo 3 posti rimasti» comunica scarsità pura, dovuta alla disponibilità; «12 persone hanno prenotato questo posto nell'ultima ora» comunica scarsità dovuta alla domanda altrui, e secondo questo meccanismo dovrebbe pesare di più, perché aggiunge il segnale della riprova sociale a quello della scarsità. La differenza non è di stile: è la variabile che lo studio ha isolato come quella che fa davvero la differenza.",
-        "Il secondo caso è il countdown puro, sganciato da qualunque riferimento alla domanda di altri utenti — il classico timer che scende verso zero su un'offerta. È la versione più debole del meccanismo secondo questo studio, perché comunica solo scarsità di tempo, senza il rinforzo della domanda sociale; e se il countdown si azzera e riparte identico il giorno dopo, il segnale smette pure di essere credibile, il che è anche il terreno su cui questo pattern scivola più facilmente in un dark pattern piuttosto che in una comunicazione onesta.",
-        "Il terzo caso è la disponibilità limitata di un contenuto o di una funzionalità — un accesso beta con posti contati, un drop limitato di un prodotto digitale. Qui la scarsità è spesso reale, non simulata, il che la rende anche eticamente più solida: comunicare che i posti si stanno esaurendo perché altri utenti li stanno effettivamente prendendo sfrutta lo stesso meccanismo di questo studio senza bisogno di inventare nulla."
+        "Guarda la scelta della formulazione in un badge di scarsità o in un countdown. «Solo 3 posti rimasti» comunica scarsità pura, dovuta alla disponibilità; «12 persone hanno prenotato questo posto nell'ultima ora» comunica scarsità dovuta alla domanda altrui, e secondo questo meccanismo dovrebbe pesare di più, perché aggiunge il segnale della riprova sociale a quello della scarsità. La differenza non è di stile: è la variabile che lo studio ha isolato come quella che fa davvero la differenza.",
+        "Vale anche per il countdown puro, sganciato da qualunque riferimento alla domanda di altri utenti — il classico timer che scende verso zero su un'offerta. È la versione più debole del meccanismo secondo questo studio, perché comunica solo scarsità di tempo, senza il rinforzo della domanda sociale; e se il countdown si azzera e riparte identico il giorno dopo, il segnale smette pure di essere credibile, il che è anche il terreno su cui questo pattern scivola più facilmente in un dark pattern piuttosto che in una comunicazione onesta.",
+        "C'è infine la disponibilità limitata di un contenuto o di una funzionalità — un accesso beta con posti contati, un drop limitato di un prodotto digitale. Qui la scarsità è spesso reale, non simulata, il che la rende anche eticamente più solida: comunicare che i posti si stanno esaurendo perché altri utenti li stanno effettivamente prendendo sfrutta lo stesso meccanismo di questo studio senza bisogno di inventare nulla."
       ]
     },
     {
@@ -100,7 +100,7 @@
       "value": "valutazione più alta in condizione di scarsità"
     }
   ],
-  "wordCount": 1133,
+  "wordCount": 1126,
   "readingMinutes": 6,
   "related": [
     "goldstein-2008-asciugamani-hotel"

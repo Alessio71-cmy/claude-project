@@ -68,9 +68,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è l'ultimo passo di un checkout complicato o di una procedura di reso. Se i passaggi precedenti sono stati macchinosi, il modo di recuperare non è tornare indietro a semplificarli tutti — spesso non è possibile — ma investire nell'ultimo istante: una conferma chiara, un messaggio che riconosce lo sforzo fatto, un piccolo gesto inatteso. È l'ultima cosa che la persona vive prima di archiviare il ricordo dell'intera esperienza, e pesa più di ogni singolo passaggio precedente messo insieme.",
-        "Il secondo caso è la gestione degli errori. Un messaggio di errore che arriva a metà di un flusso fa male, ma un flusso che si conclude con un errore irrisolto fa molto più male al ricordo complessivo di quanto farebbe lo stesso errore comparso e poi risolto a metà strada. Vale la pena, quando è possibile scegliere dove far comparire un problema o dove risolverlo, spostare la risoluzione il più vicino possibile alla fine dell'interazione.",
-        "Il terzo caso, meno intuitivo, è l'offboarding — la cancellazione di un account o la fine di un abbonamento. È tipicamente il momento più trascurato nella progettazione di un prodotto, perché nessuno lo considera un'occasione: eppure è letteralmente l'ultimo istante di un'intera relazione con quel servizio, quello che ne determinerà il ricordo residuo e la disponibilità a tornare in futuro. Un offboarding curato — chiaro, rispettoso, senza ostacoli dell'ultimo minuto — pesa sul ricordo complessivo molto più della sua brevità apparente."
+        "Prendi l'ultimo passo di un checkout complicato o di una procedura di reso. Se i passaggi precedenti sono stati macchinosi, il modo di recuperare non è tornare indietro a semplificarli tutti — spesso non è possibile — ma investire nell'ultimo istante: una conferma chiara, un messaggio che riconosce lo sforzo fatto, un piccolo gesto inatteso. È l'ultima cosa che la persona vive prima di archiviare il ricordo dell'intera esperienza, e pesa più di ogni singolo passaggio precedente messo insieme.",
+        "Vale anche per la gestione degli errori. Un messaggio di errore che arriva a metà di un flusso fa male, ma un flusso che si conclude con un errore irrisolto fa molto più male al ricordo complessivo di quanto farebbe lo stesso errore comparso e poi risolto a metà strada. Vale la pena, quando è possibile scegliere dove far comparire un problema o dove risolverlo, spostare la risoluzione il più vicino possibile alla fine dell'interazione.",
+        "Meno intuitivo è l'offboarding — la cancellazione di un account o la fine di un abbonamento. È tipicamente il momento più trascurato nella progettazione di un prodotto, perché nessuno lo considera un'occasione: eppure è letteralmente l'ultimo istante di un'intera relazione con quel servizio, quello che ne determinerà il ricordo residuo e la disponibilità a tornare in futuro. Un offboarding curato — chiaro, rispettoso, senza ostacoli dell'ultimo minuto — pesa sul ricordo complessivo molto più della sua brevità apparente."
       ]
     },
     {
@@ -101,7 +101,7 @@
       "value": "preferenza per la versione più lunga, nonostante il dolore totale maggiore"
     }
   ],
-  "wordCount": 1231,
+  "wordCount": 1223,
   "readingMinutes": 7,
   "related": [],
   "generatedAt": "2026-07-28",

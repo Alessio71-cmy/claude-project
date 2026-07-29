@@ -66,9 +66,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è l'onboarding a piccoli passi: invece di chiedere subito carta di credito e impostazioni complete, un prodotto chiede prima un'azione minuscola e a costo quasi zero — scegliere un nome utente, rispondere a una domanda, salvare un primo elemento. Ogni piccolo sì non serve solo a raccogliere informazioni: costruisce nell'utente l'idea di essere il tipo di persona che sta effettivamente usando quel prodotto, il che rende più probabile il passo successivo, quello vero.",
-        "Il secondo caso è la richiesta di feedback o recensione. Un'app che chiede prima «ti sta piacendo l'esperienza finora?» con un semplice pollice in su, e solo dopo un sì manda alla richiesta di recensione pubblica sullo store, sta usando esattamente questo schema: il primo sì minuscolo rende il secondo, più impegnativo, più probabile.",
-        "Il terzo, ed è il lato che vale la pena riconoscere anche quando non lo stai progettando tu, è la serie di permessi progressivi — prima la posizione approssimativa, poi quella precisa, poi il microfono, poi i contatti — dove ogni consenso piccolo prepara il terreno al successivo. La stessa meccanica che rende buono un onboarding graduale rende efficace, e più difficile da notare, un consenso costruito un pezzo alla volta."
+        "L'esempio più diretto è l'onboarding a piccoli passi: invece di chiedere subito carta di credito e impostazioni complete, un prodotto chiede prima un'azione minuscola e a costo quasi zero — scegliere un nome utente, rispondere a una domanda, salvare un primo elemento. Ogni piccolo sì non serve solo a raccogliere informazioni: costruisce nell'utente l'idea di essere il tipo di persona che sta effettivamente usando quel prodotto, il che rende più probabile il passo successivo, quello vero.",
+        "Succede anche con la richiesta di feedback o recensione. Un'app che chiede prima «ti sta piacendo l'esperienza finora?» con un semplice pollice in su, e solo dopo un sì manda alla richiesta di recensione pubblica sullo store, sta usando esattamente questo schema: il primo sì minuscolo rende il secondo, più impegnativo, più probabile.",
+        "Vale la pena riconoscere questo schema anche quando non lo stai progettando tu: la serie di permessi progressivi — prima la posizione approssimativa, poi quella precisa, poi il microfono, poi i contatti — dove ogni consenso piccolo prepara il terreno al successivo. La stessa meccanica che rende buono un onboarding graduale rende efficace, e più difficile da notare, un consenso costruito un pezzo alla volta."
       ]
     },
     {
@@ -99,7 +99,7 @@
       "value": "52,8% contro 22,2% nel gruppo senza richiesta iniziale"
     }
   ],
-  "wordCount": 1120,
+  "wordCount": 1112,
   "readingMinutes": 6,
   "related": [
     "cialdini-1975-door-in-the-face",

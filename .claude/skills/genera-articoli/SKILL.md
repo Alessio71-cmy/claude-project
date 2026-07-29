@@ -96,6 +96,19 @@ al lettore «questi numeri li puoi mettere in una presentazione». Non mentire.
 non rispiegarlo: cita l'articolo esistente in `related` e in
 «Fonte e approfondimenti», e concentrati su ciò che questo lavoro aggiunge.
 
+**5. Mai la stessa formula di apertura per gli esempi.** In «Come si applica nel
+digitale» **non usare** «Il caso più diretto è… / Il secondo caso è… / Il terzo
+caso è…» né varianti fisse equivalenti. Letta su più articoli di fila — ed è
+così che il lettore la incontra, uno via l'altro nella stessa giornata — quella
+struttura ripetuta si sente più del contenuto sotto, e dà l'impressione che gli
+articoli siano tutti la stessa cosa con un titolo diverso: è successo davvero,
+è stato segnalato e corretto una volta. Prima di scrivere questa sezione, guarda
+come hai aperto gli esempi nell'ultimo articolo scritto (anche di un altro
+cluster) ed evita di ripetere lo stesso schema. Varia introducendo l'esempio
+come soggetto della frase, con un'imperativa («Guarda…», «Pensa a…»), con un
+nesso causale («Succede anche quando…», «Vale lo stesso per…») o senza nessuna
+formula, entrando direttamente nella scena.
+
 ## Il tono
 
 Scrivi come scriverebbe un buon divulgatore italiano che conosce il mestiere del

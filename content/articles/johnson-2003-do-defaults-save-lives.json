@@ -68,9 +68,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è la configurazione della privacy in un account nuovo. Un servizio che parte con la condivisione dati attiva e un servizio che parte con la condivisione disattivata avranno popolazioni di utenti profondamente diverse, pur avendo lo stesso pannello di impostazioni e la stessa informativa. La differenza non è nell'interfaccia: è in quale stato ha l'account il primo giorno. Questo è anche il motivo per cui il GDPR insiste sul consenso come atto positivo — è la legge che prende posizione su un default, avendo capito quanto pesa.",
-        "Il secondo caso è il pricing. Quando in una tabella a tre piani uno è marcato «consigliato», quel piano non sta soltanto attirando l'occhio: sta funzionando come default sociale, un suggerimento su cosa scelgono le persone come te. Vale la pena verificare se il piano evidenziato è quello che serve davvero alla maggioranza degli utenti, o quello che conviene all'azienda. Nel primo caso hai progettato bene; nel secondo hai costruito una trappola con un'estetica gradevole.",
-        "Il terzo, meno ovvio, è l'onboarding dei prodotti B2B, dove chi configura non è chi userà. Un amministratore che imposta uno strumento per quaranta colleghi lascerà quasi tutto come lo trova, perché non ha le preferenze di quaranta persone da consultare. È esattamente la condizione — preferenze non formate, decisione faticosa — in cui i default sono più potenti. Le scelte che fai nella configurazione iniziale di un prodotto aziendale diventano di fatto le impostazioni permanenti di tutti."
+        "Prendi la configurazione della privacy in un account nuovo. Un servizio che parte con la condivisione dati attiva e un servizio che parte con la condivisione disattivata avranno popolazioni di utenti profondamente diverse, pur avendo lo stesso pannello di impostazioni e la stessa informativa. La differenza non è nell'interfaccia: è in quale stato ha l'account il primo giorno. Questo è anche il motivo per cui il GDPR insiste sul consenso come atto positivo — è la legge che prende posizione su un default, avendo capito quanto pesa.",
+        "Lo stesso vale per il pricing. Quando in una tabella a tre piani uno è marcato «consigliato», quel piano non sta soltanto attirando l'occhio: sta funzionando come default sociale, un suggerimento su cosa scelgono le persone come te. Vale la pena verificare se il piano evidenziato è quello che serve davvero alla maggioranza degli utenti, o quello che conviene all'azienda. Nel primo caso hai progettato bene; nel secondo hai costruito una trappola con un'estetica gradevole.",
+        "Meno ovvio è l'onboarding dei prodotti B2B, dove chi configura non è chi userà. Un amministratore che imposta uno strumento per quaranta colleghi lascerà quasi tutto come lo trova, perché non ha le preferenze di quaranta persone da consultare. È esattamente la condizione — preferenze non formate, decisione faticosa — in cui i default sono più potenti. Le scelte che fai nella configurazione iniziale di un prodotto aziendale diventano di fatto le impostazioni permanenti di tutti."
       ]
     },
     {
@@ -102,7 +102,7 @@
       "value": "circa 99% contro circa 12-15%"
     }
   ],
-  "wordCount": 1493,
+  "wordCount": 1487,
   "readingMinutes": 8,
   "related": [
     "iyengar-2000-when-choice-is-demotivating",

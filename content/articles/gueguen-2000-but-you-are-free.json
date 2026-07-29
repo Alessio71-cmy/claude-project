@@ -64,9 +64,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più immediato è il permesso alle notifiche, il momento in cui più prodotti si giocano male una carta. La versione ansiosa insiste sui benefici e nasconde il rifiuto in un link grigio; la versione che segue questo studio dice cosa manderà, con quale frequenza, e aggiunge che si può rifiutare adesso e attivare dopo dalle impostazioni — precisando che entrambe le opzioni vanno bene. Il tasso di accettazione tende a salire, e soprattutto salgono le accettazioni di chi poi non revoca il permesso, che è la metrica che conta davvero.",
-        "Il secondo è la raccolta di dati non obbligatori in un form: il campo «ruolo in azienda» o «dimensione del team» chiesto in fase di prova. Marcarlo come facoltativo con una riga esplicita — non con un asterisco assente, che nessuno decodifica — aumenta le risposte reali e riduce quelle inventate per superare lo step. Vale la pena notare la conseguenza controintuitiva: dichiarare un campo opzionale può ottenere *più* dati di quanti se ne ottengano rendendolo obbligatorio, perché elimina l'incentivo a mentire.",
-        "Il terzo è la disdetta. Un flusso di cancellazione che dice «puoi disattivare il rinnovo adesso e continuare a usare il servizio fino alla scadenza; se preferisci restare, ecco cosa cambia» ottiene paradossalmente più ripensamenti di un flusso che frappone ostacoli. La ragione è la stessa: davanti a un ostacolo l'utente smette di valutare il servizio e comincia a difendersi dall'azienda."
+        "Pensa al permesso alle notifiche, il momento in cui più prodotti si giocano male una carta. La versione ansiosa insiste sui benefici e nasconde il rifiuto in un link grigio; la versione che segue questo studio dice cosa manderà, con quale frequenza, e aggiunge che si può rifiutare adesso e attivare dopo dalle impostazioni — precisando che entrambe le opzioni vanno bene. Il tasso di accettazione tende a salire, e soprattutto salgono le accettazioni di chi poi non revoca il permesso, che è la metrica che conta davvero.",
+        "Vale lo stesso per la raccolta di dati non obbligatori in un form: il campo «ruolo in azienda» o «dimensione del team» chiesto in fase di prova. Marcarlo come facoltativo con una riga esplicita — non con un asterisco assente, che nessuno decodifica — aumenta le risposte reali e riduce quelle inventate per superare lo step. Vale la pena notare la conseguenza controintuitiva: dichiarare un campo opzionale può ottenere *più* dati di quanti se ne ottengano rendendolo obbligatorio, perché elimina l'incentivo a mentire.",
+        "Il caso più delicato è la disdetta. Un flusso di cancellazione che dice «puoi disattivare il rinnovo adesso e continuare a usare il servizio fino alla scadenza; se preferisci restare, ecco cosa cambia» ottiene paradossalmente più ripensamenti di un flusso che frappone ostacoli. La ragione è la stessa: davanti a un ostacolo l'utente smette di valutare il servizio e comincia a difendersi dall'azienda."
       ]
     },
     {
@@ -101,7 +101,7 @@
       "value": "d≈0,27"
     }
   ],
-  "wordCount": 1183,
+  "wordCount": 1182,
   "readingMinutes": 7,
   "related": [
     "freedman-1966-foot-in-the-door",

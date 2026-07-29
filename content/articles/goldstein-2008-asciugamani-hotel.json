@@ -67,9 +67,9 @@
     {
       "heading": "Come si applica nel digitale",
       "paragraphs": [
-        "Il caso più diretto è come un prodotto comunica cosa fanno «gli altri utenti» in un prompt di attivazione o in un'email di re-engagement. «Molti utenti attivano questa funzione» è l'equivalente digitale di «i nostri ospiti riutilizzano l'asciugamano»: un riferimento vero ma troppo largo per sembrare rilevante. «Chi ha un team della tua stessa dimensione ha attivato questa funzione» o «chi ha aperto questo tipo di progetto negli ultimi giorni ha fatto questo» si avvicina alla versione «gli ospiti di questa stanza»: stesso fatto, gruppo di riferimento molto più vicino a chi legge.",
-        "Il secondo caso è l'onboarding segmentato per contesto d'uso: invece di un messaggio unico per tutti i nuovi utenti, un messaggio che cita il comportamento di chi si trova nello stesso segmento — stesso ruolo, stesso settore, stesso caso d'uso dichiarato — sfrutta lo stesso principio di specificità del gruppo di riferimento, ed è un'informazione che quasi ogni prodotto B2B raccoglie già in fase di registrazione senza usarla in questo modo.",
-        "Il terzo caso, meno intuitivo, è la scelta fra appellarsi ai valori o al comportamento altrui quando si comunica una funzione legata alla privacy o alla sicurezza: questo studio, insieme al lavoro sulla scarsità di Worchel e colleghi e alla ricerca sulla libertà di scelta di Guéguen, fa parte dello stesso filone che suggerisce di preferire quasi sempre un fatto concreto su comportamenti reali a un appello astratto ai princìpi, quando l'obiettivo è cambiare cosa fa la persona in quel momento specifico."
+        "Guarda come un prodotto comunica cosa fanno «gli altri utenti» in un prompt di attivazione o in un'email di re-engagement. «Molti utenti attivano questa funzione» è l'equivalente digitale di «i nostri ospiti riutilizzano l'asciugamano»: un riferimento vero ma troppo largo per sembrare rilevante. «Chi ha un team della tua stessa dimensione ha attivato questa funzione» o «chi ha aperto questo tipo di progetto negli ultimi giorni ha fatto questo» si avvicina alla versione «gli ospiti di questa stanza»: stesso fatto, gruppo di riferimento molto più vicino a chi legge.",
+        "Lo stesso principio regge l'onboarding segmentato per contesto d'uso: invece di un messaggio unico per tutti i nuovi utenti, un messaggio che cita il comportamento di chi si trova nello stesso segmento — stesso ruolo, stesso settore, stesso caso d'uso dichiarato — sfrutta lo stesso principio di specificità del gruppo di riferimento, ed è un'informazione che quasi ogni prodotto B2B raccoglie già in fase di registrazione senza usarla in questo modo.",
+        "C'è poi un caso meno intuitivo: la scelta fra appellarsi ai valori o al comportamento altrui quando si comunica una funzione legata alla privacy o alla sicurezza. Questo studio, insieme al lavoro sulla scarsità di Worchel e colleghi e alla ricerca sulla libertà di scelta di Guéguen, fa parte dello stesso filone che suggerisce di preferire quasi sempre un fatto concreto su comportamenti reali a un appello astratto ai princìpi, quando l'obiettivo è cambiare cosa fa la persona in quel momento specifico."
       ]
     },
     {
@@ -100,7 +100,7 @@
       "value": "riutilizzo degli asciugamani più alto con la norma descrittiva locale"
     }
   ],
-  "wordCount": 1245,
+  "wordCount": 1241,
   "readingMinutes": 7,
   "related": [
     "worchel-1975-scarsita-biscotti",
