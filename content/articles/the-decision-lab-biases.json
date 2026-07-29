@@ -1,0 +1,102 @@
+{
+  "id": "the-decision-lab-biases",
+  "catalogId": "the-decision-lab-biases",
+  "titleIt": "Un'enciclopedia dei bias, con l'obbligo di non fermarsi alla voce",
+  "titleOriginal": "The Decision Lab — Biases index e Insights",
+  "authors": [
+    "The Decision Lab"
+  ],
+  "year": 2024,
+  "type": "articolo",
+  "venue": "thedecisionlab.com",
+  "sourceUrl": "https://thedecisionlab.com/biases",
+  "topics": [
+    "bias-euristiche",
+    "metodo-ricerca"
+  ],
+  "relevance": "contesto",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "Quando non sai nemmeno come si chiama il bias che stai osservando, questa è una buona prima fermata — la seconda deve essere sempre la fonte originale che cita."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "The Decision Lab mantiene un indice consultabile di bias cognitivi, ciascuno con una voce dedicata e un caso applicato. È utile come punto di orientamento rapido, meno come fonte da citare da sola: ogni voce è una sintesi, non il sostituto dello studio che descrive."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché capita spesso di osservare un comportamento strano in un test utente o in un dato di prodotto senza avere subito il nome del meccanismo psicologico che lo spiega, e cercarlo da zero nella letteratura accademica richiede tempo che raramente hai a disposizione durante un progetto. Un indice ben organizzato accorcia quella ricerca da ore a minuti — a patto di trattarlo come punto di partenza, non come destinazione."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "The Decision Lab è un'organizzazione di ricerca applicata alle scienze comportamentali, che oltre a consulenza e progetti di ricerca mantiene pubblicamente un catalogo di bias ed euristiche, pensato per un pubblico professionale che ha bisogno di orientarsi rapidamente in un campo che conta ormai centinaia di effetti documentati, spesso con nomi poco intuitivi o sovrapposti fra loro."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il catalogo organizza ogni bias in una voce autonoma, con una definizione in linguaggio piano, un caso applicato per rendere concreto il concetto, e — punto rilevante per l'uso professionale — riferimenti alla letteratura accademica originale da cui il bias è stato descritto per la prima volta."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **un'enciclopedia di bias cognitivi, ciascuno con un caso applicato**, organizzata per essere consultata voce per voce piuttosto che letta in sequenza. Non è un lavoro di ricerca originale: è un lavoro di sintesi e organizzazione di conoscenza già esistente, sparsa altrimenti su decine di paper e libri diversi."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Non c'è un singolo meccanismo psicologico da isolare, dato che ogni voce del catalogo ne descrive uno diverso. Il valore della fonte sta nel metodo di organizzazione — categorie, riferimenti incrociati fra bias imparentati, casi applicati — più che nel contenuto di ogni singola voce presa isolatamente."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Pensa a un debrief di ricerca utente in cui emerge un comportamento controintuitivo — le persone scelgono un'opzione oggettivamente peggiore, o si bloccano davanti a una scelta semplice: un indice come questo permette di ipotizzare rapidamente quale meccanismo psicologico noto potrebbe spiegarlo, da verificare poi con la fonte originale prima di scriverlo in un report.",
+        "Vale anche in fase di ideazione, come lista di controllo: scorrere le categorie principali — bias di conferma, ancoraggio, avversione alla perdita — prima di progettare un flusso complesso aiuta a notare in anticipo dove l'interfaccia potrebbe attivare, involontariamente, un meccanismo che complica la decisione dell'utente invece di semplificarla."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite più importante, dichiarato anche nelle note del catalogo stesso, è che ogni voce è una sintesi divulgativa: le sintesi tendono a presentare come stabili e universali effetti che nella letteratura accademica sono spesso discussi, contestati o validi solo in condizioni specifiche — lo stesso problema che riguarda lo studio della scelta abbondante trattato altrove in questa raccolta.",
+        "Il passo successivo alla lettura di una voce dell'indice dovrebbe sempre essere il controllo della fonte primaria citata, soprattutto se il bias in questione finirà in un documento o in una decisione con conseguenze reali per un cliente o un prodotto. Trattarlo come glossario di partenza, non come autorità finale, è la differenza fra un uso professionale e uno superficiale della stessa fonte."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "The Decision Lab mantiene un indice consultabile di bias cognitivi, utile come punto di orientamento rapido quando serve un nome per un comportamento osservato.",
+        "Il valore è l'organizzazione, non la profondità: ogni voce è un punto di partenza per la ricerca, non il suo punto di arrivo.",
+        "Verifica sempre la fonte primaria citata prima di portare un bias in un documento professionale: le sintesi semplificano più di quanto la letteratura originale giustifichi."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "The Decision Lab, «Biases» index, thedecisionlab.com/biases, aggiornamento continuo. Utile anche la sezione Insights dello stesso sito per approfondimenti applicati, sempre con la stessa cautela sulla necessità di risalire alle fonti primarie citate."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "struttura del contenuto",
+      "value": "voce per bias con riferimenti"
+    }
+  ],
+  "wordCount": 646,
+  "readingMinutes": 4,
+  "related": [
+    "iyengar-2000-when-choice-is-demotivating"
+  ],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}

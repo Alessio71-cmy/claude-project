@@ -1,0 +1,103 @@
+{
+  "id": "arxiv-cs-hc-dark-patterns",
+  "catalogId": "arxiv-cs-hc-dark-patterns",
+  "titleIt": "Il flusso dove i dark pattern hanno un nome nuovo prima che tu lo senta altrove",
+  "titleOriginal": "arXiv cs.HC — Human-Computer Interaction",
+  "authors": [
+    "arXiv"
+  ],
+  "year": 2025,
+  "type": "paper",
+  "venue": "arxiv.org",
+  "sourceUrl": "https://arxiv.org/list/cs.HC/recent",
+  "topics": [
+    "dark-pattern-etica",
+    "attenzione-economia-attenzione"
+  ],
+  "relevance": "contesto",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "ACDP — Attention-Capture Damaging Patterns — è il termine che ha aggiornato «dark pattern» nella letteratura più recente, e compare qui prima ancora di passare per la revisione paritaria."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "La sezione cs.HC di arXiv raccoglie preprint — articoli non ancora passati per revisione paritaria — sull'interazione uomo-computer, ed è spesso il primo posto dove compaiono lavori su dark pattern e sulla loro evoluzione più recente, i cosiddetti Attention-Capture Damaging Patterns (ACDP)."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ti dà un vantaggio temporale reale: mentre un principio impiega mesi o anni per passare da un preprint a un paper pubblicato e poi a un articolo divulgativo che lo semplifica per un pubblico più ampio, arXiv mostra la ricerca nel momento stesso in cui viene depositata. Per chi segue da vicino l'evoluzione del design comportamentale digitale, è la differenza fra scoprire un concetto quando è già diffuso e quando sta ancora prendendo forma."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "arXiv è un archivio di preprint nato in origine per la fisica, poi esteso ad altre discipline, incluse le scienze informatiche. La sezione cs.HC ospita lavori sull'interazione uomo-computer prima che vengano sottoposti — o accettati — a una conferenza come CHI o a una rivista con revisione paritaria: è un canale di comunicazione rapida fra ricercatori, non ancora un archivio di risultati definitivamente validati."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "I ricercatori depositano su questa sezione i propri lavori — spesso la stessa versione che poi sottoporranno a una conferenza — rendendoli immediatamente consultabili da chiunque, senza paywall e senza attendere i tempi, spesso lunghi, della pubblicazione formale."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **un flusso quotidiano di preprint open access dove compaiono per primi i lavori su dark pattern e Attention-Capture Damaging Patterns**: non un singolo studio, ma una sorgente continua che anticipa, di mesi o anni, la versione finale che poi comparirà in una conferenza o in una rivista con il timbro della revisione paritaria."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Non c'è un meccanismo psicologico da isolare, perché la fonte è un canale di distribuzione, non uno studio. Il punto rilevante per il tuo lavoro è terminologico: il termine ACDP, comparso proprio in questo tipo di canale prima di diffondersi più ampiamente, sposta il criterio di analisi dall'inganno esplicito — il cuore della definizione originale di «dark pattern» — al danno causato alla capacità di attenzione dell'utente, una cornice più ampia che include pattern che non ingannano apertamente ma sfruttano comunque i limiti cognitivi di chi li subisce."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda questo flusso quando vuoi restare aggiornato sull'evoluzione del vocabolario del settore prima che diventi mainstream: sapere che si parla di ACDP invece che solo di dark pattern, per esempio, ti permette di inquadrare correttamente pattern che non ingannano in modo palese ma che comunque danneggiano l'attenzione dell'utente, una distinzione che sta diventando rilevante in discussioni normative ed etiche recenti.",
+        "Vale anche come fonte di ispirazione metodologica: molti preprint in quest'area descrivono strumenti e checklist per l'audit dei dark pattern che puoi adattare al tuo processo di revisione interno, prima ancora che quegli stessi strumenti vengano formalizzati in un paper pubblicato."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite più importante, e va tenuto sempre presente, è che questi sono **preprint**: non hanno superato la revisione paritaria, quindi la qualità metodologica e la solidità delle conclusioni non sono state verificate da altri ricercatori del campo prima della pubblicazione. Alcuni preprint diventano poi paper solidi accettati a conferenze prestigiose; altri restano preprint per sempre, magari perché la revisione ha rilevato problemi che l'autore non ha risolto.",
+        "Prima di citare un lavoro trovato qui in un contesto professionale con conseguenze reali, vale la pena verificare se nel frattempo è stato pubblicato in forma rivista — spesso lo stesso lavoro, cercato per titolo, risulta accettato a una conferenza come CHI con lo status di revisione paritaria che il preprint originale non aveva."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "arXiv cs.HC è il canale dove compaiono per primi i lavori più recenti su dark pattern e sulla loro evoluzione terminologica, come ACDP.",
+        "Il vantaggio è la tempestività: la ricerca è visibile mesi o anni prima della versione finale pubblicata e revisionata.",
+        "Il costo è l'assenza di revisione paritaria: verifica sempre se un lavoro trovato qui è stato nel frattempo pubblicato in forma rivista prima di citarlo con sicurezza."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "arXiv, sezione cs.HC — Human-Computer Interaction, arxiv.org/list/cs.HC/recent, aggiornamento quotidiano. Da leggere in coppia con gli atti della conferenza CHI, già citati in questa raccolta, dove molti di questi preprint approdano dopo la revisione paritaria."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "cadenza e natura della fonte",
+      "value": "flusso quotidiano"
+    }
+  ],
+  "wordCount": 689,
+  "readingMinutes": 4,
+  "related": [
+    "acm-chi-proceedings",
+    "nodder-2013-evil-by-design"
+  ],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}

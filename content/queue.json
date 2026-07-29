@@ -159,6 +159,47 @@
         "dark-pattern-etica",
         "persuasione-compliance"
       ]
+    },
+    {
+      "id": "eyal-2014-hooked",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "abitudini-retention",
+        "onboarding-attivazione"
+      ]
+    },
+    {
+      "id": "the-decision-lab-biases",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "contesto",
+      "topics": [
+        "bias-euristiche",
+        "metodo-ricerca"
+      ]
+    },
+    {
+      "id": "acm-chi-proceedings",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "contesto",
+      "topics": [
+        "dark-pattern-etica",
+        "metodo-ricerca",
+        "attenzione-economia-attenzione"
+      ]
+    },
+    {
+      "id": "arxiv-cs-hc-dark-patterns",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "contesto",
+      "topics": [
+        "dark-pattern-etica",
+        "attenzione-economia-attenzione"
+      ]
     }
   ]
 }

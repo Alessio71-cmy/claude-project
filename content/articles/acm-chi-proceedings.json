@@ -1,0 +1,104 @@
+{
+  "id": "acm-chi-proceedings",
+  "catalogId": "acm-chi-proceedings",
+  "titleIt": "Dove nasce la ricerca su cui poggia tutto il resto di questa raccolta",
+  "titleOriginal": "ACM CHI Conference on Human Factors in Computing Systems — Proceedings",
+  "authors": [
+    "ACM SIGCHI"
+  ],
+  "year": 2025,
+  "type": "paper",
+  "venue": "ACM Digital Library",
+  "sourceUrl": "https://dl.acm.org/conference/chi",
+  "topics": [
+    "dark-pattern-etica",
+    "metodo-ricerca",
+    "attenzione-economia-attenzione"
+  ],
+  "relevance": "contesto",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "CHI non è un blog e non è un libro: è la conferenza dove ogni anno escono decine di studi nuovi su dark pattern, attenzione e persuasione — la sorgente, non la sintesi."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "CHI è la conferenza accademica di riferimento per l'interazione uomo-computer, e i suoi atti annuali sono la sorgente primaria da cui buona parte della ricerca più recente su dark pattern, attenzione ed esperienza utente entra nella letteratura, prima di venire divulgata altrove in forma semplificata."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché sapere che una conferenza come questa esiste, e come funziona, cambia il modo in cui valuti l'affidabilità di un'affermazione che circola sul design comportamentale: un principio che rimanda a un paper CHI, passato per una revisione paritaria rigorosa, ha un peso diverso da uno che circola solo per sentito dire. Vale anche come radar per anticipare quali temi diventeranno rilevanti nel settore nei prossimi anni, dato che molte pratiche oggi diffuse — dai dark pattern documentati alla progettazione per l'accessibilità cognitiva — sono comparse per la prima volta proprio qui."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "CHI, organizzata annualmente dallo SIGCHI dell'ACM, è considerata la conferenza più prestigiosa al mondo nel campo dell'interazione uomo-computer, con un processo di revisione paritaria selettivo che accetta solo una parte delle centinaia di sottomissioni ricevute ogni anno. È il luogo dove convergono ricercatori accademici e, sempre più spesso, team di ricerca di grandi aziende tecnologiche."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Gli atti della conferenza raccolgono ogni anno centinaia di paper su temi che vanno dall'accessibilità alla realtà aumentata, includendo un filone consistente e crescente su dark pattern, economia dell'attenzione e persuasione digitale — è qui, per esempio, che è stato pubblicato per la prima volta il lavoro di Gray e colleghi che ha formalizzato la tassonomia dei dark pattern citata più volte in questa raccolta."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato, anno dopo anno, è **la conferenza di riferimento per l'interazione uomo-computer, con decine di paper annuali su dark pattern, attenzione e persuasione**: non un singolo studio, ma un flusso continuo di ricerca originale, sottoposta a revisione paritaria, che costituisce la base primaria su cui si appoggiano poi libri, articoli divulgativi e indici come altri citati in questa raccolta."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Non c'è un meccanismo psicologico unico da descrivere qui, perché la fonte non è uno studio ma un contenitore di centinaia di studi diversi. Il tratto che conta, ai fini del tuo lavoro, è metodologico: ogni paper accettato ha superato una revisione paritaria — altri ricercatori del campo ne hanno valutato metodo e conclusioni prima della pubblicazione — un filtro di qualità che gran parte del contenuto divulgativo online non attraversa."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda l'archivio quando devi verificare se un'affermazione che circola nel settore ha davvero una base di ricerca: cercare il termine su ACM Digital Library, filtrando per CHI, spesso porta al paper originale invece che a una sintesi di seconda mano che potrebbe aver semplificato o distorto il risultato.",
+        "Vale anche come fonte di aggiornamento periodico, non solo di verifica puntuale: scorrere i temi principali di un'edizione recente della conferenza dà un'idea di dove sta andando la ricerca sul comportamento digitale, con un anticipo di uno o due anni rispetto a quando quegli stessi temi arriveranno nella conversazione divulgativa del settore."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite pratico più immediato è l'accesso: non tutti i paper CHI sono open access, e alcuni restano dietro il paywall della ACM Digital Library, per quanto la quota di contenuto ad accesso libero sia cresciuta negli ultimi anni — vale sempre controllare prima di cercare il PDF altrove.",
+        "Vale anche una cautela di lettura: un singolo paper, per quanto passato per revisione paritaria, resta un singolo studio con il proprio campione e le proprie condizioni specifiche. La revisione paritaria filtra la qualità metodologica, non garantisce che il risultato si generalizzi automaticamente al tuo contesto specifico."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "CHI è la conferenza di riferimento per l'interazione uomo-computer, con centinaia di paper annuali sottoposti a revisione paritaria.",
+        "È spesso la sorgente primaria da cui nascono i principi che poi circolano, semplificati, in libri e articoli divulgativi.",
+        "L'accesso non è sempre libero, e un singolo paper resta un singolo studio: utile per verificare l'origine di un'affermazione, non come garanzia automatica di generalizzabilità."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "ACM SIGCHI, «CHI Conference on Human Factors in Computing Systems — Proceedings», ACM Digital Library, dl.acm.org/conference/chi, edizione annuale. Il lavoro di Colin M. Gray e colleghi sulla tassonomia dei dark pattern, già citato altrove in questa raccolta, è un esempio diretto di ricerca nata in questa sede."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "cadenza e natura della fonte",
+      "value": "atti annuali"
+    }
+  ],
+  "wordCount": 692,
+  "readingMinutes": 4,
+  "related": [
+    "nodder-2013-evil-by-design",
+    "arxiv-cs-hc-dark-patterns"
+  ],
+  "generatedAt": "2026-07-29",
+  "model": "claude-sonnet-5"
+}
