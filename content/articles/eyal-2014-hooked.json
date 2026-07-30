@@ -99,7 +99,10 @@
   ],
   "wordCount": 1026,
   "readingMinutes": 6,
-  "related": [],
+  "related": [
+    "schull-2012-addiction-by-design",
+    "fogg-2003-persuasive-technology"
+  ],
   "generatedAt": "2026-07-29",
   "model": "claude-sonnet-5"
 }

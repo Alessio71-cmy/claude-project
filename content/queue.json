@@ -200,6 +200,46 @@
         "dark-pattern-etica",
         "attenzione-economia-attenzione"
       ]
+    },
+    {
+      "id": "cialdini-2021-influence",
+      "readingMinutes": 7,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "persuasione-compliance",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "kahneman-2011-thinking-fast-slow",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "bias-euristiche",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "fogg-2003-persuasive-technology",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "persuasione-compliance",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "schull-2012-addiction-by-design",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "abitudini-retention",
+        "dark-pattern-etica"
+      ]
     }
   ]
 }

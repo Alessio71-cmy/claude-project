@@ -1,0 +1,106 @@
+{
+  "id": "fogg-2003-persuasive-technology",
+  "catalogId": "fogg-2003-persuasive-technology",
+  "titleIt": "Se un comportamento non accade, uno di questi tre manca",
+  "titleOriginal": "Persuasive Technology: Using Computers to Change What We Think and Do",
+  "authors": [
+    "Fogg, B. J."
+  ],
+  "year": 2003,
+  "type": "libro",
+  "venue": "Morgan Kaufmann",
+  "sourceUrl": "https://www.sciencedirect.com/book/9781558606432/persuasive-technology",
+  "topics": [
+    "persuasione-compliance",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": true,
+  "preview": {
+    "hook": "Un comportamento accade solo quando tre cose convergono nello stesso istante: motivazione, capacità, innesco. Manca una delle tre e non succede — a prescindere da quanto le altre due siano forti."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "«Persuasive Technology» propone che un comportamento avvenga solo quando motivazione, capacità e innesco convergono nello stesso momento — il modello che Fogg chiama B=MAT, poi rifinito in B=MAP. È il testo fondativo di un intero filone di studi, oggi noto come captology, sulla tecnologia progettata per cambiare pensieri e comportamenti."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è probabilmente lo strumento diagnostico più immediato di tutta questa raccolta: quando un comportamento che vuoi che l'utente compia — completare l'onboarding, attivare una funzione, tornare il giorno dopo — non accade, il modello ti dice esattamente dove guardare. Non è motivazione sufficiente? Non è abbastanza facile da fare? Manca un innesco al momento giusto? Sono tre diagnosi diverse, con soluzioni completamente diverse, e confonderle è l'errore più comune quando un prodotto non converte come previsto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "B. J. Fogg, ricercatore alla Stanford University, coniava con questo libro il termine «captology» — dall'acronimo inglese di Computers As Persuasive Technologies — per nominare uno studio sistematico di come i computer, e più tardi i dispositivi digitali in generale, potessero essere progettati specificamente per influenzare atteggiamenti e comportamenti. Il libro precede di quasi un decennio la diffusione degli smartphone e dei social network, ma il suo modello si è rivelato applicabile — se non più rilevante — proprio in quel contesto successivo."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il libro non riporta un singolo esperimento con partecipanti e misure: costruisce un modello teorico, il B=MAT (Behavior equals Motivation, Ability, Trigger), poi evoluto nelle formulazioni successive dello stesso Fogg in B=MAP (Behavior, Motivation, Ability, Prompt), analizzando sistematicamente come applicazioni e interfacce dell'epoca influenzassero il comportamento degli utenti attraverso la manipolazione deliberata di questi tre fattori.",
+        "Fogg dedica capitoli separati a ciascun elemento del modello, con tassonomie dettagliate — per esempio i diversi tipi di motivazione (piacere/dolore, speranza/paura, accettazione sociale/rifiuto) e i diversi livelli di capacità richiesta (tempo, denaro, sforzo fisico, sforzo cognitivo, deviazione dalla routine, non convenzionalità sociale) — che restano oggi un riferimento tassonomico dettagliato per chi progetta interazioni persuasive."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il modello centrale afferma che **un comportamento accade quando motivazione, capacità e innesco convergono nello stesso momento**. Se manca uno qualsiasi dei tre elementi, il comportamento non si verifica, indipendentemente da quanto siano forti gli altri due: una motivazione altissima non basta se l'azione richiesta è troppo difficile da compiere in quel momento; un'azione facilissima non basta se non arriva mai l'innesco che la solleciti.",
+        "Fogg descrive anche una relazione precisa fra motivazione e capacità: quando la motivazione è molto alta, un compito può essere anche piuttosto difficile e il comportamento avviene comunque; quando la motivazione è bassa, il compito deve essere estremamente facile perché il comportamento si verifichi. L'innesco, in entrambi i casi, resta comunque necessario: senza un momento preciso che sollecita l'azione, motivazione e capacità restano potenziale inespresso."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il valore diagnostico del modello sta nella sua natura scomponibile: a differenza di spiegazioni generiche come «l'esperienza non è abbastanza coinvolgente», il modello B=MAP costringe a isolare quale dei tre fattori sta effettivamente mancando in un caso specifico, invece di intervenire genericamente su tutto il flusso nella speranza che qualcosa migliori.",
+        "Il ruolo dell'innesco merita un'attenzione particolare, perché è il fattore più spesso trascurato nella progettazione: anche con motivazione e capacità entrambe alte, un comportamento non avviene mai spontaneamente in assenza di qualcosa che lo solleciti in quel preciso istante — che sia un innesco esterno, come una notifica, o interno, come uno stato emotivo che l'utente associa a quel comportamento."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Usa il modello come primo passo diagnostico ogni volta che un funnel non converte come previsto: prima di aggiungere incentivi per aumentare la motivazione — spesso la risposta di default nei team di prodotto — verifica se il vero blocco non sia invece la capacità (il compito richiesto è troppo complesso, richiede troppo tempo, troppi passaggi) o l'assenza di un innesco al momento giusto.",
+        "Vale in modo particolarmente diretto per la progettazione dell'onboarding: ridurre la capacità richiesta — meno campi da compilare, meno decisioni da prendere al primo accesso — è quasi sempre una leva più affidabile dell'aumentare la motivazione, perché la motivazione di un nuovo utente è per definizione fragile e ancora da costruire, mentre la semplicità di un'azione è interamente sotto il controllo di chi progetta.",
+        "C'è infine l'applicazione al design degli inneschi stessi: una notifica push, un'email di riattivazione, un badge non letto sono tutti inneschi, ma la loro efficacia dipende dal coincidere con un momento in cui motivazione e capacità sono già sufficienti — un innesco perfetto mandato nel momento sbagliato, quando l'utente non ha né la motivazione né la disponibilità per agire, produce solo assuefazione e, alla lunga, disattivazione delle notifiche stesse."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il libro è un modello teorico costruito per sintesi e osservazione sistematica, non un singolo esperimento controllato: la sua forza è l'utilità diagnostica e la chiarezza tassonomica, non la misura precisa di un effetto su un campione definito.",
+        "Vale anche una cautela storica: scritto nel 2003, il libro precede la maggior parte della tecnologia mobile e social oggi dominante, e alcuni esempi specifici sono datati. Il modello sottostante, tuttavia, si è dimostrato sufficientemente generale da restare applicabile — ed è stato esplicitamente ripreso e aggiornato dallo stesso Fogg in lavori successivi, incluso il suo «Tiny Habits» del 2019, che applica lo stesso framework alla formazione di abitudini personali."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un comportamento accade solo quando motivazione, capacità e innesco convergono nello stesso momento: manca uno dei tre e il comportamento non si verifica.",
+        "Quando un funnel non converte, il modello ti dice dove guardare prima di intervenire: motivazione insufficiente, capacità richiesta troppo alta, o innesco assente al momento giusto sono tre diagnosi diverse con soluzioni diverse.",
+        "Ridurre la capacità richiesta è quasi sempre una leva più affidabile che aumentare la motivazione, specialmente per un utente nuovo la cui motivazione è ancora fragile."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "B. J. Fogg, «Persuasive Technology: Using Computers to Change What We Think and Do», Morgan Kaufmann, 2003. Da leggere insieme al lavoro successivo dello stesso autore, «Tiny Habits: The Small Changes That Change Everything» (2019), che applica lo stesso modello B=MAP alla costruzione di abitudini personali invece che al design di prodotto."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "fattori che devono convergere perché un comportamento accada",
+      "value": "modello B=MAT (poi B=MAP)"
+    }
+  ],
+  "wordCount": 1002,
+  "readingMinutes": 6,
+  "related": [
+    "eyal-2014-hooked"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

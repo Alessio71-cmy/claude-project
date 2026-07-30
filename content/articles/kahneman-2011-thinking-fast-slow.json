@@ -1,0 +1,107 @@
+{
+  "id": "kahneman-2011-thinking-fast-slow",
+  "catalogId": "kahneman-2011-thinking-fast-slow",
+  "titleIt": "Due modi di pensare, e uno solo dei due sa di esistere",
+  "titleOriginal": "Thinking, Fast and Slow",
+  "authors": [
+    "Kahneman, Daniel"
+  ],
+  "year": 2011,
+  "type": "libro",
+  "venue": "Farrar, Straus and Giroux",
+  "sourceUrl": "https://us.macmillan.com/books/9780374533557/thinkingfastandslow",
+  "topics": [
+    "bias-euristiche",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": true,
+  "preview": {
+    "hook": "Un modo di pensare veloce, automatico, quasi sempre in funzione. Uno lento, faticoso, che interviene solo quando serve davvero — e che tu, la maggior parte del tempo, scambi per l'unico che hai."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "«Thinking, Fast and Slow» propone che il giudizio umano funzioni attraverso due sistemi distinti: il Sistema 1, rapido, automatico e in funzione quasi sempre, e il Sistema 2, lento, deliberato e che interviene solo quando percepisce la necessità di uno sforzo cognitivo. La maggior parte dei bias che studi altrove in questa raccolta sono, in questa cornice, il Sistema 1 al lavoro senza che il Sistema 2 intervenga a correggerlo."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché quasi ogni euristica e bias trattato in questo campo — l'ancoraggio, l'avversione alla perdita, l'effetto framing, la regola del picco-fine già letta altrove in questa raccolta — trova qui la propria cornice teorica unificante. Capire la distinzione fra i due sistemi ti dà uno strumento diagnostico preciso: quando un'interfaccia richiede una decisione, stai progettando per il Sistema 1 (istintivo, veloce, guidato da euristiche) o per il Sistema 2 (deliberato, lento, capace di valutare più opzioni)? La risposta cambia radicalmente cosa conta davvero in quella schermata."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Daniel Kahneman, premio Nobel per l'economia nel 2002 per il lavoro condotto con Amos Tversky, scrive questo libro come sintesi di una carriera intera dedicata a documentare sperimentalmente come il giudizio umano si discosti sistematicamente dalla razionalità che l'economia classica presupponeva. Il libro riunisce decine di anni di ricerca — molta della quale condotta insieme a Tversky, scomparso prima della pubblicazione — in una cornice narrativa accessibile, organizzata intorno alla metafora dei due sistemi."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il libro non descrive un singolo esperimento: sintetizza l'intera traiettoria di ricerca di Kahneman e Tversky, dagli studi seminali degli anni Settanta sull'euristica della disponibilità e della rappresentatività fino ai lavori più recenti su felicità sperimita e felicità ricordata — di cui lo studio sul peak-end già trattato in questa raccolta è un esempio diretto.",
+        "Ogni capitolo introduce un bias o un'euristica specifica, la illustra con esperimenti concreti — spesso condotti dagli stessi Kahneman e Tversky — e la ricollega alla cornice dei due sistemi, mostrando come ciascun errore sistematico nasca da un Sistema 1 che applica una scorciatoia utile nella maggior parte dei casi, ma fuorviante in altri."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "La cornice centrale del libro descrive **due modi di pensare: uno rapido e automatico (Sistema 1), uno lento e deliberato (Sistema 2)**. Il Sistema 1 opera senza sforzo percepito, genera impressioni e giudizi istantanei, ed è responsabile della quasi totalità delle decisioni quotidiane. Il Sistema 2 interviene solo quando il Sistema 1 segnala qualcosa di anomalo, o quando il compito richiede esplicitamente un ragionamento — un calcolo complesso, una decisione con posta in gioco alta — e anche in quei casi tende a delegare al Sistema 1 non appena possibile, perché il ragionamento deliberato costa energia cognitiva.",
+        "Da questa distinzione discendono, secondo Kahneman, la maggior parte dei bias cognitivi documentati nella letteratura: non errori casuali, ma il prodotto prevedibile di un Sistema 1 che applica scorciatoie utili nella maggior parte delle situazioni quotidiane, ma sistematicamente fuorvianti in situazioni specifiche che quelle scorciatoie non sono attrezzate a gestire."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il punto centrale, spesso frainteso in versioni semplificate di questo modello, non è che il Sistema 1 sia «cattivo» e il Sistema 2 «buono»: il Sistema 1 è indispensabile, gestisce la stragrande maggioranza delle nostre interazioni quotidiane in modo efficiente, e senza di esso saremmo paralizzati dal dover deliberare consapevolmente su ogni singola decisione, anche la più banale.",
+        "Il problema pratico è che il Sistema 2 è pigro per natura: interviene solo quando percepisce un segnale di necessità, e quel segnale può essere soppresso o mai attivato — un'interfaccia fluida, familiare, priva di frizioni percepite lascia il Sistema 1 in controllo anche quando la decisione in gioco meriterebbe una valutazione più deliberata. Questo è precisamente il territorio in cui operano molte delle tecniche di scelta architettata trattate altrove in questa raccolta: non ingannano il Sistema 2, semplicemente non gli danno mai motivo di intervenire."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Pensa alla scelta consapevole di dove collocare la frizione in un flusso: rendere fluidissima l'iscrizione a un abbonamento e macchinosa la cancellazione sfrutta esattamente l'asimmetria fra i due sistemi — l'iscrizione, a basso rischio percepito, resta nel Sistema 1; la cancellazione, resa artificialmente più complessa, dovrebbe far intervenire il Sistema 2, ma spesso l'utente abbandona il tentativo prima che questo accada, non perché abbia deciso di restare.",
+        "Vale anche, nella direzione opposta e più eticamente solida, l'inserimento deliberato di un momento di attivazione del Sistema 2 prima di una decisione ad alto impatto: una schermata di conferma che richiede di leggere un riepilogo prima di un acquisto importante, o un breve intervallo forzato prima di eliminare definitivamente un account, sono modi di dare al Sistema 2 l'occasione di intervenire in un momento in cui altrimenti il Sistema 1 procederebbe da solo.",
+        "C'è infine l'applicazione più generale, che vale come principio guida più che come tecnica specifica: ogni volta che progetti un'interazione, chiediti onestamente se stai facilitando una decisione che l'utente vuole davvero prendere in automatico, o se stai sfruttando l'automatismo per ottenere un consenso che, con un momento di riflessione in più, l'utente non darebbe."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il limite più importante, e va detto con la stessa onestà con cui lo stesso Kahneman lo ha riconosciuto pubblicamente, riguarda alcuni capitoli specifici del libro — in particolare quelli su priming e su ego depletion — che poggiano su una letteratura sperimentale che la crisi della replicabilità degli anni Duemiladieci ha indebolito significativamente. Diversi degli studi citati in quei capitoli non hanno retto a tentativi di replica con campioni più ampi e metodi più rigorosi.",
+        "Questo non invalida l'impianto generale del libro — la distinzione fra i due sistemi resta un modello ampiamente accettato e utile, e molti dei bias descritti (ancoraggio, avversione alla perdita, effetto framing) hanno una base sperimentale più solida di quella dei capitoli più contestati — ma va usato con discernimento: prima di citare un capitolo specifico in un contesto professionale, vale la pena verificare se riguarda uno dei filoni che la ricerca successiva ha ridimensionato, in particolare priming ed ego depletion, oppure uno dei filoni più solidi e ampiamente replicati."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il giudizio umano funziona attraverso due sistemi: uno rapido e automatico, sempre attivo, e uno lento e deliberato, che interviene solo quando percepisce la necessità.",
+        "La maggior parte dei bias cognitivi non sono errori casuali, ma il prodotto prevedibile di scorciatoie del Sistema 1 utili nella maggior parte dei casi e fuorvianti in situazioni specifiche.",
+        "Non tutto il libro regge allo stesso modo alla prova della replica: priming ed ego depletion sono i capitoli più indeboliti dalla ricerca successiva, e vanno citati con quella cautela in più."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Daniel Kahneman, «Thinking, Fast and Slow», Farrar, Straus and Giroux, 2011. Da leggere insieme allo studio sulla regola del picco-fine già trattato in questa raccolta (Kahneman, Fredrickson, Schreiber e Redelmeier, 1993), un'applicazione diretta e più solida sperimentalmente della cornice teorica presentata in questo libro."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "modalità di giudizio descritte nel libro",
+      "value": "Sistema 1 e Sistema 2"
+    }
+  ],
+  "wordCount": 1122,
+  "readingMinutes": 6,
+  "related": [
+    "kahneman-1993-peak-end",
+    "iyengar-2000-when-choice-is-demotivating"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

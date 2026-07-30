@@ -170,7 +170,7 @@ async function main() {
         ].join(' | '),
       )
       for (const n of a.keyNumbers || []) {
-        if (!normaliseForMatch(fonte).includes(normaliseForMatch(n.value))) {
+        if (!fonte.includes(normaliseForMatch(n.value))) {
           errors.push(
             `${id}: la cifra «${n.value}» non compare nella voce di catalogo.\n      Nessun numero può essere pubblicato se non è in keyFindings, abstract o notes.`,
           )

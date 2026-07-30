@@ -1,0 +1,111 @@
+{
+  "id": "cialdini-2021-influence",
+  "catalogId": "cialdini-2021-influence",
+  "titleIt": "Sette leve, non mille tecniche: la mappa da cui discende quasi tutto il resto",
+  "titleOriginal": "Influence: The Psychology of Persuasion (New and Expanded)",
+  "authors": [
+    "Cialdini, Robert B."
+  ],
+  "year": 2021,
+  "type": "libro",
+  "venue": "Harper Business",
+  "sourceUrl": "https://www.influenceatwork.com/",
+  "topics": [
+    "persuasione-compliance",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": true,
+  "preview": {
+    "hook": "Reciprocità, coerenza, riprova sociale, autorità, simpatia, scarsità, unità: sette parole che, una volta imparate, ti permettono di nominare quasi ogni tecnica persuasiva che incontri — comprese la maggior parte di quelle già trattate in questa raccolta."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "«Influence» riduce l'enorme varietà delle tecniche di persuasione a sette princìpi psicologici ricorrenti: reciprocità, coerenza, riprova sociale, autorità, simpatia, scarsità e unità. Non è la scoperta di un singolo studio: è la sintesi di decenni di ricerca — molta della quale è dello stesso Cialdini — organizzata in una cornice che ha finito per diventare il vocabolario standard del settore."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è probabilmente il libro singolo più influente su tutto il resto di questa raccolta: gli studi sulla scarsità, sulla riprova sociale, sulla concessione reciproca che hai già letto altrove si collocano tutti dentro una delle sette categorie di Cialdini, e conoscerle come sistema — non come tecniche isolate — ti permette di riconoscere pattern che altrimenti tratteresti come casi a sé stanti. È anche, va detto con la stessa chiarezza con cui si userebbe per ogni altra leva potente, un manuale che funziona in entrambe le direzioni: usato bene aiuta a comunicare con onestà ed efficacia; usato senza criterio etico produce gran parte del repertorio dei dark pattern che altri libri di questa raccolta documentano criticamente."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Robert Cialdini, psicologo sociale, ha costruito «Influence» — pubblicato per la prima volta nel 1984 — a partire da un metodo insolito per l'epoca: si è fatto assumere sotto copertura da venditori porta a porta, operatori di raccolta fondi e altri professionisti della persuasione, per osservare da dentro quali tecniche funzionassero davvero sul campo, prima di collegarle alla letteratura sperimentale di psicologia sociale che ne spiegava il meccanismo.",
+        "L'edizione 2021, «New and Expanded», aggiunge un settimo principio — l'unità — ai sei storici, ed è un dettaglio che vale la pena conoscere: chi cita ancora «i sei principi di Cialdini» sta usando l'edizione precedente, non l'ultima."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il libro non riporta un singolo esperimento: sintetizza decine di studi di psicologia sociale — molti condotti dallo stesso Cialdini e dai suoi collaboratori, altri di ricercatori diversi — organizzandoli intorno a sette princìpi ricorrenti, ciascuno illustrato con esempi reali tratti dal marketing, dalle vendite, dalla raccolta fondi e, nelle edizioni più recenti, dal design digitale.",
+        "Per ogni principio, il testo descrive non solo come funziona ma anche come riconoscerlo quando viene usato contro di noi, dedicando un'attenzione esplicita alla differenza fra un uso etico e uno manipolativo della stessa leva — un impianto che distingue questo libro da molte sintesi più superficiali dello stesso materiale."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato è **sette principi che riducono la varietà delle tecniche di compliance a un numero gestibile**: la reciprocità (tendiamo a restituire un favore ricevuto, anche non richiesto), la coerenza (una volta preso un impegno, tendiamo a comportarci in modo coerente con esso), la riprova sociale (guardiamo al comportamento altrui per decidere cosa è appropriato fare), l'autorità (tendiamo a seguire chi percepiamo come esperto o legittimato), la simpatia (siamo più influenzabili da chi ci piace o ci somiglia), la scarsità (attribuiamo più valore a ciò che percepiamo come raro o limitato) e l'unità (siamo più influenzabili da chi percepiamo come parte dello stesso gruppo identitario, non solo simile a noi).",
+        "Preso nell'insieme, il valore del libro non sta nella scoperta di un singolo principio nuovo, ma nell'aver dimostrato che quasi ogni tecnica persuasiva osservabile — comprese molte che sembrano diverse in superficie — è riconducibile a uno di questi sette meccanismi psicologici di base, o a una loro combinazione."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il filo comune fra i sette principi, secondo la cornice teorica di Cialdini, è che funzionano come scorciatoie cognitive: regole pratiche che normalmente ci servono bene, permettendoci di decidere rapidamente senza dover valutare ogni situazione da zero. La reciprocità normalmente mantiene in equilibrio le relazioni sociali; la riprova sociale normalmente ci orienta bene in situazioni ambigue; l'autorità normalmente ci risparmia di dover verificare da soli ogni informazione tecnica.",
+        "Il problema, e la ragione per cui queste stesse scorciatoie possono essere sfruttate, è che funzionano anche quando vengono attivate artificialmente, senza che la situazione reale giustifichi la fiducia che normalmente meritano: un finto senso di autorità, una riprova sociale costruita ad arte, una scarsità simulata attivano lo stesso meccanismo automatico di una situazione genuina, perché la mente non verifica sempre l'autenticità del segnale prima di rispondervi."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Usa i sette principi come una lista di controllo per un audit di persuasione: di fronte a un flusso di conversione — checkout, onboarding, upsell — verificare quali dei sette princìpi sono attivati, deliberatamente o meno, aiuta a capire perché quel flusso funziona o non funziona, in un modo più preciso di un giudizio generico sull'esperienza utente.",
+        "Vale anche come mappa per collocare le tecniche già incontrate altrove: la scarsità dei biscotti di Worchel, la riprova sociale specifica degli asciugamani di Goldstein, la concessione reciproca del door-in-the-face di Cialdini stesso — pubblicato anni prima di questo libro — sono tutte istanze specifiche di princìpi che qui vengono nominati e sistematizzati in una cornice unica.",
+        "C'è infine il settimo principio, l'unità, meno noto perché aggiunto solo nell'edizione 2021: è diverso dalla semplice simpatia perché riguarda l'appartenenza identitaria condivisa, non solo l'affinità personale — «siamo dello stesso gruppo» pesa psicologicamente più di «mi piaci». Comunità di prodotto, programmi ambassador e linguaggio che costruisce un «noi» esplicito (invece di un generico «i nostri utenti») sfruttano questo principio più recente, ancora poco applicato in modo consapevole nel design digitale rispetto agli altri sei."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il libro è una sintesi divulgativa di ricerca esistente, non un singolo esperimento con un proprio campione e le proprie misure: la solidità di ogni principio dipende dagli studi specifici a cui rimanda, alcuni dei quali — la riprova sociale, la scarsità — sono già stati trattati con le loro cautele specifiche altrove in questa raccolta.",
+        "Vale una cautela editoriale precisa, già segnalata: l'edizione 2021 aggiunge l'unità come settimo principio. Chi cita «i sei principi di Cialdini», in un contesto in cui la precisione conta, sta probabilmente usando un'edizione precedente al 2021, e vale la pena segnalarlo quando la distinzione è rilevante.",
+        "Infine, proprio perché il libro descrive meccanismi potenti e ben documentati, la cautela etica non è un dettaglio a margine ma il punto centrale dell'intero impianto: lo stesso Cialdini insiste, in ogni edizione, sulla differenza fra applicare questi princìpi per comunicare un valore reale e usarli per costruire un consenso non meritato. È la stessa distinzione che attraversa il libro sui dark pattern già presente in questa raccolta, applicata qui alla sua fonte teorica più diretta."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Sette princìpi — reciprocità, coerenza, riprova sociale, autorità, simpatia, scarsità, unità — spiegano la maggior parte delle tecniche di persuasione che incontri, comprese molte già trattate in questa raccolta come casi specifici.",
+        "L'edizione 2021 aggiunge l'unità ai sei principi storici: verifica sempre quale edizione sta citando chi parla di «i principi di Cialdini».",
+        "Ogni principio è una scorciatoia cognitiva utile che può essere attivata sia genuinamente sia artificialmente: la differenza fra persuasione onesta e manipolazione sta in quale delle due stai facendo, non nella meccanica psicologica in sé."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Robert B. Cialdini, «Influence: The Psychology of Persuasion (New and Expanded)», Harper Business, 2021. Da leggere insieme agli studi specifici già trattati in questa raccolta che istanziano singoli princìpi: la scarsità di Worchel, Lee e Adewole (1975), la riprova sociale di Goldstein, Cialdini e Griskevicius (2008), e il door-in-the-face dello stesso Cialdini con colleghi (1975), che precede questo libro di quasi un decennio."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "principi di persuasione descritti nell'edizione ampliata",
+      "value": "sette principi (l'unità è aggiunta nell'edizione ampliata)"
+    }
+  ],
+  "wordCount": 1201,
+  "readingMinutes": 7,
+  "related": [
+    "worchel-1975-scarsita-biscotti",
+    "goldstein-2008-asciugamani-hotel",
+    "cialdini-1975-door-in-the-face",
+    "gueguen-2000-but-you-are-free"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}
