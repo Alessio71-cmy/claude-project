@@ -1,0 +1,106 @@
+{
+  "id": "anderson-simester-2003-charm-pricing",
+  "catalogId": "anderson-simester-2003-charm-pricing",
+  "titleIt": "Un prezzo più alto ha venduto di più, solo perché finiva in 9",
+  "titleOriginal": "Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments",
+  "authors": [
+    "Anderson, Eric T.",
+    "Simester, Duncan I."
+  ],
+  "year": 2003,
+  "type": "studio",
+  "venue": "Quantitative Marketing and Economics",
+  "sourceUrl": "https://scholar.google.com/scholar?q=Anderson+Simester+Effects+of+9+Price+Endings+on+Retail+Sales",
+  "topics": [
+    "pricing-paywall"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Stesso vestito, cataloghi diversi, tre prezzi diversi: 34, 39 e 44 dollari. Ha venduto di più a 39 — un prezzo più alto di quello più economico, solo perché finiva in 9."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "In un esperimento sul campo, un capo di abbigliamento venduto a un prezzo che termina in 9 ha superato le vendite dello stesso identico capo venduto a un prezzo inferiore che non terminava in 9. Il prezzo più alto ha venduto di più — l'ultima cifra, non l'importo assoluto, ha deciso la risposta dei clienti."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché la formattazione di un prezzo — non solo il suo valore — è una variabile che puoi controllare a costo zero, e questo studio è una delle poche verifiche fatte con un vero esperimento sul campo, non solo un sondaggio o un test in laboratorio. Prima di assumere che un prezzo arrotondato sembri più «onesto» o che uno sconto vada sempre espresso nel modo più diretto, vale la pena sapere che l'effetto reale osservato va nella direzione opposta a molte intuizioni di design pulito."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Eric Anderson e Duncan Simester si interrogavano su una pratica commerciale diffusissima — i prezzi che terminano in 9 (charm pricing) — chiedendosi se fosse davvero efficace o solo una convenzione di settore mai verificata con rigore. La maggior parte delle prove precedenti veniva da sondaggi o esperimenti di laboratorio; loro volevano un test con vendite reali, denaro reale, clienti reali che non sapevano di partecipare a un esperimento."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Gli autori hanno condotto un esperimento sul campo con un catalogo di vendita per corrispondenza, offrendo lo stesso identico capo di abbigliamento — un vestito da donna — a clienti diversi, a tre prezzi diversi: 34, 39 e 44 dollari, distribuiti in modo controllato fra le copie del catalogo spedite.",
+        "Il disegno sperimentale permetteva di isolare l'effetto del prezzo che termina in 9 da quello del semplice livello di prezzo assoluto, perché confrontava direttamente le vendite a un prezzo intermedio-basso (34), a un prezzo intermedio con terminazione 9 (39) e a un prezzo più alto (44), tutti con lo stesso prodotto identico."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il vestito ha venduto di più a 39 dollari rispetto sia a 34 sia a 44 dollari** — un risultato che una teoria puramente basata sul livello di prezzo non prevede: il prezzo intermedio con terminazione 9 ha superato anche quello più basso in assoluto. La sola terminazione del prezzo, non il suo valore, ha spostato la domanda in una direzione che il buon senso economico classico non anticiperebbe.",
+        "Il dato conferma che il charm pricing non è solo una convenzione senza effetto: in questo esperimento specifico, ha prodotto un risultato di vendita superiore a un prezzo oggettivamente più conveniente per il cliente."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'interpretazione più diffusa si appoggia sul cosiddetto effetto della cifra a sinistra (left-digit effect): le persone tendono a elaborare un prezzo leggendolo da sinistra a destra, e a dare peso sproporzionato alla prima cifra. Un prezzo di 39 viene elaborato come «trenta-qualcosa», più vicino percettivamente a 30 che a 40, anche se numericamente è quasi indistinguibile da 40.",
+        "Questo produce una sottostima sistematica del prezzo reale quando termina in 9, un effetto che alcuni ricercatori collegano anche a un secondo meccanismo, la fluenza percettiva: un prezzo con quella terminazione è associato culturalmente a un'offerta o uno sconto, un segnale appreso che si attiva indipendentemente dal valore assoluto del prezzo stesso."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda la formattazione dei prezzi in una pagina di pricing o in un checkout: il confronto fra un prezzo arrotondato (30, 40, 50) e uno con terminazione 9 (29, 39, 49) non è solo estetico secondo questo studio — la seconda formattazione può produrre una risposta di conversione diversa a parità di valore quasi identico.",
+        "Vale anche per le fasce di prezzo intermedie in un pricing a più piani: se un piano è collocato deliberatamente appena sotto una soglia psicologica di cifra tonda, la percezione del suo costo può risultare sistematicamente più bassa di quanto il valore assoluto giustifichi, un effetto che vale la pena testare direttamente sul proprio prodotto piuttosto che assumere valido per default.",
+        "C'è infine una nota di onestà comunicativa da tenere presente: usare questa leva per far apparire un prezzo più conveniente di quanto sia realmente, senza che il valore effettivo cambi, è un confine sottile fra un uso comune e accettato del pricing e una forma di persuasione che scivola verso l'inganno percettivo — la stessa cautela che vale per altre leve di questa raccolta."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio riguarda un singolo prodotto e un singolo canale — un catalogo di abbigliamento per corrispondenza dei primi anni Duemila — e i risultati specifici (39 che supera sia 34 sia 44) potrebbero non generalizzarsi allo stesso modo a ogni categoria di prodotto o canale di vendita.",
+        "Vale una cautela importante e più recente: un ampio esperimento online successivo non è riuscito a replicare né l'effetto della terminazione in 9 né quello della fluenza percettiva nello stesso modo, suggerendo che l'effetto documentato in questo studio possa essere più debole, più dipendente dal contesto, o meno universale di quanto la pratica diffusissima del charm pricing lascerebbe pensare. Vale la pena testarlo sul proprio prodotto invece di darlo per scontato."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "In un esperimento sul campo, un prezzo con terminazione 9 ha venduto più di un prezzo più basso senza quella terminazione, per lo stesso prodotto identico.",
+        "Il meccanismo proposto è l'effetto della cifra a sinistra: leggiamo i prezzi da sinistra a destra, e diamo peso sproporzionato alla prima cifra.",
+        "Un esperimento più recente non è riuscito a replicare lo stesso effetto: prima di affidarti a questa leva, vale la pena verificarla sul tuo prodotto specifico invece di assumerla valida per default."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Eric T. Anderson e Duncan I. Simester, «Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments», Quantitative Marketing and Economics, vol. 1, n. 1, 2003, pp. 93-110. Da leggere insieme allo studio sull'effetto esca di Huber, Payne e Puto, già trattato in questa raccolta, un'altra leva di pricing con la stessa cautela sulla replicabilità."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "vendite del vestito ai tre prezzi testati",
+      "value": "in un esperimento su un vestito, le vendite a 39$ hanno superato quelle a 34$ e a 44$"
+    }
+  ],
+  "wordCount": 961,
+  "readingMinutes": 6,
+  "related": [
+    "huber-payne-puto-1982-decoy-effect"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

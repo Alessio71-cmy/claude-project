@@ -1,0 +1,107 @@
+{
+  "id": "tversky-kahneman-1981-framing",
+  "catalogId": "tversky-kahneman-1981-framing",
+  "titleIt": "Le stesse identiche vite, salvate o perse: basta cambiare la frase",
+  "titleOriginal": "The Framing of Decisions and the Psychology of Choice",
+  "authors": [
+    "Tversky, Amos",
+    "Kahneman, Daniel"
+  ],
+  "year": 1981,
+  "type": "studio",
+  "venue": "Science",
+  "sourceUrl": "https://psych.hanover.edu/classes/cognition/papers/tversky81.pdf",
+  "topics": [
+    "bias-euristiche",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Un programma sanitario che «salva 200 vite su 600» e uno che «lascia morire 400 persone su 600» descrivono lo stesso identico risultato. Le persone li giudicano in modo opposto."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Lo stesso risultato oggettivo, descritto in termini di guadagno (vite salvate) o di perdita (vite perse), produce scelte sistematicamente diverse. Non cambia nessun dato: cambia solo la frase con cui il dato viene presentato, ed è sufficiente a ribaltare la preferenza della maggioranza."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ogni volta che comunichi un risultato — un tasso di successo, una percentuale di rischio, l'esito di un test — stai scegliendo, anche senza accorgertene, se inquadrarlo come guadagno o come perdita, e questa scelta cambia la risposta di chi legge più di quanto cambino i numeri stessi. È probabilmente lo studio con l'applicazione più immediata alla scrittura di un'interfaccia: la stessa informazione, riformulata, produce reazioni diverse a costo zero."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Amos Tversky e Daniel Kahneman avevano già mostrato, in lavori precedenti, che le persone deviano sistematicamente dalla razionalità economica classica quando giudicano probabilità e valori. Con questo studio volevano isolare un caso specifico e drammatico di questa deviazione: cosa succede quando lo stesso identico problema decisionale, con le stesse identiche conseguenze numeriche, viene presentato con un inquadramento positivo invece che negativo."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ai partecipanti veniva presentato il celebre «problema della malattia asiatica»: un programma sanitario per affrontare un'epidemia che avrebbe colpito 600 persone, con due opzioni di intervento dagli stessi esiti probabilistici sottostanti. Un gruppo riceveva le opzioni inquadrate in termini di vite salvate (guadagno); un altro gruppo riceveva le stesse identiche opzioni, con gli stessi identici numeri, inquadrate in termini di vite perse (perdita).",
+        "In entrambi i casi le opzioni erano matematicamente identiche: una scelta certa e una scelta probabilistica con lo stesso valore atteso. L'unica variabile manipolata era la formulazione — guadagno o perdita — con cui il risultato certo veniva descritto."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Quando l'opzione certa era inquadrata come vite salvate, **il 72% dei partecipanti la sceglieva**, preferendo la certezza al rischio. Quando la stessa identica opzione, con lo stesso identico risultato, era inquadrata come vite perse, **solo il 22% la sceglieva**, con la maggioranza che ora preferiva rischiare pur di evitare la perdita certa.",
+        "Il ribaltamento è totale: la maggioranza sceglie la certezza quando è inquadrata come guadagno, e la maggioranza sceglie il rischio quando lo stesso risultato è inquadrato come perdita — nonostante i numeri sottostanti non siano cambiati di una virgola."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "La spiegazione proposta dagli autori si appoggia sulla prospect theory, sviluppata dagli stessi Kahneman e Tversky pochi anni prima: le persone non valutano gli esiti in termini assoluti, ma in termini di guadagni o perdite rispetto a un punto di riferimento, e sono avverse al rischio quando il risultato è inquadrato come guadagno, mentre diventano propense al rischio quando lo stesso risultato è inquadrato come perdita.",
+        "Questo significa che l'inquadramento non è un dettaglio stilistico: attiva un meccanismo di valutazione diverso a seconda che il punto di riferimento implicito sia «partire da zero e guadagnare» o «partire da uno stato pieno e perdere», anche quando il risultato finale oggettivo è matematicamente identico nei due casi."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Pensa alla comunicazione di un tasso di successo o di un margine di errore: «il 90% delle richieste va a buon fine» e «il 10% delle richieste fallisce» descrivono lo stesso identico dato, ma la prima formulazione — un guadagno — tende a rassicurare, mentre la seconda — una perdita — tende ad allarmare anche a parità di informazione trasmessa.",
+        "Vale anche per le comunicazioni su sconti e penali: «risparmia il 20% pagando in anticipo» e «paghi il 20% in più pagando a rate» descrivono spesso la stessa differenza di prezzo, ma la prima cornice (guadagno da cogliere) motiva diversamente dalla seconda (perdita da evitare), ed è per questo che il marketing tende sistematicamente a preferire la prima formulazione quando l'obiettivo è l'adesione immediata.",
+        "C'è infine la comunicazione di rischio in ambito sanitario o finanziario digitale, dove il dovere di trasparenza rende questa leva delicata: descrivere un rischio solo nella cornice che favorisce la decisione che il prodotto preferisce, invece di scegliere l'inquadramento più chiaro per chi decide, è l'uso meno difendibile di questo stesso meccanismo."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio riguarda un singolo paradigma sperimentale — il problema della malattia asiatica e le sue varianti dirette — con partecipanti a cui viene chiesto di immaginare uno scenario ipotetico, non di prendere una decisione reale con conseguenze concrete. L'entità dell'effetto in decisioni reali, con posta in gioco effettiva, può differire da quella osservata in laboratorio.",
+        "Vale anche la cautela generale su questo filone: l'effetto framing è fra i più replicati della psicologia della decisione, ma la sua entità varia a seconda del dominio (salute, denaro, tempo) e della familiarità di chi decide con il tipo di scelta proposta."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Lo stesso risultato oggettivo, inquadrato come guadagno o come perdita, produce scelte sistematicamente diverse: la maggioranza preferisce la certezza quando vince, il rischio quando perde.",
+        "Non serve cambiare i numeri per cambiare la reazione: basta cambiare la cornice con cui vengono presentati.",
+        "La stessa leva che rende una comunicazione più chiara e rassicurante può essere usata per orientare una decisione verso l'interesse del prodotto invece che verso la chiarezza per chi decide: la differenza sta nell'intenzione, non nella tecnica."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Amos Tversky e Daniel Kahneman, «The Framing of Decisions and the Psychology of Choice», Science, vol. 211, n. 4481, 1981, pp. 453-458. Da leggere insieme a «Thinking, Fast and Slow» già trattato in questa raccolta, che colloca questo studio dentro la cornice più ampia della prospect theory e dei due sistemi di pensiero."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "scelta dell'opzione certa con inquadramento positivo contro negativo",
+      "value": "72% sceglieva l'opzione con inquadramento positivo (vite salvate) contro il 22% con lo stesso risultato inquadrato come perdite (morti)"
+    }
+  ],
+  "wordCount": 890,
+  "readingMinutes": 5,
+  "related": [
+    "kahneman-2011-thinking-fast-slow"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "growth-design-duolingo-streak",
+  "catalogId": "growth-design-duolingo-streak",
+  "titleIt": "Non torni per continuare la serie: torni per non perderla",
+  "titleOriginal": "Duolingo's User Retention: 8 Tactics Tested On 300 Million Users",
+  "authors": [
+    "Growth.Design"
+  ],
+  "year": 2024,
+  "type": "case-study",
+  "venue": "growth.design",
+  "sourceUrl": "https://growth.design/case-studies/duolingo-user-retention",
+  "topics": [
+    "case-study-prodotto",
+    "abitudini-retention"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "La streak di Duolingo non funziona perché motiva a raggiungere un traguardo. Funziona perché nessuno vuole essere quello che ha rotto una serie di 180 giorni."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Il case study analizza la meccanica della streak di Duolingo — la serie di giorni consecutivi di utilizzo — e la ragione per cui funziona: non il desiderio di allungarla, ma la reticenza a perderla. È avversione alla perdita applicata direttamente a un contatore visibile nell'interfaccia."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché la streak è probabilmente il pattern di retention più copiato dell'ultimo decennio, e capire perché funziona — non solo che funziona — ti permette di implementarlo bene invece di limitarti a un contatore che non produce lo stesso effetto. Il dettaglio che fa la differenza, secondo questo case study, non è il numero che cresce: è cosa succede psicologicamente quando rischia di azzerarsi."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Growth.Design analizza il meccanismo di streak di Duolingo, l'app di apprendimento linguistico che ha reso questo pattern uno standard del settore, con un'attenzione specifica a un dettaglio spesso trascurato nelle imitazioni: l'app non si limita a mostrare un numero che cresce, ma bilancia deliberatamente la pressione della streak con strumenti che la rendono meno fragile — congelamenti e riparazioni."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il case study ricostruisce, a partire da interviste pubbliche di ex dipendenti Duolingo e dall'osservazione diretta del prodotto, come la meccanica della streak sia stata progettata e affinata nel tempo: cosa conta come mantenimento della serie (completare almeno una lezione al giorno), come viene comunicato il rischio di perderla, e quali strumenti l'app offre per recuperare un giorno mancato senza azzerare tutto il progresso accumulato."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il dato centrale riportato è che **il 55% di tutti gli utenti torna il giorno successivo per mantenere la propria streak**, rendendola uno dei meccanismi di retention quotidiana più efficaci osservati nel prodotto.",
+        "Il case study riporta anche una dichiarazione dell'ex responsabile della crescita di Duolingo: le streak fanno tornare le persone più spesso, ma perdere una streak è anche una delle ragioni principali per cui le persone abbandonano il prodotto — un effetto a doppio taglio che rende la gestione della sua rottura importante quanto la sua costruzione."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il meccanismo psicologico centrale è l'avversione alla perdita: chi ha una streak di 180 giorni, secondo l'analisi, non è motivato principalmente dal desiderio di arrivare a 181, ma dalla reticenza a perdere i 180 giorni già accumulati. Il valore percepito non è nel traguardo futuro, ma nel patrimonio già costruito che si rischia di azzerare.",
+        "Proprio perché questo meccanismo può diventare una fonte di ansia o di abbandono quando applicato senza margine di errore, Duolingo affianca alla pressione della streak strumenti di «perdono» — congelamenti acquistabili o guadagnati, riparazioni della streak — che permettono a un giorno mancato di non cancellare mesi di progresso, bilanciando la leva psicologica con una via di uscita che ne riduce il lato più punitivo."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda l'implementazione di una streak nel tuo prodotto chiedendoti se prevede anche un meccanismo di recupero: una streak senza margine di errore massimizza la pressione a breve termine ma rischia, secondo questo case study, di trasformarsi in un motivo di abbandono definitivo al primo giorno mancato, invece che in un'abitudine duratura.",
+        "Vale anche la scelta di cosa comunicare quando la streak è a rischio: un avviso che sottolinea quanto si perderebbe («stai per perdere 180 giorni») pesa in modo diverso, secondo il meccanismo dell'avversione alla perdita, rispetto a un avviso che sottolinea semplicemente il traguardo mancato («completa la lezione di oggi»)."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È una ricostruzione esterna basata su interviste pubbliche e osservazione del prodotto, non un dato interno di Duolingo verificabile indipendentemente: il numero riportato (55%) va trattato come proveniente da questa fonte secondaria, non come una statistica ufficiale pubblicata dall'azienda in un paper verificabile.",
+        "Vale anche la cautela, esplicitamente presente nello stesso case study, sul lato negativo del meccanismo: la stessa leva che fa tornare le persone è anche una causa diretta di abbandono quando la streak si rompe, il che rende la sua progettazione un equilibrio delicato, non una leva a senso unico da massimizzare senza limiti."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Le streak funzionano per avversione alla perdita, non per desiderio di progresso: non si torna per raggiungere il giorno successivo, si torna per non perdere quelli già accumulati.",
+        "Una streak senza margine di errore è anche una causa diretta di abbandono al primo giorno mancato: strumenti di recupero (congelamenti, riparazioni) bilanciano la pressione con una via d'uscita.",
+        "Cosa comunichi quando la streak è a rischio conta quanto la meccanica stessa: sottolineare cosa si perderebbe pesa diversamente da un semplice promemoria."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Growth.Design, «Duolingo's User Retention: 8 Tactics Tested On 300 Million Users», growth.design/case-studies/duolingo-user-retention. Da leggere insieme all'effetto Zeigarnik già trattato in questa raccolta, sulla stessa tendenza a voler chiudere ciò che è rimasto aperto o incompleto."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "utenti che tornano il giorno dopo per mantenere la streak",
+      "value": "55% degli utenti torna il giorno successivo per mantenere la streak"
+    }
+  ],
+  "wordCount": 756,
+  "readingMinutes": 4,
+  "related": [
+    "zeigarnik-1927-compiti-incompiuti"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

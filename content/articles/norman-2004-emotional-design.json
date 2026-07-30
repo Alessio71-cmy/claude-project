@@ -1,0 +1,105 @@
+{
+  "id": "norman-2004-emotional-design",
+  "catalogId": "norman-2004-emotional-design",
+  "titleIt": "Tre livelli a cui un prodotto ti parla, anche quando non lo nota nessuno",
+  "titleOriginal": "Emotional Design: Why We Love (or Hate) Everyday Things",
+  "authors": [
+    "Norman, Donald A."
+  ],
+  "year": 2004,
+  "type": "libro",
+  "venue": "Basic Books",
+  "sourceUrl": "https://jnd.org/emotional-design-people-and-things/",
+  "topics": [
+    "emozione-fiducia"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": true,
+  "preview": {
+    "hook": "Un oggetto bello, usabile e con un buon significato non sono tre qualità che si sommano a caso: sono tre livelli distinti di elaborazione, e un buon design li governa tutti e tre, non solo quello più visibile."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "«Emotional Design» propone che ogni prodotto venga elaborato su tre livelli distinti — viscerale, comportamentale, riflessivo — che governano rispettivamente l'impressione immediata, l'usabilità nell'uso, e il significato che gli attribuiamo dopo. Un design che cura solo uno dei tre livelli lascia scoperti gli altri due."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché la domanda «questo prodotto funziona?» nasconde in realtà tre domande diverse, e progettare bene richiede sapere a quale delle tre stai rispondendo in un dato momento: sembra invitante al primo sguardo? È piacevole e senza attrito da usare? Lascia un ricordo e un significato di cui l'utente va fiero? Un prodotto può fallire su uno di questi tre piani anche eccellendo sugli altri due, ed è un tipo di fallimento che un'analisi puramente funzionale non cattura."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Don Norman, già noto per il lavoro sull'usabilità e sull'errore umano nel design, scriveva questo libro come una correzione deliberata alla propria posizione precedente: se i suoi lavori più noti insistevano quasi esclusivamente sulla funzionalità e l'assenza di errore, «Emotional Design» riconosce che le persone si affezionano a oggetti anche esteticamente imperfetti o meno usabili, e cerca di spiegare perché la sola usabilità non basti a spiegare cosa amiamo o odiamo di un prodotto."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il libro non riporta un esperimento originale: costruisce un modello teorico — i tre livelli di elaborazione — appoggiandosi a ricerche di neuroscienze cognitive ed esempi tratti dal design di prodotti reali, quotidiani e industriali, per mostrare come ciascun livello operi in modo relativamente indipendente dagli altri due.",
+        "Norman dedica capitoli separati a ciascun livello, con esempi concreti di oggetti che eccellono o falliscono su ciascuno, e discute come i tre livelli interagiscano fra loro nel formare il giudizio complessivo che diamo a un prodotto."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il modello centrale descrive **tre livelli distinti di elaborazione**: il livello viscerale, pre-cosciente e immediato, che riguarda l'aspetto e la prima impressione; il livello comportamentale, che riguarda l'usabilità, l'efficacia e il piacere nell'uso effettivo; il livello riflessivo, che riguarda il significato, il prestigio e la razionalizzazione che costruiamo dopo, spesso legata a status e identità.",
+        "Il punto centrale del libro è che questi tre livelli operano in parte indipendentemente: un oggetto può risultare bellissimo al primo sguardo (viscerale) ma frustrante da usare (comportamentale), o scomodo da usare ma carico di significato personale che ce lo fa amare comunque (riflessivo). Un buon design, secondo Norman, cura consapevolmente tutti e tre, invece di ottimizzarne solo uno assumendo che basti."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il livello viscerale opera prima di ogni elaborazione cosciente: forme, colori, proporzioni attivano una risposta immediata di attrazione o repulsione che precede qualunque giudizio razionale sull'oggetto. Il livello comportamentale si forma durante l'uso reale, ed è quello più vicino ai criteri classici di usabilità: l'oggetto fa quello che deve fare, in modo efficace e senza attrito percepito.",
+        "Il livello riflessivo, il più lento e il più legato al linguaggio e all'identità, è quello che costruisce la narrazione intorno al prodotto: perché lo possiedo, cosa dice di me, che ricordo ne conservo. È anche il livello più duraturo: un oggetto tecnicamente superato può restare amato per anni proprio per il significato riflessivo che ha accumulato, indipendentemente dalla sua prestazione comportamentale attuale."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda la schermata di primo avvio di un'app con la lente del livello viscerale: prima ancora che l'utente capisca cosa il prodotto fa, la prima impressione visiva — palette, tipografia, animazione di ingresso — ha già formato un giudizio parziale che il resto dell'esperienza dovrà confermare o smentire.",
+        "Vale anche per la cura del livello comportamentale nei dettagli minori dell'interazione: micro-animazioni di conferma, feedback tattile, tempi di risposta percepiti come immediati non aggiungono funzionalità, ma curano proprio il piano dell'uso effettivo che il livello viscerale da solo non copre.",
+        "C'è infine il livello riflessivo, spesso il più trascurato nel design digitale orientato alla conversione immediata: funzionalità che permettono di condividere un risultato, personalizzare un profilo, o accumulare uno storico visibile dei propri progressi costruiscono un significato che l'utente porta con sé oltre la singola sessione d'uso, ed è spesso questo — non l'efficienza dell'interfaccia — a spiegare l'attaccamento di lungo periodo a un prodotto."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il modello dei tre livelli è una cornice concettuale costruita per sintesi teorica, non un risultato misurato con un esperimento controllato: è utile per organizzare l'analisi di un design, meno per predire con precisione quale livello peserà di più in un contesto specifico.",
+        "Vale anche la cautela che i tre livelli, per quanto presentati come distinti, non sono sempre facilmente separabili nella pratica: un miglioramento estetico (viscerale) spesso cambia anche la percezione di usabilità (comportamentale), rendendo difficile isolare con precisione quale livello stia guidando un giudizio complessivo su un prodotto reale."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Ogni prodotto viene elaborato su tre livelli distinti: viscerale (prima impressione), comportamentale (usabilità nell'uso), riflessivo (significato e identità).",
+        "Un design che cura solo uno dei tre livelli lascia scoperti gli altri due: bellezza senza usabilità, o usabilità senza significato, sono entrambi un design incompleto secondo questo modello.",
+        "Il livello riflessivo è il più trascurato nel design orientato alla sola conversione immediata, ma è spesso quello che spiega l'attaccamento di lungo periodo a un prodotto."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Donald A. Norman, «Emotional Design: Why We Love (or Hate) Everyday Things», Basic Books, 2004. Da leggere insieme a «Persuasive Technology» di Fogg, già trattato in questa raccolta, che si concentra su cosa fa scattare un'azione piuttosto che su come un prodotto viene percepito e ricordato emotivamente."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "livelli di elaborazione del design descritti nel libro",
+      "value": "livello viscerale, comportamentale, riflessivo"
+    }
+  ],
+  "wordCount": 884,
+  "readingMinutes": 5,
+  "related": [
+    "fogg-2003-persuasive-technology"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

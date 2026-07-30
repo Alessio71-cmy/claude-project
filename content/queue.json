@@ -240,6 +240,104 @@
         "abitudini-retention",
         "dark-pattern-etica"
       ]
+    },
+    {
+      "id": "thaler-2008-nudge",
+      "readingMinutes": 6,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "choice-architecture-nudge",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "tversky-kahneman-1981-framing",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "bias-euristiche",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "growth-design-duolingo-streak",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "abitudini-retention"
+      ]
+    },
+    {
+      "id": "tversky-kahneman-1974-ancoraggio",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "bias-euristiche",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "norman-2004-emotional-design",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "emozione-fiducia"
+      ]
+    },
+    {
+      "id": "growth-design-spotify-wrapped",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "emozione-fiducia"
+      ]
+    },
+    {
+      "id": "simon-1971-poverty-of-attention",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "attenzione-economia-attenzione",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "anderson-simester-2003-charm-pricing",
+      "readingMinutes": 6,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "pricing-paywall"
+      ]
+    },
+    {
+      "id": "huber-payne-puto-1982-decoy-effect",
+      "readingMinutes": 6,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "pricing-paywall",
+        "choice-architecture-nudge"
+      ]
+    },
+    {
+      "id": "miller-1956-numero-magico",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "accessibilita-cognitiva",
+        "classici-fondativi"
+      ]
     }
   ]
 }

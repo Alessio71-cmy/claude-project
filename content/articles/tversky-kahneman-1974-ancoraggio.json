@@ -1,0 +1,107 @@
+{
+  "id": "tversky-kahneman-1974-ancoraggio",
+  "catalogId": "tversky-kahneman-1974-ancoraggio",
+  "titleIt": "Un numero a caso, visto un attimo prima, cambia la tua stima",
+  "titleOriginal": "Judgment under Uncertainty: Heuristics and Biases",
+  "authors": [
+    "Tversky, Amos",
+    "Kahneman, Daniel"
+  ],
+  "year": 1974,
+  "type": "studio",
+  "venue": "Science",
+  "sourceUrl": "https://www.cs.tufts.edu/comp/150AIH/pdf/TverskyKa74.pdf",
+  "topics": [
+    "bias-euristiche",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Far girare una ruota della fortuna con numeri a caso, e poi chiedere di stimare qualcosa di completamente non collegato. Il numero uscito sulla ruota condiziona comunque la risposta."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un numero visto poco prima di dover fare una stima — anche quando è palesemente casuale e non collegato alla domanda — condiziona sistematicamente la risposta data. È l'ancoraggio: partiamo da un valore iniziale e ci aggiustiamo da lì, ma l'aggiustamento è quasi sempre insufficiente."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ogni volta che mostri un numero prima di chiederne un altro — un prezzo di listino prima dello sconto, una cifra di riferimento prima di una stima — stai fissando un ancora che influenzerà la risposta indipendentemente da quanto tu voglia che sia neutra. Capire quanto sia automatico e resistente questo meccanismo ti aiuta sia a usarlo con criterio nel tuo lavoro, sia a correggerlo quando serve un giudizio davvero indipendente, per esempio in un test utente."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Amos Tversky e Daniel Kahneman, in questo lavoro che introduce sistematicamente il programma di ricerca su euristiche e bias, si interrogavano su come le persone stimino quantità incerte quando non hanno un modo diretto di calcolarle. La loro ipotesi era che, in assenza di un metodo di calcolo esplicito, le persone partano da un valore di riferimento disponibile — anche se irrilevante — e si aggiustino da lì, piuttosto che costruire una stima indipendente da zero."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Nell'esperimento più citato del lavoro, ai partecipanti veniva mostrata una ruota della fortuna con numeri da 1 a 100, truccata per fermarsi solo su 10 o su 65 (a seconda della condizione), pur sembrando casuale. Dopo aver visto il numero uscito, ai partecipanti veniva chiesto — in un compito presentato come del tutto scollegato — di stimare la percentuale di paesi africani membri delle Nazioni Unite.",
+        "Il numero uscito sulla ruota non aveva nessuna relazione logica con la domanda sulle Nazioni Unite, ed era evidente ai partecipanti che si trattava di un dispositivo casuale scollegato dal quesito. Questo rendeva il test particolarmente severo: se l'ancoraggio si manifestava comunque, significava che il meccanismo non richiede nemmeno una parvenza di rilevanza fra ancora e stima."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Quando la ruota si fermava su 10, la stima media della percentuale era 25%; quando si fermava su 60, la stima media saliva a 45%.** Un numero palesemente casuale, senza nessuna relazione logica con la domanda, spostava comunque sistematicamente la risposta dei partecipanti nella sua direzione.",
+        "L'effetto reggeva nonostante i partecipanti sapessero che il numero sulla ruota era generato a caso: sapere che l'ancora è irrilevante non impedisce che continui a condizionare la stima finale."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il modello proposto è quello dell'ancoraggio-e-aggiustamento: di fronte a una stima incerta, si parte da un valore iniziale disponibile — l'ancora — e ci si aggiusta da lì verso quello che sembra più corretto. Il problema è che l'aggiustamento è tipicamente insufficiente: ci si ferma prima di arrivare a una stima davvero indipendente dall'ancora di partenza, lasciando la risposta finale sistematicamente più vicina all'ancora di quanto sarebbe se si fosse partiti da zero.",
+        "Questo meccanismo funziona anche quando l'ancora è dichiaratamente casuale, il che suggerisce che non si tratti di un ragionamento consapevole («quel numero potrebbe contenere informazione utile») ma di un processo automatico e difficile da correggere anche quando se ne conosce l'irrilevanza."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda l'ordine in cui presenti un prezzo scontato: mostrare il prezzo di listino barrato prima del prezzo scontato fissa un'ancora alta, e lo sconto successivo viene giudicato più generoso di quanto sarebbe percepito mostrando solo il prezzo finale, indipendentemente dal fatto che il prezzo di listino sia un riferimento di mercato reale o gonfiato ad arte.",
+        "Vale anche per le richieste di dati stimati all'utente — «quante ore lavori a settimana», «quanto spendi al mese»: se il form mostra un esempio o un valore di default prima della risposta, quel valore ancora la stima dell'utente, anche quando il campo è vuoto e l'utente crede di partire da zero.",
+        "C'è infine il caso delle negoziazioni o delle richieste di budget: chi propone per primo un numero, anche in un contesto dove l'altra parte sa che quel numero è una posizione di apertura, ottiene tipicamente un risultato finale più vicino alla propria proposta iniziale — lo stesso meccanismo dell'ancoraggio, applicato a una trattativa invece che a una stima isolata."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio isola l'ancoraggio in condizioni di laboratorio molto controllate, con una domanda su un fatto verificabile (la percentuale di paesi africani nell'ONU) che i partecipanti non conoscevano con precisione. In domini dove le persone hanno conoscenza diretta e forte o esperienza personale consolidata, l'effetto dell'ancoraggio tende a essere più debole.",
+        "Vale anche la cautela generale sulla forza dell'effetto in contesti reali con posta in gioco: la letteratura successiva conferma la robustezza dell'ancoraggio in moltissimi domini, ma la sua entità precisa varia a seconda di quanto la persona sia esperta nel giudizio richiesto e di quanto tempo e attenzione dedichi alla stima."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un numero visto poco prima di una stima la condiziona sistematicamente, anche quando è palesemente casuale e irrilevante.",
+        "L'aggiustamento da un'ancora iniziale è quasi sempre insufficiente: la stima finale resta più vicina all'ancora di quanto sarebbe partendo da zero.",
+        "Sapere che un'ancora è irrilevante non basta a neutralizzarne l'effetto: è un meccanismo automatico, non una scelta consapevole che si possa correggere solo con la conoscenza."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Amos Tversky e Daniel Kahneman, «Judgment under Uncertainty: Heuristics and Biases», Science, vol. 185, n. 4157, 1974, pp. 1124-1131. Lo stesso lavoro introduce anche le euristiche di rappresentatività e disponibilità, riprese nel dettaglio in «Thinking, Fast and Slow», già trattato in questa raccolta."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "stima media della percentuale di paesi africani nell'ONU in base al numero sulla ruota",
+      "value": "con la ruota ferma su 10 la stima media era 25%, con la ruota ferma su 60 la stima media era 45%"
+    }
+  ],
+  "wordCount": 888,
+  "readingMinutes": 5,
+  "related": [
+    "kahneman-2011-thinking-fast-slow"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

@@ -529,7 +529,7 @@
       "classici-fondativi"
     ],
     "relevance": "fondamentale",
-    "depth": "approfondito",
+    "depth": "breve",
     "keyFindings": [
       {
         "claim": "l'architettura delle scelte influenza le decisioni senza vietare alcuna opzione",
@@ -782,5 +782,278 @@
     "citationConfidence": "primaria",
     "notes": "ACDP è il termine che ha aggiornato «dark pattern» nella letteratura più recente, spostando il criterio dall'inganno al danno all'attenzione. Attenzione: sono preprint, quindi non hanno passato peer review.",
     "harvestedFrom": "curato"
+  },
+  {
+    "id": "tversky-kahneman-1981-framing",
+    "titleOriginal": "The Framing of Decisions and the Psychology of Choice",
+    "authors": [
+      "Tversky, Amos",
+      "Kahneman, Daniel"
+    ],
+    "year": 1981,
+    "type": "studio",
+    "venue": "Science",
+    "sourceUrl": "https://psych.hanover.edu/classes/cognition/papers/tversky81.pdf",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Tversky+Kahneman+1981+Framing+of+Decisions+Psychology+of+Choice",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "bias-euristiche",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "lo stesso risultato oggettivo, inquadrato come vite salvate o come morti, produce scelte opposte",
+        "value": "72% sceglieva l'opzione con inquadramento positivo (vite salvate) contro il 22% con lo stesso risultato inquadrato come perdite (morti)",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il celebre 'problema della malattia asiatica'. Base sperimentale diretta della prospect theory (Kahneman e Tversky, 1979) e dell'avversione alla perdita già incontrata altrove in questa raccolta.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "tversky-kahneman-1974-ancoraggio",
+    "titleOriginal": "Judgment under Uncertainty: Heuristics and Biases",
+    "authors": [
+      "Tversky, Amos",
+      "Kahneman, Daniel"
+    ],
+    "year": 1974,
+    "type": "studio",
+    "venue": "Science",
+    "sourceUrl": "https://www.cs.tufts.edu/comp/150AIH/pdf/TverskyKa74.pdf",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Tversky+Kahneman+1974+Judgment+under+Uncertainty+Heuristics+and+Biases",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "bias-euristiche",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un numero arbitrario visto poco prima di una stima ne condiziona il valore finale",
+        "value": "con la ruota ferma su 10 la stima media era 25%, con la ruota ferma su 60 la stima media era 45%",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il paper che introduce anche le euristiche di rappresentatività e disponibilità, oltre all'ancoraggio. L'esperimento della ruota della fortuna riguardava la stima della percentuale di stati africani nell'ONU.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "norman-2004-emotional-design",
+    "titleOriginal": "Emotional Design: Why We Love (or Hate) Everyday Things",
+    "authors": [
+      "Norman, Donald A."
+    ],
+    "year": 2004,
+    "type": "libro",
+    "venue": "Basic Books",
+    "sourceUrl": "https://jnd.org/emotional-design-people-and-things/",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Norman+Emotional+Design+visceral+behavioral+reflective",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "emozione-fiducia"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il design agisce su tre livelli distinti che modellano percezione, usabilità e memoria",
+        "value": "livello viscerale, comportamentale, riflessivo",
+        "verified": "primaria"
+      }
+    ],
+    "citationConfidence": "primaria",
+    "notes": "Complementare al modello di Fogg e al ciclo di Eyal già in catalogo: qui il tema non è cosa fa scattare l'azione, ma come un prodotto viene percepito e ricordato emotivamente su tre livelli distinti.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "simon-1971-poverty-of-attention",
+    "titleOriginal": "Designing Organizations for an Information-Rich World",
+    "authors": [
+      "Simon, Herbert A."
+    ],
+    "year": 1971,
+    "type": "paper",
+    "venue": "Computers, Communications, and the Public Interest (Johns Hopkins University Press)",
+    "sourceUrl": "https://scholar.google.com/scholar?q=Herbert+Simon+1971+Designing+Organizations+for+an+Information-Rich+World",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Herbert+Simon+wealth+of+information+poverty+of+attention",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "attenzione-economia-attenzione",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un'abbondanza di informazione consuma necessariamente la risorsa scarsa che le permette di essere processata",
+        "value": "coniato il principio 'una ricchezza di informazione crea una povertà di attenzione'",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il testo all'origine del concetto di 'economia dell'attenzione', scritto quando internet non esisteva ancora: la sua tesi è diventata più rilevante, non meno, con la crescita del volume di informazione digitale.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "anderson-simester-2003-charm-pricing",
+    "titleOriginal": "Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments",
+    "authors": [
+      "Anderson, Eric T.",
+      "Simester, Duncan I."
+    ],
+    "year": 2003,
+    "type": "studio",
+    "venue": "Quantitative Marketing and Economics",
+    "sourceUrl": "https://scholar.google.com/scholar?q=Anderson+Simester+Effects+of+9+Price+Endings+on+Retail+Sales",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Anderson+Simester+2003+price+endings+field+experiment",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "pricing-paywall"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un capo venduto a un prezzo che termina in 9 ha superato le vendite dello stesso capo a prezzi più bassi",
+        "value": "in un esperimento su un vestito, le vendite a 39$ hanno superato quelle a 34$ e a 44$",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Un esperimento sul campo, non solo di laboratorio: il vestito a 39$ ha venduto più dello stesso vestito a 34$, un prezzo più basso. Cautela: uno studio successivo su un ampio esperimento online non è riuscito a replicare né l'effetto del prezzo che termina in 9 né quello di fluenza percettiva, suggerendo che l'effetto sia più debole o più dipendente dal contesto di quanto si creda comunemente.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "growth-design-duolingo-streak",
+    "titleOriginal": "Duolingo's User Retention: 8 Tactics Tested On 300 Million Users",
+    "authors": [
+      "Growth.Design"
+    ],
+    "year": 2024,
+    "type": "case-study",
+    "venue": "growth.design",
+    "sourceUrl": "https://growth.design/case-studies/duolingo-user-retention",
+    "fallbackUrl": "https://growth.design/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "abitudini-retention"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "la minaccia di perdere una serie di giorni consecutivi spinge a tornare il giorno dopo",
+        "value": "55% degli utenti torna il giorno successivo per mantenere la streak",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il meccanismo dichiarato è l'avversione alla perdita, non il desiderio di progresso: chi ha una streak di 180 giorni non è motivato a raggiungere 181, ma a non perdere i 180 già accumulati. Duolingo bilancia la pressione con strumenti di 'perdono' (congelamento, riparazione streak).",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "miller-1956-numero-magico",
+    "titleOriginal": "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information",
+    "authors": [
+      "Miller, George A."
+    ],
+    "year": 1956,
+    "type": "studio",
+    "venue": "Psychological Review",
+    "sourceUrl": "https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Miller+1956+Magical+Number+Seven+Plus+or+Minus+Two",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "accessibilita-cognitiva",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "la memoria a breve termine gestisce bene solo un numero limitato di elementi alla volta",
+        "value": "sette elementi, più o meno due",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Introduce anche il concetto di 'chunking' (raggruppamento in unità più ampie). Cautela: ricerca successiva (Cowan, 2001) rivede la stima al ribasso, indicando un limite più vicino a quattro elementi quando si controllano ripasso e memoria a lungo termine.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "huber-payne-puto-1982-decoy-effect",
+    "titleOriginal": "Adding Asymmetrically Dominated Alternatives: Violations of Regularity and the Similarity Hypothesis",
+    "authors": [
+      "Huber, Joel",
+      "Payne, John W.",
+      "Puto, Christopher"
+    ],
+    "year": 1982,
+    "type": "studio",
+    "venue": "Journal of Consumer Research",
+    "sourceUrl": "https://scholar.google.com/scholar?q=Huber+Payne+Puto+1982+asymmetrically+dominated+alternatives",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=decoy+effect+asymmetric+dominance+Huber+Payne+Puto",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "pricing-paywall",
+      "choice-architecture-nudge"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "aggiungere una terza opzione dominata in modo asimmetrico sposta la scelta verso l'opzione che la domina",
+        "value": "in un caso applicato su abbonamenti a una rivista, senza l'opzione esca il 68% sceglieva l'abbonamento più economico; con l'opzione esca l'84% sceglieva l'abbonamento combinato",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "L'esperimento sugli abbonamenti (reso famoso da Dan Ariely) è un caso applicato successivo, distinto dallo studio accademico originale che ha isolato per primo l'effetto. Cautela importante: una rassegna cita solo 11 successi su 91 tentativi di replica in 23 categorie di prodotto — l'effetto è reale ma dipende fortemente dal contesto, meno affidabile di come viene spesso presentato.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "growth-design-spotify-wrapped",
+    "titleOriginal": "Spotify Wrapped: 6 psychology principles that make it go viral every year",
+    "authors": [
+      "Growth.Design"
+    ],
+    "year": 2024,
+    "type": "case-study",
+    "venue": "growth.design",
+    "sourceUrl": "https://growth.design/case-studies/spotify-wrapped-psychology",
+    "fallbackUrl": "https://growth.design/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "emozione-fiducia"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il formato sfrutta la tensione fra bisogno di appartenenza e desiderio di individualità, più l'incertezza sul proprio risultato personale",
+        "value": "case study su un fenomeno culturale ricorrente, diventato anche materiale di studio in ambito accademico",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Ricostruzione esterna, non dati interni di Spotify. Il principio centrale è la personalizzazione: dati individuali trasformati in un evento culturale condiviso.",
+    "harvestedFrom": "ricerca-web"
   }
 ]

@@ -1,0 +1,109 @@
+{
+  "id": "huber-payne-puto-1982-decoy-effect",
+  "catalogId": "huber-payne-puto-1982-decoy-effect",
+  "titleIt": "La terza opzione che non serve a essere scelta, ma a far scegliere le altre",
+  "titleOriginal": "Adding Asymmetrically Dominated Alternatives: Violations of Regularity and the Similarity Hypothesis",
+  "authors": [
+    "Huber, Joel",
+    "Payne, John W.",
+    "Puto, Christopher"
+  ],
+  "year": 1982,
+  "type": "studio",
+  "venue": "Journal of Consumer Research",
+  "sourceUrl": "https://scholar.google.com/scholar?q=Huber+Payne+Puto+1982+asymmetrically+dominated+alternatives",
+  "topics": [
+    "pricing-paywall",
+    "choice-architecture-nudge"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Due abbonamenti a un prezzo diverso. Ne aggiungi un terzo, palesemente peggiore, che quasi nessuno sceglierà mai. Eppure la sua sola presenza cambia radicalmente quale degli altri due la gente sceglie."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Aggiungere a un insieme di opzioni una terza alternativa chiaramente peggiore di una delle altre due — mai migliore su nessuna dimensione — sposta sistematicamente la scelta verso l'opzione che la domina, anche se quella terza opzione non viene quasi mai scelta essa stessa. È l'effetto esca, o dominanza asimmetrica."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è probabilmente la spiegazione più diretta di perché certe tabelle di pricing includono un piano che sembra fatto apposta per non essere scelto: non è un errore di design, è spesso una scelta deliberata per orientare la decisione verso un altro piano specifico. Capire il meccanismo ti permette di usarlo con criterio nella tua tabella prezzi, o di riconoscerlo quando ti viene proposta una scelta che sembra avere un'opzione palesemente fuori posto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Joel Huber, John Payne e Christopher Puto lavoravano sulla teoria della scelta razionale, che presupponeva un principio chiamato «regolarità»: aggiungere un'opzione a un insieme di scelte non dovrebbe mai aumentare la probabilità di scegliere un'opzione già presente, perché nella peggiore delle ipotesi la nuova opzione dovrebbe semplicemente non essere scelta, lasciando invariate le proporzioni fra le opzioni originali.",
+        "Gli autori sospettavano che questo principio potesse essere violato in un caso specifico: quando la nuova opzione è costruita per essere chiaramente dominata — cioè peggiore su ogni dimensione rilevante — rispetto a una delle opzioni già esistenti, ma non rispetto all'altra."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Gli autori hanno condotto esperimenti di scelta in cui ai partecipanti venivano presentati insiemi di due opzioni con caratteristiche in trade-off fra loro (per esempio qualità contro prezzo), misurando le proporzioni di scelta. In una condizione aggiuntiva, veniva introdotta una terza opzione «esca»: dominata chiaramente da una delle due opzioni originali su ogni dimensione, ma non paragonabile o peggiore rispetto all'altra.",
+        "Il confronto centrale era fra le proporzioni di scelta delle due opzioni originali, con e senza la presenza della terza opzione esca, per verificare se la sua introduzione violasse il principio di regolarità spostando le proporzioni relative fra le prime due."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "L'introduzione dell'opzione dominata in modo asimmetrico **spostava sistematicamente la scelta verso l'opzione che la dominava**, violando il principio di regolarità: la nuova opzione, quasi mai scelta essa stessa, cambiava comunque le proporzioni con cui le persone sceglievano fra le due opzioni originali.",
+        "Un caso applicato successivo, reso celebre da Dan Ariely nella sua analisi degli abbonamenti a una rivista, illustra bene la portata dell'effetto: **senza l'opzione esca il 68% sceglieva l'abbonamento più economico; con l'opzione esca l'84% sceglieva l'abbonamento combinato più caro**, un ribaltamento netto della preferenza aggregata causato dalla sola presenza di una terza opzione che quasi nessuno sceglieva."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "La spiegazione proposta è che, in assenza di un metro di paragone assoluto, le persone valutino le opzioni per confronto relativo piuttosto che per un calcolo indipendente del proprio valore per ciascuna. Un'opzione che domina chiaramente l'esca — è migliore su ogni dimensione rispetto a un'alternativa concreta e visibile — acquisisce una prova tangibile della propria superiorità che non aveva quando l'unico confronto disponibile era con un'opzione in puro trade-off.",
+        "L'opzione esca funziona quindi non come concorrente reale, ma come strumento di paragone che rende più facile e più sicura la valutazione di una delle altre due: senza l'esca, scegliere fra qualità e prezzo richiede un giudizio di valore soggettivo; con l'esca, una delle due opzioni diventa oggettivamente e visibilmente superiore ad almeno un'alternativa concreta."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda la costruzione di una tabella a tre piani in cui il piano intermedio sembra offrire pochissimo in più rispetto al piano base, a un prezzo vicino a quello del piano superiore: quel piano intermedio, anche se scelto raramente, può star lì apposta per rendere il piano superiore una scelta più ovvia rispetto a quanto sarebbe con solo due opzioni.",
+        "Vale anche per il confronto di funzionalità in una schermata di upgrade: aggiungere un'opzione con poche funzionalità a un prezzo quasi identico a un'opzione con molte più funzionalità sposta la scelta verso quest'ultima, sfruttando lo stesso principio di dominanza asimmetrica isolato da questo studio.",
+        "C'è infine una cautela pratica da tenere a mente prima di applicare questa tecnica: costruire un'opzione esca palesemente inutile, se l'utente se ne accorge, può danneggiare la fiducia nella tabella dei prezzi nel suo complesso — il confine fra un pricing ben architettato e uno percepito come manipolativo dipende da quanto l'opzione esca resti anche minimamente plausibile come scelta reale."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Va distinto con chiarezza lo studio accademico originale, che isola l'effetto in condizioni sperimentali controllate, dal caso applicato degli abbonamenti a una rivista reso celebre da Dan Ariely: quest'ultimo è un esempio illustrativo successivo, non lo studio che ha scoperto l'effetto per primo, per quanto sia diventato il modo più comune con cui il pubblico generale conosce l'effetto esca.",
+        "Vale una cautela importante sulla robustezza dell'effetto: una rassegna di repliche cita solo 11 successi su 91 tentativi condotti in 23 categorie di prodotto diverse. L'effetto è reale e ben documentato in condizioni specifiche, ma dipende fortemente dal contesto, dalle categorie di prodotto e da come l'opzione esca viene costruita — molto meno affidabile e universale di come viene spesso presentato nella cultura popolare del marketing."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un'opzione chiaramente dominata da una delle alternative esistenti, anche se quasi mai scelta essa stessa, sposta la proporzione di scelta verso l'opzione che la domina.",
+        "Il meccanismo funziona per confronto relativo: l'opzione esca fornisce una prova tangibile di superiorità che non esisteva quando il confronto era solo fra opzioni in trade-off.",
+        "L'effetto è reale ma fragile: solo 11 successi su 91 tentativi di replica in categorie di prodotto diverse — testalo sul tuo caso specifico prima di considerarlo garantito."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Joel Huber, John W. Payne e Christopher Puto, «Adding Asymmetrically Dominated Alternatives: Violations of Regularity and the Similarity Hypothesis», Journal of Consumer Research, vol. 9, n. 1, 1982, pp. 90-98. Da leggere insieme allo studio sulla terminazione dei prezzi in 9 di Anderson e Simester, già trattato in questa raccolta, un'altra leva di pricing con la stessa cautela sulla dipendenza dal contesto."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "scelta dell'abbonamento combinato con e senza l'opzione esca",
+      "value": "senza l'opzione esca il 68% sceglieva l'abbonamento più economico; con l'opzione esca l'84% sceglieva l'abbonamento combinato"
+    }
+  ],
+  "wordCount": 980,
+  "readingMinutes": 6,
+  "related": [
+    "anderson-simester-2003-charm-pricing"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

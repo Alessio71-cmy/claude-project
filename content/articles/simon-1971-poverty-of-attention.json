@@ -1,0 +1,101 @@
+{
+  "id": "simon-1971-poverty-of-attention",
+  "catalogId": "simon-1971-poverty-of-attention",
+  "titleIt": "Prima di internet, il testo che ha già previsto internet",
+  "titleOriginal": "Designing Organizations for an Information-Rich World",
+  "authors": [
+    "Simon, Herbert A."
+  ],
+  "year": 1971,
+  "type": "paper",
+  "venue": "Computers, Communications, and the Public Interest (Johns Hopkins University Press)",
+  "sourceUrl": "https://scholar.google.com/scholar?q=Herbert+Simon+1971+Designing+Organizations+for+an+Information-Rich+World",
+  "topics": [
+    "attenzione-economia-attenzione",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Scritto quando internet non esisteva: un'abbondanza di informazione, diceva Simon, consuma necessariamente qualcos'altro. Quel qualcos'altro è l'attenzione — e oggi ne stiamo ancora facendo i conti."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Herbert Simon, premio Nobel per l'economia, osservava che l'informazione non è gratuita da processare: consuma la risorsa scarsa che permette di riceverla, cioè l'attenzione. Più informazione è disponibile, meno attenzione resta per ciascuna singola parte di essa — un principio formulato decenni prima che diventasse il problema centrale del design digitale."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché è probabilmente la prima formulazione esplicita di un'idea che oggi diamo per scontata — l'attenzione come risorsa scarsa e contesa — ed è utile sapere che nasce da un'osservazione sull'organizzazione delle informazioni, non dal design digitale che sarebbe arrivato decenni dopo. Conoscerne l'origine ti dà una base solida per ogni discussione su carico cognitivo, sovraccarico informativo o «economia dell'attenzione» che altrimenti rischierebbe di restare uno slogan senza fondamento."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Herbert Simon scriveva all'inizio degli anni Settanta, in un periodo in cui i computer stavano iniziando a rendere disponibili volumi di informazione crescenti alle organizzazioni, ben prima di internet e dei dispositivi personali. Il suo interesse era organizzativo e economico: come progettare organizzazioni e sistemi decisionali in un mondo dove l'informazione, che fino ad allora era stata scarsa, iniziava a diventare abbondante."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il lavoro è un saggio teorico, non uno studio empirico con partecipanti e misure: Simon applica il suo pensiero economico — già noto per il concetto di razionalità limitata, per cui le decisioni umane sono vincolate dalla capacità cognitiva disponibile — al problema specifico della progettazione organizzativa in un contesto di abbondanza informativa crescente.",
+        "L'argomento centrale procede per analogia economica: se un bene diventa abbondante, il suo valore relativo scende, e la scarsità si sposta su qualunque risorsa serva per utilizzarlo. Applicato all'informazione, questo significa che l'abbondanza informativa sposta la scarsità sulla capacità di attenzione necessaria per elaborarla."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il principio centrale, diventato poi celebre, afferma che **un'abbondanza di informazione crea necessariamente una povertà di attenzione**: l'informazione consuma l'attenzione di chi la riceve, quindi più informazione è disponibile, più diventa scarsa e contesa la capacità di prestarle attenzione in modo efficace.",
+        "Simon ne trae una conseguenza organizzativa precisa: progettare sistemi informativi efficaci in un mondo di abbondanza non significa fornire più informazione, ma aiutare le persone ad allocare la propria attenzione limitata in modo efficiente fra la sovrabbondanza di fonti disponibili."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il meccanismo descritto è più economico che psicologico in senso stretto: l'attenzione umana ha una capacità fissa e limitata nell'unità di tempo, indipendentemente da quanta informazione è disponibile da elaborare. Quando il volume di informazione cresce oltre quella capacità, non tutta l'informazione disponibile può ricevere attenzione, e la selezione di cosa viene notato diventa essa stessa una variabile critica del sistema.",
+        "Questo sposta il problema di design da «come rendere disponibile più informazione» a «come aiutare a scegliere quale informazione merita l'attenzione scarsa disponibile» — un capovolgimento che precede di decenni la stessa terminologia dell'economia dell'attenzione oggi diffusa nel design digitale e nel dibattito pubblico su social media e sovraccarico informativo."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Pensa a ogni funzione di filtro, priorità o digest che un prodotto offre — notifiche raggruppate, riepiloghi settimanali, ordinamento per rilevanza invece che cronologico: sono tutte risposte dirette al principio di Simon, che spostano il problema da «mostrare tutto» a «selezionare cosa merita l'attenzione scarsa dell'utente in quel momento».",
+        "Vale anche, nella direzione opposta, come lente critica sui prodotti che competono esplicitamente per l'attenzione residua degli utenti: un feed progettato per massimizzare il tempo speso, indipendentemente dal valore di ciò che viene consumato, sfrutta la stessa scarsità descritta da Simon per estrarre valore economico dall'attenzione invece di aiutare ad allocarla con criterio.",
+        "C'è infine l'applicazione alla progettazione di dashboard e strumenti di lavoro: più metriche e widget vengono aggiunti a una schermata, più l'attenzione disponibile per ciascuno si diluisce — un limite che nessuna quantità di spazio schermo aggiuntivo può risolvere, perché il vincolo scarso non è lo spazio, ma l'attenzione di chi guarda."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il lavoro è un saggio teorico ed economico, non uno studio empirico con misure dirette dell'attenzione: la sua forza è l'intuizione concettuale, formulata con notevole anticipo rispetto al problema che avrebbe descritto, non una quantificazione precisa di quanto l'attenzione scarseggi in un contesto specifico.",
+        "Vale anche la cautela che il concetto di «economia dell'attenzione», nato da questa intuizione, è stato negli anni applicato in modi molto diversi — da critica ai social media a giustificazione di modelli di business costruiti apposta per catturare quella stessa attenzione scarsa: il principio descrive un vincolo reale, ma non prescrive da solo come rispondervi eticamente."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un'abbondanza di informazione crea necessariamente una povertà di attenzione: l'informazione consuma la risorsa scarsa che permette di riceverla.",
+        "Il problema di design, in un mondo di abbondanza informativa, non è fornire più informazione ma aiutare ad allocare bene l'attenzione scarsa disponibile.",
+        "Lo stesso principio giustifica sia funzioni che aiutano l'utente a filtrare, sia prodotti che sfruttano la scarsità di attenzione per massimizzare il tempo speso: il principio è neutro, l'uso che se ne fa no."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Herbert A. Simon, «Designing Organizations for an Information-Rich World», in Martin Greenberger (a cura di), «Computers, Communications, and the Public Interest», Johns Hopkins University Press, 1971. Da leggere insieme al lavoro sul concetto più recente di Attention-Capture Damaging Patterns (ACDP), già trattato in questa raccolta, che applica lo stesso principio di scarsità dell'attenzione al design digitale contemporaneo."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 860,
+  "readingMinutes": 5,
+  "related": [
+    "arxiv-cs-hc-dark-patterns"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

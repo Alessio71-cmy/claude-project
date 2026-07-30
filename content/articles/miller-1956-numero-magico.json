@@ -1,0 +1,106 @@
+{
+  "id": "miller-1956-numero-magico",
+  "catalogId": "miller-1956-numero-magico",
+  "titleIt": "Sette caselle, più o meno due: il limite che nessuna interfaccia elimina",
+  "titleOriginal": "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information",
+  "authors": [
+    "Miller, George A."
+  ],
+  "year": 1956,
+  "type": "studio",
+  "venue": "Psychological Review",
+  "sourceUrl": "https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf",
+  "topics": [
+    "accessibilita-cognitiva",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Sette elementi, più o meno due: è quanto la memoria a breve termine riesce a gestire alla volta. Non è un limite di attenzione o motivazione — è un vincolo strutturale, e nessuna interfaccia elegante lo aggira."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "George Miller ha mostrato che la memoria a breve termine gestisce bene solo un numero limitato di elementi indipendenti alla volta — circa sette, con una variazione di più o meno due. Oltre quella soglia, la capacità di ricordare e distinguere elementi peggiora rapidamente, a meno che non vengano raggruppati in unità più ampie."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ogni menu, ogni elenco di opzioni, ogni passaggio di un flusso che richiede di tenere a mente più elementi contemporaneamente urta contro un limite strutturale della memoria umana, non contro una questione di attenzione o buona volontà dell'utente. Sapere che il limite è intorno a sette elementi — e che si può aggirare raggruppando, non solo riducendo — cambia concretamente come strutturi un'interfaccia con molte opzioni."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "George Miller, psicologo cognitivo, scriveva in un momento in cui la psicologia sperimentale iniziava a misurare con precisione i limiti della capacità di elaborazione dell'informazione umana, un filone che avrebbe poi dato origine alla psicologia cognitiva come disciplina distinta. Il suo interesse era capire quanta informazione la mente potesse effettivamente trattenere in un compito immediato, senza il supporto della memoria a lungo termine."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Miller ha sintetizzato i risultati di più compiti sperimentali diversi che misuravano la capacità della memoria immediata: compiti di memoria di cifre (ripetere una sequenza di numeri appena ascoltata), compiti di giudizio assoluto (associare uno stimolo a un'etichetta e poi ricordarla), e compiti di ampiezza dell'attenzione (contare velocemente elementi in un gruppo numeroso).",
+        "Attraverso questi paradigmi diversi, tutti convergenti su risultati simili, Miller ha proposto che esistesse un limite comune alla capacità della memoria a breve termine, indipendente dal tipo specifico di informazione trattata."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato centrale, diventato uno dei numeri più citati della psicologia cognitiva, è che **la memoria a breve termine gestisce bene un numero di elementi pari a sette, più o meno due** — un intervallo che va da cinque a nove elementi a seconda dell'individuo e del compito specifico.",
+        "Miller ha anche introdotto il concetto di «chunking» (raggruppamento): il limite non riguarda il numero assoluto di bit di informazione, ma il numero di unità significative — un numero di telefono lungo diventa gestibile se raggruppato in blocchi più piccoli, perché ogni blocco conta come un solo «elemento» ai fini del limite di memoria, non come la somma delle sue cifre."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il meccanismo proposto riguarda la capacità della memoria di lavoro di mantenere attive rappresentazioni distinte contemporaneamente: oltre una certa soglia, aggiungere nuovi elementi non aumenta la quantità totale trattenuta, ma comincia a spiazzare o confondere elementi già presenti, degradando l'accuratezza del ricordo complessivo.",
+        "Il chunking funziona perché sposta l'unità di misura: raggruppare elementi correlati in una struttura più ampia — una data, una parola, una categoria — permette di trattare quel gruppo come un solo elemento ai fini del limite di memoria, aumentando così la quantità totale di informazione gestibile senza violare il vincolo strutturale sul numero di unità."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda un menu di navigazione con più di sette-nove voci principali non raggruppate: secondo questo principio, l'utente farà più fatica a tenerle tutte a mente e a orientarsi rispetto a un menu con lo stesso numero totale di destinazioni, ma organizzate in categorie di primo livello ridotte, ciascuna con sottovoci.",
+        "Vale anche per la progettazione di un form lungo o di un processo a più passaggi: raggruppare i campi correlati in sezioni tematiche (dati personali, indirizzo, pagamento) invece di presentare tutti i campi come un'unica lista piatta applica direttamente il chunking, riducendo il carico sulla memoria di lavoro dell'utente durante la compilazione.",
+        "C'è infine l'applicazione alla progettazione di dashboard con molte metriche: superate le sette-nove informazioni visualizzate simultaneamente come elementi indipendenti, vale la pena raggrupparle in categorie di livello superiore (per esempio «performance», «utenti», «ricavi») invece di continuare ad aggiungerne senza struttura, anche quando lo spazio schermo disponibile lo permetterebbe."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il numero «sette» è diventato più celebre della sua stessa cautela originale: Miller stesso lo presentava come una sintesi approssimativa di risultati provenienti da compiti diversi, non come una costante fissa e universale applicabile identica a ogni tipo di informazione o a ogni persona.",
+        "Vale una cautela importante e più recente: la ricerca successiva, in particolare il lavoro di Nelson Cowan nel 2001, ha rivisto la stima al ribasso, proponendo che il limite reale della memoria di lavoro, quando si controllano ripasso e supporto della memoria a lungo termine, sia più vicino a quattro elementi che a sette. Il principio del chunking resta valido in entrambe le stime; il numero esatto della soglia è meno stabile di quanto la fama del titolo suggerisca."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "La memoria a breve termine gestisce bene un numero limitato di elementi indipendenti alla volta: circa sette, secondo la stima originale di Miller, forse più vicino a quattro secondo le revisioni successive.",
+        "Il raggruppamento (chunking) permette di aumentare la quantità totale di informazione gestita, spostando l'unità di misura da singoli elementi a gruppi significativi.",
+        "Il numero esatto della soglia è meno stabile della sua fama: usa il principio del raggruppamento come guida, non il «sette» come regola rigida da rispettare alla lettera."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "George A. Miller, «The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information», Psychological Review, vol. 63, n. 2, 1956, pp. 81-97. Da leggere insieme a «Laws of UX» di Jon Yablonski, già trattato in questa raccolta, che include questo stesso principio fra le leggi tradotte in decisioni di interfaccia."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "numero di elementi gestiti dalla memoria a breve termine",
+      "value": "sette elementi, più o meno due"
+    }
+  ],
+  "wordCount": 888,
+  "readingMinutes": 5,
+  "related": [
+    "yablonski-2020-laws-of-ux"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}
