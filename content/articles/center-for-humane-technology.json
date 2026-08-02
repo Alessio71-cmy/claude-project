@@ -1,0 +1,98 @@
+{
+  "id": "center-for-humane-technology",
+  "catalogId": "center-for-humane-technology",
+  "titleIt": "Chi ha progettato la trappola sta ora scrivendo il manuale per uscirne",
+  "titleOriginal": "Center for Humane Technology",
+  "authors": [
+    "Harris, Tristan",
+    "Raskin, Aza"
+  ],
+  "year": 2018,
+  "type": "articolo",
+  "venue": "humanetech.com",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Center_for_Humane_Technology",
+  "topics": [
+    "attenzione-economia-attenzione",
+    "dark-pattern-etica"
+  ],
+  "relevance": "contesto",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Un ex design ethicist di Google, che per anni ha aiutato a progettare interfacce ottimizzate per catturare l'attenzione, ha fondato un'organizzazione dedicata a smontare pubblicamente gli stessi meccanismi che ha contribuito a costruire."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Il Center for Humane Technology è un'organizzazione fondata da ex professionisti dell'industria tecnologica, incluso un ex design ethicist di Google, che propone di passare da un'economia dell'attenzione «estrattiva» — che tratta le persone come una risorsa da cui spremere tempo — a una «rigenerativa»."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché offre un vocabolario e una cornice etica esplicita per una domanda che altrimenti resta implicita in molte decisioni di prodotto: stiamo progettando per il beneficio reale di chi usa il prodotto, o per massimizzare il tempo che vi trascorre indipendentemente dal valore che ne trae? Avere questa distinzione nominata esplicitamente aiuta a portarla in una discussione di team in modo meno astratto di un generico richiamo all'etica."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Tristan Harris ha lavorato come design ethicist in Google, ruolo in cui analizzava come le interfacce di prodotto potessero sfruttare tendenze psicologiche per catturare l'attenzione, appoggiandosi anche alla sua formazione in persuasive technology a Stanford — lo stesso ambito accademico da cui viene il lavoro di B. J. Fogg già trattato in questa raccolta. Dopo aver lasciato Google ha fondato, insieme ad Aza Raskin, questa organizzazione."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "L'organizzazione produce ricerca divulgativa, interventi pubblici e materiale educativo sul tema del design che sfrutta vulnerabilità psicologiche per massimizzare l'attenzione catturata, proponendo al contempo principi di design alternativi orientati a quello che chiamano tempo «ben speso»."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il contributo centrale è concettuale: **la proposta di passare da un'economia dell'attenzione estrattiva a una rigenerativa**, un'organizzazione fondata da persone che hanno lavorato direttamente dentro le aziende che progettano i meccanismi che oggi criticano pubblicamente — una posizione che dà al loro lavoro una credibilità pratica diversa da quella di un critico puramente esterno."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'argomento centrale è che il design di molte tecnologie di largo consumo si appoggia deliberatamente su princìpi di psicologia del comportamento — in particolare le ricompense a intervallo variabile già trattate altrove in questa raccolta — applicati non per generare valore per chi usa il prodotto, ma per massimizzare il tempo di utilizzo come metrica di business."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Usa la distinzione fra economia «estrattiva» e «rigenerativa» come domanda di verifica prima di ottimizzare una metrica di engagement: quell'aumento di tempo speso nel prodotto corrisponde a un aumento di valore reale per chi lo usa, o solo a un aumento di tempo sottratto ad altro?",
+        "Vale anche come lente per rivedere le notifiche e gli inneschi di un prodotto: un innesco che riporta l'utente per completare qualcosa che voleva davvero fare è diverso, secondo questa cornice, da un innesco che lo riporta solo per massimizzare l'apertura dell'app, anche quando la meccanica tecnica dei due è identica."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un'organizzazione con una posizione dichiaratamente attivista e advocacy, non un ente di ricerca accademica neutrale: il suo materiale è divulgativo e orientato a un cambiamento di pratiche del settore, il che è un valore diverso da quello di uno studio peer-reviewed, e va citato come tale.",
+        "Vale anche una cautela sul rischio opposto: la stessa critica al design estrattivo può diventare, se applicata senza discernimento, un modo per bollare come manipolativa qualunque leva di coinvolgimento, comprese quelle che generano un valore reale e reciproco per chi usa il prodotto. La cornice serve a fare la domanda giusta, non a fornire un verdetto automatico su ogni singola decisione di design."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il Center for Humane Technology propone di passare da un'economia dell'attenzione estrattiva a una rigenerativa, un cambio di orientamento più che una tecnica specifica.",
+        "La domanda di verifica utile: l'aumento del tempo speso nel prodotto corrisponde a valore reale per chi lo usa, o solo a tempo sottratto ad altro?",
+        "È materiale divulgativo e di advocacy, non ricerca accademica neutrale: utile per la cornice etica, non come fonte di dati sperimentali."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Tristan Harris e Aza Raskin, Center for Humane Technology, humanetech.com, fondato nel 2018. Da leggere insieme a «Persuasive Technology» di B. J. Fogg, già trattato in questa raccolta, la stessa cornice accademica da cui viene la formazione di Harris, applicata qui con un'intenzione critica opposta."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 648,
+  "readingMinutes": 4,
+  "related": [
+    "fogg-2003-persuasive-technology"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

@@ -1055,5 +1055,66 @@
     "citationConfidence": "secondaria",
     "notes": "Ricostruzione esterna, non dati interni di Spotify. Il principio centrale è la personalizzazione: dati individuali trasformati in un evento culturale condiviso.",
     "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "fitts-1954-legge-puntamento",
+    "titleOriginal": "The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement",
+    "authors": [
+      "Fitts, Paul M."
+    ],
+    "year": 1954,
+    "type": "studio",
+    "venue": "Journal of Experimental Psychology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fitts%27s_law",
+    "fallbackUrl": "https://scholar.google.com/scholar?q=Fitts+1954+Information+Capacity+Human+Motor+System+Amplitude+Movement",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "accessibilita-cognitiva",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il tempo per raggiungere un bersaglio dipende dalla sua distanza e, in modo inverso, dalla sua dimensione",
+        "value": "bersagli più piccoli e più lontani richiedono tempi di movimento più lunghi; modello MT = a + b×ID",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Confermata in condizioni molto diverse: mani, piedi, dispositivi di puntamento, ambienti fisici diversi. Alla base della legge di Fitts oggi citata in ogni linea guida di interaction design.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "center-for-humane-technology",
+    "titleOriginal": "Center for Humane Technology",
+    "authors": [
+      "Harris, Tristan",
+      "Raskin, Aza"
+    ],
+    "year": 2018,
+    "type": "articolo",
+    "venue": "humanetech.com",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Center_for_Humane_Technology",
+    "fallbackUrl": "https://www.humanetech.com/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "attenzione-economia-attenzione",
+      "dark-pattern-etica"
+    ],
+    "relevance": "contesto",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "propone di passare da un'economia dell'attenzione 'estrattiva' a una 'rigenerativa'",
+        "value": "organizzazione fondata da ex dipendenti ed ex design ethicist di grandi aziende tecnologiche, inclusi Google",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Tristan Harris ha lavorato come design ethicist in Google prima di fondare questa organizzazione. Il suo background include lo studio della persuasive technology a Stanford, con B. J. Fogg già trattato in questa raccolta.",
+    "harvestedFrom": "ricerca-web"
   }
 ]

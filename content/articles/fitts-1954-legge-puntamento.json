@@ -1,0 +1,97 @@
+{
+  "id": "fitts-1954-legge-puntamento",
+  "catalogId": "fitts-1954-legge-puntamento",
+  "titleIt": "Perché un bottone piccolo e lontano ti fa sempre sbagliare",
+  "titleOriginal": "The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement",
+  "authors": [
+    "Fitts, Paul M."
+  ],
+  "year": 1954,
+  "type": "studio",
+  "venue": "Journal of Experimental Psychology",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fitts%27s_law",
+  "topics": [
+    "accessibilita-cognitiva",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Un bersaglio piccolo e lontano richiede più tempo per essere raggiunto con precisione di uno grande e vicino. Sembra ovvio — ma Fitts lo ha trasformato in un'equazione, e oggi governa ogni bottone che tocchi."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Paul Fitts ha mostrato che il tempo necessario per raggiungere un bersaglio con un movimento mirato dipende da due fattori misurabili: la distanza da percorrere e la dimensione del bersaglio, in relazione inversa. Bersagli più piccoli e più lontani richiedono più tempo — e producono più errori se il movimento viene affrettato."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Perché ogni elemento cliccabile o toccabile in un'interfaccia — un bottone, un link, un'icona — è un bersaglio nel senso letterale in cui Fitts lo intendeva, e la sua dimensione e posizione non sono dettagli estetici: determinano quanto velocemente e con quanti errori le persone riusciranno a interagirci. È probabilmente il principio più applicato, spesso senza saperlo, in tutto il design di interfaccia touch."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Paul Fitts, psicologo che lavorava sul sistema motorio umano, si interessava a un problema pratico dell'epoca legato all'ergonomia dei comandi — quadranti, leve, interruttori — nei sistemi complessi come i cockpit aeronautici: quanto velocemente e con quanta precisione una persona riesce a spostare la mano verso un punto preciso?"
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Fitts ha condotto esperimenti di puntamento manuale, chiedendo ai partecipanti di toccare ripetutamente due bersagli alternati con uno stilo, variando sistematicamente sia la distanza fra i due bersagli sia la loro larghezza, misurando il tempo di movimento e il tasso di errore per ogni combinazione."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "Il risultato centrale, formalizzato in un'equazione che porta il suo nome, mostra che **il tempo di movimento aumenta con la distanza del bersaglio e diminuisce con la sua dimensione**: bersagli più piccoli e più lontani richiedono tempi di movimento più lunghi per essere raggiunti con la stessa precisione, mentre muoversi troppo in fretta verso un bersaglio piccolo aumenta il tasso di errore — il classico compromesso fra velocità e precisione."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il modello descrive il movimento mirato come un processo che richiede correzioni progressive: più il bersaglio è piccolo rispetto alla distanza da percorrere, più il sistema motorio ha bisogno di rallentare verso la fine del movimento per correggere la traiettoria e centrarlo con precisione, invece di poter procedere a velocità costante."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Guarda la dimensione dei bottoni su un'interfaccia touch, specialmente per azioni frequenti o urgenti: un bersaglio piccolo su schermo richiede più tempo e produce più errori di tocco di uno grande, un effetto che si accentua ulteriormente quando chi lo usa è in movimento o ha difficoltà motorie.",
+        "Vale anche per la posizione: un elemento cliccabile vicino al punto in cui si trova già il cursore o il dito richiede meno tempo di uno lontano, motivo per cui le azioni più frequenti in un'interfaccia dovrebbero stare vicine al flusso naturale di interazione, non sparse in punti distanti dello schermo.",
+        "C'è infine il caso dei bordi e degli angoli dello schermo, che secondo un corollario della stessa legge si comportano come se avessero dimensione infinita in quella direzione — è la ragione per cui i menu attaccati al bordo dello schermo sono più veloci da raggiungere di menu identici ma posizionati con un margine tutto intorno."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il modello descrive movimenti fisici mirati e continua a essere validato in contesti molto diversi — mani, piedi, dispositivi di puntamento, ambienti fisici — ma la sua applicazione a un touchscreen, dove il dito copre parte del bersaglio durante il movimento stesso, introduce variabili che l'esperimento originale con lo stilo non affrontava direttamente."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il tempo per raggiungere un bersaglio dipende dalla sua distanza e, in modo inverso, dalla sua dimensione: bersagli piccoli e lontani costano più tempo e più errori.",
+        "Gli elementi cliccabili più frequenti dovrebbero essere grandi e vicini al flusso naturale di interazione, non piccoli o isolati.",
+        "I bordi dello schermo si comportano come bersagli di dimensione infinita in quella direzione: sfruttali per le azioni più importanti."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Paul M. Fitts, «The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement», Journal of Experimental Psychology, vol. 47, n. 6, 1954, pp. 381-391. Da leggere insieme a «Laws of UX» di Jon Yablonski, già trattato in questa raccolta, che include questa stessa legge fra i principi tradotti in decisioni di interfaccia."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 661,
+  "readingMinutes": 4,
+  "related": [
+    "yablonski-2020-laws-of-ux"
+  ],
+  "generatedAt": "2026-07-30",
+  "model": "claude-sonnet-5"
+}

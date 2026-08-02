@@ -338,6 +338,26 @@
         "accessibilita-cognitiva",
         "classici-fondativi"
       ]
+    },
+    {
+      "id": "fitts-1954-legge-puntamento",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "accessibilita-cognitiva",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "center-for-humane-technology",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "contesto",
+      "topics": [
+        "attenzione-economia-attenzione",
+        "dark-pattern-etica"
+      ]
     }
   ]
 }
