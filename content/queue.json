@@ -358,6 +358,94 @@
         "attenzione-economia-attenzione",
         "dark-pattern-etica"
       ]
+    },
+    {
+      "id": "sweller-1988-cognitive-load",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "accessibilita-cognitiva",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "nielsen-2006-f-shaped-pattern",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "attenzione-economia-attenzione",
+        "metodo-ricerca"
+      ]
+    },
+    {
+      "id": "benway-lane-1998-banner-blindness",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "attenzione-economia-attenzione",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "hick-1952-legge-hick",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "bias-euristiche",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "kahneman-knetsch-thaler-1990-endowment-effect",
+      "readingMinutes": 6,
+      "depth": "standard",
+      "relevance": "fondamentale",
+      "topics": [
+        "bias-euristiche",
+        "pricing-paywall"
+      ]
+    },
+    {
+      "id": "nielsen-2000-test-cinque-utenti",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "metodo-ricerca"
+      ]
+    },
+    {
+      "id": "fogg-2003-stanford-web-credibility",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "emozione-fiducia"
+      ]
+    },
+    {
+      "id": "netflix-2017-artwork-personalization",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "abitudini-retention"
+      ]
+    },
+    {
+      "id": "spotify-2015-discover-weekly",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "abitudini-retention"
+      ]
     }
   ]
 }

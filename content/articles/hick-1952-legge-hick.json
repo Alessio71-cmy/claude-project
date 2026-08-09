@@ -1,0 +1,97 @@
+{
+  "id": "hick-1952-legge-hick",
+  "catalogId": "hick-1952-legge-hick",
+  "titleIt": "Più opzioni mostri, più lentamente si decide: c'è una formula",
+  "titleOriginal": "On the Rate of Gain of Information",
+  "authors": [
+    "Hick, William Edmund"
+  ],
+  "year": 1952,
+  "type": "studio",
+  "venue": "Quarterly Journal of Experimental Psychology",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hick%27s_law",
+  "topics": [
+    "bias-euristiche",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Aggiungere un'opzione in più a un menu sembra un dettaglio innocuo. Hick ha misurato di quanto rallenta davvero ogni scelta in più — e la relazione non è lineare, è logaritmica."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Il tempo necessario per scegliere fra alternative aumenta con il numero di opzioni disponibili, ma non in proporzione diretta: cresce in modo logaritmico, così ogni opzione aggiuntiva pesa un po' meno della precedente sul tempo di decisione, ma pesa comunque."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Ogni menu, ogni elenco di azioni possibili, ogni selettore è un compito di scelta nel senso in cui Hick lo intendeva, e il numero di voci non è neutro rispetto a quanto velocemente qualcuno arriva a decidere. Averne una formula, per quanto approssimata, aiuta a discutere «quante opzioni sono troppe» con qualcosa di più solido di una sensazione."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Hick lavorava su compiti di scelta reattiva — il tempo di risposta a uno stimolo, con un numero variabile di alternative possibili — in un periodo in cui la teoria dell'informazione di Shannon offriva un linguaggio nuovo per descrivere quanta «informazione» comporta una scelta fra più opzioni. Il risultato di Hick fu poi confermato indipendentemente da Ray Hyman l'anno successivo con un disegno sperimentale diverso."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Esperimenti di scelta reattiva in cui i partecipanti dovevano rispondere il più rapidamente possibile a uno stimolo, selezionando fra un numero di alternative che veniva sistematicamente variato da una prova all'altra, misurando il tempo di reazione per ciascuna condizione."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il tempo di decisione cresce in modo logaritmico rispetto al numero di opzioni ugualmente probabili**, in proporzione all'entropia dell'insieme di scelte — non linearmente, ma comunque in modo misurabile e prevedibile man mano che le alternative aumentano."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Processare l'informazione necessaria per distinguere fra alternative richiede un tempo proporzionale alla quantità di incertezza da risolvere, e l'incertezza cresce con il numero di opzioni secondo una funzione logaritmica. Questo è il motivo per cui raddoppiare le opzioni non raddoppia il tempo di scelta, ma lo aumenta comunque in modo prevedibile — un compromesso diverso da quello, più drammatico, osservato quando le opzioni non sono solo tante ma anche difficili da confrontare fra loro."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un menu di navigazione con trenta voci non è solo più difficile da scorrere: matematicamente richiede più tempo per essere deciso di uno con sei, anche quando la voce cercata è visibile fin da subito.",
+        "Pensa alla differenza fra un selettore con due opzioni ben etichettate e uno con dodici varianti quasi identiche: il secondo non solo occupa più spazio, rallenta proprio il momento in cui la persona deve scegliere, indipendentemente da quanto le opzioni siano ben presentate visivamente.",
+        "Vale anche al contrario: raggruppare venti opzioni in tre categorie con poche voci ciascuna non elimina la scelta, ma la spezza in decisioni più piccole e più veloci — motivo per cui i menu a più livelli spesso battono un unico elenco lunghissimo, anche quando il numero totale di voci è identico."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "La legge di Hick descrive scelte fra opzioni discrete e ugualmente probabili in compiti di laboratorio controllati; nelle scelte reali le opzioni non sono quasi mai ugualmente probabili — spesso una o due sono chiaramente più attese delle altre — e questo può ridurre l'effetto pratico rispetto alla previsione teorica. Vale anche la cautela che ridurre le opzioni non è sempre desiderabile: a volte la scelta più lenta è anche quella più informata, e comprimere le alternative per velocizzare la decisione ha un costo reale sulla qualità di quella decisione."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il tempo per scegliere cresce con il numero di opzioni, ma in modo logaritmico: ogni opzione in più pesa meno della precedente, non pesa zero.",
+        "Raggruppare le opzioni in categorie più piccole velocizza la scelta anche quando il numero totale di voci resta lo stesso.",
+        "Meno opzioni non è sempre meglio: a volte la scelta più lenta è anche la più informata."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "William Edmund Hick, «On the Rate of Gain of Information», Quarterly Journal of Experimental Psychology, vol. 4, n. 1, 1952, pp. 11-26. Da leggere insieme a «When Choice is Demotivating» di Iyengar, già trattato in questa raccolta, che mostra cosa succede quando troppe opzioni non solo rallentano la scelta ma la rendono meno probabile del tutto."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 652,
+  "readingMinutes": 4,
+  "related": [
+    "iyengar-2000-when-choice-is-demotivating"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

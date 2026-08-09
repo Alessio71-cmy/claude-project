@@ -1,0 +1,102 @@
+{
+  "id": "spotify-2015-discover-weekly",
+  "catalogId": "spotify-2015-discover-weekly",
+  "titleIt": "Una playlist che nessuno ha scelto, e che tutti hanno amato",
+  "titleOriginal": "What Made Discover Weekly One Of Our Most Successful Feature Launches To Date",
+  "authors": [
+    "Spotify Engineering"
+  ],
+  "year": 2015,
+  "type": "case-study",
+  "venue": "Spotify Engineering Blog",
+  "sourceUrl": "https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date",
+  "topics": [
+    "case-study-prodotto",
+    "abitudini-retention"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Discover Weekly non ha un curatore umano dietro ogni playlist, eppure è diventata una delle funzioni più amate mai lanciate da Spotify. Il racconto ufficiale del team dice che il segreto non era solo l'algoritmo."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Discover Weekly, la playlist personalizzata che Spotify genera ogni settimana, ha raggiunto una scala d'uso molto ampia già nel primo anno, combinando filtraggio collaborativo algoritmico e decisioni di prodotto molto deliberate — un caso in cui l'algoritmo di raccomandazione, da solo, non basta a spiegare il risultato."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "È un promemoria diretto contro l'idea che un buon algoritmo di raccomandazione basti da solo: mostra, dal racconto di chi l'ha costruito, quanto le decisioni di formato — cadenza, presentazione, comunicazione — pesino sul risultato quanto la qualità tecnica del motore che sceglie i contenuti."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Il team di ingegneria Spotify racconta, in un post ufficiale, come è nata Discover Weekly: non a partire da un algoritmo enorme mai provato prima, ma da un problema di prodotto molto concreto — le playlist di scoperta già esistenti non venivano usate quanto ci si aspettava."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il team ha combinato un sistema di filtraggio collaborativo, basato su cosa ascoltano utenti con gusti simili, con decisioni di prodotto molto deliberate su formato, cadenza e comunicazione: una playlist nuova ogni lunedì, di lunghezza fissa, presentata come un regalo settimanale piuttosto che come un flusso infinito da esplorare."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Discover Weekly ha raggiunto oltre 40 milioni di utenti nel primo anno dal lancio**, un ritmo di adozione che il team attribuisce esplicitamente non solo alla qualità delle raccomandazioni, ma al coinvolgimento cross-funzionale fra ingegneria, design e marketing nel definire come la funzione dovesse essere vissuta, non solo come dovesse essere calcolata."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'elemento chiave, secondo il racconto del team, non è tecnico ma di formato: una playlist che si rinnova ogni settimana, con una scadenza implicita, crea un ritmo — un motivo per tornare puntualmente — che una lista di raccomandazioni sempre disponibile e sempre uguale non crea. La cadenza settimanale trasforma un output algoritmico in un rituale, ed è il rituale a generare l'abitudine di ritorno, non solo l'accuratezza del singolo suggerimento."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un motore di raccomandazione tecnicamente accurato ma disponibile in ogni momento, senza scadenza né cadenza, rischia di essere ignorato quanto uno mediocre: è la percezione di novità e di limite temporale a spingere a tornare a guardarlo, non solo la qualità dei suggerimenti in sé.",
+        "Vale anche per la comunicazione della funzione, non solo per il suo funzionamento interno: presentare un output algoritmico come «playlist scelta per te questa settimana» invece che come «raccomandazioni aggiornate» cambia quanto le persone lo percepiscono come un gesto personale piuttosto che come un calcolo automatico, anche quando il meccanismo sottostante è identico.",
+        "Pensa anche al ruolo del team non tecnico in un prodotto guidato da dati: la scelta della cadenza, del nome della funzione, del momento in cui notificarla non emerge dall'algoritmo — è un lavoro di design e prodotto che questo caso rende esplicitamente parte del risultato, non un contorno rispetto al motore di raccomandazione."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "La fonte è un racconto interno del team che ha costruito la funzione, quindi enfatizza naturalmente i fattori di successo dal proprio punto di vista, senza un confronto controllato con formati alternativi che permetta di isolare quanto del risultato venga dalla cadenza settimanale rispetto alla qualità pura dell'algoritmo. Vale anche la cautela che replicare lo stesso formato — cadenza fissa, presentazione come regalo — non garantisce lo stesso risultato in un prodotto con un catalogo, un pubblico o un contesto d'uso molto diversi da quello musicale."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un buon algoritmo di raccomandazione non basta da solo: la cadenza e la presentazione contano quanto la qualità dei suggerimenti.",
+        "Una scadenza implicita — «disponibile solo questa settimana» — trasforma un output algoritmico in un rituale che genera ritorno.",
+        "Le decisioni di design e prodotto sono parte del risultato di un sistema guidato da dati, non un contorno secondario rispetto all'algoritmo."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Spotify Engineering, «What Made Discover Weekly One Of Our Most Successful Feature Launches To Date», Spotify Engineering Blog, novembre 2015. Da leggere insieme a «Artwork Personalization at Netflix» già trattato in questa raccolta, altro caso di personalizzazione a scala industriale raccontato direttamente dal team che l'ha costruita."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "utenti raggiunti nel primo anno dal lancio",
+      "value": "oltre 40 milioni di utenti"
+    }
+  ],
+  "wordCount": 657,
+  "readingMinutes": 4,
+  "related": [
+    "netflix-2017-artwork-personalization"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

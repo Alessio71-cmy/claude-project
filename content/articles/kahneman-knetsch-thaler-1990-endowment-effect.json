@@ -1,0 +1,111 @@
+{
+  "id": "kahneman-knetsch-thaler-1990-endowment-effect",
+  "catalogId": "kahneman-knetsch-thaler-1990-endowment-effect",
+  "titleIt": "Basta possederlo un attimo perché tu non voglia più darlo via",
+  "titleOriginal": "Experimental Tests of the Endowment Effect and the Coase Theorem",
+  "authors": [
+    "Kahneman, Daniel",
+    "Knetsch, Jack L.",
+    "Thaler, Richard H."
+  ],
+  "year": 1990,
+  "type": "studio",
+  "venue": "Journal of Political Economy",
+  "sourceUrl": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_et_al_1990_Experimental_tests.pdf",
+  "topics": [
+    "bias-euristiche",
+    "pricing-paywall"
+  ],
+  "relevance": "fondamentale",
+  "depth": "standard",
+  "citable": false,
+  "preview": {
+    "hook": "Dai a qualcuno una tazza da caffè in regalo. Cinque minuti dopo, quella tazza vale per lui più del doppio di quanto valeva prima di riceverla — anche se non l'ha scelta, non l'ha pagata, e fino a poco prima non sapeva nemmeno che esistesse."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Le persone valutano un oggetto di più quando lo possiedono, anche da pochissimo tempo e senza averlo scelto, rispetto a quando devono ancora acquisirlo. Kahneman, Knetsch e Thaler hanno mostrato che questo scarto — l'effetto dotazione — non è un capriccio isolato, ma un pattern sistematico e ripetibile, radicato nell'avversione alla perdita più che in un attaccamento genuino all'oggetto in sé."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Ogni volta che un prodotto assegna qualcosa temporaneamente — un periodo di prova, uno spazio di archiviazione esteso, un livello premium sbloccato per una settimana — sta creando, senza magari saperlo, un possesso psicologico che rende la rinuncia successiva più dolorosa di quanto sarebbe stato non avere mai avuto quella cosa. Capire questo meccanismo aiuta sia a progettare prove gratuite più efficaci, sia a riconoscere quando la stessa leva scivola verso la manipolazione."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Kahneman e Tversky avevano già formulato, alla fine degli anni '70, la prospect theory: un modello secondo cui perdere qualcosa fa più male, psicologicamente, di quanto piaccia guadagnare l'equivalente. Quel modello si basava però soprattutto su scelte ipotetiche in scenari di guadagno o perdita monetaria astratta.",
+        "Con questo lavoro, Kahneman insieme a Knetsch e Thaler volle verificare se la stessa asimmetria si manifestasse anche nel possesso di un bene concreto, assegnato per pochi minuti in un contesto molto più vicino a una transazione di mercato reale rispetto ai problemi ipotetici usati fino ad allora.",
+        "Il titolo stesso dello studio lo lega esplicitamente al teorema di Coase, secondo cui, in assenza di costi di transazione, l'allocazione iniziale di un diritto di proprietà non dovrebbe influenzare l'esito finale di una contrattazione: chi valuta di più il bene finirebbe comunque per ottenerlo, indipendentemente da chi lo possiede all'inizio. Un effetto dotazione sistematico mette in discussione proprio questo presupposto, perché mostra che l'allocazione di partenza cambia la valutazione stessa del bene, non solo chi ha convenienza a scambiarlo."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Nel celebre esperimento della tazza, metà dei partecipanti a una sessione riceveva in dono una tazza da caffè con il logo dell'università; l'altra metà non riceveva nulla. Ai proprietari veniva poi chiesto il prezzo minimo a cui erano disposti a vendere la tazza; ai non proprietari, il prezzo massimo a cui erano disposti a comprarla.",
+        "Le due cifre venivano raccolte in un mercato sperimentale ripetuto più volte nella stessa sessione, con condizioni progettate apposta per verificare se lo scarto fra prezzo di vendita e prezzo di acquisto si riducesse con l'esperienza ripetuta dello scambio, oppure restasse stabile."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Nel celebre esperimento della tazza, i venditori chiedevano una mediana di 7,12 dollari per cederla, mentre i non proprietari offrivano una mediana di soli 2,87 dollari per acquisirla** — un divario di più del doppio, nonostante l'oggetto fosse identico e il possesso durasse da pochissimi minuti.",
+        "Lo scarto si manteneva anche ripetendo il mercato più volte all'interno della stessa sessione, contraddicendo l'ipotesi che sarebbe scomparso con l'esperienza diretta di comprare e vendere: non era un errore di prima esperienza, ma un pattern stabile."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'interpretazione degli autori si appoggia sulla stessa asimmetria della prospect theory: cedere un oggetto già posseduto viene codificato mentalmente come una perdita, mentre acquisirlo ex novo viene codificato come un guadagno, e le perdite pesano psicologicamente più dei guadagni equivalenti.",
+        "Il punto di riferimento — cosa è «già mio» — si sposta non appena un oggetto entra nel possesso di una persona, anche per pochi minuti e senza alcuna scelta attiva da parte sua: basta questo perché scatti l'avversione alla perdita, senza bisogno né di tempo prolungato né di un legame affettivo costruito con l'oggetto."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un periodo di prova gratuita che dà accesso completo a una funzione premium sfrutta esattamente questo meccanismo: una volta che qualcuno ha usato per due settimane l'esportazione illimitata o lo storage extra, rinunciarci alla scadenza della prova si sente come perdere qualcosa che già si possedeva, non come mancare un vantaggio nuovo.",
+        "Succede anche nei carrelli che si riempiono prima ancora del pagamento: un oggetto già nel carrello, o un piano già selezionato durante il checkout, comincia a essere percepito come parzialmente posseduto, ed è uno dei motivi per cui abbandonare un carrello pieno costa psicologicamente più di quanto costerebbe non averlo mai riempito.",
+        "Guarda anche la personalizzazione fatta durante l'onboarding — un profilo configurato, una playlist costruita, un layout aggiustato su misura: più tempo e scelta una persona ha investito in ciò che ha costruito dentro un prodotto, più la prospettiva di perderlo, per esempio cambiando servizio, pesa come una perdita reale, anche quando il valore oggettivo di ciò che verrebbe perso è modesto."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "L'esperimento originale riguarda un oggetto fisico di valore modesto — una tazza — assegnato in un contesto di laboratorio, non un bene digitale o un servizio con cui si è costruita una relazione più lunga. L'entità dell'effetto in altri domini, specialmente beni immateriali o esperienze, è stata esplorata da ricerche successive ma con dimensioni variabili a seconda del contesto e del tipo di bene.",
+        "Vale anche una cautela distinta da quella metodologica, ed è etica: usare deliberatamente un periodo di possesso temporaneo per rendere più dolorosa una rinuncia successiva, invece che per far scoprire un valore genuino del prodotto, sposta questa leva dal nudge alla manipolazione — un confine che vale la pena tenere esplicito quando si progetta una prova gratuita o uno sblocco temporaneo.",
+        "C'è infine una cautela interpretativa più tecnica, discussa a lungo nella letteratura successiva a questo studio: parte del divario fra prezzo di vendita e prezzo di acquisto potrebbe riflettere non solo l'avversione alla perdita, ma anche il modo in cui la domanda viene posta ai partecipanti in un mercato sperimentale. Non è una ragione per liquidare l'effetto — resta fra i risultati più replicati dell'economia comportamentale — ma per trattarne la dimensione esatta con più prudenza di quanto suggerisca il singolo esperimento della tazza."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il semplice possesso, anche breve e non scelto, aumenta il valore percepito di un oggetto rispetto a quando non lo si possiede ancora.",
+        "Rinunciare a qualcosa che si è già avuto pesa psicologicamente più di quanto pesi non averlo mai ottenuto, anche a parità di valore oggettivo.",
+        "La stessa leva che rende utile una prova gratuita ben progettata può diventare manipolativa se usata solo per rendere dolorosa la rinuncia, non per far scoprire un valore reale."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Daniel Kahneman, Jack L. Knetsch e Richard H. Thaler, «Experimental Tests of the Endowment Effect and the Coase Theorem», Journal of Political Economy, vol. 98, n. 6, 1990, pp. 1325-1348. Da leggere insieme a «The IKEA Effect» di Norton, già trattato in questa raccolta, che mostra come lo stesso attaccamento si intensifichi ulteriormente quando l'oggetto posseduto è stato anche costruito con le proprie mani, non solo ricevuto."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "prezzo mediano di vendita contro prezzo mediano di acquisto per lo stesso oggetto",
+      "value": "nel celebre esperimento della tazza, i venditori chiedevano una mediana di 7,12 dollari per cederla, mentre i non proprietari offrivano una mediana di soli 2,87 dollari per acquisirla"
+    }
+  ],
+  "wordCount": 1100,
+  "readingMinutes": 6,
+  "related": [
+    "norton-2012-ikea-effect"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

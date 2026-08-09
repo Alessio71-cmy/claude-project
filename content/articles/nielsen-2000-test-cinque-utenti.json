@@ -1,0 +1,101 @@
+{
+  "id": "nielsen-2000-test-cinque-utenti",
+  "catalogId": "nielsen-2000-test-cinque-utenti",
+  "titleIt": "Non ti servono cento utenti per capire cosa non funziona",
+  "titleOriginal": "Why You Only Need to Test with 5 Users",
+  "authors": [
+    "Nielsen, Jakob"
+  ],
+  "year": 2000,
+  "type": "articolo",
+  "venue": "Nielsen Norman Group",
+  "sourceUrl": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+  "topics": [
+    "metodo-ricerca"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Testare con un solo utente sembra troppo poco per fidarsi. Nielsen ha calcolato quanti bastano davvero — ed è un numero sorprendentemente piccolo."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "In un test di usabilità qualitativo, con un gruppo di utenti abbastanza omogeneo, cinque partecipanti sono sufficienti a individuare la gran parte dei problemi rilevabili — non perché ogni problema emerga sempre con cinque persone, ma perché aggiungerne molte di più nello stesso ciclo di test produce un ritorno via via più basso."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Chi lavora con budget e tempo limitati — freelance, team piccoli, un cliente che chiede «quanti utenti servono per il test» — si scontra spesso con l'idea che un test valga solo con campioni grandi e statisticamente rappresentativi. Questo dà un numero difendibile per il caso più comune: un ciclo di test qualitativo iterativo."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Nielsen si appoggiava a un lavoro precedente, insieme a Landauer, che aveva modellato matematicamente quanti problemi di usabilità emergono aggiungendo partecipanti a un test, partendo dall'osservazione che ogni utente aggiuntivo scopre in parte problemi già trovati da altri e in parte problemi nuovi."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Basandosi su un modello statistico che stima il tasso di scoperta di nuovi problemi per ciascun utente aggiuntivo, Nielsen ha calcolato la curva di rendimento marginale: quanti problemi nuovi porta, in media, ogni utente in più aggiunto allo stesso test."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Con un tasso di scoperta stimato intorno al 31% dei problemi per singolo utente, cinque utenti coprono circa l'85% dei problemi di usabilità individuabili**, mentre aggiungerne altri cinque nello stesso ciclo produce un ritorno molto più basso, perché la maggior parte dei problemi nuovi che quei cinque avrebbero trovato è già stata scoperta dai primi cinque."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il modello si basa sull'idea che i problemi di usabilità non siano distribuiti in modo uniforme fra gli utenti: alcuni sono così evidenti che quasi chiunque li incontra, mentre altri sono rari e specifici di un solo tipo di utente o di un solo percorso d'uso. I primi vengono scoperti quasi subito, con pochi partecipanti; sono i problemi rari, appunto perché rari, a richiedere campioni molto più grandi per emergere — ma anche a pesare individualmente meno sull'esperienza complessiva."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Vale la pena testare presto e spesso con gruppi piccoli, piuttosto che aspettare di accumulare budget per un unico test con trenta partecipanti: cinque persone su un prototipo grezzo, seguite da correzioni, poi altri cinque sulla versione corretta, trovano più problemi nel tempo totale di quanti ne troverebbe un solo test enorme fatto una volta sola.",
+        "Un cliente che chiede «ma cinque persone bastano davvero?» sta ragionando in termini di rappresentatività statistica, che è la domanda giusta per un sondaggio quantitativo, ma non per un test di usabilità qualitativo: qui l'obiettivo non è stimare una percentuale nella popolazione, è trovare dove le persone si bloccano.",
+        "Guarda anche la composizione del gruppo prima del numero in sé: cinque utenti scelti dentro lo stesso segmento coprono l'85% dei problemi di quel segmento, ma un prodotto con due tipologie molto diverse di utenti — per esempio un amministratore e un utente finale — richiede cinque utenti per ciascun segmento, non cinque in totale."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il numero cinque vale esplicitamente per test qualitativi con gruppi di utenti relativamente omogenei nello stesso ciclo iterativo, non per ricerca quantitativa, dove servono campioni molto più ampi per ottenere stime statisticamente affidabili — la stessa Nielsen Norman Group raccomanda altrove, per test quantitativi, campioni dell'ordine delle decine di partecipanti. Vale anche la cautela che «l'85% dei problemi» è una stima basata su un modello, non una garanzia empirica verificabile in ogni singolo test: la cifra reale dipende da quanto il prodotto è complesso e da quanto gli utenti reclutati sono davvero rappresentativi del pubblico target."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Per un test qualitativo iterativo, cinque utenti omogenei individuano gran parte dei problemi rilevabili.",
+        "Testare presto e spesso con gruppi piccoli batte un singolo test enorme fatto una volta sola.",
+        "Con più segmenti di utenti molto diversi, il numero cinque si applica a ciascun segmento, non al totale."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Jakob Nielsen, «Why You Only Need to Test with 5 Users», Nielsen Norman Group, 2000, basato sul lavoro con Landauer del 1993. Da leggere insieme a «Psychology for UX» già trattato in questa raccolta, della stessa organizzazione."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "copertura dei problemi di usabilità individuabili con cinque utenti",
+      "value": "con un tasso di scoperta stimato intorno al 31% dei problemi per singolo utente, cinque utenti coprono circa l'85% dei problemi di usabilità individuabili, in gruppi di utenti omogenei"
+    }
+  ],
+  "wordCount": 666,
+  "readingMinutes": 4,
+  "related": [
+    "nngroup-psychology-for-ux"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

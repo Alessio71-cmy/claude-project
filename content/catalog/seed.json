@@ -1116,5 +1116,284 @@
     "citationConfidence": "secondaria",
     "notes": "Tristan Harris ha lavorato come design ethicist in Google prima di fondare questa organizzazione. Il suo background include lo studio della persuasive technology a Stanford, con B. J. Fogg già trattato in questa raccolta.",
     "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "sweller-1988-cognitive-load",
+    "titleOriginal": "Cognitive Load During Problem Solving: Effects on Learning",
+    "authors": [
+      "Sweller, John"
+    ],
+    "year": 1988,
+    "type": "studio",
+    "venue": "Cognitive Science",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cognitive_load",
+    "fallbackUrl": "https://www.sciencedirect.com/science/article/abs/pii/0364021388900237",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "accessibilita-cognitiva",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "la capacità limitata della memoria di lavoro condiziona l'apprendimento durante la risoluzione di problemi",
+        "value": "la risoluzione di problemi in modalità convenzionale (means-ends analysis) consuma risorse cognitive che restano indisponibili per costruire schemi di conoscenza stabili",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Paper fondativo della cognitive load theory; base teorica del concetto, oggi standard in UX, di carico cognitivo estraneo (extraneous load) da minimizzare nel design di un'interfaccia.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "nielsen-2006-f-shaped-pattern",
+    "titleOriginal": "F-Shaped Pattern For Reading Web Content",
+    "authors": [
+      "Nielsen, Jakob"
+    ],
+    "year": 2006,
+    "type": "articolo",
+    "venue": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/",
+    "fallbackUrl": "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "attenzione-economia-attenzione",
+      "metodo-ricerca"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "gli utenti leggono le pagine web secondo un pattern a forma di F",
+        "value": "eyetracking su 232 utenti ha mostrato tipicamente due scansioni orizzontali seguite da una scansione verticale lungo il lato sinistro della pagina",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Ricerca eyetracking originale di Nielsen Norman Group, distinta dalla voce generica già in catalogo (nngroup-psychology-for-ux); riconfermata da un follow-up dello stesso gruppo undici anni dopo.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "benway-lane-1998-banner-blindness",
+    "titleOriginal": "Banner Blindness: The Irony of Attention Grabbing on the World Wide Web",
+    "authors": [
+      "Benway, Jan Panero",
+      "Lane, David M."
+    ],
+    "year": 1998,
+    "type": "studio",
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "sourceUrl": "https://journals.sagepub.com/doi/10.1177/154193129804200504",
+    "fallbackUrl": "https://journals.sagepub.com/doi/10.1177/154193129804200504",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "attenzione-economia-attenzione",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "gli elementi grafici che assomigliano a pubblicità vengono sistematicamente ignorati durante compiti di ricerca di informazioni",
+        "value": "i partecipanti trovavano l'informazione cercata in banner grafici solo nel 58% dei casi, contro il 94% quando la stessa informazione era in un link testuale",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Studio che ha coniato il termine 'banner blindness'; i banner posizionati più in alto e più distanti da altri link venivano ignorati ancora più spesso.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "hick-1952-legge-hick",
+    "titleOriginal": "On the Rate of Gain of Information",
+    "authors": [
+      "Hick, William Edmund"
+    ],
+    "year": 1952,
+    "type": "studio",
+    "venue": "Quarterly Journal of Experimental Psychology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hick%27s_law",
+    "fallbackUrl": "https://web.ics.purdue.edu/~dws/pubs/ProctorSchneider_2018_QJEP.pdf",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "bias-euristiche",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il tempo di reazione in un compito di scelta aumenta con il numero di alternative disponibili",
+        "value": "il tempo di decisione cresce in modo logaritmico rispetto al numero di opzioni ugualmente probabili, in proporzione all'entropia di Shannon dell'insieme di scelte",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Confermata indipendentemente da Hyman (1953); è la base teorica della raccomandazione di ridurre il numero di opzioni per velocizzare le decisioni in un'interfaccia.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "kahneman-knetsch-thaler-1990-endowment-effect",
+    "titleOriginal": "Experimental Tests of the Endowment Effect and the Coase Theorem",
+    "authors": [
+      "Kahneman, Daniel",
+      "Knetsch, Jack L.",
+      "Thaler, Richard H."
+    ],
+    "year": 1990,
+    "type": "studio",
+    "venue": "Journal of Political Economy",
+    "sourceUrl": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_et_al_1990_Experimental_tests.pdf",
+    "fallbackUrl": "https://en.wikipedia.org/wiki/Endowment_effect",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "bias-euristiche",
+      "pricing-paywall"
+    ],
+    "relevance": "fondamentale",
+    "depth": "standard",
+    "keyFindings": [
+      {
+        "claim": "le persone valutano un oggetto di più quando lo possiedono rispetto a quando devono ancora acquisirlo",
+        "value": "nel celebre esperimento della tazza, i venditori chiedevano una mediana di 7,12 dollari per cederla, mentre i non proprietari offrivano una mediana di soli 2,87 dollari per acquisirla",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Dimostra che l'avversione alla perdita si attiva anche per il semplice possesso appena assegnato, non solo per beni posseduti da tempo: rilevante per ogni prova gratuita o periodo di possesso temporaneo prima di un paywall.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "nielsen-2000-test-cinque-utenti",
+    "titleOriginal": "Why You Only Need to Test with 5 Users",
+    "authors": [
+      "Nielsen, Jakob"
+    ],
+    "year": 2000,
+    "type": "articolo",
+    "venue": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "fallbackUrl": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "metodo-ricerca"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "cinque utenti in un test qualitativo di usabilità individuano gran parte dei problemi rilevanti",
+        "value": "con un tasso di scoperta stimato intorno al 31% dei problemi per singolo utente, cinque utenti coprono circa l'85% dei problemi di usabilità individuabili, in gruppi di utenti omogenei",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Vale solo per test qualitativi con gruppi di utenti omogenei; per test quantitativi la stessa Nielsen Norman Group raccomanda altrove campioni molto più ampi, dell'ordine delle decine di utenti.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "fogg-2003-stanford-web-credibility",
+    "titleOriginal": "How Do Users Evaluate the Credibility of Web Sites? A Study with Over 2,500 Participants",
+    "authors": [
+      "Fogg, B.J.",
+      "Soohoo, Cathy",
+      "Danielson, David",
+      "Marable, Leslie",
+      "Stanford, Julianne",
+      "Tauber, Ellen R."
+    ],
+    "year": 2003,
+    "type": "studio",
+    "venue": "Proceedings of DUX '03 (ACM)",
+    "sourceUrl": "https://dl.acm.org/doi/10.1145/997078.997097",
+    "fallbackUrl": "https://dl.acm.org/doi/10.1145/997078.997097",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "emozione-fiducia"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il design visivo è il fattore più citato nel giudizio di credibilità di un sito web",
+        "value": "il 46,1% dei 2.684 partecipanti citava il design visivo (layout, tipografia, colore) come fattore di credibilità, percentuale che saliva al 54,6% per i siti finanziari",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Studio distinto dal libro Persuasive Technology dello stesso B. J. Fogg già in catalogo: qui è uno studio specifico, con 2.684 partecipanti, sulla credibilità percepita dei siti web.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "netflix-2017-artwork-personalization",
+    "titleOriginal": "Artwork Personalization at Netflix",
+    "authors": [
+      "Chandrashekar, Ashok",
+      "Amat, Fernando",
+      "Basilico, Justin",
+      "Jebara, Tony"
+    ],
+    "year": 2017,
+    "type": "case-study",
+    "venue": "Netflix Technology Blog",
+    "sourceUrl": "https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+    "fallbackUrl": "https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "abitudini-retention"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "Netflix personalizza l'immagine di copertina di un titolo per ciascun utente in base alla probabilità stimata di guardarlo",
+        "value": "il sistema sceglie tra più varianti della stessa immagine quella con il punteggio di probabilità di visione più alto per ogni singolo utente, esemplificato dal caso del titolo con protagonista Uma Thurman mostrato con volti diversi a utenti diversi",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Fonte primaria: post ufficiale del team di ingegneria Netflix, non una ricostruzione di terzi.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "spotify-2015-discover-weekly",
+    "titleOriginal": "What Made Discover Weekly One Of Our Most Successful Feature Launches To Date",
+    "authors": [
+      "Spotify Engineering"
+    ],
+    "year": 2015,
+    "type": "case-study",
+    "venue": "Spotify Engineering Blog",
+    "sourceUrl": "https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date",
+    "fallbackUrl": "https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "abitudini-retention"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "Discover Weekly ha raggiunto una scala d'uso molto ampia nel suo primo anno",
+        "value": "oltre 40 milioni di utenti nel primo anno dal lancio, combinando filtraggio collaborativo algoritmico e curatela editoriale umana",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Fonte primaria: post ufficiale del team di ingegneria Spotify; discute il coinvolgimento cross-funzionale (design, marketing, data science) come fattore di successo, non solo l'algoritmo di raccomandazione.",
+    "harvestedFrom": "ricerca-web"
   }
 ]

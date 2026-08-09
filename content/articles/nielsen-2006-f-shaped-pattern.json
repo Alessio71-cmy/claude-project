@@ -1,0 +1,99 @@
+{
+  "id": "nielsen-2006-f-shaped-pattern",
+  "catalogId": "nielsen-2006-f-shaped-pattern",
+  "titleIt": "Il tuo utente legge una riga e mezza, poi scivola lungo il bordo",
+  "titleOriginal": "F-Shaped Pattern For Reading Web Content",
+  "authors": [
+    "Nielsen, Jakob"
+  ],
+  "year": 2006,
+  "type": "articolo",
+  "venue": "Nielsen Norman Group",
+  "sourceUrl": "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/",
+  "topics": [
+    "attenzione-economia-attenzione",
+    "metodo-ricerca"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Nel 2006 Nielsen ha tracciato dove va lo sguardo di centinaia di persone su migliaia di pagine web. Quasi nessuno legge: la maggior parte scorre, e lo fa seguendo una forma precisa, la stessa lettera F."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "L'eyetracking su centinaia di utenti ha mostrato che la lettura di una pagina web segue tipicamente un pattern a forma di F: due scansioni orizzontali nella parte alta del contenuto, seguite da una scansione verticale più lenta lungo il margine sinistro, mentre l'attenzione decresce mano a mano che si scende nella pagina."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Dice qualcosa di molto concreto su dove mettere l'informazione più importante in una pagina o in una card di testo — non come opinione di design, ma come dato osservato su un campione ampio di utenti in condizioni naturali di lettura, non in un compito costruito ad hoc in laboratorio."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Nielsen Norman Group conduce da anni ricerche di eyetracking sull'uso reale del web, con l'obiettivo di descrivere come le persone effettivamente guardano una pagina, non come dovrebbero guardarla secondo un principio teorico di leggibilità.",
+        "Il presupposto di partenza era che il web, a differenza della carta stampata, mette chi legge in controllo totale del proprio percorso: nessuno è obbligato a leggere dall'alto verso il basso, e la stessa pagina può essere scansionata in ordini diversi da persone diverse a seconda di cosa stanno cercando. La domanda era se, dentro questa libertà apparente, emergesse comunque un pattern ricorrente abbastanza stabile da essere utile in fase di progettazione."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno registrato i movimenti oculari di 232 utenti mentre navigavano migliaia di pagine web nel corso della loro attività ordinaria, non in un compito assegnato ad hoc, e hanno aggregato le mappe di calore risultanti per cercare pattern ricorrenti nel modo in cui l'attenzione si distribuiva sulla pagina."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**La maggioranza delle mappe di calore aggregate mostrava un pattern a forma di F**: due bande orizzontali di attenzione nella parte superiore del contenuto, seguite da una banda verticale più debole lungo il margine sinistro, con l'attenzione complessiva che calava progressivamente scendendo nella pagina."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il pattern è legato al modo in cui le persone scansionano il testo cercando punti di ancoraggio — parole chiave, inizio di un paragrafo, un elemento in elenco — prima di decidere se vale la pena leggere per esteso, invece di procedere linearmente parola per parola. È un comportamento di scanning efficiente quando il tempo è limitato e non tutto il contenuto della pagina è ugualmente rilevante per chi legge."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Le prime due o tre parole di un titolo o di un paragrafo contano più delle successive, semplicemente perché la scansione orizzontale iniziale è quella più affidabile: mettere lì la parola chiave, non un articolo o una congiunzione, cambia quanto viene effettivamente notato.",
+        "Un paragrafo che comincia con la conclusione, seguito dai dettagli, sopravvive meglio a una lettura scansionata di uno che costruisce l'argomento fino alla fine: chi si ferma dopo la prima riga porta comunque via l'informazione principale.",
+        "Occhio anche a dove finisce la colonna di contenuto: se la scansione verticale segue tipicamente il margine sinistro, un layout che sposta elementi importanti fuori da quell'asse — a destra, isolati in una barra laterale — rischia semplicemente di restare fuori dal percorso che l'occhio segue per default."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il pattern a F descrive un comportamento medio aggregato su molte pagine, non una legge universale identica per ogni layout: pagine con una gerarchia visiva molto marcata, o contenuti molto brevi, possono generare pattern diversi. Vale anche la cautela di non trattarlo come una prescrizione — «allora struttura tutto a forma di F» — invece che come una descrizione di comportamento da cui dedurre dove posizionare l'informazione critica.",
+        "Vale infine la cautela temporale: la ricerca è del 2006, e i layout web di allora — colonne di testo dense, poca gerarchia tipografica rispetto agli standard odierni — favorivano probabilmente questo tipo di scansione più di quanto non facciano interfacce moderne, spesso già organizzate in blocchi visivi distinti, card e titoli molto marcati. Il pattern resta un punto di partenza utile, non un dato che si possa dare per scontato senza verificarlo sul layout specifico che si sta progettando."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Chi legge una pagina web scansiona più che leggere, seguendo tipicamente due bande orizzontali in alto e poi il margine sinistro.",
+        "Le prime parole di un titolo o di un paragrafo pesano più delle successive: mettici il contenuto, non il contorno.",
+        "È un pattern osservato su un comportamento medio, non una regola da applicare meccanicamente a ogni layout."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Jakob Nielsen, «F-Shaped Pattern For Reading Web Content», Nielsen Norman Group, 2006, riconfermato da un follow-up dello stesso gruppo undici anni dopo. Da leggere insieme a «Psychology for UX» già trattato in questa raccolta, della stessa organizzazione."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 740,
+  "readingMinutes": 4,
+  "related": [
+    "nngroup-psychology-for-ux"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "sweller-1988-cognitive-load",
+  "catalogId": "sweller-1988-cognitive-load",
+  "titleIt": "Perché risolvere un problema da soli, a volte, non ti insegna niente",
+  "titleOriginal": "Cognitive Load During Problem Solving: Effects on Learning",
+  "authors": [
+    "Sweller, John"
+  ],
+  "year": 1988,
+  "type": "studio",
+  "venue": "Cognitive Science",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Cognitive_load",
+  "topics": [
+    "accessibilita-cognitiva",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Chiedere a qualcuno di risolvere un problema da zero sembra il modo più efficace per fargli imparare. Sweller ha mostrato che spesso è il contrario: il metodo di risoluzione consuma proprio le risorse mentali che servirebbero per imparare davvero."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "La memoria di lavoro ha una capacità limitata, e risolvere un problema con il metodo tradizionale — procedere per tentativi verso l'obiettivo — ne consuma gran parte: resta poco per costruire lo schema di conoscenza che dovrebbe rimanere dopo l'esercizio. Sweller chiama questo consumo «carico cognitivo», e distingue il carico che serve all'apprendimento da quello sprecato dal formato del compito."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Ogni volta che progetti un flusso — un form, un onboarding, un tutorial — stai decidendo quanta della capacità mentale limitata di chi lo usa va spesa per capire come funziona l'interfaccia, invece che per il compito che la persona è lì a svolgere. Il concetto di «carico cognitivo», oggi ripetuto quasi come uno slogan nel design, viene proprio da qui: capirne l'origine aiuta a usarlo con più precisione, non come «semplifica tutto» ma come «individua cosa consuma risorse mentali senza produrre valore per chi lo usa»."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "John Sweller studiava psicologia dell'istruzione e si interrogava su un'osservazione ricorrente in classe: studenti che risolvevano correttamente molti problemi di matematica o fisica spesso non mostravano, alla prova successiva, di aver davvero appreso il principio sottostante. La sua ipotesi era che il metodo con cui i problemi venivano affrontati — tipicamente l'analisi mezzi-fini, cioè procedere passo dopo passo confrontando lo stato attuale con l'obiettivo — impegnasse così tanto la memoria di lavoro da non lasciare risorse per astrarre lo schema generale."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Sweller ha confrontato studenti che risolvevano problemi con il metodo convenzionale, che richiede di tenere a mente più sotto-obiettivi contemporaneamente, con studenti impegnati su formati che non richiedevano quello sforzo di tracciamento — come problemi privi di un obiettivo esplicito da ricordare passo per passo. In entrambi i casi ha poi misurato quanto i partecipanti avessero effettivamente appreso il principio sottostante, non solo se avessero risolto il singolo problema."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Gli studenti che usavano il metodo convenzionale di risoluzione mostravano un apprendimento del principio generale più debole** rispetto a chi lavorava su formati che non imponevano lo stesso sforzo di tenere traccia dei sotto-obiettivi — un risultato coerente con l'idea che sia il metodo di risoluzione, non la difficoltà del contenuto in sé, a sottrarre risorse all'apprendimento."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il modello distingue tre tipi di carico cognitivo: quello intrinseco, la difficoltà oggettiva del contenuto; quello estraneo, il carico imposto dal modo in cui il materiale o il compito sono presentati, che non serve all'apprendimento; e quello pertinente, lo sforzo che costruisce davvero lo schema di conoscenza. Poiché la memoria di lavoro ha una capacità fissa, ogni unità di carico estraneo spesa per orientarsi nel formato del compito è una unità sottratta al carico pertinente — quello che, da solo, produce apprendimento reale."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un modulo che chiede di ricordare in quale passaggio ci si trovava, o un menu che costringe a tenere a mente una gerarchia mentre si cerca una voce, aggiunge carico estraneo puro: non insegna nulla su come funziona il prodotto, consuma solo memoria di lavoro che potrebbe andare al compito reale.",
+        "Succede anche nei tutorial di onboarding che spiegano una funzione mentre chi legge sta contemporaneamente cercando di completare un primo compito vero: dividere le due cose in momenti separati — prima capire, poi fare, oppure il contrario — riduce il carico complessivo rispetto a chiederle in parallelo.",
+        "Un cruscotto con una dozzina di riquadri visibili tutti insieme costringe chi lo guarda a decidere da solo cosa è rilevante in quel momento, un compito di filtraggio che il prodotto potrebbe svolgere al posto suo mostrando solo ciò che serve al contesto corrente."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "La cognitive load theory nasce nel contesto dell'istruzione formale, con compiti di apprendimento esplicito come matematica e fisica, e distinguere in pratica carico intrinseco da carico estraneo è più facile in laboratorio che in un'interfaccia reale, dove i due si mescolano. Vale anche la cautela che «ridurre il carico cognitivo» non equivale a «ridurre opzioni o informazioni a ogni costo»: togliere carico pertinente insieme a quello estraneo può semplificare l'interfaccia peggiorando, allo stesso tempo, la comprensione di chi la usa."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "La memoria di lavoro ha una capacità limitata, e il modo in cui un'attività è strutturata consuma quella capacità indipendentemente dal contenuto.",
+        "Non tutto il carico cognitivo è uguale: quello che serve a costruire comprensione va protetto, quello che nasce solo dal formato del compito va tolto.",
+        "«Semplificare» non è mai la risposta automatica: prima bisogna capire quale carico si sta davvero rimuovendo."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "John Sweller, «Cognitive Load During Problem Solving: Effects on Learning», Cognitive Science, vol. 12, n. 2, 1988, pp. 257-285. Da leggere insieme a «The Information Capacity of the Human Motor System» di Fitts, già trattato in questa raccolta: altro classico che lega direttamente un vincolo del sistema cognitivo umano a un principio pratico di design."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 777,
+  "readingMinutes": 5,
+  "related": [
+    "miller-1956-numero-magico"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

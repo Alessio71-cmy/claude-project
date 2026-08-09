@@ -1,0 +1,106 @@
+{
+  "id": "fogg-2003-stanford-web-credibility",
+  "catalogId": "fogg-2003-stanford-web-credibility",
+  "titleIt": "Il tuo sito viene giudicato affidabile per come appare, non per cosa dice",
+  "titleOriginal": "How Do Users Evaluate the Credibility of Web Sites? A Study with Over 2,500 Participants",
+  "authors": [
+    "Fogg, B.J.",
+    "Soohoo, Cathy",
+    "Danielson, David",
+    "Marable, Leslie",
+    "Stanford, Julianne",
+    "Tauber, Ellen R."
+  ],
+  "year": 2003,
+  "type": "studio",
+  "venue": "Proceedings of DUX '03 (ACM)",
+  "sourceUrl": "https://dl.acm.org/doi/10.1145/997078.997097",
+  "topics": [
+    "emozione-fiducia"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Duemilaseicentoottantaquattro persone hanno valutato la credibilità di siti web reali. Il fattore più citato non era il contenuto, l'autore o la reputazione del marchio: era l'aspetto visivo."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "In uno studio su larga scala, il design visivo — layout, tipografia, colore — risulta il fattore più citato dalle persone quando spiegano perché considerano un sito credibile o no, più della qualità del contenuto o della reputazione del marchio."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Ogni volta che un budget stretto spinge a tagliare sulla rifinitura visiva per concentrare le risorse sul contenuto o sulla funzione, questo studio è un argomento basato su dati, non su gusto estetico, per spiegare perché quel taglio ha un costo diretto sulla fiducia che le persone accordano al prodotto — specialmente in un contesto B2B, dove la prima impressione visiva spesso precede qualunque altra verifica."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Fogg lavorava allo Stanford Persuasive Technology Lab, lo stesso laboratorio da cui viene il suo libro «Persuasive Technology» già trattato in questa raccolta. Qui, insieme a un gruppo di collaboratori, ha condotto uno studio specifico e più ampio sulla credibilità percepita dei siti web, un tema centrale per capire quando le persone si fidano abbastanza di un sito da compiere un'azione concreta: acquistare, lasciare i propri dati, tornare."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno chiesto a 2.684 partecipanti di valutare la credibilità di siti web reali appartenenti a categorie diverse — finanza, salute, e-commerce, notizie — e di spiegare in linguaggio libero quali elementi specifici avessero influenzato il loro giudizio. Le risposte sono state poi classificate in categorie di fattori ricorrenti."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il 46,1% dei 2.684 partecipanti citava il design visivo — layout, tipografia, colore — come fattore di credibilità, percentuale che saliva al 54,6% per i siti finanziari**, superando altri fattori come la profondità del contenuto, la struttura informativa o la reputazione del marchio."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Le persone giudicano la credibilità di un sito in pochi secondi, spesso prima di aver letto una singola parola di contenuto, e in quella finestra di tempo il design visivo è l'unico segnale immediatamente disponibile su cui basare un giudizio rapido. Funziona come un'euristica — se appare curato, probabilmente chi l'ha fatto ha fatto attenzione anche al resto — che può essere corretta o sbagliata caso per caso, ma resta quella su cui la maggior parte delle persone si affida in prima battuta."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un sito con contenuti eccellenti ma un design trascurato — spaziature incoerenti, font mescolati senza criterio, immagini a bassa risoluzione — parte in salita nel guadagnare fiducia, indipendentemente da quanto sia solido quello che c'è scritto.",
+        "Vale ancora di più nei contesti dove la posta in gioco percepita è più alta: un sito finanziario o sanitario con un design incerto genera più sospetto di un blog personale con lo stesso identico livello di rifinitura, perché lì l'errore costerebbe di più a chi si fida.",
+        "Pensa anche alla prima impressione di un checkout: un modulo di pagamento dal layout che sembra improvvisato, anche se tecnicamente sicuro, fa esitare più di uno curato ma tecnicamente identico — la percezione di credibilità precede, e in parte sostituisce, una verifica reale della sicurezza che quasi nessun utente saprebbe comunque fare da solo."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio misura ciò che le persone dicono di aver notato, non necessariamente ciò che ha guidato davvero il loro giudizio a livello inconsapevole — un limite comune a molte ricerche basate su auto-resoconto. Vale anche la cautela che un buon design visivo non sostituisce la credibilità sostanziale: può accelerare la prima impressione, ma se il contenuto o il servizio poi deludono le aspettative create, l'effetto si ritorce contro chi lo ha usato solo come vernice."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il design visivo è il fattore più citato nel giudizio di credibilità di un sito, più della qualità del contenuto stesso.",
+        "L'effetto è ancora più forte dove la posta in gioco percepita è alta, come nella finanza o nella salute.",
+        "Un buon design accelera la prima impressione, ma non sostituisce una credibilità sostanziale che il prodotto deve poi confermare."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "B.J. Fogg, Cathy Soohoo, David Danielson, Leslie Marable, Julianne Stanford ed Ellen R. Tauber, «How Do Users Evaluate the Credibility of Web Sites? A Study with Over 2,500 Participants», Proceedings of DUX '03 (ACM), 2003. Da leggere insieme a «Persuasive Technology» dello stesso Fogg, già trattato in questa raccolta."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "quota di partecipanti che cita il design visivo come fattore di credibilità",
+      "value": "il 46,1% dei 2.684 partecipanti citava il design visivo (layout, tipografia, colore) come fattore di credibilità, percentuale che saliva al 54,6% per i siti finanziari"
+    }
+  ],
+  "wordCount": 670,
+  "readingMinutes": 4,
+  "related": [
+    "fogg-2003-persuasive-technology"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}

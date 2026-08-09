@@ -1,0 +1,103 @@
+{
+  "id": "benway-lane-1998-banner-blindness",
+  "catalogId": "benway-lane-1998-banner-blindness",
+  "titleIt": "Più un elemento sembra pubblicità, meno viene guardato",
+  "titleOriginal": "Banner Blindness: The Irony of Attention Grabbing on the World Wide Web",
+  "authors": [
+    "Benway, Jan Panero",
+    "Lane, David M."
+  ],
+  "year": 1998,
+  "type": "studio",
+  "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+  "sourceUrl": "https://journals.sagepub.com/doi/10.1177/154193129804200504",
+  "topics": [
+    "attenzione-economia-attenzione",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Un banner colorato in cima alla pagina sembra impossibile da non vedere. In un esperimento del 1998, gli utenti lo trovavano molto meno spesso di un semplice link di testo con la stessa identica informazione."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Gli elementi grafici che assomigliano a pubblicità — per posizione, forma o stile visivo — vengono sistematicamente ignorati da chi naviga un sito cercando un'informazione specifica, anche quando contengono proprio l'informazione cercata. Benway e Lane hanno chiamato questo fenomeno «banner blindness», la cecità ai banner."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Spiega perché un elemento vistoso non garantisce attenzione — anzi, spesso è vero il contrario, se quell'elemento somiglia troppo a un formato che chi lo guarda ha imparato ad associare a rumore pubblicitario. È una lezione utile ogni volta che devi decidere come vestire visivamente un'informazione davvero importante."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Alla fine degli anni '90 il web pubblicitario era in piena crescita, con banner ovunque, e l'ipotesi implicita dell'industria era che una grafica vistosa catturasse più attenzione di un semplice testo. Benway e Lane volevano verificare empiricamente se fosse davvero così, con un compito di ricerca di informazioni reale invece che con una misura astratta di visibilità."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno assegnato ai partecipanti compiti di ricerca di informazioni su pagine web reali, dove l'informazione richiesta era presente sia in un link testuale sia, in alcune condizioni, in un banner grafico posizionato in modo prominente sulla pagina. Hanno poi misurato quante volte i partecipanti trovavano l'informazione a seconda del formato in cui era presentata."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**I partecipanti trovavano l'informazione cercata in banner grafici solo nel 58% dei casi, contro il 94% quando la stessa identica informazione era presentata come link testuale.** I banner posizionati più in alto nella pagina, e più distanti da altri link, venivano ignorati ancora più spesso."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Le persone impegnate in un compito di ricerca sviluppano un filtro visivo appreso che riconosce ed esclude a priori gli elementi che somigliano a pubblicità — colori vivaci, forma rettangolare isolata, posizione tipica — indipendentemente dal contenuto reale che contengono, perché nella grande maggioranza delle esperienze passate quel tipo di elemento non era rilevante per il compito in corso."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Una promozione legittima e utile — uno sconto attivo, un aggiornamento importante — piazzata in un formato visivo identico a quello di un banner pubblicitario rischia di essere ignorata esattamente come lo sarebbe una pubblicità vera, indipendentemente da quanto sia rilevante il contenuto.",
+        "Succede anche con gli elementi di interfaccia che, per abitudine, l'utente ha imparato ad associare a rumore piuttosto che a informazione: una barra colorata in alto che compare spesso per notifiche poco rilevanti finisce per essere ignorata anche quando, una volta su dieci, contiene qualcosa di importante.",
+        "La forma conta più del contenuto in questo tipo di filtro: un messaggio critico di sistema — un errore di pagamento, una sessione scaduta — merita un trattamento visivo che lo distingua nettamente dal linguaggio grafico della pubblicità, altrimenti rischia lo stesso destino."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio è del 1998, e le convenzioni visive della pubblicità online sono cambiate molto da allora: i banner classici oggi sono meno comuni di popup, contenuti sponsorizzati che imitano il layout editoriale, o pubblicità nativa integrata nel feed. La forma specifica che oggi viene riconosciuta e filtrata come «pubblicità» è quindi diversa da quella del 1998, anche se il meccanismo di fondo — un filtro visivo appreso — resta plausibile e osservato anche in ricerche successive."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un elemento che somiglia visivamente a pubblicità viene ignorato indipendentemente dal contenuto reale che porta.",
+        "La forma conta quanto o più del contenuto: un'informazione critica vestita come promozione rischia di sparire.",
+        "Il filtro è appreso dall'esperienza passata, quindi cambia nel tempo insieme alle convenzioni visive della pubblicità stessa."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Jan Panero Benway e David M. Lane, «Banner Blindness: The Irony of Attention Grabbing on the World Wide Web», Proceedings of the Human Factors and Ergonomics Society Annual Meeting, vol. 42, n. 5, 1998. Da leggere insieme a «F-Shaped Pattern For Reading Web Content» di Nielsen, già trattato in questa raccolta: entrambi si basano su osservazioni dirette di dove va davvero l'attenzione, non su ipotesi di design."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "tasso di successo nel trovare un'informazione in un banner grafico contro un link testuale",
+      "value": "i partecipanti trovavano l'informazione cercata in banner grafici solo nel 58% dei casi, contro il 94% quando la stessa informazione era in un link testuale"
+    }
+  ],
+  "wordCount": 633,
+  "readingMinutes": 4,
+  "related": [
+    "nielsen-2006-f-shaped-pattern"
+  ],
+  "generatedAt": "2026-08-09",
+  "model": "claude-sonnet-5"
+}
