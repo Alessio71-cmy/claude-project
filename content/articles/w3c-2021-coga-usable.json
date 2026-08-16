@@ -1,0 +1,96 @@
+{
+  "id": "w3c-2021-coga-usable",
+  "catalogId": "w3c-2021-coga-usable",
+  "titleIt": "L'accessibilità che WCAG da sola non copre",
+  "titleOriginal": "Making Content Usable for People with Cognitive and Learning Disabilities",
+  "authors": [
+    "W3C Cognitive and Learning Disabilities Accessibility Task Force"
+  ],
+  "year": 2021,
+  "type": "report",
+  "venue": "World Wide Web Consortium (W3C)",
+  "sourceUrl": "https://www.w3.org/TR/coga-usable/",
+  "topics": [
+    "accessibilita-cognitiva"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Le linee guida WCAG dicono molto su contrasto e navigazione da tastiera, molto meno su come scrivere per chi fatica a elaborare informazioni complesse. Il W3C ha colmato quel vuoto con un documento dedicato."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un documento ufficiale del W3C propone pattern di design concreti per l'accessibilità cognitiva — linguaggio semplice, navigazione coerente, divulgazione progressiva delle informazioni, prevenzione dell'errore — pensati specificamente per persone con disabilità cognitive e dell'apprendimento, un'area che le linee guida WCAG standard coprono solo in parte."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Va oltre il design pensato per una disabilità specifica: i pattern che rendono un'interfaccia più usabile per chi ha difficoltà cognitive aiutano anche chiunque altro sotto stress, distrazione o attenzione limitata — condizioni che riguardano, in un momento o nell'altro, praticamente ogni persona che usa un prodotto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Le Web Content Accessibility Guidelines (WCAG), lo standard di riferimento per l'accessibilità web, si concentrano storicamente soprattutto su disabilità sensoriali e motorie — contrasto visivo, alternative testuali, navigazione da tastiera — lasciando più margine di ambiguità su come rendere un'interfaccia usabile per chi ha disabilità cognitive o dell'apprendimento. Il gruppo di lavoro COGA del W3C è nato per colmare esplicitamente questo vuoto."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Il gruppo di lavoro ha raccolto pattern di design concreti, basati su ricerca esistente e sui contributi diretti di persone con disabilità cognitive e dell'apprendimento, organizzandoli in un documento pensato per essere usabile direttamente da chi progetta interfacce, non solo da chi si occupa di conformità legale."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il documento propone come pattern raccomandati il linguaggio semplice, la navigazione coerente, la divulgazione progressiva delle informazioni e la prevenzione dell'errore**, sviluppati specificamente per persone con disabilità cognitive e dell'apprendimento, distinguendosi dai criteri WCAG più orientati a disabilità sensoriali e motorie."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "A differenza di un criterio WCAG verificabile in modo binario — per esempio, il contrasto di colore ha un rapporto minimo misurabile — l'accessibilità cognitiva riguarda spesso come un'informazione viene strutturata e presentata nel tempo: quanto è prevedibile la navigazione, quanto viene richiesto di tenere a mente contemporaneamente, quanto è facile recuperare da un errore. Sono criteri più difficili da misurare con un singolo numero, ed è per questo che il documento lavora per pattern descrittivi invece che per soglie numeriche."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un modulo di registrazione che richiede di ricordare un codice mostrato in una schermata precedente, senza poterlo rivedere durante la compilazione, è esattamente il tipo di carico che questi pattern chiedono di evitare: l'informazione dovrebbe restare visibile o facilmente recuperabile finché serve, non affidata alla memoria di chi la usa.",
+        "La divulgazione progressiva — mostrare prima le opzioni essenziali e nascondere il resto dietro un passo esplicito — non è solo un principio di accessibilità cognitiva: è lo stesso principio che riduce il carico cognitivo per chiunque, discusso altrove in questa raccolta a proposito della teoria di Sweller, applicato qui con un pubblico specifico in mente.",
+        "Considera anche la prevenzione dell'errore rispetto alla sola correzione: un form che segnala un problema mentre i dati vengono inseriti, prima dell'invio, aiuta tutti, ma è particolarmente rilevante per chi fatica a interpretare un messaggio di errore generico comparso dopo un tentativo fallito."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un documento di guida — una Working Group Note del W3C — non un requisito di conformità WCAG vincolante in sé: un sito può essere formalmente conforme a WCAG senza seguire questi pattern aggiuntivi, il che significa che l'adozione dipende dalla scelta di chi progetta, non da un obbligo verificabile allo stesso modo del contrasto colore. Vale anche la cautela che l'accessibilità cognitiva copre un ventaglio molto ampio ed eterogeneo di condizioni, e non esiste un singolo pattern che risolva le esigenze di tutte contemporaneamente."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "L'accessibilità cognitiva copre un'area che WCAG standard lascia in gran parte all'interpretazione: linguaggio semplice, navigazione coerente, divulgazione progressiva, prevenzione dell'errore.",
+        "Questi pattern non sono verificabili con una soglia numerica come il contrasto colore: richiedono una valutazione più qualitativa e continua.",
+        "Molti di questi accorgimenti aiutano chiunque sotto stress o distrazione, non solo chi ha una disabilità cognitiva diagnosticata."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "W3C Cognitive and Learning Disabilities Accessibility Task Force, «Making Content Usable for People with Cognitive and Learning Disabilities», World Wide Web Consortium, versione 1.0, aprile 2021. Da leggere insieme a «Cognitive Load During Problem Solving» di Sweller, già trattato in questa raccolta, la base teorica su cui molti di questi pattern pratici si appoggiano."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 670,
+  "readingMinutes": 4,
+  "related": [
+    "sweller-1988-cognitive-load"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

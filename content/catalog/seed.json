@@ -1395,5 +1395,286 @@
     "citationConfidence": "secondaria",
     "notes": "Fonte primaria: post ufficiale del team di ingegneria Spotify; discute il coinvolgimento cross-funzionale (design, marketing, data science) come fattore di successo, non solo l'algoritmo di raccomandazione.",
     "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "mathur-2019-dark-patterns-scale",
+    "titleOriginal": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
+    "authors": [
+      "Mathur, Arunesh",
+      "Acar, Gunes",
+      "Friedman, Michael J.",
+      "Lucherini, Elena",
+      "Mayer, Jonathan",
+      "Chetty, Marshini",
+      "Narayanan, Arvind"
+    ],
+    "year": 2019,
+    "type": "paper",
+    "venue": "Proceedings of the ACM on Human-Computer Interaction (CSCW)",
+    "sourceUrl": "https://arxiv.org/abs/1907.07032",
+    "fallbackUrl": "https://webtransparency.cs.princeton.edu/dark-patterns/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "dark-pattern-etica",
+      "metodo-ricerca"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un crawl automatico su migliaia di siti e-commerce ha trovato dark pattern diffusi e classificabili in tipi e categorie ricorrenti",
+        "value": "1.818 istanze di dark pattern individuate su 53.000 pagine prodotto in circa 11.000 siti e-commerce, raggruppate in 15 tipi e 7 categorie",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Paper fondativo della tassonomia empirica dei dark pattern nell'e-commerce; codice e dati pubblicati su GitHub dagli stessi autori (Princeton / Università di Chicago).",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "brignull-2010-deceptive-patterns",
+    "titleOriginal": "Deceptive Patterns (originally Dark Patterns)",
+    "authors": [
+      "Brignull, Harry"
+    ],
+    "year": 2010,
+    "type": "articolo",
+    "venue": "deceptive.design",
+    "sourceUrl": "https://www.deceptive.design/",
+    "fallbackUrl": "https://en.wikipedia.org/wiki/Dark_pattern",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "dark-pattern-etica",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "Brignull ha coniato il termine \"dark pattern\" nel 2010, pubblicando la prima tassonomia di pattern di interfaccia manipolativi",
+        "value": "circa una dozzina di pattern manipolativi catalogati inizialmente su darkpatterns.org, poi confluiti nel sito rinominato deceptive.design",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Fonte primaria del termine stesso, oggi citata anche dalla letteratura accademica, per esempio da Mathur et al. 2019 già in questo catalogo.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "ftc-2022-dark-patterns-report",
+    "titleOriginal": "Bringing Dark Patterns to Light",
+    "authors": [
+      "Federal Trade Commission, Staff"
+    ],
+    "year": 2022,
+    "type": "report",
+    "venue": "Federal Trade Commission",
+    "sourceUrl": "https://www.ftc.gov/reports/bringing-dark-patterns-light",
+    "fallbackUrl": "https://www.ftc.gov/reports/bringing-dark-patterns-light",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "dark-pattern-etica"
+    ],
+    "relevance": "contesto",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il report documenta pratiche manipolative diffuse nell'e-commerce, negli abbonamenti e nelle app per bambini",
+        "value": "casistiche di \"roach motel\" (facile iscriversi, difficile disdire), caselle preselezionate, confirm-shaming e informative nascoste, raccolte a partire da un workshop FTC dell'aprile 2021",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Rapporto ufficiale della Federal Trade Commission statunitense, rilevante anche per il quadro normativo europeo su pratiche commerciali scorrette.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "thaler-benartzi-2004-save-more-tomorrow",
+    "titleOriginal": "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving",
+    "authors": [
+      "Thaler, Richard H.",
+      "Benartzi, Shlomo"
+    ],
+    "year": 2004,
+    "type": "studio",
+    "venue": "Journal of Political Economy",
+    "sourceUrl": "https://www.nber.org/papers/w8006",
+    "fallbackUrl": "https://www.journals.uchicago.edu/doi/abs/10.1086/380085",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "choice-architecture-nudge",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un programma che pre-impegna i dipendenti ad aumentare la quota di risparmio a ogni futuro aumento di stipendio ottiene adesione e permanenza molto alte",
+        "value": "il 78% dei dipendenti a cui è stato offerto il programma Save More Tomorrow ha aderito; il 98% di questi è rimasto iscritto attraverso due aumenti di stipendio successivi, con il tasso medio di risparmio salito dal 3,5% all'11,6% in 28 mesi",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Uno dei casi più citati di scelta predefinita applicata nel tempo, non solo in un singolo momento decisionale; complementare a Johnson & Goldstein già in catalogo, che riguarda un default singolo (donazione organi).",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "madrian-shea-2001-power-of-suggestion",
+    "titleOriginal": "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+    "authors": [
+      "Madrian, Brigitte C.",
+      "Shea, Dennis F."
+    ],
+    "year": 2001,
+    "type": "studio",
+    "venue": "Quarterly Journal of Economics",
+    "sourceUrl": "https://www.nber.org/papers/w7682",
+    "fallbackUrl": "https://academic.oup.com/qje/article-abstract/116/4/1149/1903159",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "choice-architecture-nudge",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "l'iscrizione automatica con opzione di uscita mantiene la maggior parte dei nuovi assunti sui valori predefiniti del piano pensionistico",
+        "value": "circa il 75% dei nuovi assunti sotto iscrizione automatica è rimasto al tasso di contribuzione predefinito del 3%, e circa l'80% è rimasto nel fondo monetario predefinito",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Mostra il potere del default anche fuori dal contesto della donazione di organi (Johnson & Goldstein, già in catalogo); qui il default riguarda una decisione finanziaria ricorrente sul lungo periodo.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "blake-moshary-2021-price-salience",
+    "titleOriginal": "Price Salience and Product Choice",
+    "authors": [
+      "Blake, Thomas",
+      "Moshary, Sarah",
+      "Sweeney, Kane",
+      "Tadelis, Steven"
+    ],
+    "year": 2021,
+    "type": "studio",
+    "venue": "Marketing Science",
+    "sourceUrl": "https://pubsonline.informs.org/doi/10.1287/mksc.2020.1261",
+    "fallbackUrl": "https://pubsonline.informs.org/doi/10.1287/mksc.2020.1261",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "pricing-paywall"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "mostrare le commissioni per intero fin dall'inizio, invece di svelarle solo a fine acquisto, riduce la quantità acquistata e sposta la scelta verso prodotti diversi",
+        "value": "in un esperimento sul campo su StubHub, mostrare le commissioni per intero senza occultarle ha ridotto la quantità acquistata, e l'effetto di salienza sulla qualità percepita ha spiegato almeno il 28% del calo di ricavi dovuto alla piena trasparenza",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Esperimento sul campo su una piattaforma reale (StubHub), non solo un esperimento di laboratorio; direttamente rilevante per le pratiche di drip pricing nei paywall e nei carrelli online.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "wagner-benlian-hess-2014-freemium-conversion",
+    "titleOriginal": "Converting Freemium Customers from Free to Premium — the Role of Perceived Premium Fit in the Case of Music as a Service",
+    "authors": [
+      "Wagner, Till M.",
+      "Benlian, Alexander",
+      "Hess, Thomas"
+    ],
+    "year": 2014,
+    "type": "studio",
+    "venue": "Electronic Markets",
+    "sourceUrl": "https://link.springer.com/article/10.1007/s12525-014-0168-4",
+    "fallbackUrl": "https://link.springer.com/article/10.1007/s12525-014-0168-4",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "pricing-paywall"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "la conversione da gratuito a premium non dipende solo da quante funzioni sono limitate nel piano gratuito, ma da quanto il piano premium viene percepito come adatto ai propri bisogni",
+        "value": "la \"premium fit\" percepita, distinta dalla semplice scarsità di funzionalità nel piano gratuito, aumenta la probabilità di conversione, nel caso studiato di un servizio musicale in abbonamento",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Rilevante per ogni modello freemium: suggerisce che limitare artificialmente il piano gratuito non basta, conta la percezione di adeguatezza del piano a pagamento.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "egelman-2009-timing-privacy-indicators",
+    "titleOriginal": "Timing Is Everything? The Effects of Timing and Placement of Online Privacy Indicators",
+    "authors": [
+      "Egelman, Serge",
+      "Tsai, Janice",
+      "Cranor, Lorrie Faith",
+      "Acquisti, Alessandro"
+    ],
+    "year": 2009,
+    "type": "paper",
+    "venue": "Proceedings of CHI '09 (ACM)",
+    "sourceUrl": "https://dl.acm.org/doi/10.1145/1518701.1518752",
+    "fallbackUrl": "https://dl.acm.org/doi/10.1145/1518701.1518752",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "emozione-fiducia"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il momento in cui viene mostrato un indicatore di fiducia sulla privacy, non solo la sua presenza, influenza quanto le persone sono disposte a pagare in più per un venditore più attento alla privacy",
+        "value": "uno studio di laboratorio ha manipolato tempistica e posizione degli indicatori di privacy, trovando che mostrarli prima della scelta, invece che dopo, cambiava significativamente il premio di prezzo che i partecipanti erano disposti a pagare per proteggere la propria privacy",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "CHI è la conferenza di riferimento nell'interazione uomo-computer; risultato rilevante per dove posizionare badge di sicurezza o indicatori di fiducia in un checkout.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "w3c-2021-coga-usable",
+    "titleOriginal": "Making Content Usable for People with Cognitive and Learning Disabilities",
+    "authors": [
+      "W3C Cognitive and Learning Disabilities Accessibility Task Force"
+    ],
+    "year": 2021,
+    "type": "report",
+    "venue": "World Wide Web Consortium (W3C)",
+    "sourceUrl": "https://www.w3.org/TR/coga-usable/",
+    "fallbackUrl": "https://www.w3.org/TR/coga-usable/",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "accessibilita-cognitiva"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il documento propone pattern di design concreti per l'accessibilità cognitiva, complementari a WCAG",
+        "value": "linguaggio semplice, navigazione coerente, divulgazione progressiva delle informazioni e prevenzione dell'errore come pattern raccomandati, sviluppati specificamente per persone con disabilità cognitive e dell'apprendimento",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Working Group Note ufficiale del W3C, non un requisito di conformità WCAG in sé, ma il documento di riferimento alla base dei futuri criteri WCAG sull'accessibilità cognitiva.",
+    "harvestedFrom": "ricerca-web"
   }
 ]

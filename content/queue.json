@@ -446,6 +446,91 @@
         "case-study-prodotto",
         "abitudini-retention"
       ]
+    },
+    {
+      "id": "mathur-2019-dark-patterns-scale",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "dark-pattern-etica",
+        "metodo-ricerca"
+      ]
+    },
+    {
+      "id": "brignull-2010-deceptive-patterns",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "dark-pattern-etica",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "ftc-2022-dark-patterns-report",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "contesto",
+      "topics": [
+        "dark-pattern-etica"
+      ]
+    },
+    {
+      "id": "thaler-benartzi-2004-save-more-tomorrow",
+      "readingMinutes": 5,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "choice-architecture-nudge",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "madrian-shea-2001-power-of-suggestion",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "choice-architecture-nudge",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "blake-moshary-2021-price-salience",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "pricing-paywall"
+      ]
+    },
+    {
+      "id": "wagner-benlian-hess-2014-freemium-conversion",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "pricing-paywall"
+      ]
+    },
+    {
+      "id": "egelman-2009-timing-privacy-indicators",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "emozione-fiducia"
+      ]
+    },
+    {
+      "id": "w3c-2021-coga-usable",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "accessibilita-cognitiva"
+      ]
     }
   ]
 }

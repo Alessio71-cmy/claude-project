@@ -1,0 +1,104 @@
+{
+  "id": "blake-moshary-2021-price-salience",
+  "catalogId": "blake-moshary-2021-price-salience",
+  "titleIt": "Mostrare tutte le commissioni subito costa vendite, ma non mentire",
+  "titleOriginal": "Price Salience and Product Choice",
+  "authors": [
+    "Blake, Thomas",
+    "Moshary, Sarah",
+    "Sweeney, Kane",
+    "Tadelis, Steven"
+  ],
+  "year": 2021,
+  "type": "studio",
+  "venue": "Marketing Science",
+  "sourceUrl": "https://pubsonline.informs.org/doi/10.1287/mksc.2020.1261",
+  "topics": [
+    "pricing-paywall"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Nascondere le commissioni fino all'ultimo passaggio del checkout aumenta le vendite. Un esperimento reale su una piattaforma di biglietti lo dimostra — e mostra anche esattamente quanto costa smettere di farlo."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Uno studio sul campo condotto su StubHub ha misurato l'effetto di mostrare le commissioni per intero fin dall'inizio del prezzo, invece di svelarle solo all'ultimo passaggio dell'acquisto: la trasparenza totale riduce la quantità acquistata, e una parte rilevante di questo calo viene dal modo in cui il prezzo più alto, reso visibile subito, cambia la percezione di qualità del prodotto stesso."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Dà una misura reale, non ipotetica, del compromesso fra trasparenza e conversione in un checkout: utile ogni volta che devi decidere quando mostrare commissioni, tasse o costi di servizio, invece di seguire semplicemente la convenzione di settore senza saperne il costo effettivo."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Le piattaforme che vendono biglietti o servizi con commissioni aggiuntive affrontano da anni la stessa domanda pratica: mostrare il prezzo pieno subito, rischiando di scoraggiare l'acquisto con un numero più alto, o mostrare un prezzo base più basso e aggiungere le commissioni solo alla fine? Gli autori volevano misurare l'effetto reale di questa scelta, non solo discuterne in astratto."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno condotto un esperimento sul campo su StubHub, una piattaforma reale di rivendita di biglietti, modificando per un sottoinsieme di utenti il modo in cui le commissioni venivano mostrate — per intero fin dall'inizio invece che solo all'ultimo passaggio — e misurando l'effetto sulla quantità acquistata e sul tipo di prodotto scelto."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Mostrare le commissioni per intero fin dall'inizio, invece di svelarle solo a fine acquisto, ha ridotto la quantità acquistata; l'effetto di salienza del prezzo sulla qualità percepita del prodotto ha spiegato almeno il 28% del calo di ricavi dovuto alla piena trasparenza** — non era solo che il prezzo più alto scoraggiava l'acquisto, ma che vederlo subito cambiava anche come veniva giudicato il prodotto stesso."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Quando il prezzo pieno è visibile fin dall'inizio, diventa il primo dato con cui chi acquista valuta l'intera offerta, e un prezzo più alto tende a essere associato, anche inconsapevolmente, a un giudizio diverso sulla qualità o sul valore di ciò che si sta comprando. Nascondere parte del prezzo fino alla fine rimanda questo giudizio a un momento in cui la persona ha già investito tempo nella decisione, riducendo la probabilità che la riconsideri da zero."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un checkout che mostra «da 29€» nella pagina prodotto e aggiunge spedizione, servizio e tasse solo all'ultimo passaggio segue esattamente lo schema testato in questo studio: funziona per la conversione, ma lo studio mostra anche di quanto funziona meno la trasparenza totale, un dato concreto per pesare la decisione invece di prenderla per abitudine di settore.",
+        "Chi decide di mostrare il prezzo pieno fin da subito, per scelta di trasparenza o per vincolo normativo, dovrebbe aspettarsi proprio l'effetto misurato qui: non solo meno acquisti per il prezzo più alto in sé, ma un effetto aggiuntivo sulla percezione di qualità del prodotto, che un messaggio di valore ben costruito può in parte compensare.",
+        "Vale la pena distinguere questo caso, dove le commissioni erano comunque dovute e alla fine pagate da chi acquistava, da un caso di costi che non vengono mai comunicati fino al momento dell'addebito: qui la scelta è su quando mostrare un'informazione vera, non se mostrarla."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il contesto è specifico — un mercato secondario di biglietti, con una struttura di commissioni particolare e una base di utenti abituata a quel tipo di acquisto — e l'entità esatta dell'effetto può variare in categorie di prodotto diverse, dove il peso psicologico del prezzo sulla percezione di qualità è più o meno forte. Vale anche la cautela che questo studio misura un compromesso fra trasparenza e conversione, non stabilisce quale delle due scelte sia eticamente preferibile: resta una decisione che va presa considerando anche altri fattori, non solo l'effetto sulle vendite."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Mostrare il prezzo pieno subito riduce le vendite, e non solo per il numero più alto: cambia anche come viene percepita la qualità del prodotto.",
+        "Il costo della trasparenza totale è misurabile, non solo intuibile: in questo caso spiega almeno un quarto del calo di ricavi.",
+        "La domanda utile non è «mostrare o nascondere», ma «quando mostrare un'informazione vera», dato che le commissioni restano comunque dovute in entrambi i casi."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Thomas Blake, Sarah Moshary, Kane Sweeney e Steven Tadelis, «Price Salience and Product Choice», Marketing Science, vol. 40, n. 4, 2021, pp. 619-636. Da leggere insieme a «Charm Pricing» di Anderson e Simester, già trattato in questa raccolta, altro caso in cui la forma con cui un prezzo viene presentato cambia il comportamento più del prezzo stesso."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "quota del calo di ricavi spiegata dall'effetto di salienza del prezzo",
+      "value": "almeno il 28% del calo di ricavi dovuto alla piena trasparenza"
+    }
+  ],
+  "wordCount": 731,
+  "readingMinutes": 4,
+  "related": [
+    "anderson-simester-2003-charm-pricing"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

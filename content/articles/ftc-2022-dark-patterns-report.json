@@ -1,0 +1,97 @@
+{
+  "id": "ftc-2022-dark-patterns-report",
+  "catalogId": "ftc-2022-dark-patterns-report",
+  "titleIt": "Quando l'inganno di interfaccia diventa un caso per l'autorità",
+  "titleOriginal": "Bringing Dark Patterns to Light",
+  "authors": [
+    "Federal Trade Commission, Staff"
+  ],
+  "year": 2022,
+  "type": "report",
+  "venue": "Federal Trade Commission",
+  "sourceUrl": "https://www.ftc.gov/reports/bringing-dark-patterns-light",
+  "topics": [
+    "dark-pattern-etica"
+  ],
+  "relevance": "contesto",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Nel 2022 l'autorità antitrust americana ha pubblicato un rapporto di decine di pagine su un solo tema: le interfacce progettate per ingannare. Non è più solo un problema di design, è diventato un problema legale."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un rapporto ufficiale della Federal Trade Commission documenta la diffusione dei dark pattern nell'e-commerce, negli abbonamenti e nelle app per bambini, inquadrandoli non solo come un problema di esperienza utente ma come una potenziale violazione delle norme a tutela del consumatore."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Mostra che il confine fra «leva di design aggressiva» e «pratica sanzionabile» si sta spostando: capire dove sta oggi quel confine, secondo l'autorità che lo applica, è direttamente rilevante per chiunque progetti flussi di iscrizione, disdetta o acquisto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Il rapporto nasce da un workshop pubblico della FTC nell'aprile 2021, in cui accademici, avvocati e designer hanno discusso pubblicamente delle pratiche di design ingannevole; il rapporto del 2022 ne raccoglie le conclusioni e le colloca dentro il quadro normativo esistente sulla tutela del consumatore."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Lo staff della FTC ha raccolto e categorizzato pratiche di design segnalate durante il workshop e da altre fonti, documentandole con esempi concreti, e le ha collegate esplicitamente alle norme già in vigore — il FTC Act e ROSCA, la legge specifica sulle transazioni ricorrenti online — sotto le quali potrebbero essere perseguite."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il rapporto documenta casistiche di «roach motel» (facile iscriversi, difficile disdire), caselle preselezionate, confirm-shaming e informative nascoste, raccolte a partire dal workshop FTC dell'aprile 2021**, presentandole come pattern ricorrenti già osservati in casi di applicazione della legge, non come ipotesi teoriche."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "A differenza di un articolo di design o di uno studio accademico, un rapporto di un'autorità di regolazione ha una funzione specifica: segnalare in anticipo quali pratiche l'autorità considera già perseguibili sotto le leggi esistenti, prima ancora di intraprendere azioni specifiche. Serve da avviso preventivo tanto quanto da documento di analisi, ed è per questo che le aziende regolate lo leggono diversamente da come leggerebbero un paper accademico."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un flusso di disdetta che richiede una telefonata quando l'iscrizione si è fatta con un clic — il classico «roach motel» — non è solo una scelta di design discutibile secondo questo rapporto: è esplicitamente il tipo di asimmetria fra ingresso e uscita che l'autorità cita come esempio di pratica potenzialmente sanzionabile.",
+        "Le caselle preselezionate per servizi aggiuntivi a pagamento durante un checkout ricadono nella stessa area di attenzione: il rapporto le tratta insieme alle informative nascoste, sotto l'idea comune che il consenso raccolto in quelle condizioni non sia un consenso realmente informato.",
+        "Per chi lavora con clienti regolamentati — servizi finanziari, sanitari, abbonamenti ricorrenti — vale la pena tenere questo documento a portata di mano come riferimento diretto quando un cliente propone un flusso che assomiglia a uno dei pattern elencati: cita un'autorità, non solo un principio generico di buon design."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un rapporto di un'autorità statunitense, quindi il suo valore normativo diretto riguarda il mercato americano; in Europa esistono quadri normativi paralleli, per esempio il Digital Services Act, con approcci e definizioni non identiche, anche se la sostanza dei pattern discussi è la stessa. Vale anche la cautela che un rapporto di questo tipo riflette la posizione di un'autorità in un momento specifico, non una sentenza definitiva su ogni singolo pattern descritto: l'applicazione caso per caso dipende da azioni legali successive, non dal rapporto in sé.",
+        "C'è infine una cautela sul tipo di documento: un rapporto di staff non ha lo stesso peso di una regola formale approvata dalla Commissione al completo, e non introduce nuovi obblighi di per sé. Il suo valore sta nel segnalare in anticipo dove l'autorità concentra l'attenzione, così che chi progetta un flusso di iscrizione o disdetta possa correggere una pratica prima che diventi oggetto di un'azione legale, invece di scoprirlo a posteriori."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Alcuni dark pattern non sono più solo discutibili sul piano del design: un'autorità di regolazione li considera esplicitamente perseguibili sotto leggi esistenti.",
+        "L'asimmetria fra iscrizione facile e disdetta difficile è uno dei pattern più citati come esempio di pratica sanzionabile.",
+        "Il quadro normativo cambia da giurisdizione a giurisdizione, ma la sostanza dei pattern discussi è la stessa ovunque."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Federal Trade Commission, Staff, «Bringing Dark Patterns to Light», settembre 2022. Da leggere insieme a «Dark Patterns at Scale» di Mathur e colleghi, trattato altrove in questa raccolta, che fornisce la base empirica su cui rapporti come questo si appoggiano."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 684,
+  "readingMinutes": 4,
+  "related": [
+    "mathur-2019-dark-patterns-scale"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

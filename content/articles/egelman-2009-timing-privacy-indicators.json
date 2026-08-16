@@ -1,0 +1,99 @@
+{
+  "id": "egelman-2009-timing-privacy-indicators",
+  "catalogId": "egelman-2009-timing-privacy-indicators",
+  "titleIt": "Un badge di sicurezza vale di più prima di scegliere, non dopo",
+  "titleOriginal": "Timing Is Everything? The Effects of Timing and Placement of Online Privacy Indicators",
+  "authors": [
+    "Egelman, Serge",
+    "Tsai, Janice",
+    "Cranor, Lorrie Faith",
+    "Acquisti, Alessandro"
+  ],
+  "year": 2009,
+  "type": "paper",
+  "venue": "Proceedings of CHI '09 (ACM)",
+  "sourceUrl": "https://dl.acm.org/doi/10.1145/1518701.1518752",
+  "topics": [
+    "emozione-fiducia"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Mostrare un'icona di privacy dopo che qualcuno ha già scelto un prodotto non ha lo stesso effetto di mostrarla prima. Uno studio di laboratorio ha misurato quanto conta il momento, non solo la presenza, di un segnale di fiducia."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un indicatore di fiducia sulla privacy — per esempio un badge o un punteggio — influenza quanto le persone sono disposte a pagare in più per un venditore più attento alla privacy in modo diverso a seconda di quando viene mostrato durante il processo di scelta, non solo in base alla sua semplice presenza."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "La maggior parte dei siti posiziona i segnali di fiducia — sigilli di sicurezza, badge, certificazioni — per convenzione, di solito nel footer, senza chiedersi se quel punto del percorso sia davvero il migliore per influenzare la decisione. Questo studio dà un'indicazione precisa su cosa cambia spostando semplicemente il momento in cui quel segnale compare."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Molti siti mostrano indicatori di fiducia con la logica implicita che la loro sola presenza basti a rassicurare chi acquista. Egelman e colleghi volevano verificare se il momento in cui queste informazioni vengono mostrate — prima o dopo la scelta iniziale del prodotto — facesse davvero differenza sul comportamento reale, non solo sulla soddisfazione dichiarata."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno condotto uno studio di laboratorio in cui i partecipanti dovevano scegliere fra diversi venditori online per un acquisto, manipolando sistematicamente sia il momento — prima o dopo aver visto prezzi e opzioni — sia la posizione degli indicatori di privacy, misurando poi quanto in più i partecipanti erano disposti a pagare per un venditore con protezioni sulla privacy migliori."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Mostrare gli indicatori di privacy prima della scelta, invece che dopo, ha cambiato significativamente il premio di prezzo che i partecipanti erano disposti a pagare per proteggere la propria privacy** — lo stesso identico indicatore produceva un effetto diverso sul comportamento di acquisto a seconda del momento in cui compariva nel percorso decisionale."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Una volta che una persona ha già iniziato a valutare le opzioni in base al prezzo o ad altre caratteristiche visibili, un'informazione aggiuntiva mostrata dopo fatica a essere integrata nel giudizio già in corso di formazione: il punto di riferimento per la decisione si è già stabilizzato attorno ai fattori visti per primi. Mostrare l'informazione sulla privacy prima, invece, la rende parte dei criteri con cui le opzioni vengono confrontate fin dall'inizio."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un badge di sicurezza posizionato solo nel footer della pagina di checkout, dopo che la persona ha già scelto cosa comprare e sta solo completando il pagamento, arriva probabilmente troppo tardi per influenzare la scelta iniziale: secondo questo studio conterebbe di più mostrarlo già nella pagina di confronto dei prodotti.",
+        "La stessa logica vale per le informative sulla privacy in un flusso di registrazione: comunicarle prima che la persona inizi a compilare il form, invece che come nota a piè di pagina dopo aver già deciso di procedere, dà a quell'informazione un peso diverso nella decisione, non solo un ruolo formale di trasparenza legale.",
+        "Chi progetta un confronto fra piani o fornitori diversi può usare questo risultato per decidere dove inserire un fattore differenziante che vuole davvero influenzare la scelta: prima, nella fase in cui le opzioni vengono ancora valutate fra loro, non dopo, quando la decisione è già sostanzialmente presa."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È uno studio di laboratorio con scenari di acquisto simulati, non un esperimento sul campo con acquisti reali e conseguenze economiche effettive per i partecipanti; l'entità dell'effetto in un contesto di acquisto reale potrebbe differire da quella osservata in laboratorio. Vale anche la cautela che l'effetto riguarda specificamente indicatori di privacy: non è detto che lo stesso pattern di tempistica si applichi in modo identico ad altri tipi di segnale di fiducia, come recensioni o certificazioni di qualità."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un segnale di fiducia non ha un effetto fisso: il momento in cui compare nel percorso decisionale cambia quanto conta.",
+        "Mostrare un'informazione rilevante prima che la scelta si stabilizzi la integra nel giudizio; mostrarla dopo la rende marginale.",
+        "Vale la pena riconsiderare dove sono posizionati i segnali di fiducia in un flusso, non solo se sono presenti."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Serge Egelman, Janice Tsai, Lorrie Faith Cranor e Alessandro Acquisti, «Timing Is Everything? The Effects of Timing and Placement of Online Privacy Indicators», Proceedings of CHI '09 (ACM), 2009. Da leggere insieme a «How Do Users Evaluate the Credibility of Web Sites?» di Fogg e colleghi, già trattato in questa raccolta, altro studio sui segnali che costruiscono fiducia in un'interfaccia."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 695,
+  "readingMinutes": 4,
+  "related": [
+    "fogg-2003-stanford-web-credibility"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

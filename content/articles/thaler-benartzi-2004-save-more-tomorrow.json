@@ -1,0 +1,105 @@
+{
+  "id": "thaler-benartzi-2004-save-more-tomorrow",
+  "catalogId": "thaler-benartzi-2004-save-more-tomorrow",
+  "titleIt": "Non ti chiedo di risparmiare oggi. Solo dal prossimo aumento",
+  "titleOriginal": "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving",
+  "authors": [
+    "Thaler, Richard H.",
+    "Benartzi, Shlomo"
+  ],
+  "year": 2004,
+  "type": "studio",
+  "venue": "Journal of Political Economy",
+  "sourceUrl": "https://www.nber.org/papers/w8006",
+  "topics": [
+    "choice-architecture-nudge",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Chiedere a qualcuno di risparmiare di più oggi è una richiesta difficile: significa un taglio immediato al reddito disponibile. Chiedergli di risparmiare di più solo a partire dal prossimo aumento è quasi la stessa richiesta, ma molto più facile da accettare."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Il programma Save More Tomorrow chiede ai dipendenti di impegnarsi oggi ad aumentare la propria quota di risparmio pensionistico solo in corrispondenza dei futuri aumenti di stipendio, non subito: un impegno che costa zero nel presente ma che, ripetuto nel tempo, produce un aumento sostanziale e duraturo del tasso di risparmio."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "È un modello utile ogni volta che devi ottenere un impegno che le persone rimandano — l'upgrade a un piano superiore, un aumento di budget, l'adozione di un'abitudine più costosa: spostare la richiesta su un momento futuro naturale, invece di chiederla subito, cambia radicalmente la disponibilità ad accettare, senza cambiare la sostanza di ciò che viene chiesto."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Thaler e Benartzi partivano da un problema concreto e diffuso: le persone sanno, quando interrogate direttamente, che dovrebbero risparmiare di più per la pensione, ma faticano sistematicamente a farlo. Il motivo è una combinazione di avversione alla perdita immediata — un taglio visibile allo stipendio netto oggi — e inerzia: una volta scelta un'aliquota di contribuzione, quasi nessuno torna indietro a modificarla attivamente."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno progettato e testato sul campo, con aziende reali, un programma in cui i dipendenti si impegnavano in anticipo — non nel momento dell'aumento di stipendio, ma prima — ad aumentare la propria quota di contribuzione pensionistica di un punto percentuale a ogni futuro aumento salariale, fino a un tetto prestabilito, con la possibilità di uscire dal programma in qualsiasi momento."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il 78% dei dipendenti a cui è stato offerto il programma Save More Tomorrow ha aderito; il 98% di questi è rimasto iscritto attraverso due aumenti di stipendio successivi, con il tasso medio di risparmio salito dal 3,5% all'11,6% in 28 mesi** — un risultato che unisce alta adesione iniziale e altissima persistenza nel tempo, entrambe rare in interventi di questo tipo."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il programma sfrutta contemporaneamente tre leve comportamentali distinte. La prima è l'avversione alla perdita: aumentare la contribuzione insieme a un aumento di stipendio non si sente come una perdita, perché lo stipendio netto continua comunque a salire, solo un po' meno di quanto salirebbe senza l'impegno.",
+        "La seconda è l'inerzia: una volta iscritti, restare nel programma richiede zero azione, mentre uscirne richiede una scelta attiva — la stessa forza che normalmente impedisce di risparmiare di più viene qui messa al servizio dell'obiettivo opposto. La terza è lo sconto del tempo futuro: impegnarsi oggi per un sacrificio che arriverà in futuro è psicologicamente più facile che impegnarsi per un sacrificio immediato, perché il costo futuro pesa meno nella decisione presente."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un'offerta di upgrade a un piano superiore che si attiva automaticamente al prossimo rinnovo, invece che subito, abbassa la resistenza a dire di sì nello stesso modo: chi accetta non sente un taglio immediato al proprio budget, solo un impegno futuro che si può sempre disdire prima che scatti.",
+        "La stessa logica regge per l'adozione di una nuova abitudine dentro un prodotto: proporre di attivare una funzione più impegnativa non oggi ma «dal prossimo lunedì» o «dal prossimo mese» sfrutta lo stesso sconto psicologico del futuro rispetto al presente, rendendo l'impegno più facile da accettare senza cambiarne la sostanza.",
+        "Vale la pena osservare anche cosa succede dopo l'adesione iniziale, non solo al momento della scelta: il vero risultato di questo programma non è il 78% di adesione, ma il 98% di permanenza nel tempo — un test più severo, perché misura se l'impegno tiene quando arriva il momento in cui costerebbe davvero qualcosa."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il contesto originale è un piano pensionistico aziendale statunitense, con caratteristiche istituzionali specifiche — aumenti salariali regolari e prevedibili, un dipartimento HR che gestisce l'iscrizione — che non sempre si trasferiscono identiche a un prodotto digitale di consumo, dove il «prossimo aumento» naturale a cui agganciare l'impegno potrebbe non esistere altrettanto chiaramente.",
+        "Vale anche la cautela etica comune a tutte le leve che sfruttano l'inerzia: un programma che rende facile aderire e difficile uscire funziona nella stessa direzione sia per obiettivi che avvantaggiano chi lo usa, come più risparmio pensionistico, sia per obiettivi che lo svantaggiano, come un abbonamento che si rinnova automaticamente a condizioni meno favorevoli. La tecnica è neutra, l'uso che se ne fa no."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Spostare una richiesta impegnativa su un momento futuro naturale, invece che chiederla subito, ne aumenta radicalmente l'accettazione senza cambiarne la sostanza.",
+        "L'inerzia che normalmente impedisce un cambiamento può essere messa al servizio dello stesso cambiamento, una volta ottenuta l'adesione iniziale.",
+        "La vera misura di un impegno differito è la persistenza quando arriva il momento in cui costa davvero, non l'adesione iniziale a costo zero."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Richard H. Thaler e Shlomo Benartzi, «Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving», Journal of Political Economy, vol. 112, S1, 2004, pp. S164-S187. Da leggere insieme a «The Power of Suggestion» di Madrian e Shea, trattato altrove in questa raccolta, che mostra un altro caso di come il valore predefinito domini le decisioni finanziarie ricorrenti."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "adesione, permanenza e crescita del tasso di risparmio nel programma Save More Tomorrow",
+      "value": "il 78% dei dipendenti a cui è stato offerto il programma Save More Tomorrow ha aderito; il 98% di questi è rimasto iscritto attraverso due aumenti di stipendio successivi, con il tasso medio di risparmio salito dal 3,5% all'11,6% in 28 mesi"
+    }
+  ],
+  "wordCount": 805,
+  "readingMinutes": 5,
+  "related": [
+    "madrian-shea-2001-power-of-suggestion"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

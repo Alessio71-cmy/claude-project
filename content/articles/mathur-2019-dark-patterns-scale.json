@@ -1,0 +1,108 @@
+{
+  "id": "mathur-2019-dark-patterns-scale",
+  "catalogId": "mathur-2019-dark-patterns-scale",
+  "titleIt": "Millecentottanta trucchi trovati scandagliando undicimila negozi online",
+  "titleOriginal": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
+  "authors": [
+    "Mathur, Arunesh",
+    "Acar, Gunes",
+    "Friedman, Michael J.",
+    "Lucherini, Elena",
+    "Mayer, Jonathan",
+    "Chetty, Marshini",
+    "Narayanan, Arvind"
+  ],
+  "year": 2019,
+  "type": "paper",
+  "venue": "Proceedings of the ACM on Human-Computer Interaction (CSCW)",
+  "sourceUrl": "https://arxiv.org/abs/1907.07032",
+  "topics": [
+    "dark-pattern-etica",
+    "metodo-ricerca"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Un crawler ha visitato 11.000 siti di e-commerce, non per comprare niente ma per contare quante volte l'interfaccia spingeva verso una scelta che l'utente non aveva davvero cercato. Il numero è quasi 1.900."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un crawl automatico su migliaia di siti e-commerce ha mostrato che i dark pattern — le interfacce progettate per spingere verso una scelta diversa da quella che l'utente cercava — non sono un'eccezione isolata ma una pratica diffusa e classificabile, con tipi e categorie ricorrenti che si ripetono da un sito all'altro."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Dà un vocabolario preciso e una scala empirica a un problema che spesso resta sul piano dell'opinione soggettiva — «questo mi sembra scorretto» — utile sia per riconoscere pattern manipolativi nel proprio lavoro sia per discuterne con un cliente con qualcosa di più solido di un'impressione."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Fino a questo lavoro, la discussione sui dark pattern si basava soprattutto su esempi isolati raccolti manualmente, come il lavoro pionieristico di Brignull trattato altrove in questa raccolta. Il gruppo di ricerca di Princeton e dell'Università di Chicago voleva misurare quanto fossero diffusi su scala, con un metodo replicabile invece che aneddotico."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno costruito un crawler automatico che ha visitato migliaia di siti di e-commerce, analizzando il testo e la struttura di ogni pagina prodotto per riconoscere pattern di interfaccia riconducibili a categorie di dark pattern già descritte in letteratura, poi hanno verificato manualmente un campione dei risultati per validare l'accuratezza del rilevamento automatico."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il crawl ha individuato 1.818 istanze di dark pattern su 53.000 pagine prodotto in circa 11.000 siti e-commerce, raggruppate in 15 tipi diversi organizzati in 7 categorie più ampie** — dalle affermazioni di scarsità non verificabili al conto alla rovescia, dall'iscrizione nascosta nel carrello al confirm-shaming nei pulsanti di rifiuto."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il lavoro mostra che i dark pattern non sono invenzioni isolate di singoli team di design, ma soluzioni che si ripetono perché fanno leva su meccanismi psicologici comuni — urgenza artificiale, pressione sociale, complicazione deliberata dell'uscita — applicati con piccole variazioni superficiali da un sito all'altro. La ripetizione stessa è la prova che si tratta di pratiche apprese e diffuse, non di errori isolati di progettazione."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un conto alla rovescia su un'offerta che si resetta ogni volta che si ricarica la pagina, o un messaggio «solo 2 posti rimasti» che compare identico da settimane, appartengono esattamente alla categoria di scarsità artificiale che il crawl ha misurato: la differenza fra un'urgenza vera e una finta sta nel fatto che quella vera cambia, quella finta no.",
+        "Anche il pulsante di rifiuto merita attenzione diretta: se accettare un'offerta è «Sì, voglio risparmiare» e rifiutarla è «No, preferisco pagare il prezzo pieno», il confirm-shaming censito dal crawl è esattamente questa asimmetria di tono fra le due opzioni, non nella scelta in sé ma nel linguaggio con cui viene presentata.",
+        "Vale la pena confrontare la propria interfaccia con le 15 categorie di questo lavoro come una checklist, non come un'accusa: molti pattern nascono da un obiettivo di business legittimo — aumentare le conversioni — applicato con una tecnica che il crawl classifica come manipolativa, e la distinzione fra le due cose è spesso sottile."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il rilevamento è automatico su un campione di siti, soprattutto grandi retailer con forte presenza sui motori di ricerca, quindi non rappresenta necessariamente la prevalenza dei dark pattern sull'intero web, e la classificazione in categorie, per quanto validata a campione, comporta scelte di interpretazione che un'analisi manuale caso per caso potrebbe correggere diversamente. Vale anche la cautela che il crawl misura la presenza di un pattern, non il suo effetto reale sulle decisioni degli utenti: uno stesso pattern può essere più o meno efficace a seconda del contesto in cui compare."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "I dark pattern non sono casi isolati: si ripetono con variazioni minime su migliaia di siti, organizzati in categorie riconoscibili.",
+        "La scarsità artificiale si distingue da quella reale per un dettaglio verificabile: cambia nel tempo, o resta identica per settimane.",
+        "Confrontare la propria interfaccia con una tassonomia empirica aiuta a distinguere una leva di conversione legittima da una manipolativa, caso per caso."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Arunesh Mathur, Gunes Acar, Michael J. Friedman, Elena Lucherini, Jonathan Mayer, Marshini Chetty e Arvind Narayanan, «Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites», Proceedings of the ACM on Human-Computer Interaction, vol. 3, CSCW, 2019. Da leggere insieme a «Deceptive Patterns» di Harry Brignull, trattato altrove in questa raccolta, la fonte del termine che questo lavoro misura empiricamente."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "istanze di dark pattern trovate nel crawl",
+      "value": "1.818 istanze di dark pattern individuate su 53.000 pagine prodotto in circa 11.000 siti e-commerce, raggruppate in 15 tipi e 7 categorie"
+    }
+  ],
+  "wordCount": 696,
+  "readingMinutes": 4,
+  "related": [
+    "brignull-2010-deceptive-patterns"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "brignull-2010-deceptive-patterns",
+  "catalogId": "brignull-2010-deceptive-patterns",
+  "titleIt": "L'uomo che ha dato un nome a ogni trucco dell'interfaccia",
+  "titleOriginal": "Deceptive Patterns (originally Dark Patterns)",
+  "authors": [
+    "Brignull, Harry"
+  ],
+  "year": 2010,
+  "type": "articolo",
+  "venue": "deceptive.design",
+  "sourceUrl": "https://www.deceptive.design/",
+  "topics": [
+    "dark-pattern-etica",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Nel 2010 un designer britannico ha aperto un sito per raccogliere esempi di interfacce che ingannano deliberatamente chi le usa. Quel sito ha dato un nome a un problema che fino ad allora non ne aveva uno condiviso."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Harry Brignull ha coniato nel 2010 il termine «dark pattern» (oggi «deceptive pattern»), catalogando in una tassonomia pubblica i modi in cui un'interfaccia può essere progettata per far compiere a chi la usa un'azione che non avrebbe scelto con la stessa facilità se l'informazione fosse stata presentata in modo neutro."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Avere un vocabolario condiviso per queste tecniche trasforma una sensazione vaga — «questo flusso non mi convince» — in qualcosa che si può nominare, indicare e discutere con precisione in una revisione di design o con un cliente, invece di restare un disagio difficile da argomentare."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Brignull, un designer con formazione in psicologia cognitiva, notava che certe interfacce sembravano funzionare «troppo bene» per essere solo il risultato di un buon design: ottenevano il comportamento desiderato non rendendo facile l'alternativa, ma rendendola difficile da trovare o da capire. Mancava un vocabolario condiviso per discuterne, ed è quello il vuoto che ha colmato."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ha aperto un sito, inizialmente chiamato darkpatterns.org, per raccogliere e catalogare esempi reali di interfacce che usavano questo tipo di tecnica, dando a ciascun pattern un nome memorabile — dall'«amico nascosto» che ricicla i contatti della rubrica al «costo trojan» che aggiunge spese solo all'ultimo passaggio del checkout."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il lavoro ha prodotto la prima tassonomia pubblica di pattern manipolativi, con circa una dozzina di categorie inizialmente catalogate**, un vocabolario poi ripreso sia dalla stampa generalista sia dalla letteratura accademica — compreso lo studio di Mathur e colleghi, trattato altrove in questa raccolta, che cita esplicitamente questo lavoro come punto di partenza."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Dare un nome preciso a un fenomeno lo rende discutibile e contestabile in un modo che una sensazione vaga non permette: prima che esistesse il termine, chi si accorgeva di essere stato ingannato da un'interfaccia non aveva un modo rapido per descrivere cosa fosse successo, né per verificare se altri avessero notato lo stesso pattern altrove. La tassonomia ha reso visibile e comparabile qualcosa che prima restava un'irritazione isolata e senza nome."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Avere un nome preciso per un pattern — «costo trojan», «amico nascosto», «roach motel» — permette di segnalarlo in una revisione di design con la stessa esattezza con cui si segnala un bug tecnico, invece di descriverlo genericamente come «una cosa che non mi convince».",
+        "Vale la pena usare la tassonomia anche al contrario, come lista di controllo preventiva prima di lanciare una funzione: se il flusso che si sta progettando corrisponde a uno dei pattern catalogati, è il momento di chiedersi se l'obiettivo di business si può raggiungere altrettanto bene senza quella specifica tecnica.",
+        "Il cambio di nome da «dark pattern» a «deceptive pattern», avvenuto negli anni successivi, è di per sé un dato su come il linguaggio in questo campo continui a evolvere: vale la pena seguire la terminologia più recente quando si comunica con un team o un cliente, non fermarsi al primo termine incontrato."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un lavoro di catalogazione, non uno studio empirico con un metodo statistico: la tassonomia nasce dall'osservazione diretta di un professionista, non da una misurazione sistematica come quella di Mathur e colleghi, trattata altrove in questa raccolta, che se ne è servita come punto di partenza da verificare su scala. Vale anche la cautela che il nome stesso è cambiato nel tempo: da «dark pattern» a «deceptive pattern», per evitare l'associazione fra «dark» e connotazioni improprie legate al colore."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Nominare con precisione una tecnica manipolativa la rende discutibile e contestabile in modo molto più efficace di una sensazione vaga.",
+        "La tassonomia funziona anche come lista di controllo preventiva, prima ancora che come strumento di denuncia dopo il lancio.",
+        "Il vocabolario di questo campo continua a evolvere: vale la pena usare i termini più recenti, non i primi incontrati."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Harry Brignull, «Deceptive Patterns» (originariamente «Dark Patterns»), deceptive.design, dal 2010. Da leggere insieme a «Dark Patterns at Scale» di Mathur e colleghi, trattato altrove in questa raccolta, che misura empiricamente la diffusione dei pattern qui catalogati."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 646,
+  "readingMinutes": 4,
+  "related": [
+    "mathur-2019-dark-patterns-scale"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}

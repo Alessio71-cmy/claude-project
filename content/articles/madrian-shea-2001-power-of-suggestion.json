@@ -1,0 +1,103 @@
+{
+  "id": "madrian-shea-2001-power-of-suggestion",
+  "catalogId": "madrian-shea-2001-power-of-suggestion",
+  "titleIt": "Il valore che imposti di default è, per la maggior parte, il valore finale",
+  "titleOriginal": "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+  "authors": [
+    "Madrian, Brigitte C.",
+    "Shea, Dennis F."
+  ],
+  "year": 2001,
+  "type": "studio",
+  "venue": "Quarterly Journal of Economics",
+  "sourceUrl": "https://www.nber.org/papers/w7682",
+  "topics": [
+    "choice-architecture-nudge",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Cambiare l'iscrizione a un piano pensionistico da scelta attiva a iscrizione automatica non cambia nessuna opzione disponibile. Cambia solo chi deve fare qualcosa per uscirne — e questo basta a spostare il comportamento della grande maggioranza."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Quando l'iscrizione a un piano pensionistico aziendale passa da scelta attiva a iscrizione automatica con possibilità di uscita, la stragrande maggioranza dei nuovi assunti resta non solo iscritta, ma anche sui valori predefiniti specifici del programma — tasso di contribuzione e fondo di investimento — anche quando avrebbe potuto scegliere diversamente con lo stesso sforzo richiesto per uscire del tutto."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Estende il potere del default oltre le decisioni prese una volta sola, verso decisioni finanziarie ricorrenti nel tempo, ed è direttamente rilevante per qualunque flusso di onboarding con impostazioni preselezionate: mostra quanto a fondo, e su quanti parametri diversi, arriva l'effetto del valore predefinito."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Fino a questo studio, l'evidenza più nota sul potere dei default veniva da contesti di scelta singola come la donazione di organi. Madrian e Shea volevano verificare se lo stesso effetto reggesse in un contesto molto diverso: una decisione finanziaria complessa, ricorrente nel tempo, con conseguenze economiche dirette e misurabili per chi la prende."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno confrontato il comportamento di iscrizione al piano pensionistico 401(k) di un'azienda prima e dopo l'introduzione dell'iscrizione automatica, osservando non solo se i dipendenti restassero iscritti, ma anche se restassero sui valori predefiniti specifici — tasso di contribuzione e fondo di investimento — assegnati automaticamente al momento dell'iscrizione."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Circa il 75% dei nuovi assunti sotto iscrizione automatica è rimasto al tasso di contribuzione predefinito del 3%, e circa l'80% è rimasto nel fondo monetario predefinito** — nonostante entrambi i valori fossero facilmente modificabili con la stessa procedura richiesta per uscire dal piano del tutto."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'effetto non si limita alla decisione binaria «aderire o no», ma si estende a ogni singolo parametro configurato di default all'interno della scelta: il costo cognitivo di modificare un'impostazione, anche quando è basso in termini assoluti, resta comunque più alto del costo di lasciarla com'è. Basta questa piccola asimmetria a determinare l'esito per la grande maggioranza delle persone, indipendentemente da quale sarebbe stata la loro scelta se avessero dovuto decidere attivamente da zero."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Ogni impostazione preselezionata in un flusso di onboarding — non solo l'iscrizione o meno a un servizio, ma anche il piano tariffario suggerito, la frequenza delle notifiche, il livello di privacy — segue lo stesso pattern: la maggior parte di chi si iscrive resta su quel valore, non perché lo abbia scelto consapevolmente, ma perché cambiarlo richiede un passo attivo che la maggioranza non compie.",
+        "Succede lo stesso nei form a più passaggi con un'opzione pre-spuntata a metà percorso: anche quando è visibile e facilmente deselezionabile, chi sta completando il resto del flusso raramente torna indietro solo per correggerla, a meno di notarla nel momento esatto in cui appare.",
+        "Vale la pena distinguere fra usare questa leva per portare le persone verso un default che le avvantaggia — come in questo studio, dove il default aumentava il risparmio rispetto al non aderire affatto — e usarla per portarle verso un default che avvantaggia solo chi lo imposta: la meccanica psicologica è identica, l'effetto su chi la subisce no."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Il contesto è un singolo piano pensionistico aziendale statunitense, con un fondo monetario a basso rischio scelto come default dall'azienda stessa; l'entità dell'effetto può variare a seconda di quanto il default scelto sia già percepito come ragionevole da chi lo riceve. Vale anche la cautela che restare su un default non equivale automaticamente a un buon esito per chi lo subisce: in questo caso specifico, il tasso di contribuzione predefinito del 3% era comunque più basso di quanto molti esperti raccomandino."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il potere del default non riguarda solo la decisione «sì o no»: si estende a ogni singolo parametro impostato di default dentro quella scelta.",
+        "Il costo, anche minimo, di modificare un'impostazione basta a mantenere la maggioranza delle persone sul valore predefinito.",
+        "Restare sul default non è di per sé un buon risultato: dipende da quanto quel default specifico serve davvero a chi lo subisce."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Brigitte C. Madrian e Dennis F. Shea, «The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior», Quarterly Journal of Economics, vol. 116, n. 4, 2001, pp. 1149-1187. Da leggere insieme a «Do Defaults Save Lives?» di Johnson e Goldstein, già trattato in questa raccolta, che mostra lo stesso meccanismo in un contesto di scelta singola invece che ricorrente."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "permanenza sui valori predefiniti sotto iscrizione automatica",
+      "value": "circa il 75% dei nuovi assunti sotto iscrizione automatica è rimasto al tasso di contribuzione predefinito del 3%, e circa l'80% è rimasto nel fondo monetario predefinito"
+    }
+  ],
+  "wordCount": 698,
+  "readingMinutes": 4,
+  "related": [
+    "johnson-2003-do-defaults-save-lives"
+  ],
+  "generatedAt": "2026-08-16",
+  "model": "claude-sonnet-5"
+}
