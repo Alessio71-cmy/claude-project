@@ -1,0 +1,98 @@
+{
+  "id": "samuelson-zeckhauser-1988-status-quo-bias",
+  "catalogId": "samuelson-zeckhauser-1988-status-quo-bias",
+  "titleIt": "Preferiamo quello che già c'è, anche quando non è la scelta migliore",
+  "titleOriginal": "Status Quo Bias in Decision Making",
+  "authors": [
+    "Samuelson, William",
+    "Zeckhauser, Richard"
+  ],
+  "year": 1988,
+  "type": "studio",
+  "venue": "Journal of Risk and Uncertainty",
+  "sourceUrl": "https://link.springer.com/article/10.1007/BF00055564",
+  "topics": [
+    "bias-euristiche",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Cambia lavoro, cambia banca, cambia piano tariffario: razionalmente converrebbe spesso. Quasi nessuno lo fa. Un classico dell'economia comportamentale spiega perché restare fermi sembra sempre l'opzione più sicura."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Le persone tendono a preferire in modo sproporzionato l'opzione già in vigore rispetto ad alternative oggettivamente equivalenti o persino migliori, sia in scenari sperimentali controllati sia in scelte reali con conseguenze concrete, come i piani sanitari o pensionistici."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "È distinto dal più noto effetto del default: qui non si tratta di un valore preimpostato tecnicamente, ma della preferenza psicologica per «ciò che già è», rilevante ogni volta che un prodotto propone di far migrare utenti esistenti verso qualcosa di nuovo, anche quando quel nuovo è oggettivamente migliore."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Samuelson e Zeckhauser notavano che molte teorie economiche classiche assumevano che le persone scegliessero sempre l'opzione migliore disponibile, indipendentemente da quale fosse il punto di partenza. Volevano verificare se, in pratica, il solo fatto che un'opzione fosse già in vigore la rendesse psicologicamente più attraente, a parità di tutto il resto."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno condotto esperimenti con 486 studenti su otto scenari decisionali diversi, in cui veniva manipolato quale fra più opzioni comparabili fosse presentata come «quella attuale», misurando quanto questo cambiasse la scelta finale. Hanno poi confrontato questi risultati con evidenze da scelte reali, come l'adesione a piani sanitari e pensionistici in contesti aziendali."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Esperimenti su 486 studenti su otto scenari decisionali, insieme a evidenze da scelte reali su piani sanitari e pensionistici, mostrano una preferenza sproporzionata per l'opzione già in vigore rispetto ad alternative comparabili** — un pattern che si ripeteva sia nel laboratorio controllato sia nelle decisioni reali osservate."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il bias dello status quo nasce da una combinazione di più fattori: l'avversione alla perdita rende il possibile svantaggio di cambiare più saliente del possibile vantaggio; il rimpianto anticipato per una scelta attiva che va male pesa psicologicamente più del rimpianto per un'inazione che produce lo stesso esito negativo; e il solo sforzo cognitivo di valutare alternative, quando l'opzione attuale è già lì senza bisogno di scelta, scoraggia la ricerca di qualcosa di meglio."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Quando un prodotto propone di migrare gli utenti da un piano o da una funzione esistente a una versione nuova, anche oggettivamente migliore, deve aspettarsi resistenza proporzionata alla forza dello status quo, non solo alla qualità effettiva del cambiamento proposto: è per questo che una migrazione forzata genera più lamentele di una scelta volontaria, anche quando l'esito finale per l'utente è identico.",
+        "Proporre un cambiamento come opzione disponibile, lasciando lo status quo come alternativa esplicita e facilmente scelta, produce un'adozione molto più lenta di quanto la sola qualità del cambiamento suggerirebbe: se l'obiettivo di prodotto è davvero la migrazione, va progettata tenendo conto di questa resistenza, non ignorandola.",
+        "Il rovescio della medaglia riguarda la propria base di utenti esistenti: una volta che qualcuno ha adottato il tuo prodotto come lo status quo della propria vita digitale, la stessa forza psicologica che rende difficile farlo migrare verso qualcos'altro lo rende anche più resistente a passare a un concorrente."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Gli esperimenti su studenti riguardano scelte ipotetiche a bassa posta in gioco reale, e anche se lo studio le integra con evidenze da scelte reali su piani sanitari e pensionistici, l'entità precisa dell'effetto varia molto a seconda del dominio e di quanto le alternative siano effettivamente comparabili fra loro. Vale anche la cautela che questo lavoro descrive un pattern comportamentale, non prescrive quando sia opportuno sfruttarlo: usarlo per trattenere utenti in un piano peggiore semplicemente perché è quello attuale è un impiego eticamente più discutibile di quello di riconoscere che un cambiamento proposto incontrerà resistenza indipendentemente dalla sua qualità."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "L'opzione già in vigore viene preferita in modo sproporzionato rispetto ad alternative comparabili, anche quando oggettivamente migliori.",
+        "Una migrazione forzata genera più resistenza di una scelta volontaria, anche a parità di esito finale per l'utente.",
+        "Lo stesso meccanismo che rende difficile far migrare utenti verso qualcosa di nuovo li rende più resistenti a passare a un concorrente."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "William Samuelson e Richard Zeckhauser, «Status Quo Bias in Decision Making», Journal of Risk and Uncertainty, vol. 1, 1988, pp. 7-59. Da leggere insieme a «Do Defaults Save Lives?» di Johnson e Goldstein, già trattato in questa raccolta: quel lavoro riguarda l'inerzia verso un valore preimpostato, questo la preferenza psicologica più generale per ciò che già è, anche in assenza di un default tecnico."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 688,
+  "readingMinutes": 4,
+  "related": [
+    "johnson-2003-do-defaults-save-lives"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

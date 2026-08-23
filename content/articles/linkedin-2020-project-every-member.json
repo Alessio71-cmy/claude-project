@@ -1,0 +1,98 @@
+{
+  "id": "linkedin-2020-project-every-member",
+  "catalogId": "linkedin-2020-project-every-member",
+  "titleIt": "Il momento in cui un nuovo iscritto rischia di sparire, e come intercettarlo",
+  "titleOriginal": "Bringing Project Every Member to life",
+  "authors": [
+    "Saint-Jacques, Guillaume",
+    "Ambler, Stuart"
+  ],
+  "year": 2020,
+  "type": "case-study",
+  "venue": "LinkedIn Engineering Blog",
+  "sourceUrl": "https://engineering.linkedin.com/blog/2020/bringing-project-every-member-to-life",
+  "topics": [
+    "case-study-prodotto",
+    "onboarding-attivazione"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Chi si iscrive a un social network e non fa nulla nella prima settimana, molto probabilmente non tornerà. LinkedIn ha costruito un intero progetto attorno a quella singola settimana."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Project Every Member è un'iniziativa di LinkedIn che invia una o due notifiche push mirate nella prima settimana di iscrizione, pensate per spingere i nuovi membri a compiere azioni di costruzione della rete — aggiungere un collegamento, seguire un'azienda — con un'attenzione particolare a chi è più a rischio di abbandonare presto."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Non tratta l'onboarding come un flusso uguale per tutti: parte dall'idea che alcuni segmenti di nuovi utenti abbiano più bisogno di una spinta di altri, e concentra lì l'intervento invece di distribuirlo in modo uniforme su tutta la base. È un modello utile ogni volta che il tasso di abbandono nella prima settimana non è uguale per tutti i segmenti di utenti."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Il team di LinkedIn partiva da un'osservazione comune a molti prodotti con una rete sociale al centro: il valore del prodotto per un nuovo iscritto dipende da quanto velocemente costruisce connessioni, ma è proprio nella primissima fase, prima che quel valore sia visibile, che il rischio di abbandono è più alto. Il progetto nasce per intervenire specificamente in quella finestra."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno progettato e testato con un esperimento controllato l'invio di una o due notifiche push nella prima settimana dall'iscrizione, mirate a spingere azioni specifiche di costruzione della rete, misurando l'effetto non solo in media su tutta la base di nuovi utenti, ma segmento per segmento, con un'attenzione esplicita a chi mostrava già segnali di rischio di abbandono."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Le notifiche mirate hanno migliorato l'engagement dei nuovi iscritti, con l'effetto più marcato proprio fra i membri a più alto rischio di abbandono nella prima settimana** — il segmento che, senza intervento, aveva le probabilità più basse di restare attivo sulla piattaforma."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'idea di fondo è che l'engagement medio nasconde differenze importanti: un intervento che alza leggermente la media su tutti gli utenti può lasciare intatto, o persino aggravare, il divario fra chi si attiva facilmente e chi rischia di sparire. Misurare e ottimizzare l'effetto per il segmento più a rischio, invece che per la media, richiede un metodo di misurazione diverso, orientato all'equità del risultato oltre che alla sua entità complessiva."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Il primo passo pratico è capire se il proprio tasso di abbandono nella prima settimana è uniforme o se nasconde segmenti molto diversi fra loro: senza questa distinzione, un intervento di onboarding generico rischia di funzionare bene in media e male esattamente dove servirebbe di più.",
+        "Due notifiche, non venti: il caso mostra che l'intervento efficace era minimo e mirato, non un flusso di messaggi crescente pensato per massimizzare l'attenzione a ogni costo. Un'unica azione ben scelta, proposta al momento giusto, batte una sequenza di solleciti generici.",
+        "Chi progetta un onboarding può prendere in prestito il criterio di misurazione, non solo la tattica: valutare un intervento guardando anche il suo effetto sul segmento più fragile, non solo sulla media, cambia spesso quale versione del flusso viene scelta come vincente in un test."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un post tecnico del team che ha costruito il progetto, quindi descrive il risultato dal proprio punto di vista, senza il dettaglio quantitativo completo che renderebbe possibile confrontarlo con altri interventi simili in modo indipendente. Vale anche la cautela che identificare in anticipo chi è a rischio di abbandono richiede dati comportamentali sufficienti nei primissimi giorni: un prodotto con pochissimi segnali disponibili in quella finestra ha meno margine per applicare lo stesso tipo di targeting."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Il tasso di abbandono medio nella prima settimana nasconde spesso segmenti molto diversi: vale la pena scomporlo prima di intervenire.",
+        "Un intervento minimo e mirato — una o due notifiche, non un flusso continuo — può bastare, se arriva al momento giusto.",
+        "Misurare l'effetto sul segmento più a rischio, non solo sulla media, cambia spesso quale versione di un test risulta vincente."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Guillaume Saint-Jacques e Stuart Ambler, «Bringing Project Every Member to life», LinkedIn Engineering Blog, 2020, con il paper metodologico collegato «Fairness through Experimentation» (arXiv 2002.05819). Da leggere insieme a «A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications» di Duolingo, trattato altrove in questa raccolta, altro caso di notifiche ottimizzate algoritmicamente nella fase iniziale d'uso."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 668,
+  "readingMinutes": 4,
+  "related": [
+    "duolingo-2020-bandit-notifications"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

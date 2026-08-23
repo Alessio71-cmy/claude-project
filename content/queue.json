@@ -531,6 +531,92 @@
       "topics": [
         "accessibilita-cognitiva"
       ]
+    },
+    {
+      "id": "linkedin-2020-project-every-member",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "onboarding-attivazione"
+      ]
+    },
+    {
+      "id": "duolingo-2020-bandit-notifications",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "attenzione-economia-attenzione"
+      ]
+    },
+    {
+      "id": "zhang-2022-airbnb-image-analytics",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto"
+      ]
+    },
+    {
+      "id": "pinterest-2025-user-journeys",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "case-study-prodotto",
+        "attenzione-economia-attenzione"
+      ]
+    },
+    {
+      "id": "nunes-dreze-2006-endowed-progress",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "onboarding-attivazione"
+      ]
+    },
+    {
+      "id": "song-shin-2022-uncanny-valley-chatbot",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "applicabile-subito",
+      "topics": [
+        "emozione-fiducia"
+      ]
+    },
+    {
+      "id": "samuelson-zeckhauser-1988-status-quo-bias",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "bias-euristiche",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "flesch-1948-readability-yardstick",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "accessibilita-cognitiva",
+        "classici-fondativi"
+      ]
+    },
+    {
+      "id": "mark-gudith-klocke-2008-cost-of-interrupted-work",
+      "readingMinutes": 4,
+      "depth": "breve",
+      "relevance": "fondamentale",
+      "topics": [
+        "attenzione-economia-attenzione"
+      ]
     }
   ]
 }

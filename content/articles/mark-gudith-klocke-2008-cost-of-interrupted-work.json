@@ -1,0 +1,103 @@
+{
+  "id": "mark-gudith-klocke-2008-cost-of-interrupted-work",
+  "catalogId": "mark-gudith-klocke-2008-cost-of-interrupted-work",
+  "titleIt": "Finisci prima dopo un'interruzione. Ma a quale prezzo",
+  "titleOriginal": "The Cost of Interrupted Work: More Speed and Stress",
+  "authors": [
+    "Mark, Gloria",
+    "Gudith, Daniela",
+    "Klocke, Ulrich"
+  ],
+  "year": 2008,
+  "type": "paper",
+  "venue": "Proceedings of CHI 2008 (ACM SIGCHI)",
+  "sourceUrl": "https://www.ics.uci.edu/~gmark/chi08-mark.pdf",
+  "topics": [
+    "attenzione-economia-attenzione"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Un'email che spunta mentre lavori sembra rallentarti. Uno studio in un ufficio simulato mostra che, sorprendentemente, i compiti interrotti vengono finiti più in fretta — non più lentamente. Il costo si vede altrove."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "In uno studio condotto in un ufficio simulato, i compiti interrotti da altre attività sono stati completati più rapidamente di quelli portati a termine senza interruzioni — un effetto di accelerazione compensatoria — ma con livelli più alti di stress, frustrazione e pressione del tempo percepiti da chi li svolgeva."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Mette in discussione l'assunzione più intuitiva sul costo delle interruzioni — che rallentino visibilmente — e mostra dove va cercato il vero costo: non nella velocità di completamento, ma in una metrica molto più difficile da vedere nei dati di prodotto standard."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Molte discussioni sul costo delle interruzioni al lavoro partono dall'assunzione che interrompere qualcuno lo rallenti visibilmente. Mark e colleghi volevano misurare cosa succede realmente quando un compito viene interrotto e poi ripreso, in un ambiente di lavoro digitale realistico con email, messaggi e altre fonti di distrazione simultanee."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno condotto uno studio in un ufficio simulato, osservando persone impegnate in compiti di lavoro reale mentre venivano sottoposte a interruzioni controllate — email, messaggi — confrontando il tempo di completamento e i livelli di stress, frustrazione, sforzo e pressione del tempo percepiti rispetto a condizioni senza interruzioni."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**I compiti interrotti sono stati completati circa il 7% più velocemente rispetto a quelli senza interruzioni, ma con livelli più alti di stress, frustrazione, pressione del tempo e sforzo percepiti** — chi veniva interrotto lavorava più in fretta per compensare il tempo perso, non più lentamente come si potrebbe intuitivamente pensare."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Di fronte a un'interruzione che sottrae tempo a un compito con una scadenza percepita, le persone tendono a compensare aumentando il ritmo di lavoro una volta tornate al compito originale, invece di accettare semplicemente un ritardo. Questa compensazione ha però un costo psicologico misurabile: mantenere un ritmo più veloce sotto pressione richiede uno sforzo cognitivo aggiuntivo che si traduce in stress e frustrazione più alti, anche se il tempo totale di completamento non ne risente in modo visibile."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un prodotto che misura solo il tempo di completamento di un compito, senza guardare anche lo stress percepito da chi lo usa, rischia di concludere che le proprie notifiche non hanno un costo reale: questo studio mostra che il costo c'è, semplicemente non si vede nella metrica più ovvia da misurare.",
+        "Le notifiche che interrompono un compito lungo e concentrato — scrivere, programmare, analizzare dati — meritano più cautela di quelle che arrivano durante momenti già frammentati dell'attività, perché è nei compiti a maggiore concentrazione che il costo psicologico della compensazione si accumula di più.",
+        "Chi progetta uno stato di «non disturbare» o una modalità di concentrazione per un prodotto di produttività ha qui un argomento diretto per giustificarne l'esistenza: non serve a far finire prima i compiti, serve a farli finire con meno stress accumulato lungo il percorso."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È uno studio condotto in un ufficio simulato con compiti assegnati dai ricercatori, non nell'ambiente di lavoro reale e prolungato di chi partecipava, e l'entità della compensazione misurata potrebbe non generalizzarsi identica a compiti molto più lunghi o a interruzioni ripetute molte volte nello stesso giorno. Vale anche la cautela esplicita sulla cifra dei «23 minuti per tornare concentrati», spesso associata a questo studio nelle discussioni popolari: viene in realtà da un lavoro successivo della stessa Mark, non da questo paper specifico, ed è per questo che non è stata inclusa qui."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un compito interrotto viene spesso completato più in fretta, non più lentamente: le persone compensano il tempo perso accelerando.",
+        "Il vero costo dell'interruzione è lo stress e la frustrazione accumulati, una misura che il solo tempo di completamento non cattura.",
+        "Una funzione di «non disturbare» in un prodotto di produttività si giustifica con il benessere di chi lavora, non con la velocità di completamento."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Gloria Mark, Daniela Gudith e Ulrich Klocke, «The Cost of Interrupted Work: More Speed and Stress», Proceedings of CHI 2008 (ACM SIGCHI). Da leggere insieme a «F-Shaped Pattern For Reading Web Content» di Nielsen, già trattato in questa raccolta, altro studio su come l'attenzione limitata cambia il modo in cui le persone lavorano e leggono."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "differenza nel tempo di completamento fra compiti interrotti e non interrotti",
+      "value": "circa il 7% più velocemente rispetto a quelli senza interruzioni, ma con livelli più alti di stress, frustrazione, pressione del tempo e sforzo percepiti"
+    }
+  ],
+  "wordCount": 667,
+  "readingMinutes": 4,
+  "related": [
+    "nielsen-2006-f-shaped-pattern"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

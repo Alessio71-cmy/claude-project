@@ -1,0 +1,103 @@
+{
+  "id": "pinterest-2025-user-journeys",
+  "catalogId": "pinterest-2025-user-journeys",
+  "titleIt": "Notificare in base a cosa sta cercando di fare, non a cosa gli piace",
+  "titleOriginal": "Identify User Journeys at Pinterest",
+  "authors": [
+    "Zhu, Lin",
+    "Yang, Jaewon"
+  ],
+  "year": 2025,
+  "type": "case-study",
+  "venue": "Pinterest Engineering Blog",
+  "sourceUrl": "https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42",
+  "topics": [
+    "case-study-prodotto",
+    "attenzione-economia-attenzione"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Sapere che a qualcuno piacciono le ricette non basta a sapere cosa notificargli oggi. Pinterest ha smesso di guardare gli interessi generali e ha iniziato a guardare il percorso specifico in corso."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Pinterest ha sostituito le notifiche basate sugli interessi generali dell'utente con notifiche basate sul percorso specifico che sta seguendo in quel momento — per esempio pianificare un matrimonio o ristrutturare una cucina — ottenendo miglioramenti misurabili su più metriche di coinvolgimento rispetto all'approccio precedente."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Distingue due cose che spesso vengono trattate come la stessa: un interesse generico e permanente, e un progetto specifico e limitato nel tempo. La differenza cambia radicalmente cosa vale la pena mostrare o notificare in un dato momento, in qualunque prodotto con un sistema di personalizzazione."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Un sistema di notifiche basato sugli interessi a lungo termine di un utente — per esempio «piace la cucina» — tende a restare statico anche quando quell'interesse, in un momento specifico, riguarda un progetto concreto e limitato nel tempo, che si esaurisce una volta raggiunto l'obiettivo. Il team di Pinterest voleva rendere le notifiche sensibili a questa differenza."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno costruito un sistema per identificare automaticamente i «percorsi utente» — sequenze di comportamento che indicano un progetto specifico e limitato nel tempo, distinto da un interesse generico e permanente — e hanno usato questi percorsi, invece dei soli interessi statici, per decidere contenuto e tempistica delle notifiche via email e push."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Rispetto a notifiche basate solo sugli interessi, le notifiche basate sul percorso utente hanno prodotto un tasso di click sulle email più alto dell'88%, un tasso di apertura delle notifiche push più alto del 32% e un aumento del 23% nel tasso di feedback positivo degli utenti.**"
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Un interesse generico non dice se in questo momento la persona sta effettivamente cercando qualcosa di specifico o sta solo scorrendo contenuti per svago; un percorso invece cattura l'intento attivo e limitato nel tempo. È per questo che una notifica agganciata al percorso specifico si sente rilevante: sta rispondendo a qualcosa che l'utente sta effettivamente cercando di fare in quel momento, non a un tema che gli piace in generale."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Distinguere un interesse permanente da un progetto in corso cambia cosa vale la pena notificare: un contenuto legato a un progetto in fase di conclusione ha una finestra di rilevanza molto più stretta e urgente di un contenuto legato a un interesse generico senza scadenza.",
+        "Chi progetta un sistema di raccomandazione basato solo su categorie di interesse dichiarate o inferite può iniziare a cercare segnali di sequenza — più azioni collegate in un breve periodo di tempo — come indizio che è in corso un percorso specifico, invece di trattare ogni interazione come un punto isolato.",
+        "Il salto nei tassi di apertura, molto più marcato per l'email che per il push, suggerisce qualcosa anche sul canale: probabilmente un'email specifica su un progetto concreto si distingue di più dal rumore di fondo, mentre una notifica push gode già di per sé di un'attenzione più immediata a prescindere dal contenuto."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Le cifre riportate vengono da un post ufficiale del team, non da un paper accademico con revisione paritaria, quindi non è possibile verificarne il dettaglio metodologico con lo stesso livello di trasparenza; vanno lette come un risultato aziendale dichiarato, non come uno studio indipendente replicabile. Vale anche la cautela che identificare un percorso utente in modo affidabile richiede una quantità di dati comportamentali che solo prodotti con un volume di interazioni molto alto possono generare facilmente."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un interesse permanente e un progetto specifico limitato nel tempo sono due cose diverse, anche quando riguardano lo stesso tema.",
+        "Agganciare una notifica al percorso attivo, non al solo interesse dichiarato, ha prodotto miglioramenti su più metriche contemporaneamente.",
+        "Il canale conta: lo stesso principio ha avuto un effetto molto più marcato sull'email che sulla notifica push."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Lin Zhu e Jaewon Yang, «Identify User Journeys at Pinterest», Pinterest Engineering Blog, 2025. Da leggere insieme a «A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications» di Duolingo, trattato altrove in questa raccolta, altro caso di ottimizzazione delle notifiche basata sul comportamento individuale."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "miglioramento delle metriche con notifiche basate sul percorso utente contro solo interessi",
+      "value": "un tasso di click sulle email più alto dell'88%, un tasso di apertura delle notifiche push più alto del 32% e un aumento del 23% nel tasso di feedback positivo degli utenti"
+    }
+  ],
+  "wordCount": 641,
+  "readingMinutes": 4,
+  "related": [
+    "duolingo-2020-bandit-notifications"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

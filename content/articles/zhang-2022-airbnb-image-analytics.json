@@ -1,0 +1,105 @@
+{
+  "id": "zhang-2022-airbnb-image-analytics",
+  "catalogId": "zhang-2022-airbnb-image-analytics",
+  "titleIt": "La foto giusta riempie una casa più del prezzo giusto",
+  "titleOriginal": "What Makes a Good Image? Airbnb Demand Analytics Leveraging Interpretable Image Features",
+  "authors": [
+    "Zhang, Shunyuan",
+    "Lee, Dokyun",
+    "Singh, Param Vir",
+    "Srinivasan, Kannan"
+  ],
+  "year": 2022,
+  "type": "studio",
+  "venue": "Management Science",
+  "sourceUrl": "https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4175",
+  "topics": [
+    "case-study-prodotto"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Migliaia di annunci Airbnb, la stessa casa, la stessa posizione, lo stesso prezzo. Cambia solo la fotografia. Uno studio ha misurato quanto conta davvero."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Uno studio su 7.423 immobili osservati per 16 mesi mostra che gli annunci Airbnb con foto verificate o professionali hanno un tasso di occupazione significativamente più alto di annunci comparabili con foto amatoriali, identificando anche quali caratteristiche visive specifiche dell'immagine sono associate a una domanda maggiore."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Dà una misura rigorosa, non un'intuizione, a qualcosa che riguarda ogni marketplace con inserzioni fotografiche: quanto conta davvero l'immagine, distinta dal prezzo e dalla descrizione, nella decisione di chi guarda un annuncio."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Gli host potevano già intuire che foto migliori aiutassero le prenotazioni, ma mancava una misura rigorosa di quanto contasse esattamente, e soprattutto quali caratteristiche specifiche dell'immagine — composizione, colore, disposizione degli elementi — fossero effettivamente collegate alla domanda, distinte dalla qualità percepita in generale.",
+        "Il problema non era solo accademico: con milioni di annunci in competizione per l'attenzione di chi cerca un alloggio, capire quali elementi visivi specifici spostano davvero la decisione, invece di limitarsi a un generico consiglio di «usare foto belle», ha un valore pratico diretto sia per gli host sia per la piattaforma stessa."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Gli autori hanno analizzato un campione di 7.423 immobili su 16 mesi, incrociando i dati di occupazione con caratteristiche interpretabili delle immagini degli annunci — estratte con tecniche di analisi automatica — per isolare l'effetto delle foto dal resto delle caratteristiche dell'annuncio, come prezzo, posizione e recensioni."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Le foto verificate o professionali sono state associate a un tasso di occupazione superiore dell'8,98%** rispetto ad annunci comparabili senza quel tipo di immagini, un effetto misurato al netto delle altre caratteristiche dell'annuncio."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "In un mercato dove chi cerca un alloggio deve scegliere fra decine di opzioni visivamente simili nella descrizione testuale, l'immagine diventa spesso il primo e più veloce filtro di giudizio, prima ancora di leggere i dettagli. Una foto tecnicamente più curata comunica implicitamente anche altre informazioni — l'attenzione dell'host, l'affidabilità dell'esperienza — che il testo dell'annuncio da solo fatica a trasmettere con la stessa immediatezza."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "In qualunque marketplace con inserzioni fotografiche — annunci immobiliari, e-commerce di seconda mano, portali di servizi — la qualità tecnica della foto principale è spesso la leva più sottovalutata rispetto a prezzo e descrizione, nonostante sia quella che interviene per prima nella decisione di aprire o scorrere oltre un annuncio.",
+        "Non tutte le foto professionali sono uguali: lo studio isola caratteristiche specifiche — composizione, colore, distinzione fra soggetto e sfondo — che è possibile insegnare anche a chi scatta con uno smartphone, senza bisogno di un fotografo professionista per ogni singolo scatto.",
+        "Chi gestisce un catalogo con molte inserzioni di qualità fotografica disomogenea ha qui un argomento basato su dati per giustificare linee guida fotografiche per chi carica i contenuti, invece di lasciare la scelta interamente alla sensibilità individuale di ciascun host o venditore."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "Lo studio misura una correlazione fra caratteristiche dell'immagine e tasso di occupazione controllando per altre variabili osservabili, ma resta uno studio osservazionale su dati di mercato reale, non un esperimento randomizzato in cui le foto sono state assegnate a caso agli annunci: è possibile che host con foto migliori differiscano sistematicamente anche in altri modi non misurati. Vale anche la cautela che il contesto è specifico agli affitti brevi: l'entità dell'effetto in altri tipi di marketplace fotografico può essere diversa."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "La qualità dell'immagine principale ha un effetto misurabile sulla domanda, distinto e aggiuntivo rispetto a prezzo e descrizione.",
+        "Non serve solo una foto «migliore» in generale: caratteristiche specifiche come composizione e colore sono ciò che effettivamente correla con la domanda.",
+        "È uno studio osservazionale, non un esperimento: mostra una correlazione robusta, non una prova diretta di causalità isolata da ogni altro fattore."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Shunyuan Zhang, Dokyun Lee, Param Vir Singh e Kannan Srinivasan, «What Makes a Good Image? Airbnb Demand Analytics Leveraging Interpretable Image Features», Management Science, vol. 68, n. 8, 2022, pp. 5644-5666. Da leggere insieme a «Artwork Personalization at Netflix», già trattato in questa raccolta, altro caso in cui l'elemento visivo di un catalogo condiziona la decisione più del contenuto testuale."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "differenza nel tasso di occupazione con foto verificate/professionali",
+      "value": "le foto verificate/professionali sono state associate a un tasso di occupazione superiore dell'8,98%"
+    }
+  ],
+  "wordCount": 656,
+  "readingMinutes": 4,
+  "related": [
+    "netflix-2017-artwork-personalization"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

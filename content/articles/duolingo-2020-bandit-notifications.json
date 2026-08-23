@@ -1,0 +1,102 @@
+{
+  "id": "duolingo-2020-bandit-notifications",
+  "catalogId": "duolingo-2020-bandit-notifications",
+  "titleIt": "L'algoritmo che decide quando (non) disturbarti",
+  "titleOriginal": "A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications",
+  "authors": [
+    "Yancey, Kevin P."
+  ],
+  "year": 2020,
+  "type": "paper",
+  "venue": "Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD 2020)",
+  "sourceUrl": "https://research.duolingo.com/papers/yancey.kdd20.pdf",
+  "topics": [
+    "case-study-prodotto",
+    "attenzione-economia-attenzione"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Ogni notifica che non apri insegna qualcosa a un algoritmo. Duolingo ha costruito un sistema che impara quando è il momento giusto per farsi sentire — e quando è meglio stare zitto."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Un algoritmo bandit sviluppato dal team di machine learning di Duolingo sceglie tempistica e contenuto delle notifiche ricorrenti in modo personalizzato per ogni utente, imparando dal comportamento passato quali notifiche funzionano e quali no, con l'obiettivo di aumentare la ritenzione dei nuovi utenti rispetto a un sistema già efficace."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Mostra che esiste un intero metodo, non solo un test A/B occasionale, dedicato specificamente alla domanda «quando è il momento giusto per notificare questa persona»: utile per chiunque iteri su un sistema di notifiche oltre le regole fisse decise una volta e mai riviste."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Le notifiche push sono una delle leve di retention più dirette per un'app che dipende dall'uso quotidiano, ma anche una delle più delicate: troppe o mal tempificate spingono a disattivarle del tutto. Il team di Duolingo cercava un modo per ottimizzare questa leva in modo continuo, non con regole fisse decise una volta per tutte."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno sviluppato e testato un algoritmo bandit — una famiglia di metodi che bilancia lo sfruttare ciò che già funziona con l'esplorare nuove opzioni — chiamato «sleeping, recovering bandit», pensato specificamente per il problema delle notifiche ricorrenti, dove le stesse opzioni non sono sempre disponibili nello stesso momento e l'efficacia di una notifica può recuperare nel tempo dopo essere stata provata."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**L'algoritmo ha prodotto un aumento del 2% nella ritenzione dei nuovi utenti rispetto a una baseline già forte** — un miglioramento che sembra piccolo isolatamente, ma che si somma a ogni altro intervento di prodotto su una base di utenti molto ampia."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "A differenza di una regola fissa — «manda una notifica alle 19:00 se l'utente non ha fatto la lezione» — un bandit apprende continuamente quale scelta funziona meglio per ogni singolo utente, aggiornando la stima man mano che osserva le risposte. Il termine «recovering» descrive proprio la capacità del sistema di recuperare un'opzione scartata in precedenza se le condizioni cambiano, invece di eliminarla per sempre dopo un primo esito negativo."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Chi gestisce un sistema di notifiche con poche regole fisse — «manda sempre alle 9 del mattino» — sta lasciando sul tavolo esattamente il tipo di ottimizzazione che questo lavoro dimostra possibile: la stessa notifica non ha la stessa efficacia per ogni persona, né nello stesso momento per la stessa persona.",
+        "Non serve costruire subito un sistema di machine learning complesso per applicare l'idea di fondo: anche un test più semplice che varia sistematicamente tempistica e contenuto delle notifiche, misurando l'effetto sulla ritenzione invece che solo sul tasso di apertura, cattura una parte dello stesso principio.",
+        "Un miglioramento del 2% sulla ritenzione sembra modesto letto isolatamente, ma va misurato contro il costo di ottenerlo altrove: spesso è più economico ottimizzare una leva che il prodotto controlla già, come le notifiche, che costruire una funzione nuova da zero per lo stesso guadagno."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un sistema costruito su una base di utenti enorme, dove anche un guadagno percentuale piccolo giustifica l'investimento in un'infrastruttura di sperimentazione sofisticata; per un prodotto con una base utenti molto più piccola, lo stesso investimento potrebbe non ripagarsi altrettanto rapidamente. Vale anche la cautela che il miglioramento è misurato contro una baseline descritta come già forte: l'algoritmo rappresenta un guadagno incrementale su un sistema di notifiche già curato, non un punto di partenza da zero."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Ottimizzare tempistica e contenuto delle notifiche è un problema continuo, non una regola fissa da impostare una volta.",
+        "Un sistema che «dimentica» un'opzione scartata troppo presto rischia di perdere efficacia se le condizioni dell'utente cambiano nel tempo.",
+        "Anche un guadagno percentuale piccolo su una leva già esistente può valere più di una funzione nuova costruita da zero."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Kevin P. Yancey e colleghi del team di machine learning di Duolingo, «A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications», Proceedings of KDD 2020 (ACM SIGKDD). Da leggere insieme a «Bringing Project Every Member to life» di LinkedIn, trattato altrove in questa raccolta, altro caso di notifiche mirate nella fase iniziale d'uso di un prodotto."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "aumento della ritenzione nuovi utenti con l'algoritmo bandit",
+      "value": "aumento del 2% nella ritenzione dei nuovi utenti rispetto a una baseline già forte"
+    }
+  ],
+  "wordCount": 651,
+  "readingMinutes": 4,
+  "related": [
+    "linkedin-2020-project-every-member"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

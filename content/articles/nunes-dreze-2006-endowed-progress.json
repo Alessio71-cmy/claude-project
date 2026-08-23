@@ -1,0 +1,103 @@
+{
+  "id": "nunes-dreze-2006-endowed-progress",
+  "catalogId": "nunes-dreze-2006-endowed-progress",
+  "titleIt": "Partire già a due timbri su dieci ti fa finire prima la tessera",
+  "titleOriginal": "The Endowed Progress Effect: How Artificial Advancement Increases Effort",
+  "authors": [
+    "Nunes, Joseph C.",
+    "Drèze, Xavier"
+  ],
+  "year": 2006,
+  "type": "studio",
+  "venue": "Journal of Consumer Research",
+  "sourceUrl": "https://academic.oup.com/jcr/article-abstract/32/4/504/1787425",
+  "topics": [
+    "onboarding-attivazione"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Una tessera fedeltà da otto lavaggi vuota, e una da dieci lavaggi con due timbri già dati in regalo: lo sforzo richiesto per finire è identico. Il tasso di completamento no."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Dare un vantaggio di partenza artificiale verso un obiettivo, pur mantenendo identico lo sforzo effettivo richiesto per completarlo, aumenta sensibilmente il tasso di completamento: è l'effetto del progresso «regalato», distinto sia dal semplice obiettivo vicino sia dallo sforzo reale rimasto."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Si applica direttamente a checklist di onboarding, barre di completamento profilo e programmi fedeltà: mostra che il punto di partenza percepito, non solo il numero di passi restanti, cambia quante persone arrivano fino in fondo."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Nunes e Drèze si interrogavano su un dettaglio spesso trascurato nei programmi fedeltà a tessera: il numero totale di passi richiesti conta, ma conta anche se quei passi partono da zero o se alcuni sono già stati «regalati» in partenza, anche quando il numero di azioni ancora da compiere è identico nei due casi."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno condotto un esperimento sul campo con tessere fedeltà reali di un autolavaggio, distribuendo due versioni: una tessera da otto timbri necessari, consegnata vuota, e un'altra da dieci timbri necessari, consegnata con due timbri già apposti. In entrambi i casi restavano da fare esattamente otto lavaggi per ottenere il premio."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il gruppo che partiva da zero timbri su otto necessari ha completato la tessera nel 19% dei casi, contro il 34% del gruppo che partiva già con 2 timbri su 10 necessari** — con lo stesso numero di lavaggi richiesti in entrambi i casi, quasi il doppio del tasso di completamento a parità di sforzo reale."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Il progresso percepito, non solo l'obiettivo in sé, motiva l'impegno: vedere una tessera già parzialmente compilata attiva la sensazione di essere già dentro il compito, non di doverlo iniziare da zero, anche quando il numero di azioni concrete che restano da fare è identico. Aver già qualcosa in mano spinge a completare più del puro calcolo razionale dello sforzo residuo."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un profilo utente che al momento della registrazione mostra già «la tua email conta come primo passo completato» su una barra di completamento, invece di partire visivamente da zero, sfrutta esattamente questo meccanismo: lo sforzo restante è identico, ma la sensazione di essere già a metà cambia il comportamento.",
+        "Un onboarding a cinque passaggi che presenta un sesto passaggio già spuntato in automatico — per esempio «hai già scaricato l'app» — parte con lo stesso vantaggio artificiale della tessera con due timbri regalati, e secondo questo studio non è un dettaglio cosmetico ininfluente.",
+        "C'è un limite a quanto artificiale può essere il regalo prima che diventi percepibile come un trucco: il vantaggio iniziale deve restare credibile e proporzionato, altrimenti rischia di produrre l'effetto opposto — diffidenza invece di motivazione."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "L'esperimento riguarda un contesto specifico — un premio fisico a bassa posta in gioco, un programma fedeltà locale — con partecipanti che ricevevano il vantaggio di partenza senza doverlo in alcun modo guadagnare; non è chiaro quanto l'effetto regga identico dove il vantaggio iniziale viene percepito come immeritato o arbitrario. Vale anche la cautela che il fenomeno è concettualmente vicino, ma distinto, dal goal-gradient di Kivetz già in catalogo: qui l'accento è sul punto di partenza percepito, non sull'accelerazione dello sforzo mano a mano che ci si avvicina al traguardo.",
+        "C'è infine una domanda che lo studio originale non affronta direttamente: cosa succede quando le persone si accorgono esplicitamente del meccanismo, per esempio dopo averlo letto in un articolo come questo. È plausibile che l'effetto si attenui una volta reso trasparente, ma non è la stessa cosa di dimostrare che sparisca del tutto: molti bias documentati in questa raccolta restano parzialmente operativi anche in chi li conosce, perché agiscono a un livello più immediato del ragionamento esplicito."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Un vantaggio di partenza, anche puramente simbolico, quasi raddoppia il tasso di completamento a parità di sforzo reale richiesto.",
+        "Ciò che conta non è solo il numero di passi restanti, ma la sensazione di essere già dentro il compito invece che a inizio percorso.",
+        "Il vantaggio regalato deve restare credibile: se percepito come un trucco evidente, rischia di produrre diffidenza invece di motivazione."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Joseph C. Nunes e Xavier Drèze, «The Endowed Progress Effect: How Artificial Advancement Increases Effort», Journal of Consumer Research, vol. 32, n. 4, 2006, pp. 504-512. Da leggere insieme a «Goal Gradient» di Kivetz, già trattato in questa raccolta, che descrive il meccanismo complementare dell'accelerazione dello sforzo vicino al traguardo."
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "tasso di completamento tessera con e senza vantaggio di partenza",
+      "value": "il gruppo che partiva da zero timbri su otto necessari ha completato la tessera nel 19% dei casi, contro il 34% del gruppo che partiva già con 2 timbri su 10 necessari, con lo stesso numero di lavaggi richiesti in entrambi i casi"
+    }
+  ],
+  "wordCount": 704,
+  "readingMinutes": 4,
+  "related": [
+    "kivetz-2006-goal-gradient"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

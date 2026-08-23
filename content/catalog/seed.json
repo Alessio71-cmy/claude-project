@@ -1676,5 +1676,281 @@
     "citationConfidence": "secondaria",
     "notes": "Working Group Note ufficiale del W3C, non un requisito di conformità WCAG in sé, ma il documento di riferimento alla base dei futuri criteri WCAG sull'accessibilità cognitiva.",
     "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "linkedin-2020-project-every-member",
+    "titleOriginal": "Bringing Project Every Member to life",
+    "authors": [
+      "Saint-Jacques, Guillaume",
+      "Ambler, Stuart"
+    ],
+    "year": 2020,
+    "type": "case-study",
+    "venue": "LinkedIn Engineering Blog",
+    "sourceUrl": "https://engineering.linkedin.com/blog/2020/bringing-project-every-member-to-life",
+    "fallbackUrl": "https://arxiv.org/abs/2002.05819",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "onboarding-attivazione"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "inviare una o due notifiche push mirate nella prima settimana a nuovi iscritti li spinge a compiere azioni di costruzione della rete, migliorando l'engagement soprattutto per chi è più a rischio di abbandono",
+        "value": "test A/B che ha migliorato l'engagement dei nuovi iscritti, con l'effetto più marcato fra i membri a più alto rischio di abbandono nella prima settimana",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Il post tecnico rimanda anche a un paper metodologico separato (\"Fairness through Experimentation\", arXiv 2002.05819) che descrive come è stato misurato l'effetto in modo equo fra segmenti di utenti diversi usando l'indice di disuguaglianza di Atkinson.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "duolingo-2020-bandit-notifications",
+    "titleOriginal": "A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications",
+    "authors": [
+      "Yancey, Kevin P."
+    ],
+    "year": 2020,
+    "type": "paper",
+    "venue": "Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD 2020)",
+    "sourceUrl": "https://research.duolingo.com/papers/yancey.kdd20.pdf",
+    "fallbackUrl": "https://doi.org/10.1145/3394486.3403351",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "attenzione-economia-attenzione"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un algoritmo bandit che ottimizza tempistica e contenuto delle notifiche ricorrenti aumenta la ritenzione dei nuovi utenti rispetto a un sistema già efficace",
+        "value": "aumento del 2% nella ritenzione dei nuovi utenti rispetto a una baseline già forte",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Paper peer-reviewed del team di machine learning di Duolingo, coautorato con altri membri del team oltre all'autore principale; distinto dalla voce già in catalogo sulla meccanica della streak (growth-design-duolingo-streak), che riguarda un meccanismo di prodotto diverso.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "zhang-2022-airbnb-image-analytics",
+    "titleOriginal": "What Makes a Good Image? Airbnb Demand Analytics Leveraging Interpretable Image Features",
+    "authors": [
+      "Zhang, Shunyuan",
+      "Lee, Dokyun",
+      "Singh, Param Vir",
+      "Srinivasan, Kannan"
+    ],
+    "year": 2022,
+    "type": "studio",
+    "venue": "Management Science",
+    "sourceUrl": "https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4175",
+    "fallbackUrl": "https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4175",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "case-study-prodotto"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "le foto verificate o professionali di un annuncio Airbnb sono associate a un tasso di occupazione più alto",
+        "value": "su un campione di 7.423 immobili osservati per 16 mesi, le foto verificate/professionali sono state associate a un tasso di occupazione superiore dell'8,98%",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Studio accademico peer-reviewed che usa i dati di Airbnb, non un post ufficiale dell'azienda: una fonte più solida delle numerose cifre di marketing (per esempio un generico \"+40% di visualizzazioni\") che circolano senza un'origine verificabile e che per questo non sono state incluse in catalogo.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "pinterest-2025-user-journeys",
+    "titleOriginal": "Identify User Journeys at Pinterest",
+    "authors": [
+      "Zhu, Lin",
+      "Yang, Jaewon"
+    ],
+    "year": 2025,
+    "type": "case-study",
+    "venue": "Pinterest Engineering Blog",
+    "sourceUrl": "https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42",
+    "fallbackUrl": "https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "case-study-prodotto",
+      "attenzione-economia-attenzione"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "notificare in base al percorso specifico dell'utente, invece che ai suoi interessi generali, aumenta l'efficacia delle notifiche su più metriche",
+        "value": "rispetto a notifiche basate solo sugli interessi, le notifiche basate sul percorso utente hanno prodotto un tasso di click sulle email più alto dell'88%, un tasso di apertura delle notifiche push più alto del 32% e un aumento del 23% nel tasso di feedback positivo degli utenti",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Post ufficiale del team di ingegneria Pinterest; le cifre sono riportate così come indicato nei risultati di ricerca.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "nunes-dreze-2006-endowed-progress",
+    "titleOriginal": "The Endowed Progress Effect: How Artificial Advancement Increases Effort",
+    "authors": [
+      "Nunes, Joseph C.",
+      "Drèze, Xavier"
+    ],
+    "year": 2006,
+    "type": "studio",
+    "venue": "Journal of Consumer Research",
+    "sourceUrl": "https://academic.oup.com/jcr/article-abstract/32/4/504/1787425",
+    "fallbackUrl": "https://academic.oup.com/jcr/article-abstract/32/4/504/1787425",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "onboarding-attivazione"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "dare un vantaggio di partenza artificiale verso un obiettivo aumenta il tasso di completamento, anche quando lo sforzo richiesto per finire resta identico",
+        "value": "in un esperimento con tessere fedeltà di un autolavaggio, il gruppo che partiva da zero timbri su otto necessari ha completato la tessera nel 19% dei casi, contro il 34% del gruppo che partiva già con 2 timbri su 10 necessari, con lo stesso numero di lavaggi richiesti in entrambi i casi",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Distinto dal goal-gradient di Kivetz già in catalogo, che riguarda l'accelerazione dello sforzo mano a mano che ci si avvicina all'obiettivo: qui l'effetto riguarda il punto di partenza percepito, non la vicinanza al traguardo.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "song-shin-2022-uncanny-valley-chatbot",
+    "titleOriginal": "Uncanny Valley Effects on Chatbot Trust, Purchase Intention, and Adoption Intention in the Context of E-Commerce",
+    "authors": [
+      "Song, Sangkyu",
+      "Shin, Minjeong"
+    ],
+    "year": 2022,
+    "type": "studio",
+    "venue": "International Journal of Human-Computer Interaction",
+    "sourceUrl": "https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2121038",
+    "fallbackUrl": "https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2121038",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "emozione-fiducia"
+    ],
+    "relevance": "applicabile-subito",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un avatar di chatbot più realistico non genera automaticamente più fiducia: oltre una certa soglia di realismo l'effetto si inverte",
+        "value": "in un esperimento con 185 partecipanti che confrontava avatar iperrealistici/animati con avatar più stilizzati/statici, una maggiore realisticità e animazione ha aumentato la sensazione di stranezza (eeriness) percepita, riducendo la fiducia e l'intenzione di acquisto e riutilizzo; la familiarità con l'avatar attenuava l'effetto",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Applica alla progettazione di avatar e assistenti conversazionali il classico effetto uncanny valley descritto in robotica, con misure dirette su fiducia e intenzione d'acquisto in un contesto e-commerce.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "samuelson-zeckhauser-1988-status-quo-bias",
+    "titleOriginal": "Status Quo Bias in Decision Making",
+    "authors": [
+      "Samuelson, William",
+      "Zeckhauser, Richard"
+    ],
+    "year": 1988,
+    "type": "studio",
+    "venue": "Journal of Risk and Uncertainty",
+    "sourceUrl": "https://link.springer.com/article/10.1007/BF00055564",
+    "fallbackUrl": "https://link.springer.com/article/10.1007/BF00055564",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "bias-euristiche",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "le persone tendono a preferire in modo sproporzionato l'opzione già in vigore rispetto ad alternative oggettivamente equivalenti, sia in scenari sperimentali sia in scelte reali",
+        "value": "esperimenti su 486 studenti su otto scenari decisionali, insieme a evidenze da scelte reali su piani sanitari e pensionistici, mostrano una preferenza sproporzionata per l'opzione già in vigore rispetto ad alternative comparabili",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Paper fondativo del bias dello status quo, concettualmente collegato ma distinto dall'effetto dei default studiato in questa raccolta da Johnson & Goldstein e da Madrian & Shea: qui l'accento è sulla preferenza psicologica per ciò che già è, non solo sull'inerzia comportamentale verso un valore preimpostato.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "flesch-1948-readability-yardstick",
+    "titleOriginal": "A New Readability Yardstick",
+    "authors": [
+      "Flesch, Rudolf"
+    ],
+    "year": 1948,
+    "type": "studio",
+    "venue": "Journal of Applied Psychology",
+    "sourceUrl": "https://doi.org/10.1037/h0057532",
+    "fallbackUrl": "https://doi.org/10.1037/h0057532",
+    "linkVerified": false,
+    "openAccess": false,
+    "topics": [
+      "accessibilita-cognitiva",
+      "classici-fondativi"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "il paper introduce una formula per misurare la leggibilità di un testo a partire da caratteristiche semplici e conteggiabili, come la lunghezza delle frasi e delle parole",
+        "value": "propone la formula oggi nota come Flesch Reading Ease, ancora alla base di molti strumenti di verifica della leggibilità e del linguaggio semplice usati in ambito editoriale e di accessibilità",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "Paper fondativo della misurazione quantitativa della leggibilità; è la base storica di gran parte degli strumenti automatici di controllo del linguaggio semplice citati nelle linee guida di accessibilità cognitiva odierne, incluso il documento COGA del W3C già in catalogo.",
+    "harvestedFrom": "ricerca-web"
+  },
+  {
+    "id": "mark-gudith-klocke-2008-cost-of-interrupted-work",
+    "titleOriginal": "The Cost of Interrupted Work: More Speed and Stress",
+    "authors": [
+      "Mark, Gloria",
+      "Gudith, Daniela",
+      "Klocke, Ulrich"
+    ],
+    "year": 2008,
+    "type": "paper",
+    "venue": "Proceedings of CHI 2008 (ACM SIGCHI)",
+    "sourceUrl": "https://www.ics.uci.edu/~gmark/chi08-mark.pdf",
+    "fallbackUrl": "https://doi.org/10.1145/1357054.1357072",
+    "linkVerified": false,
+    "openAccess": true,
+    "topics": [
+      "attenzione-economia-attenzione"
+    ],
+    "relevance": "fondamentale",
+    "depth": "breve",
+    "keyFindings": [
+      {
+        "claim": "un compito interrotto viene completato più rapidamente per compensare il tempo perso, ma a un costo misurabile in termini di stress percepito",
+        "value": "in uno studio simulato in ufficio, i compiti interrotti sono stati completati circa il 7% più velocemente rispetto a quelli senza interruzioni, ma con livelli più alti di stress, frustrazione, pressione del tempo e sforzo percepiti",
+        "verified": "secondaria"
+      }
+    ],
+    "citationConfidence": "secondaria",
+    "notes": "La cifra dei 23 minuti per tornare concentrati dopo un'interruzione, spesso citata insieme a questo studio, viene in realtà da un lavoro successivo della stessa Mark: non è inclusa qui perché non verificata direttamente in questo paper specifico.",
+    "harvestedFrom": "ricerca-web"
   }
 ]

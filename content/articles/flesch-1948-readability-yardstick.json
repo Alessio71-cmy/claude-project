@@ -1,0 +1,97 @@
+{
+  "id": "flesch-1948-readability-yardstick",
+  "catalogId": "flesch-1948-readability-yardstick",
+  "titleIt": "Una formula del 1948 decide ancora se il tuo testo si capisce",
+  "titleOriginal": "A New Readability Yardstick",
+  "authors": [
+    "Flesch, Rudolf"
+  ],
+  "year": 1948,
+  "type": "studio",
+  "venue": "Journal of Applied Psychology",
+  "sourceUrl": "https://doi.org/10.1037/h0057532",
+  "topics": [
+    "accessibilita-cognitiva",
+    "classici-fondativi"
+  ],
+  "relevance": "fondamentale",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Molti strumenti che oggi controllano se un testo è «troppo difficile» si basano su una formula pubblicata quasi ottant'anni fa. Conta le sillabe e la lunghezza delle frasi, niente di più — e funziona ancora."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "Rudolf Flesch ha introdotto nel 1948 una formula per misurare la leggibilità di un testo a partire da caratteristiche semplici e conteggiabili — la lunghezza delle frasi e delle parole — oggi nota come Flesch Reading Ease e ancora alla base di molti strumenti automatici di controllo del linguaggio semplice."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "Chiunque scriva per un'interfaccia incontra prima o poi un punteggio di leggibilità generato automaticamente da un editor o da uno strumento di scrittura: sapere da dove viene quella formula e cosa misura davvero aiuta a usarla come indicazione utile, non come giudizio definitivo sulla qualità di un testo."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "Flesch lavorava in un momento in cui la leggibilità di un testo veniva valutata soprattutto in modo soggettivo, da un editor o un insegnante che ne giudicava la chiarezza a occhio. Cercava un metodo oggettivo e ripetibile, che non dipendesse dal giudizio personale di chi leggeva, per confrontare la difficoltà di testi diversi in modo sistematico."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Ha analizzato un ampio insieme di testi con difficoltà di lettura nota, cercando quali caratteristiche superficiali — misurabili senza bisogno di comprendere il significato del testo — correlassero meglio con quella difficoltà, isolando alla fine due variabili semplici: la lunghezza media delle frasi e il numero medio di sillabe per parola."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Il paper propone la formula oggi nota come Flesch Reading Ease, che stima la leggibilità di un testo a partire dalla lunghezza delle frasi e delle parole**, ancora alla base di molti strumenti di verifica della leggibilità e del linguaggio semplice usati in ambito editoriale e di accessibilità."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "L'intuizione centrale è che, pur essendo una misura grezza — non cattura chiarezza logica, coerenza o adeguatezza del vocabolario al pubblico — la lunghezza delle frasi e delle parole correla abbastanza bene con lo sforzo cognitivo richiesto per leggere un testo da rendere la formula utile come primo filtro: veloce da calcolare anche prima che esistessero i computer, oggi immediata da ottenere in qualunque software di scrittura."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un punteggio di leggibilità automatico integrato in un editor di testo — molti strumenti di scrittura per il web lo offrono già — deriva direttamente o indirettamente da questa formula: sapere che misura solo lunghezza di frasi e parole, non chiarezza concettuale, aiuta a non trattarlo come un giudizio definitivo sulla qualità del testo.",
+        "Frasi brevi e parole semplici migliorano il punteggio, ma un testo può essere formalmente «leggibile» secondo Flesch e restare comunque confuso se i concetti sono organizzati male o il vocabolario tecnico non è spiegato: il punteggio è un indicatore utile, non un sostituto della revisione umana.",
+        "In un'interfaccia con messaggi critici — errori, conferme, avvisi legali — vale la pena applicare la stessa logica anche senza calcolare formalmente il punteggio: frasi più corte e parole più comuni riducono il carico di lettura proprio nei momenti in cui chi legge è già sotto pressione o in difficoltà."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "La formula è stata sviluppata e calibrata sull'inglese, e le sue soglie numeriche non si trasferiscono direttamente ad altre lingue con strutture sintattiche o metriche sillabiche diverse; esistono adattamenti per l'italiano, come l'indice Gulpease, ma non sono la stessa formula né hanno esattamente le stesse proprietà. Vale anche la cautela, già evidente dal meccanismo, che la formula misura solo caratteristiche superficiali del testo: un punteggio alto non garantisce che il contenuto sia davvero comprensibile per il pubblico a cui è destinato."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "La formula misura solo lunghezza di frasi e parole, non chiarezza concettuale: un testo può risultare «leggibile» e restare comunque confuso.",
+        "È uno strumento di prima approssimazione, non un sostituto della revisione umana su organizzazione dei concetti e adeguatezza del vocabolario.",
+        "Non si trasferisce automaticamente ad altre lingue: le soglie numeriche originali sono calibrate sull'inglese."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Rudolf Flesch, «A New Readability Yardstick», Journal of Applied Psychology, vol. 32, n. 3, 1948, pp. 221-233. Da leggere insieme a «Making Content Usable for People with Cognitive and Learning Disabilities» del W3C, già trattato in questa raccolta, che colloca il linguaggio semplice dentro una cornice più ampia di accessibilità cognitiva."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 657,
+  "readingMinutes": 4,
+  "related": [
+    "w3c-2021-coga-usable"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}

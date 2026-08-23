@@ -1,0 +1,97 @@
+{
+  "id": "song-shin-2022-uncanny-valley-chatbot",
+  "catalogId": "song-shin-2022-uncanny-valley-chatbot",
+  "titleIt": "Un avatar troppo realistico ti mette a disagio, non ti convince",
+  "titleOriginal": "Uncanny Valley Effects on Chatbot Trust, Purchase Intention, and Adoption Intention in the Context of E-Commerce",
+  "authors": [
+    "Song, Sangkyu",
+    "Shin, Minjeong"
+  ],
+  "year": 2022,
+  "type": "studio",
+  "venue": "International Journal of Human-Computer Interaction",
+  "sourceUrl": "https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2121038",
+  "topics": [
+    "emozione-fiducia"
+  ],
+  "relevance": "applicabile-subito",
+  "depth": "breve",
+  "citable": false,
+  "preview": {
+    "hook": "Sembrerebbe ovvio: più un assistente virtuale sembra umano, più ci si fida. Uno studio con 185 partecipanti mostra che superata una certa soglia, l'effetto si ribalta."
+  },
+  "sections": [
+    {
+      "heading": "In due righe",
+      "paragraphs": [
+        "In un esperimento su avatar di chatbot per l'e-commerce, un livello più alto di realismo visivo e di animazione non ha aumentato la fiducia verso l'assistente virtuale: oltre una certa soglia ha aumentato la sensazione di «stranezza» percepita, riducendo sia la fiducia sia l'intenzione di acquisto e di riutilizzo."
+      ]
+    },
+    {
+      "heading": "Perché ti serve",
+      "paragraphs": [
+        "È direttamente rilevante per ogni decisione su avatar di chatbot, assistenti virtuali o voci sintetiche, un'area in rapida crescita con l'adozione dell'intelligenza artificiale generativa: mostra che «più realistico» non è automaticamente sinonimo di «più efficace»."
+      ]
+    },
+    {
+      "heading": "Il contesto",
+      "paragraphs": [
+        "L'effetto «uncanny valley» — la sensazione di disagio di fronte a un'entità artificiale che assomiglia quasi, ma non perfettamente, a un essere umano — è documentato da decenni in robotica e animazione, ma la sua applicazione specifica agli avatar di chatbot commerciali, con misure dirette su fiducia e intenzione d'acquisto, non era altrettanto consolidata. Song e Shin volevano colmare questo vuoto in un contesto e-commerce."
+      ]
+    },
+    {
+      "heading": "Cosa hanno fatto",
+      "paragraphs": [
+        "Hanno condotto un esperimento con 185 partecipanti in un disegno 2x2, confrontando avatar di chatbot iperrealistici e animati con avatar più stilizzati e statici, misurando la sensazione di stranezza percepita, la fiducia verso il chatbot, l'intenzione di acquisto e di riutilizzo, e verificando anche se la familiarità pregressa con quel tipo di avatar attenuasse l'effetto."
+      ]
+    },
+    {
+      "heading": "Cosa è emerso",
+      "paragraphs": [
+        "**Una maggiore realisticità e animazione dell'avatar ha aumentato la sensazione di stranezza percepita, riducendo la fiducia e l'intenzione di acquisto e riutilizzo; la familiarità con l'avatar attenuava l'effetto**, suggerendo che la relazione fra realismo e fiducia non è lineare ma segue effettivamente la curva a «valle» descritta dall'ipotesi originale."
+      ]
+    },
+    {
+      "heading": "Il meccanismo",
+      "paragraphs": [
+        "Un avatar chiaramente stilizzato viene categorizzato senza ambiguità come «non umano», e questa categorizzazione chiara non genera conflitto percettivo. Un avatar quasi ma non perfettamente umano, invece, attiva segnali contrastanti — assomiglia a una persona ma qualcosa non torna — e questo conflitto fra categorie percettive produce la sensazione di disagio che a sua volta mina la fiducia riposta nell'interazione."
+      ]
+    },
+    {
+      "heading": "Come si applica nel digitale",
+      "paragraphs": [
+        "Un assistente virtuale con un volto fotorealistico e movimenti quasi ma non perfettamente naturali rischia di ottenere l'effetto opposto a quello cercato: meglio un avatar dichiaratamente stilizzato — un'icona, un personaggio illustrato — che uno che tenta il fotorealismo senza raggiungerlo del tutto.",
+        "La voce sintetica di un assistente conversazionale segue probabilmente una logica simile a quella qui misurata sul volto, anche se lo studio si concentra sull'immagine: una voce quasi umana ma con micro-artefatti percepibili può generare lo stesso tipo di disagio di un volto quasi realistico.",
+        "Prima di investire in un avatar sempre più sofisticato tecnicamente, vale la pena chiedersi se l'obiettivo sia davvero l'umanità percepita o, più semplicemente, la chiarezza del ruolo: un assistente che si dichiara apertamente artificiale, con un design coerente con quella dichiarazione, evita del tutto il rischio della zona intermedia."
+      ]
+    },
+    {
+      "heading": "Limiti e cautele",
+      "paragraphs": [
+        "È un esperimento con avatar statici o quasi statici confrontati fra loro, in un contesto specifico di e-commerce, e non copre l'intero spettro di tecnologie di avatar oggi disponibili, inclusi quelli generati in tempo reale con intelligenza artificiale generativa, molto più avanzati di quanto lo studio potesse testare al momento della pubblicazione. Vale anche la cautela che la soglia esatta in cui il realismo smette di aiutare e inizia a nuocere probabilmente si sposta nel tempo, man mano che le persone si abituano a interagire con avatar sempre più sofisticati."
+      ]
+    },
+    {
+      "heading": "Da portarti dietro",
+      "paragraphs": [
+        "Più realistico non significa più affidabile: oltre una certa soglia, il realismo genera disagio invece di fiducia.",
+        "Un avatar chiaramente stilizzato evita del tutto il rischio della zona intermedia fra umano e non umano.",
+        "La familiarità con un tipo di avatar attenua l'effetto: la soglia critica probabilmente si sposta man mano che le persone si abituano a nuove tecnologie."
+      ]
+    },
+    {
+      "heading": "Fonte e approfondimenti",
+      "paragraphs": [
+        "Sangkyu Song e Minjeong Shin, «Uncanny Valley Effects on Chatbot Trust, Purchase Intention, and Adoption Intention in the Context of E-Commerce», International Journal of Human-Computer Interaction, vol. 40, 2022, pp. 441-456. Da leggere insieme a «How Do Users Evaluate the Credibility of Web Sites?» di Fogg e colleghi, già trattato in questa raccolta, altro studio sui segnali visivi che costruiscono o minano la fiducia in un'interfaccia."
+      ]
+    }
+  ],
+  "keyNumbers": [],
+  "wordCount": 665,
+  "readingMinutes": 4,
+  "related": [
+    "fogg-2003-stanford-web-credibility"
+  ],
+  "generatedAt": "2026-08-23",
+  "model": "claude-sonnet-5"
+}
